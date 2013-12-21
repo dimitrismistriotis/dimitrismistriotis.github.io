@@ -1,4 +1,4 @@
-# Startups 104 - Πρωτοχρονίατικό myth busting post (Σεξ ψέματα και startup-οταινίες)
+# Startups 104 - Σεξ ψέματα και startup-οταινίες
 
 Εχοντας ψηλαφίσει λίγο το γενικότερο πλαίσιο θα γίνει μια προσπάθεια μερικής "αποκαθήλωσης" κάποιων παρανοήσεων που επικρατούν στον χώρο και στο ευρύτερο κοινό, κυρίως μέσω παραδειγμάτων από συγκεκριμένα περιστατικά είτε γνωστά είτε όχι.
 
@@ -61,8 +61,12 @@ To Last.fm είναι ένα από τα πρώτα πετυχημένα interne
 
 # Ιδέες για cover photos
 
-* http://www.flickr.com/photos/53325190@N05/8255130667/
-* http://www.flickr.com/photos/minifig/72047731/
-* http://www.flickr.com/photos/allstarbandit/8164038580/
-* http://www.flickr.com/photos/tijger-san/8285266774/
-* http://www.flickr.com/photos/tijger-san/8285268444/
+* http://www.flickr.com/photos/puuikibeach/4953231480/
+* http://www.flickr.com/photos/puuikibeach/4949937857/
+* http://www.flickr.com/photos/jacobwhitmore/9148475963/
+* http://www.flickr.com/photos/94190360@N04/8606675593/
+* http://www.flickr.com/photos/murphquake/10339587473/
+* http://www.flickr.com/photos/dbrauer43/5036194823/
+* http://www.flickr.com/photos/puuikibeach/5219637429/
+* http://www.flickr.com/photos/franmoff/3282602119/
+
