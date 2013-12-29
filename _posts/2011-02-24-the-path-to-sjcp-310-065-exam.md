@@ -81,13 +81,13 @@ In the following code:
 5 class GCQuestion {
 6   public static void main(String[] args) {
 7     Reference r1 = new Reference();
-8      Reference r2 = new Reference();
-9      Reference r3 = new Reference();
-10   r1.r = r2;
+8     Reference r2 = new Reference();
+9     Reference r3 = new Reference();
+10    r1.r = r2;
 11    r2.r = r1;
 12    r3.r = null;
 13    // Checkpoint 1
-14   r1 = null;
+14    r1 = null;
 15    r2 = null;
 16    // Checkpoint 2
 17   }
@@ -95,7 +95,7 @@ In the following code:
 
 How many objects are eligible for garbage collection on line 16 (checkpoint 2)? Before you answer concentrate on <strong>how</strong> you reached to a number. Did you just read the code? Or did you do something like draw down a stack and a heap? And last but not least, what would be the case if line 15 was something like:
 
-<pre lang="java">  r2 = null; r3 = new Reference(); r3.r = r1;</pre>
+<pre lang="java">r2 = null; r3 = new Reference(); r3.r = r1;</pre>
 
 The safest method is to draw a diagram like the following:<img class="alignleft" title="stack heap diagram" src="https://dl.dropboxusercontent.com/u/1995706/cdn/blog/javaGCexample.png" alt="" style="background-color: white" />
 
