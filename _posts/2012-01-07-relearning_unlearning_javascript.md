@@ -10,9 +10,9 @@ Although I do not like "what I read on the web" posts, I really had to do this o
 
 Firstly started with some videos:
 
-### "The good parts", which is a classic
+### "The good parts", a classic
 
-<iframe src="http://www.youtube-nocookie.com/embed/hQVTIJBZook" frameborder="0" width="480" height="360"></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/hQVTIJBZook" frameborder="0" allowfullscreen></iframe>
 
 ### 10 Things I Learned from the jQuery Source
 
