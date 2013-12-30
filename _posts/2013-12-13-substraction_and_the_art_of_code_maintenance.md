@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Substraction and the art of code maintenance
-permalink: 
 ---
 
 # Substraction and the art of code maintenance
