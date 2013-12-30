@@ -12,11 +12,11 @@ Firstly started with some videos:
 
 ### "The good parts", a classic
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/hQVTIJBZook" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/hQVTIJBZook" frameborder="0"> </iframe>
 
 ### 10 Things I Learned from the jQuery Source
 
-<iframe src="http://player.vimeo.com/video/12529436?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" frameborder="0" width="400" height="225"></iframe>
+<iframe src="http://player.vimeo.com/video/12529436?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" frameborder="0" width="400" height="225"> </iframe>
 
 <a href="http://vimeo.com/12529436">Paul Irish : 10 Things I Learned from the jQuery Source</a> from <a href="http://vimeo.com/yayquery">yayQuery</a> on <a href="http://vimeo.com">Vimeo</a>.
 
