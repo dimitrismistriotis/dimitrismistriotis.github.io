@@ -10,15 +10,8 @@ Although I do not like "what I read on the web" posts, I really had to do this o
 
 Firstly started with some videos:
 
-### "The good parts", a classic
-
-<iframe width="420" height="315" src="//www.youtube.com/embed/hQVTIJBZook" frameborder="0"> </iframe>
-
-### 10 Things I Learned from the jQuery Source
-
-<iframe src="http://player.vimeo.com/video/12529436?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" frameborder="0" width="400" height="225"> </iframe>
-
-<a href="http://vimeo.com/12529436">Paul Irish : 10 Things I Learned from the jQuery Source</a> from <a href="http://vimeo.com/yayquery">yayQuery</a> on <a href="http://vimeo.com">Vimeo</a>.
+* "[JavaScript - The good parts](http://www.youtube.com/watch?v=hQVTIJBZook)", a classic: 
+* Paul Irish: "[10 Things I Learned from the jQuery Source](http://vimeo.com/12529436)" from [yayQuery](http://vimeo.com/yayquery) on [Vimeo](http://vimeo.com).
 
 <em>hint: a good thing with blogging: I just found out that there is a follow-up: <a title="11 More Things I Learned from the jQuery Source" href="http://vimeo.com/18901514" target="_blank">11 More Things I Learned from the jQuery Source</a>.</em>
 
