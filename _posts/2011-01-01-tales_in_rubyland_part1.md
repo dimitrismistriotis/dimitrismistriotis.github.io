@@ -62,4 +62,4 @@ Finally although Ruby is far more than that, most attention is on it's web frame
 
 ## Further steps
 
-I suppose I will use it for a mini personal project that I can implement in any language that I want. Also I will do a Rails project whenever I have the chance. In part 2 the journey continues with Ruby's scripting capabilities: <a title="Tales in Rubyland part 2 – “You can write elegant shell scripts and unit test them too”" href="http://www.mistriotis.gr/2011/05/31/tales-in-rubyland-part-2-you-can-write-elegant-shell-scripts-and-unit-test-them-too/">Tales in Rubyland part 2</a>.
+I suppose I will use it for a mini personal project that I can implement in any language that I want. Also I will do a Rails project whenever I have the chance. In part 2 the journey continues with Ruby's scripting capabilities: <a title="Tales in Rubyland part 2 – “You can write elegant shell scripts and unit test them too”" href="/posts/tales_in_rubyland_part2">Tales in Rubyland part 2</a>.
