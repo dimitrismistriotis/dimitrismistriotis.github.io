@@ -14,13 +14,13 @@ where two of his motos clearly registered to me:
 I have some easy rule-of-thumbs to follow [sivers.org/scares-excites-do-it](http://sivers.org/scares-excites-do-it):
 
 > 1. whatever excites you, go do it
-2. whatever scares you, go do it
-3. every time you’re making a choice, one choice is the safe/comfortable choice – and one choice is the risky/uncomfortable choice. the risky/uncomfortable choice is the one that will teach you the most and make you grow the most, so that’s the one you should choose.
+> 2. whatever scares you, go do it
+> 3. every time you’re making a choice, one choice is the safe/comfortable choice – and one choice is the risky/uncomfortable choice. the risky/uncomfortable choice is the one that will teach you the most and make you grow the most, so that’s the one you should choose.
 
 Another one that really got into me was the advice towards him on learning how to sing:
 
 > ... When I was 14 years old, taking guitar lessons from Tom Pecora, he gave me that this-is-important-so-listen-well look, and told me something that stuck with me for life:
-“You need to learn to sing. Because if you don’t, you’re always going to be at the mercy of some a$$h0le singer.” ...
+> “You need to learn to sing. Because if you don’t, you’re always going to be at the mercy of some a$$h0le singer.” ...
 
 The case
 
