@@ -245,3 +245,9 @@ a {
 .cf {
   zoom:1;
 }
+
+/* Additional */
+
+body img.cover_photo {
+  width: 100%;
+}
