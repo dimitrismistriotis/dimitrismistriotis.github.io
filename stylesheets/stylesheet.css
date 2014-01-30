@@ -252,7 +252,8 @@ body img.cover_photo {
   width: 100%;
 }
 
-body section p i.contact_icon {
+body div.container p i.contact_icon {
   width: 10px;
   margin-right: 5px;
 }
+
