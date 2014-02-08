@@ -10,7 +10,7 @@ title: Startup Βιβλιοθήκη
 Για τις συνοψίσεις κλέψαμε συνειδητά από εδώ:
 [http://www.businessinsider.com/famous-business-book-summaries-2013-10](http://www.businessinsider.com/famous-business-book-summaries-2013-10)
 
-Rework
+## Rework
 
 [Σύνοψη](http://www.businessinsider.com/famous-business-book-summaries-2013-10): "Αρκετές από τις αποδεκτές πρακτικές επιχειρείν, όπως το να φερόμαστε στους εργασιομανείς σαν ήρωες, το ότι ένα τέλειο βιογραφικό συνεπάγεταί ικανό υποψήφιο και το ότι χρειάζεσαι εξωτερικό επενδυτή, είναι απλά λάθος."
 
@@ -30,7 +30,7 @@ Video ad: [Rework - Staying late](http://www.youtube.com/watch?v=IU3imeeLHiA)
 
 Θα έλεγα, χωρίς να μου αρέσουν γενικά τα στερεότυπα, πως το "Rework" είναι το κατ εξοχήν βιβλίο που πρέπει να διαβάσουμε όσοι έχουμε μεγαλώσει στην Ελλάδα. Αυτό γιατί μπορεί να έχουν περάσει μερικές προκαταλήψεις οι οποίες μπορεί να είναι από απλά λάθος ή βλακώδεις μέχρι τοξικές. Αναφέρομαι σε καταστάσεις όπως "η προσπάθεια είναι που μετράει" από το σχολείο, το να "μεταφέρεις πέτρες πέρα δώθε" ή το "ο φαντάρος πρέπει συνεχώς να κάνει κάτι" που είχα δει στο στρατό, τα χωρίς νόημα meetings μετά (ΟΚ όχι αποκλειστικά Ελληνικό) κλπ κλπ.
 
-Purple Cow!
+## Purple Cow
 
 [Σύνοψη](http://www.businessinsider.com/famous-business-book-summaries-2013-10): Διαφήμιση και μάρκετινγ βασισμένο απλά στην δουλειά άλλων θα αποτυγχάνει, ο μόνος τρόπος για να ξεχωρίσεις είναι ναι είσαι αξιοσημείωτος (σαν μια μωβ αγελάδα ανάμεσα σε λευκές και μαύρες).
 
@@ -40,8 +40,12 @@ Purple Cow!
 
 [Seth Godin](http://www.sethgodin.com/sg/books.asp)
 
-Blah Blah Blah
+## Blah Blah Blah
+
+## The startup owner's manual
 
 Steve Blank
+
+## The founder's dilemma
 
 Noam Vasermann
