@@ -49,3 +49,10 @@ Steve Blank
 ## The founder's dilemma
 
 Noam Vasermann
+
+## Possible cover pictures
+
+- http://www.flickr.com/photos/whisperwolf/3675980379/
+- http://www.flickr.com/photos/55084317@N08/7888085460/
+- http://www.flickr.com/photos/egerbver/5648392364/
+
