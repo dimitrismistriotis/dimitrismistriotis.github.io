@@ -3,7 +3,7 @@ layout: default
 title: On London Startups&#58; The good the bad and the ugly - part 1.
 ---
 
-# On London Startups&#58; The good the bad and the ugly - part 1.
+# On London Startups&#58; The good the bad and the ugly - part 1
 
 After having reading some blog posts about startups in London I have decided to comment on the topic. Reading them triggered a "someone is wrong on the Internet" rage so I decided to write this post. This article will concentrate on the IT/software industry, because of my experience in this sector.
 
