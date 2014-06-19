@@ -29,19 +29,18 @@ An example: At the time of writing, I walk to work every day for about 35 minute
 
 ### Be always 'on' vs being able to switch 'off'
 
-The employee is expected to be available also when not in the office. The reactive approach generates either real or fake emergencies that somehow need to be handled. This apart from having possible effects to someone's life, destroys the capability to learn, take an on-line course, read or even write a blog post or a paper.
+The employee is expected to be available also when not in the office. The reactive approach generates either real or fake emergencies that somehow need to be handled. This apart from having possible effects to someone's life, destroys the capability to learn, take an on-line course, read moreover write a blog post or a paper.
 
 The accumulative effect this creates a vicious circle: because of it, the quality of the work suffers. As a consequence applications many times end up with an improper hacked architecture, developed in an unstructured way, poorly tested and documented. Because of these factors they need lots of effort in maintenance, changes will almost definitely break other things down the line, which as a result will create more emergencies that need human supervision to handle.
 
-Interruptions - reactive approach to everything
+### Interruptions - reactive approach to everything
 
-Money and hiring people.
+Another aspect from the trading industry is the reaction to disruption, external factors and urgency. In the trading world interruption usually translates to risk mitigation or opportunity. On the other had on the IT world there is the need for extended time of focus on a specific problem.
 
-Tooling lots of PHP :-(
+From my experience, I have more than once experienced a situation where I have to stop while I am working on something in order to fix a "bug", while having to handle something else, ending with spending the time just juggling through tasks. It is very common to receive emails for "updates" as if somehow responding to emails or seeing them blipping in my email client will somehow make me more productive. At the end of the day a large amount of time and effort has been consumed in context switching, with a very low output. At least a demotivating experience for IT teams.
 
-More is more vs Less is more.
+### Market awareness
 
-Don't pay lots.
+It seems that I am against working for startups founded by traders, but there is one point that completely turns the tables: Trading founders are equipped more than anyone else to understand how markets work, create a compelling business proposition, execute and promote their idea.
 
-Build always something that is very good in generating revenue from the start.
-
+This contrasts with many founders from other fields that might want to excel or be recognized for their design or software craftsmanship or clever marketing campaign or even win awards. Trading founders treat their businesses as an institution that at the end of the day needs to generate revenue and that makes them almost unbeatable on their capability to acquire all the necessary resources to achieve it.
