@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Biculturalism: Developers and traders as startup founders.
+title: Biculturalism - Developers and traders as startup founders.
 ---
 
 Title's idea originates from a Joel Spolsky's article about something else. It is about the approaches on managing a startup by people from a trading or financial background against those of ones from an IT background. It is a part of a series of posts on how I mismanaged my career, a *"how I failed so that you don't have to"* post.
