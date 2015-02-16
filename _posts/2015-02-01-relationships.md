@@ -52,16 +52,42 @@ Waitrose on board, else nobody is going to notice. I've observed more than once
 a big client influencing the orientation of a product so much that at the end
 it is next to impossible to sell it to someone else. Many businesses that start
 as product companies, become consultancies by following this path. This brings
-us to the "laws" in the next section
+us to the "laws" in the next section.
 
 ### Mistrioti's laws on UK IT businesses
 
 1. Every UK based IT business has a tendency to do a little bit of consulting.
 2. Because of entropy and (1) all British IT businesses end up becoming
-consultancies
+consultancies.
 
 ## So why exactly is this bad?
 
-For two reasons. For the country as a whole it leaves all businesses open to
+For two reasons:
+
+* Businesses and models are not shielded from disruption
+* It poisons the internal structure of the companies.
+
+### Disruption
+
+The question on "what's going on here?" started to manifestate on me while
+talking to people in the industry but mostly while working. Some discussions
+didn't make sense. Then one day while studying "Living in the UK" as part of
+my citizenship application I came across this:
+
+PHOTO
+
+So we are in a country that generates whole sectors such as computing (Turing)
+and web (Tim B. Lee), has access to huge amounts of capital (City) but then
+capitalisation happens across the Atlantic.
+
+One answer was in the Tanenbaum VS Alan Kay debate in the 90s, but
+for some reason that doesn't seem enough. Where's the British Google, Amazon,
+Paypal?
+
+For the country as a whole it leaves all businesses open to
 disruptions. For people working there especially foreigners (such as me) it
 creates a glass wall barrier.
+
+Let's talk a bit about internal structuring
+
+For most of the places that I've observed the structuring
