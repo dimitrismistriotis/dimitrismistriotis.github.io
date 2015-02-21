@@ -91,3 +91,37 @@ creates a glass wall barrier.
 Let's talk a bit about internal structuring
 
 For most of the places that I've observed the structuring
+
+Rewrite
+
+This blog post sums up discussions that I've made with different people of the IT industry mostly in London including personal experience. It's not academical nor attempts to reflect a dogma.
+
+TL;DR: It is assumed that local IT companies treat their products or services as a side-effect compared to the relationships with key business partners. This has consequences to the priorities and internal structuring of organisations that include many aspects such as day to day tasks up to racial/national descrimination.
+
+* element of what happens next
+
+
+Recording:
+
+My aim is to write down some thoughts about the blog post and take it on from there.
+
+1st thing that impressed me when I came to live in this country ... STOP
+
+Before coming to UK I had some academical exposure to businesses operations and finance, because I graduated from a "business" university.
+Here I started attending startup courses/seminars. Up to now I've participated in three courses/seminars. One of those was more oriented towards US-style, let's say "silicon valley" startups, the other two were mostly about starting-up which for me without going into details are two completely different things. In those two and that was what impressed me was that we were shown the marshlow pyramid of needs, projected into a business version.
+As in the original pyramid you have at the bottom the need for food and shelter, on the business there was the accumulation of resources: mining, agriculture, oil drilling ets. On the top layers we had utilites, services, with full customised solutions on the top. The higher your you are positioned as a business in the "business" pyramid, the higher are your margins. The lower, the margin gets lower. The first question would be why would someone want to be in the bottom of the pyramid? Two answers: either there is no other option, or more probably on the bottom we have more volume. While writing these lines I was at home looking to a fruit bowl with some bananas. If you cultivate and sell bananas, everybody in the world is a potential customer. If you manifacture banana-based deserts with cream then you limit your audience to those who can afford it and like that particular desert, something more specific, targeted to less people with a higher price.
+
+What I foun out the more I was living in UK was that this mindset...
+STOP
+
+First a discussion about market size, in comparisson with US, which is the second element of my findings, there is a managerial mono-culture. While in the US there might be the Chigago, school, the New York school, etc for businesses or on IT some might have read about the "MIT/New-Jersey" disctintion here: http://www.jwz.org/doc/worse-is-better.html.
+In any while in the US we have different approaches based on different industries, in Britain we have the so called Oxbridge (a word I very recently learned), and everyone else who wants to be like them or gets influeced from them. It feels like if an opinion gets proven and cemented, then there is not another counter-opinion available that would start discussions on where and which something is more appropriate.
+
+I observed that this approach is also projected on IT busineesses. There is that desire to chase higher margins. Like no matter what you do, you want to be a little bit of a consultancy: You should find a very rich client(s) that has/have very specific needs and establish a cash flow/business relationship - suck their cash. Think of a pump that pumps cash from that fictional but specific client to your company.
+
+I remember that while on the first startup, a mentor had told us that the fact of builing a genric product at the time, was a very good door opener that would start discussions on selling consulting services around that product. The advice of the mentor was something in the lines of: "it's ok to build features for everyone on your spare time, but you should be looking for that big client X that needs very specific features just for them". Think for a moment how different that is from say the 37 signals approach where consulting is treated more or less like a disease that we need to get rid of. The first reaction was to assume that I was discussing with people that have started businesses in domains other than IT, or new to mentoring or something.
+
+As time was passing by I started realising that this was the most established or popular approach. My main thesis in this article, having reached this point, is that this mentality is the terminal desease of the British IT industry, which I will further explain later. Overreacting and reaching out a bit further I'd add the third argument in the mix:
+Recently I had to study for the "Living in the UK" test. In the preparatory book there was a section about discoveries of contemporary Brightons. There was Tim Burners Lee, inventor of the web as well as Alan Turing. It's a little bit strange that although the country produces brains that can innovate and produce technology, this is not reflected in the size of the industry. Modern IT/software is being led from the US, not UK. Why is that?
+
+Let's backtrack on why I believe this is cancer. For two reasons. The first one has to do with the well known property of software, that after something gets produced, there is no extra marginal cost of producing an additional unit. This stands even more by the popularisation of web applications. Id we had that discussion before than there would be at least CDs, shipping, installations etc. Now we are talking about web, apps etc. As a result someone that starts on the bottom of that pyramid, after getting established, it is very easy to start climbing up, "conquering" more space moving upwards. While this happens existing players will get pushed away, maybe leaving out some very specific nieches on the top layers. The mechanings and how this happens has been thoroughly studied in Kristensen's "Innovators Dillema". In the IT industry the whole process is a little bit more brutal. So no matter what a British company does if it is consulting oriented, it is destined to die by an American competitor.
