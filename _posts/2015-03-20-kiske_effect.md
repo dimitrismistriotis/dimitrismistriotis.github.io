@@ -34,3 +34,20 @@ This is a real story, I just changed the industry and the names of the people in
 I found out that as employees were switching companies, the new hires were being paid more for less amount of work, while all of them are locals. This signals that I need to move on"*
 
 Following Daniella from Facebook (:-[), I saw that some months later she is head of European operations on her sector for a large multinational. The multinational company though is based in a Scandinavian country. When I read her "who-hoo" post and subsequent ones, I couldn't help but wander if that would be a possibility on a UK multinational or not.
+
+## Personal experience - analysis
+
+Decided not to write about personal experiences mainly because of emotional involvement, which makes me prone to inappropriately express myself; also it might lead into a he-said-she-said argument. Generally I've observed the following pattern at least on the IT positions that I had:
+
+1. First generation foreigners are usually treated as glorified temp employees. At any given time they might get back to their country of origin.
+2. As a result promoting them into mid-level management is at least a risky proposal since their departure will create a difficult to replace gap (or think of a potentially cascading/domino effect).
+3. This in turn has an effect on their (our) mentality and psychology: being marginalized or exploited does not contribute to corporate loyalty; hence
+4. They (we) in effect are prone to switch jobs, since there is no attachment with the company either emotional or related with career prospects.
+
+Some additional thoughts on the points above:
+
+In my opinion (1) is still the case for many people, but it's what I'd call if allowed a "leaky assumption" moreover now compared with the recent past. Allow me to elaborate:
+
+As the story goes the "deal" about a foreigner in the UK, more specially in London was that the short career course would be in those lines: Study (BSc), maybe more studies (MSc), maybe internship, permanent work for a couple of years, bang! or one promotion some more years and bang!
+
+Where "bang!" is return to the country of origin, with UK or moreover London credibility, which for some reason is a good salary multiplier. Something similar was happening with children of rural Britain. That's why people were OK living in stacked up flat-shares with broken bathrooms, ultra-long commutes from the Crystal Palaces of this world, etc. It was supposed to be a temporary thing. Well until it's not. Having recession all over the globe, people say from the PIGS countries cannot go back, even if they want to. So point (1) above holds still but not as much. Probably the business world has not yet adjusted... Probably.
