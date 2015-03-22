@@ -42,7 +42,7 @@ Decided not to write about personal experiences mainly because of emotional invo
 1. First generation foreigners are usually treated as glorified temp employees. At any given time they might get back to their country of origin.
 2. As a result promoting them into mid-level management is at least a risky proposal since their departure will create a difficult to replace gap (or think of a potentially cascading/domino effect).
 3. This in turn has an effect on their (our) mentality and psychology: being marginalized or exploited does not contribute to corporate loyalty; hence
-4. They (we) in effect are prone to switch jobs, since there is no attachment with the company either emotional or related with career prospects.
+4. They (we) in effect are prone to switch jobs, since there is no emotional or career related attachment with the current employer.
 
 Some additional thoughts on the points above:
 
@@ -50,4 +50,11 @@ In my opinion (1) is still the case for many people, but it's what I'd call if a
 
 As the story goes the "deal" about a foreigner in the UK, more specially in London was that the short career course would be in those lines: Study (BSc), maybe more studies (MSc), maybe internship, permanent work for a couple of years, bang! or one promotion some more years and bang!
 
-Where "bang!" is return to the country of origin, with UK or moreover London credibility, which for some reason is a good salary multiplier. Something similar was happening with children of rural Britain. That's why people were OK living in stacked up flat-shares with broken bathrooms, ultra-long commutes from the Crystal Palaces of this world, etc. It was supposed to be a temporary thing. Well until it's not. Having recession all over the globe, people say from the PIGS countries cannot go back, even if they want to. So point (1) above holds still but not as much. Probably the business world has not yet adjusted... Probably.
+Where "bang!" equals return to the country of origin, with UK or moreover London credibility, which for some reason is a good salary multiplier. Something similar was happening with children of rural Britain. That's why people were OK living in stacked up flat-shares with broken bathrooms, ultra-long commutes from the Crystal Palaces of this world, etc. It was supposed to be a temporary thing. Well until it's not. Having recession all over the globe, people say from the PIGS countries cannot go back, even if they want to. So point (1) above holds still but not as much. It is possible that the business world has not yet adjusted... Maybe.
+
+Second point enhances the side-effects of point 1 - again in the past. Getting promoted
+increased the perceived value on the country of origin. Being a manager "here" translates to Sr Manager "there" so promotion can lead to a "bang!"
+
+Next points (3 and 4) make the argument more interesting: what happens on the other side? Let's deliberate a bit: Imagine that you start working in a company, you do your best for a couple of years. You don't see promotion or a change in your salary or even a discussion about it. For some reason this happens with other people, you are not even updated. What would you think? More important what would you do?
+
+All of the above create a vicious circle, so let's ask: **Is your company in a Kiske field?**
