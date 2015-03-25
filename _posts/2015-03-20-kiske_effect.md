@@ -37,23 +37,23 @@ I have heard many stories, I also have mine. This though describes best the "Kis
 
 ## Analysis
 
-Decided not to write about personal experiences mainly because of emotional involvement, which makes me prone to expressing myself inappropriately and open for a he-said-she-said type of argument. Generally I've observed the following pattern at least on the IT positions that I had:
+Decided not to write about personal experiences mainly because of emotional involvement, which could get to a he-said-she-said type of argument. Generally I've observed the following pattern at least on the IT industry where I work:
 
 1. First generation foreigners are usually treated as glorified temp employees. At any given time they might get back to their country of origin.
-2. As a result promoting them into mid-level management is at least a risky proposal since their departure will create a difficult to replace gap (or think of a potentially cascading/domino effect).
-3. This in turn has an effect on their (our) mentality and psychology: being marginalized or exploited does not contribute to corporate loyalty; hence
-4. They (we) in effect are prone to switch jobs, since there is no emotional or career related attachment with the current employer.
+2. As a result promoting them into mid-level management is a risky proposal since their departure will create a gap (or the possibility of a domino effect if replaced by another person from the same pool).
+3. This in turn affects their (our) mentality and psychology: being artificially marginalized impacts corporate loyalty; hence
+4. They (we) in effect are prone to switch jobs, since there is no attachment with the "current" employer.
 
-Some additional thoughts on the points above:
+Some additional observations on the points above, after long discussions with a number of people:
 
-In my opinion (1) is still the case for many people, but it's what I'd call if allowed a "leaky assumption" moreover now compared with the recent past. Allow me to elaborate:
+In my opinion (1) is still the case for many, believe it used to be the case but not currently. Allow to elaborate:
 
-As the story goes the "deal" about a foreigner in the UK, more specially in London was that the short career course would be in those lines: Study (BSc), maybe more studies (MSc), maybe internship, permanent work for a couple of years, bang! or one promotion some more years and bang!
+As the story goes the "unspoken deal" for a foreigner in the UK, more specially in London was that there would be a short career trajectory among those lines: Study (BSc), maybe more studies (MSc), optional internship, *bang!*, permanent work for a couple of years, *bang!* or one promotion some more years and *bang!*.
 
-Where "bang!" equals return to the country of origin, with UK or moreover London credibility, which for some reason is a good salary multiplier. Something similar was happening with children of rural Britain. That's why people were OK living in stacked up flat-shares with broken bathrooms, ultra-long commutes from the Crystal Palaces of this world, etc. It was supposed to be a temporary thing. Well until it's not. Having recession all over the globe, people say from the PIGS countries cannot go back, even if they want to. So point (1) above holds still but not as much. It is possible that the business world has not yet adjusted... Maybe.
+Where "*bang!*" means return to the country of origin, with UK experience or moreover London experience, which for some reason in many places is a salary multiplier. Something similar was also the case with people from rural Britain. That's why people were OK living in stacked up flat-shares with broken bathrooms, ultra-long commutes from the Crystal Palaces of this world, etc. It was supposed to be a temporary thing. Until it's not. Having recessions all over, people from say PIGS countries cannot return, even if they want to. So point (1) above is less firm. It is possible that the business world has not yet adjusted... Maybe.
 
 Second point enhances the side-effects of point 1 - again in the past. Getting promoted
-increased the perceived value on the country of origin. Being a manager "here" translates to Sr Manager "there" so promotion can lead to a "bang!"
+increased the perceived value on the country of origin. Being a manager "here" translates to Sr Manager "there" so a promotion can even accelerate a "bang!"
 
 Last points (3 and 4) are about what's happening on the other side: Imagine that you start working in a company, you do your best for a couple of years. You don't see promotion or a change in your salary or even a discussion about it. For some reason this happens with other people, you are not even updated. What would you think? More important what would you do?
 
