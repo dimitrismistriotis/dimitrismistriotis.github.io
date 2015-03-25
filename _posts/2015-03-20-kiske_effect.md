@@ -25,15 +25,15 @@ And for ease of use the lemma-definition of a "Kiske field":
 
 ## A story
 
-This is a real story, with the industry and the names of the people involved changed. It's about a friend of mine named Daniella. Daniella is not just an account manager, she is actually one of the best on her field planet-wise. Because of her very busy schedule I talk to her almost once per year lately. Two years before, she was talking to me about why she would look for a job "soon":
+This is a real story, with the industry and the names of the people involved changed. It's about a friend of mine named Daniella. Daniella is one of the best account managers on her field at least in Europe. Because of her very busy schedule I lately meet her at about once per year. Two years before, she was talking to me about why she would look for changing companies "*soon*":
 
-*"When I joined the company almost everybody on our team was from Europe's south (note: lets [PIGS](http://en.wikipedia.org/wiki/PIGS_%28economics%29 'PIGS')), we was a range of client accounts and we were usually working long hours. After the company got established, it decided to stabilize the number of clients and it's expansion rate.
+*"When I joined the company almost everybody on our team was from Europe's south (say [PIGS](http://en.wikipedia.org/wiki/PIGS_%28economics%29 'PIGS')), we were handling a range of client accounts and were usually working long hours. After the first two years with the company established, the decided was made to stabilize the number of clients and acquisition rate.
 
-I found out that as old employees started leaving, in expected turnover rates, new hires were being paid more for less amount of work, while all of them are locals. This was treated one of the signals that I had to move on"*
+I found out that as old employees started leaving, in expected turnover rates, the new hires were being paid more for less amount of work. Also all the new hires are locals. This was one of the signals that I had to move on"*
 
-Following Daniella's posts on Facebook (:-[), I saw that some months later she is head of European operations on her sector for a large multinational. The multinational company though is based in a Scandinavian country. When I read her celebratory and it's subsequent posts, I couldn't help myself but wander if that would possible on a UK multinational.
+Following Daniella's posts on Facebook (:-[), I saw that some months later she is head of European operations for her sector in a large multinational. The multinational though is a company based in Scandinavia. When I read her celebratory post and the subsequent ones, I couldn't help myself but wonder if the same story would possible on a UK multinational.
 
-I have heard many stories, I also have some mine. This is the most descriptive one of the "Kiske effect".
+I have heard many stories, I also have mine. This though describes best the "Kiske effect".
 
 ## Analysis
 
