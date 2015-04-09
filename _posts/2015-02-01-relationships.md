@@ -1,7 +1,20 @@
 ---
-layout: default
-title: British business relationships
+layout: default-
+title: The problematic British (business) relationships
 ---
+
+This is the second part of a series about British IT, first one is HERE-LOCAL-COPY or HERE-MEDIUM. Please note that there is no attempt to be academical in nature, just what has been observed by someone who started as an outsider hence conventional wisdom was something new.
+
+## The theory
+
+Before migrating to UK, I had two sources of theoretical knowledge about running an IT business: The first was from University where there were many classes about micro-economics and finance since it was a financial university with a computer science department. The other source was books like "Founders at work" (LINK), mostly from Silicon Valley veterans usually about their companies early stage.
+
+Being in London I had the chance to attend three courses/seminars about IT startups, which was my area of interest. Only one was actually about the subject (Accelerator Academy - LINK), the other two were "Starting up", something that I believed was well defined in the last 10 years. What impressed me in the two conventional ones was a presentation of a business version projection of the Marshlow pyramid of needs.
+
+As in the original pyramid there is the need for food and shelter at the bottom, on the business version there was the accumulation of resources: mining, agriculture, oil drilling etc. Moving up we had utilities, services, with full customized solutions on the top. The higher your you are positioned as a business in the "business" pyramid, thie higher are your margins. Closer to the bottom equals progressively lower margins. A question that come up was why would someone want to be in the bottom of the pyramid? Two answers where provided: No other available option, or higher sales volume on the bottom (hence the number of units sold substitutes for the lower margin).
+
+
+**Previous version notes start here:**
 
 It might seem that I am ranting or just in a bad mood when writing posts like this,
 or that I do not like London/UK. On the contrary, I do, just having lived here
