@@ -5,7 +5,7 @@ title: The problematic British (business) relationships
 
 This is the second part of a series about British IT, first one is HERE-LOCAL-COPY or HERE-MEDIUM. Please note that there is no attempt to be academical in nature, just what has been observed by someone who started as an outsider hence conventional wisdom was something new.
 
-## The theory
+## Part one facing outwards
 
 Before migrating to UK, I had two sources of theoretical knowledge about running an IT business: The first was from University where there were many classes about micro-economics and finance since it was a financial university with a computer science department. The other source was books like "Founders at work" (LINK), mostly from Silicon Valley veterans usually about their companies early stage.
 
@@ -18,6 +18,32 @@ This approach is also projected on IT. No matter how a business is arranged it h
 Another element before we discuss the implications of the above further is country's size. Comparing with different countries significantly larger such as USA or China, UK's size can sustain a managerial mono-culture. For IT we know as an example that there is a different approach in IT on Silicon Valley (innovation) versus say New York (Finance) or Texas. Britain's size allows a mono-culture in managers, so there might be few places where the discussion is towards generating volume or satisfying the lower margins, or more "generic" IT.
 
 Back to our story, I remember that while on the first startup, a mentor had told us that the fact that we were building a "generic" product, should be viewed as a good door opener that would start discussions on selling consulting services around it. Our software as a service model was just a mistake, we should " find that big client X that needs very specific features just for them". I could not but compare that with the blog posts of 37 signals who took the other route, getting out of consulting as their products were building momentum. Something didn't make sense.
+
+Another thing that didn't make sense was that although major advancements in computer science were happening from Britons such as Alan Turing or Tim Burners Lee, their commercialization and profit was generated elsewhere. Why is this the case? I tend to believe it's because of the above...
+
+I tend to believe that the popular narrative defies the specifics of software as a concept as well as the theory of margins explained in Kristensen's "Innovators Dillema" (LINK). Beginning from the latter it is easier to disposition companies placed in the higher margin disrupting from the lower ones. Reason has to do with economies of scale which can create strides in quality. This is accelerated on the software field where the additional unit has the margin cost of zero: I don't think that an extra 1 million searches would cost Google anything significant. It becomes even more brutal on the era of web and mobile applications, because of the absence of physical media. As an illustrative example, let's consider selling books. Suppose that someone, chasing the high margins was selling something like medical school textbooks. Now suppose that another company was trying to sell to lower margins, like say computer science textbooks but was targeting on volume, which is what Amazon did. After some years Amazon would have to build a logistics network, websites that would cope with high volume of visitors etc. After some time, it would be far more easier to assemble a team of specialists and ask them to see how they could sell medical textbooks, by utilising the existing network and resources. That's far more easier than our imaginary high margin company trying to sell other stuff in order to survive. We can think of or remember many other examples.
+
+Ending the prolonged introduction: positioning your software company as a consultancy is something that can easily kill it. But also this seems to be the preferred option for UK businesses... Why?
+
+## Part two inwards
+
+After discussing the issues of the consulting approach towards the marketplace and competition, let's look how this affects the internal structuring of companies. Looking inwards I have observed that what is considered important is not functions that are related with the end product or service such as programming or design, or generally what's happening at the assembly line. What is considered important is satisfying the richest customer as soon as possible. Hence the spotlight is reserved for client-facing functions, with the rest being marginalized as second class citizens.
+
+Some companies take this approach to the next level treating their whole operations as an expense. Example: We don't need to have developers in our software company, just a product owner who would know the history of the project, the rest can be outsourced. Only the "relationship" with the paying clients is necessary the rest are just expenses. Get yourself into the shoes of a developer or graphic designer or system administrator in a company like that. You work hard in order to create a product or a service and the moment it starts getting profitable, you suddenly become an expense. It's like working so that you can become unemployed.
+
+Also the quality of the product has an impact. I have seen many times project managers running mad demanding "this little hack" that provides some functionality that their big cash-fat clients say they need. Soon architectures end up becoming a Frankenstein monster made of hacks. After some point the effort of maintaining those hacks acts as weight making changes progressively more difficult and expensive. Then the cost-savvy people suggest outsourcing, which gets us back to last argument.
+
+Contradict the above with companies like say Microsoft or Paypal or GoCardless where each additional client's importance is smaller. Would those companies envision things differently? How would they allocate resources or investments. Would they prefer to improve only existing client relationships or improve their offerings as much as possible creating a big barrier of entry for competitors?
+
+## And the Kiske effect -- REMOVE
+
+A nice example on how it all blends together has to do with witnessing all the above and applying the Kiske field, discussed in LINK-LOCAL or LINK-MEDIUM. Many have observed that in many companies that the client facing departments or the project management is handled by locals (what the company invests in), while the actual work is being conducted by first or second generation immigrants (the cost part)
+
+
+THIS TO BE REWRITTEN/CLEANSED UP
+These are my thoughts about the issue, moreover... PAUSE.
+I believe that the above also have to do with the class structuring of Britain. After living here I discovered that things were x10 more than what I originally thought, maybe because I came from a place where classes are literaly non-existent. A maybe subcouncious reason that we elevate towards higher mergins is what I call: "Sell to the richest person in the room" mentality (originally "blow the richest person in the room"). Eg: If someone has money or is of higher class, his needs are more important than anyone else, he is the most imporant person in the room. This can sure be the case, but that person is not more important/has no more money/etc than the accumulation of the rest. That's something that does not exist a lot, trying to cover the needs of the many. Example: (altough I believe I've written so much stuff that I'll remove it). Say you make a product related to super markets. Most will tell you to sell to Waitrose, Sainsbury's etc. If you've done that you'd be happy. What most people don't get is that in this case it's like they've outsourced to you something that they need someone else to do. If you say that you'll make something for the off-lisences, this people don't get AKA off lisences don't have much money, but these places are infinite. if you get that niche, you can go then to 7-11 size stores bigger and bigger, at the end you'll serve the big guys. Something like that. That's all!
+
 
 **Previous version notes start here:**
 
