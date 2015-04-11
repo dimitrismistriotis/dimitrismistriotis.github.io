@@ -35,10 +35,6 @@ Also the quality of the product has an impact. I have seen many times project ma
 
 Contradict the above with companies like say Microsoft or Paypal or GoCardless where each additional client's importance is smaller. Would those companies envision things differently? How would they allocate resources or investments. Would they prefer to improve only existing client relationships or improve their offerings as much as possible creating a big barrier of entry for competitors?
 
-## And the Kiske effect -- REMOVE
-
-A nice example on how it all blends together has to do with witnessing all the above and applying the Kiske field, discussed in LINK-LOCAL or LINK-MEDIUM. Many have observed that in many companies that the client facing departments or the project management is handled by locals (what the company invests in), while the actual work is being conducted by first or second generation immigrants (the cost part)
-
 
 THIS TO BE REWRITTEN/CLEANSED UP
 These are my thoughts about the issue, moreover... PAUSE.
