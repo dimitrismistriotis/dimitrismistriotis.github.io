@@ -5,7 +5,22 @@ title: The problematic British (business) relationships
 
 This is the second part of a series about British IT, first one is HERE-LOCAL-COPY or HERE-MEDIUM. Please note that there is no attempt to be academical in nature, just what has been observed by someone who started as an outsider hence conventional wisdom was something new.
 
-## Part one facing outwards
+This post is about consultancy mentality and how I believe holds back UK's IT industry and in many times kills businesses.
+
+## Two observations of British IT businesses.
+
+1. Every UK based IT business has a tendency to do a little bit of consulting.
+2. Because of entropy and (1) all British IT businesses end up becoming
+consultancies.
+
+This happens for reasons:
+
+1. Businesses and models are not shielded from disruption, and
+2. It poisons the internal structure of the companies.
+
+In a similar approach with the other two articles on this series, I'll mix some of the first personal experiences, with the result of observations, research and discussions that they triggered. At the end I'll give my answer on the roots of the issue and why I think it's really bad.
+
+## Facing outwards
 
 Before migrating to UK, I had two sources of theoretical knowledge about running an IT business: The first was from University where there were many classes about micro-economics and finance since it was a financial university with a computer science department. The other source was books like "Founders at work" (LINK), mostly from Silicon Valley veterans usually about their companies early stage.
 
@@ -25,7 +40,7 @@ I tend to believe that the popular narrative defies the specifics of software as
 
 Ending the prolonged introduction: positioning your software company as a consultancy is something that can easily kill it. But also this seems to be the preferred option for UK businesses... Why?
 
-## Part two inwards
+## Inwards
 
 After discussing the issues of the consulting approach towards the marketplace and competition, let's look how this affects the internal structuring of companies. Looking inwards I have observed that what is considered important is not functions that are related with the end product or service such as programming or design, or generally what's happening at the assembly line. What is considered important is satisfying the richest customer as soon as possible. Hence the spotlight is reserved for client-facing functions, with the rest being marginalized as second class citizens.
 
@@ -33,13 +48,18 @@ Some companies take this approach to the next level treating their whole operati
 
 Also the quality of the product has an impact. I have seen many times project managers running mad demanding "this little hack" that provides some functionality that their big cash-fat clients say they need. Soon architectures end up becoming a Frankenstein monster made of hacks. After some point the effort of maintaining those hacks acts as weight making changes progressively more difficult and expensive. Then the cost-savvy people suggest outsourcing, which gets us back to last argument.
 
-Contradict the above with companies like say Microsoft or Paypal or GoCardless where each additional client's importance is smaller. Would those companies envision things differently? How would they allocate resources or investments. Would they prefer to improve only existing client relationships or improve their offerings as much as possible creating a big barrier of entry for competitors?
+Contradict the above with companies like say Microsoft or Paypal or GoCardless where each additional client's additional importance is small or can even be neglected. Would those companies envision things differently? How would they allocate resources or investments. Would they prefer to improve only existing client relationships or improve their offerings as much as possible creating a big barrier of entry for competitors?
 
+## An (originally) outsider's take
 
-THIS TO BE REWRITTEN/CLEANSED UP
-These are my thoughts about the issue, moreover... PAUSE.
-I believe that the above also have to do with the class structuring of Britain. After living here I discovered that things were x10 more than what I originally thought, maybe because I came from a place where classes are literaly non-existent. A maybe subcouncious reason that we elevate towards higher mergins is what I call: "Sell to the richest person in the room" mentality (originally "blow the richest person in the room"). Eg: If someone has money or is of higher class, his needs are more important than anyone else, he is the most imporant person in the room. This can sure be the case, but that person is not more important/has no more money/etc than the accumulation of the rest. That's something that does not exist a lot, trying to cover the needs of the many. Example: (altough I believe I've written so much stuff that I'll remove it). Say you make a product related to super markets. Most will tell you to sell to Waitrose, Sainsbury's etc. If you've done that you'd be happy. What most people don't get is that in this case it's like they've outsourced to you something that they need someone else to do. If you say that you'll make something for the off-lisences, this people don't get AKA off lisences don't have much money, but these places are infinite. if you get that niche, you can go then to 7-11 size stores bigger and bigger, at the end you'll serve the big guys. Something like that. That's all!
+This is my root cause analysis of the situation: Coming originally from a classless society, I was surprised to find out a different structuring of society and affairs. Now having this experience, I believe that one reason for chasing the highest margins is the mentality of taking care of the needs of "the richest person in the room", while in other places it's better to serve the bottom of the income pyramid first and then move upwards. The logical steps would be
+High Margin --> Needs of the few --> consultancy
+while on the other hand
+Volume --> Needs of the many --> Products or services
 
+Paradoxically this kind of works: Because of the size of the country the critical mass of people plus funds which would support this approach exists. So a company can start and do well, at least for some time. Then it will almost deterministic reach a plateau, where it will be ripe for disrupption from a Silicon Valley style startup. That's what happens on the macroscopic level.
+
+Inside the company's microcosm, in the micro level, we have the "demoralization of the tropps", the people that actually create wealth are not as much important as the customer facing yes-men (consultants), moreover they are treated as necessary evil / expense and that makes them sad, unproductive and disloyal, rightfully so it seems.
 
 **Previous version notes start here:**
 
@@ -94,18 +114,9 @@ it is next to impossible to sell it to someone else. Many businesses that start
 as product companies, become consultancies by following this path. This brings
 us to the "laws" in the next section.
 
-### Mistrioti's laws on UK IT businesses
-
-1. Every UK based IT business has a tendency to do a little bit of consulting.
-2. Because of entropy and (1) all British IT businesses end up becoming
-consultancies.
 
 ## So why exactly is this bad?
 
-For two reasons:
-
-* Businesses and models are not shielded from disruption
-* It poisons the internal structure of the companies.
 
 ### Disruption
 
