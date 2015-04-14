@@ -63,5 +63,5 @@ Last points (3 and 4) are about what's happening on the other side: Imagine that
 
 Observing a vicious circle: **Is your company in a Kiske field?**
 
-Update 1: After feedback from readers, there was the question about plain old  discrimination. Maybe but decided to leave it out.
-
+Note: Original cover photo from: https://www.flickr.com/photos/54459164@N00/7216896404/
+"tell me why I have to be a Powerslave" from Johnson Cameraface.
