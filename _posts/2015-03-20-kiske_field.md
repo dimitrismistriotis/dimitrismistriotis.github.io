@@ -5,7 +5,7 @@ title: The Kiske field
 
 # The Kiske field
 
-The Kiske field is the first part of a series about British IT industry. Instead of a large article, I decided to split it in smaller chunks. A very important disclaimer: I have not been able to talk with the people involved in the story below nor check it out extensively, so please treat the story in the next section as fiction.
+The Kiske field is the second part of a series about British IT industry. Instead of a large article, I decided to split it in smaller chunks. A very important disclaimer: I have not been able to talk with the people involved in the story below nor check it out extensively, so please treat the story in the next section as fiction. First part is here: MEDIUM, or LOCAL.
 
 ## Definition - first story.
 

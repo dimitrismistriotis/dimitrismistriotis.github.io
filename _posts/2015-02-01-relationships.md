@@ -3,9 +3,9 @@ layout: default-
 title: The problematic British (business) relationships
 ---
 
-This is the second part of a series about British IT, first one is HERE-LOCAL-COPY or HERE-MEDIUM. Please note that there is no attempt to be academical in nature, just what has been observed by someone who started as an outsider hence conventional wisdom was something new.
+This is the first part of a series about British IT. Posts will range from most "generic" ones down to mostly "personal" ones. Please note that there is no attempt to be academical in nature, just what has been observed by someone who started as an outsider hence conventional wisdom was something new.
 
-This post is about consultancy mentality and how I believe holds back UK's IT industry and in many times kills businesses. Before finalizing it a friend introduced me the hunting "elephants or deers or rabbits" analogy, which is discussed before the last section.
+This post is about what I'd call "**consultancy mentality**" and how I believe holds back UK's IT industry and in many times kills businesses. Before publishing it a friend introduced me to the hunting "elephants vs deers vs rabbits" analogy, which is discussed before the last section.
 
 ## Two observations of British IT businesses.
 
@@ -69,4 +69,6 @@ Volume --> Needs of the many --> Products or services
 
 Paradoxically this kind of works: Because of the size of the country the critical mass of people plus funds which would support this approach exists. So a company can start and do well, at least for some time. Then it will almost deterministic reach a plateau, where it will be ripe for disruption from a Silicon Valley style startup. That's what happens on the macroscopic level.
 
-Inside the company's microcosm, in the micro level, we have the "demoralization of the troops", the people that actually create wealth are not as much important as the customer facing yes-men (consultants), moreover they are treated as necessary evil / expense and that makes them sad, unproductive and disloyal, rightfully so it seems. 
+Inside the company's microcosm, in the micro level, we have the "demoralization of the troops", the people that actually create wealth are not as much important as the customer facing yes-men (consultants), moreover they are treated as necessary evil / expense and that makes them sad, unproductive and disloyal, rightfully so it seems.
+
+Next one: KISKE-FIELD-MEDIUM, KISKE-FIELD-LOCAL.
