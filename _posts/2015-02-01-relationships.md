@@ -5,7 +5,7 @@ title: The problematic British (business) relationships
 
 This is the second part of a series about British IT, first one is HERE-LOCAL-COPY or HERE-MEDIUM. Please note that there is no attempt to be academical in nature, just what has been observed by someone who started as an outsider hence conventional wisdom was something new.
 
-This post is about consultancy mentality and how I believe holds back UK's IT industry and in many times kills businesses.
+This post is about consultancy mentality and how I believe holds back UK's IT industry and in many times kills businesses. Before finalizing it a friend introduced me the hunting "elephants or deers or rabbits" analogy, which is discussed before the last section.
 
 ## Two observations of British IT businesses.
 
@@ -36,7 +36,7 @@ Back to our story, I remember that while on the first startup, a mentor had told
 
 Another thing that didn't make sense was that although major advancements in computer science were happening from Britons such as Alan Turing or Tim Burners Lee, their commercialization and profit was generated elsewhere. Why is this the case? I tend to believe it's because of the above...
 
-I tend to believe that the popular narrative defies the specifics of software as a concept as well as the theory of margins explained in Kristensen's "Innovators Dillema" (LINK). Beginning from the latter it is easier to disposition companies placed in the higher margin disrupting from the lower ones. Reason has to do with economies of scale which can create strides in quality. This is accelerated on the software field where the additional unit has the margin cost of zero: I don't think that an extra 1 million searches would cost Google anything significant. It becomes even more brutal on the era of web and mobile applications, because of the absence of physical media. As an illustrative example, let's consider selling books. Suppose that someone, chasing the high margins was selling something like medical school textbooks. Now suppose that another company was trying to sell to lower margins, like say computer science textbooks but was targeting on volume, which is what Amazon did. After some years Amazon would have to build a logistics network, websites that would cope with high volume of visitors etc. After some time, it would be far more easier to assemble a team of specialists and ask them to see how they could sell medical textbooks, by utilising the existing network and resources. That's far more easier than our imaginary high margin company trying to sell other stuff in order to survive. We can think of or remember many other examples.
+I tend to believe that the popular narrative defies the specifics of software as a concept as well as the theory of margins explained in Kristensen's "Innovators Dilemma" (LINK). Beginning from the latter it is easier to disposition companies placed in the higher margin disrupting from the lower ones. Reason has to do with economies of scale which can create strides in quality. This is accelerated on the software field where the additional unit has the margin cost of zero: I don't think that an extra 1 million searches would cost Google anything significant. It becomes even more brutal on the era of web and mobile applications, because of the absence of physical media. As an illustrative example, let's consider selling books. Suppose that someone, chasing the high margins was selling something like medical school textbooks. Now suppose that another company was trying to sell to lower margins, like say computer science textbooks but was targeting on volume, which is what Amazon did. After some years Amazon would have to build a logistics network, websites that would cope with high volume of visitors etc. After some time, it would be far more easier to assemble a team of specialists and ask them to see how they could sell medical textbooks, by utilizing the existing network and resources. That's far more easier than our imaginary high margin company trying to sell other stuff in order to survive. We can think of or remember many other examples.
 
 Ending the prolonged introduction: positioning your software company as a consultancy is something that can easily kill it. But also this seems to be the preferred option for UK businesses... Why?
 
@@ -50,6 +50,16 @@ Also the quality of the product has an impact. I have seen many times project ma
 
 Contradict the above with companies like say Microsoft or Paypal or GoCardless where each additional client's additional importance is small or can even be neglected. Would those companies envision things differently? How would they allocate resources or investments. Would they prefer to improve only existing client relationships or improve their offerings as much as possible creating a big barrier of entry for competitors?
 
+## Elephants, Deer and Rabbits analogy
+
+![Five ways diagram](/images/five_ways-animals.png "Five ways diagram")
+
+I wasn't aware that the above points had been discussed in a slightly different context. While the cute image is from "[Five ways to build a $100 million business](http://christophjanz.blogspot.co.uk/2014/10/five-ways-to-build-100-million-business.html)", it seems that the original post is the "[Elephants, Deer and Rabbits - Some thoughts on start-up segmentation](http://www.bothsidesofthetable.com/2009/09/16/most-startups-should-be-deer-hunters/ 'Mark Suster Part of "Startup Lessons" series')" from Mark Suster. From that one I'm grabbing a strong but honest quote:
+
+*"We started out with such big dreams about changing the world. On some level we felt we did because being a SaaS company in 1999 was trailblazing. But in the end we ended up building esoteric features that we knew our clients would never use because they paid us lots of money. See definition of a whore."*
+
+Because there is some resemblance on the posts topic, I'd say that using the same analogy, companies are positioning themselves to the "elephants only please" category. If I was allowed I'd say "mammoth" oriented (one level above the elephant).
+
 ## An (originally) outsider's take
 
 This is my root cause analysis of the situation: Coming originally from a classless society, I was surprised to find out a different structuring of society and affairs. Now having this experience, I believe that one reason for chasing the highest margins is the mentality of taking care of the needs of "the richest person in the room", while in other places it's better to serve the bottom of the income pyramid first and then move upwards. The logical steps would be
@@ -57,6 +67,6 @@ High Margin --> Needs of the few --> consultancy
 while on the other hand
 Volume --> Needs of the many --> Products or services
 
-Paradoxically this kind of works: Because of the size of the country the critical mass of people plus funds which would support this approach exists. So a company can start and do well, at least for some time. Then it will almost deterministic reach a plateau, where it will be ripe for disrupption from a Silicon Valley style startup. That's what happens on the macroscopic level.
+Paradoxically this kind of works: Because of the size of the country the critical mass of people plus funds which would support this approach exists. So a company can start and do well, at least for some time. Then it will almost deterministic reach a plateau, where it will be ripe for disruption from a Silicon Valley style startup. That's what happens on the macroscopic level.
 
-Inside the company's microcosm, in the micro level, we have the "demoralization of the tropps", the people that actually create wealth are not as much important as the customer facing yes-men (consultants), moreover they are treated as necessary evil / expense and that makes them sad, unproductive and disloyal, rightfully so it seems.
+Inside the company's microcosm, in the micro level, we have the "demoralization of the troops", the people that actually create wealth are not as much important as the customer facing yes-men (consultants), moreover they are treated as necessary evil / expense and that makes them sad, unproductive and disloyal, rightfully so it seems. 
