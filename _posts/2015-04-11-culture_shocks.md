@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cultural slaps
+title: Culture shocks
 ---
 
 On the third part decided to write about some cultural differences and their manifestations.
@@ -68,7 +68,7 @@ We were trying to raise capital for our then startup at about 2009. While saying
 
 ## Conclusion
 
-The summarization of the "cultural slaps" and their consequences, just materialized while finishing this post. It seemed to me that coming to UK, I would get to an alternative version of the States, while I landed into a different European country, but European nevertheless. After years I made the decision to make it my country and live here, but still have not fully recovered from the initial shock.
+The summarization of the "Culture shocks" and their consequences, materialized while finishing this post. It seemed to me that coming to UK, I would get to an alternative version of the States, while I landed into a different European country, but European nevertheless. After years I made the decision to make it my country and live here, but still have not fully recovered from the initial shock.
 
 Instead of embracing capitalism ala Adam Smith and building products and services for the many, altering the status quo as we (UK) did in the industrial revolution, we (UK) prefer to serve the existing state of affairs (as discussed in "(Business Relationships)[/posts/2015-02-01-relationships]")... as introvert Europeans do.
 
