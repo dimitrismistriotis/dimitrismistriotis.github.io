@@ -3,58 +3,59 @@ layout: default
 title: Culture shocks
 ---
 
-On the third part decided to write about some cultural differences and their manifestations.
+On the third part decided to write about some cultural differences in doing business and their manifestations.
 
 ## Creatures of the hierarchy
 
-Let's start with something from Quora http://www.quora.com/What-things-can-you-do-in-Israel-that-you-cannot-do-in-the-USA:
+Starting with something from Quora http://www.quora.com/What-things-can-you-do-in-Israel-that-you-cannot-do-in-the-USA:
 
 "What things can you do in Israel that you cannot do in the USA?
 
 Tell your boss that he's an idiot and he's running the company into the ground, and still have a job the next day."
 
-I'll contemplate on the whys, because it's here the same for Greeks (that's me) and maybe others. Let's start with stealing a line about company organization from this book (DOKSIADIS BOOK):
-"Traditionally the cell of the Greek business unit is the boat. ... When crisis comes by usually in a form of a storm, they all need to break the hierarchy and save themselves cause else they're going to sink and die. It's easy to listen to people swearing at their superiors, doing each other's jobs if there is a gap and generally do whatever possible in order to get out of the situation. ..."
+I'll contemplate on the whys, because it's here the same for Greeks (that's me) and maybe others. Let's start with a loose translation about internal company organization from a book about Greek economy, "(The invisible chasm)[http://www.public.gr/product/books/greek-books/economics/economics/to-aorato-rigma/prod5810148pp/]":
 
-I can only assume that in Israel the same must hold truth but in the context of an army unit, or the traditional family living among foreigners. So in many cultures, when in doubt / crisis, break the hierarchy.
+"Traditionally the cell of the Greek business unit is the boat. ... When crisis comes, usually in a form of a storm, everybody needs to break hierarchy and save themselves and everybody present because otherwise they're going to sink and die. It is common to listen to people swearing at their superiors, doing each other's jobs if there is space for overlap and generally do whatever possible in order to get out of the situation. ..."
 
-I painfully observed a completely different pattern while working in the UK:
+I can only assume that in Israel the same must hold truth but in the context of an army unit, or the traditional family living in different countries among different nationals - (goyim)[http://en.wikipedia.org/wiki/Goy]. So in a number cultures, when in doubt, break the hierarchy.
 
-People above me in organizational charts used to engage into general conversations in relaxed everyday situations. I've seen that in case of crisis a different pattern was the usual case: Everybody would blindly listen and obey the leader, who would lead to salvation or move the company out of the crisis. Then we could all be friends again and chit chat it over a pint of beer.
+I painfully observed a completely different approach while working in the UK:
 
-I can only imagine how the other person might have felt in the following situation:
-Ryan (head of a client face department looking stressed): I want you to do XYZ for ABC (Actually it was "We need to do XYZ for ABC").
+People above me in organizational charts used to engage into general conversations in relaxed everyday situations. I've seen that in case of crisis a different pattern usually emerged: Everybody would blindly listen and obey the leader, whose responsibility is to drive the company /situation out of the crisis. Then we could all be friends again and chit chat it over a pint of beer.
+
+I can only imagine how Rayn, head of a client face department, might have felt in the following situation:
+Ryan (looking stressed): I want you to do *ABC* for XYZ (Actually it was "We *need* to do XYZ for ABC").
 Me: Why?
-Ryan: (Provides an one sentence explanation)
-Me: Based on what you just said DEF is a better option than ABC, should we implement DEF instead?
+Ryan: blah blah (Provides an one sentence explanation)
+Me: Based on what you just said *DEF* is a better option than *ABC*, should we try *DEF* instead?
 Ryan: I'll get back to you. Bye.
 
-Only he didn't get back to me, but instead to my manager. Next day's talk with my manager, Kevin:
+Only he didn't get back to me, but instead to my manager, Kevin. Next day's with Kevin:
 Kevin: Hi, Ryan came to me yesterday...
-Me: I don't understand why. He must have given you his arguments, which you will repeat here filtered with what you understood. Yes?
+Me: I do not understand why. He must have given you his arguments, which you will repeat to me along with your understanding of the situation. Yes?
 Kevin: More or less.
-Me: So based on the same input, I'll give the same response, I am frustrated that he bypassed me and got to you.
-Kevin: You didn't understand, what he really wanted was you to say "Yes", not argue.
-Me: But we are in crisis mode, if I don't know how he makes decisions, I will have to ask him for input every five minutes, if he provides an insight, then I'll be able to guess what he needs more or less.
-Kevin: I see... for the moment next time say "Yes".
+Me: So based on the same inputs, I will give the same response. Now I am also frustrated because he bypassed me and got to you.
+Kevin: You didn't understand, what he really wanted was you to say "Yes", not argue his points.
+Me: But we are in crisis mode, if I don't know how he makes decisions, I will have to ask him for input every five minutes. If on the other hand he provides his insights, then I'll be able to guess his needs without disrupting him.
+Kevin: I see... for the moment next time limit yourself to a "Yes".
 
-I will not tell you the ending of this story (which doesn't have a happy ending for me). But you got the point: Being behind schedule and in a bad place, my inertia was to break barriers, engage in direct communication... etc. Ryan in this example wanted to basically issue an order and establish a hierarchy, so his approach was in the lines of "I need you to do this". When my response was not the expected one the gut reaction was - again - to follow the hierarchical approach, by talking to my manager. In my world, he'd probably talk to me on the spot, instead of spending time to find my manager and explain his point of view, moreover if we were in behind-schedule-stress mode.
+I will not tell you the ending of this story (which doesn't have a happy ending for me). But you got the point: Being behind schedule and in a bad place, my inertia was to break barriers, engage in direct communication... etc. Ryan in this example wanted essentially to issue an order having a hierarchical understanding of the situation on which he was the "client", so his approach was in the lines of "I need you to do this". When my response was not the expected one his gut reaction was - again - to follow the hierarchical approach, by talking to my manager. If I could guess, he'd probably talk to me on the spot, instead of spending time to find my manager and explain his point of view, moreover if we were in behind-schedule-stress mode. Of course you shouldn't bet on my guess.
 
-OK that was the first slap, let's go to the second.
+This gets us to the second slap.
 
 ## It's a one way street
 
-The second thing that stroke me was the unidirectional flow of information from the top to the bottom, but not the other way around.
+The second thing that stroke me was the unidirectional flow of information from the top to the bottom, without channels for the other way around.
 
-Starting again with an an anecdote:
+Starting again with an anecdote:
 
-My then manager was preparing for my first appraisal. He had booked a meeting room. Once we sat, he said something like "Oops, I forgot the forms that we need to fill". Five minutes later he came in with some print outs, which he started reading and filling them with me. I was listening patiently and waiting to provide my input. At the end of the last paper, I replied with: "It seems that you forgot the remaining papers, do you want me to wait here". "What remaining papers?" was his response with the feeling of surprise painted over his face. "Up to now we have discussed about how I perform and what the company wants me to do. There is nothing about how good you are as my manager nor about how happy I am working here".
+My then manager was preparing for my first appraisal. He had booked a meeting room. Once we sat, he said something like "Oops, I forgot the forms on the printer". Five minutes later he came in with some printouts, which we started reading and filling out. I was listening patiently waiting to provide my input after the process was over. At the end of the last paper, I replied with something like: "*It seems that you forgot the remaining papers, do you want me to wait here*". "*What remaining papers?*" was his response with the feeling of surprise painted over his face. "*Up to now we have discussed about how I perform and what the company wants me to do. There is nothing about how good you are as my manager nor about how happy I am working here or my career path. Isn't that covered in the forms you forgot?*".
 
-After that I started asking around. It seemed that in most places that was the case. Exception was (surprise!) foreign based companies operating in Britain. An example would be my experience in Accenture, there was grading of managers in both a semi-anonymous as well as formal fashion.
+After that I started asking around. It seemed that in most places that was the case. Exception was (surprise!) foreign based companies operating in Britain. An counter-example would be my experience in Accenture, there was grading of managers in both a semi-anonymous as well as formal fashion.
 
-My opinion, without lots of thorough research, has to do with the concept of employment and how it is understood in different cultures. I tend to believe that in the US/Canada it's basically a contract, in capitalist terms: more or less two parts discuss on what can be offered to each other. Employee provides skill, labor, loyalty, some restrictions on their lives etc. The employer provides of course the salary and stability but we see more and more things like career path/trajectory, education and training as well as all those magic perks glorified by Google. It seems that there is a "deal" or a "package" that each one brings to the table.
+My opinion, without lots of thorough research, has to do with the concept of employment and how it is understood in different cultures. I tend to believe that in the US/Canada it is conceptually a contract: more or less two parts discuss on what can be offered to each other. Employee provides skill, labor, loyalty, some restrictions on their lives etc. The employer provides of course the salary and stability but we see more and more things like career path/trajectory, education and training as well as all those magic perks glorified by Google. It seems that there is a "deal" or a "package" that each one brings to the table. If an employee breaks the "deal" there is an issue, same if the company does so, which was not the case in our last story.
 
-In Britain and probably mostly in Europe it seems that employment stems from medieval serfdom with a twist. The twist is that you have the right to change employees without prosecution. Employer and employee agree to a salary and more or less that's it. I haven't witnessed in my employment in British companies things like: training programs, investment in expanding employees skill-set, even in buying books, or any worthwhile perks. Also I had witnessed recently a change in my job function without even announcing it. One day I got to the office and I was told that I should be doing "different things". When complaining that this was not aligned with the job description in the interview, the response was that I was right, but that the company was "evolving". For me this was breach of contract, for my manager it was business as usual. I should also feel happy.
+In Britain and probably mostly in Europe it seems that employment stems from medieval serfdom with a twist. The twist is that you have the right to change employees without prosecution. Employer and employee agree to a salary and more or less that's it. I haven't witnessed in my employment in British companies things like: training programs, investment in expanding employees skill-set, even with something inexpensive such as books, or any significant perks. Recently I had witnessed a change in my job function without even discussing it with me in advance. One day I got to the office and I was told that I should be doing "*different things*". When complaining that this was not aligned with my initial job description or what was discussed in the interview, the response was that I was right, but that the company was "evolving". For me this was breach of contract, for my manager it was business as usual.
 
 ## Steve Blank versus Eric Ries
 
