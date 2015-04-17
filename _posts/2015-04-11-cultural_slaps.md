@@ -23,22 +23,22 @@ I painfully observed a completely different pattern while working in the UK:
 People above me in organizational charts used to engage into general conversations in relaxed everyday situations. I've seen that in case of crisis a different pattern was the usual case: Everybody would blindly listen and obey the leader, who would lead to salvation or move the company out of the crisis. Then we could all be friends again and chit chat it over a pint of beer.
 
 I can only imagine how the other person might have felt in the following situation:
-Richter (head of a client face department looking stressed): I want you to do XYZ for ABC (Actually it was "We need to do XYZ for ABC").
+Ryan (head of a client face department looking stressed): I want you to do XYZ for ABC (Actually it was "We need to do XYZ for ABC").
 Me: Why?
-Richter: One sentence explanation.
+Ryan: (Provides an one sentence explanation)
 Me: Based on what you just said DEF is a better option than ABC, should we implement DEF instead?
-Richter: I'll get back to you. Bye.
+Ryan: I'll get back to you. Bye.
 
-Only he didn't get back, he got to my manager. Next day my manager
-Hanes: Hi, Richter came to me yesterday...
+Only he didn't get back to me, but instead to my manager. Next day's talk with my manager, Kevin:
+Kevin: Hi, Ryan came to me yesterday...
 Me: I don't understand why. He must have given you his arguments, which you will repeat here filtered with what you understood. Yes?
-Hanes: More or less.
+Kevin: More or less.
 Me: So based on the same input, I'll give the same response, I am frustrated that he bypassed me and got to you.
-Hanes: You didn't understand, what he really wanted was you to say "Yes", not argue.
+Kevin: You didn't understand, what he really wanted was you to say "Yes", not argue.
 Me: But we are in crisis mode, if I don't know how he makes decisions, I will have to ask him for input every five minutes, if he provides an insight, then I'll be able to guess what he needs more or less.
-Hanes: I see... for the moment next time say "Yes".
+Kevin: I see... for the moment next time say "Yes".
 
-I will not tell you the ending of this story (it doesn't have a happy ending for me). But you got the point: Being behind schedule and in a bad place, my inertia was to break barriers, engage in direct communication... etc. Our Richter here wanted to basically issue an order and establish a hierarchy (I need this from you). When I communicated an unexpected message the gut reaction was again to follow the hierarchical approach, by talking to my manager. In my world, he'd probably talk to me straight instead of spending 10 minutes to find my manager and discuss over ("Hello? Aren't we behind schedule?").
+I will not tell you the ending of this story (which doesn't have a happy ending for me). But you got the point: Being behind schedule and in a bad place, my inertia was to break barriers, engage in direct communication... etc. Ryan in this example wanted to basically issue an order and establish a hierarchy, so his approach was in the lines of "I need you to do this". When my response was not the expected one the gut reaction was - again - to follow the hierarchical approach, by talking to my manager. In my world, he'd probably talk to me on the spot, instead of spending time to find my manager and explain his point of view, moreover if we were in behind-schedule-stress mode.
 
 OK that was the first slap, let's go to the second.
 
@@ -77,4 +77,3 @@ We many times promote the best "local" person in the room at least to the highes
 People from this and only this country brought not many generations before the concepts of challenging assumptions, science scientific discovery and many others. Yet again, as in "It's a one way street" above, internally in companies you are not allowed to challenge what is communicated to you or even thorough discuss it. Same with cultural products. Concepts from Silicon valley had to be planted and grow here from the start, even if they were expressed in the same language, from a similar (don't they call USA Anglo-Saxon) culture, having the paradox of German or Scandinavian business cultures embracing them first. While at the same time in the popular sphere people seem to be well exposed to the overseas junk pop, such as the curves or Rihana's bottom or our own version of X-factor as it would happen ... (you've guessed it) in a typical European country.
 
 That's the end of the journey for this series of articles. Thank you for following it!
- 
