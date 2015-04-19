@@ -49,6 +49,13 @@ This also impacts the overall quality of the product. I have seen many times pro
 
 Contradict the above with companies in the likes of Microsoft and Paypal or even smaller ones such as GoCardless or Moo, where each additional client's additional importance is small or can even be neglected. Would those companies prioritize things differently? How would they allocate resources or investments? Would they prefer to improve only existing client relationships or improve their offerings as much as possible creating a big barrier of entry for competitors and acquiring more clients?
 
+An analogy describing the above came up while watching the movie "Kingsman". It seems that the British IT industry is geared towards sewing custom made suits for the person on the left of the picture, while purposefully neglecting to make jackets for the person on the right.
+
+![Kingsman](/images/kingsman-05-1120×602.jpg "Kingsman")
+
+
+(*Note*: Original image from: (http://www.foxmovies.com/movies/kingsman-the-secret-service)[http://www.foxmovies.com/movies/kingsman-the-secret-service])
+
 ## Elephants, Deer and Rabbits analogy
 
 ![Five ways diagram](/images/five_ways-animals.png "Five ways diagram")
