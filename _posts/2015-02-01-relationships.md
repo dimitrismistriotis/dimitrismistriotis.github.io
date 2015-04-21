@@ -1,6 +1,6 @@
 ---
 layout: default-
-title: The problematic British (business) relationships
+title: Problematic business relationships
 ---
 
 This is the first part of a series about British IT. Posts will range from "generic" to "personal" ones. Please note that there is no attempt to be academical, just document what has been observed by someone who started as an outsider hence conventional wisdom was something new.
@@ -47,7 +47,7 @@ Some companies take this approach to the next level treating their whole operati
 
 This also impacts the overall quality of the product. I have seen many times project managers or stakeholders running mad demanding "*this little hack*" that provides some functionality or just tweaks that their big cash-fat clients say, but not necessarily need. Soon product architecture ends up becoming a Frankenstein monster. After some point the effort of maintaining those hacks acts as weight making changes progressively more difficult and expensive. Then the cost-savvy people suggest outsourcing, which brings us back to last argument. (Outsourcing shops do not complain if their assignments are meaningless, moreover foreign ones). For a discussion of the above in the advertising industry please read: "(Why Talented Creatives Are Leaving Your Shitty Agency)[http://www.mobileinc.co.uk/2013/09/why-talented-creatives-are-leaving-your-shitty-agency/ 'Why Talented Creatives Are Leaving Your Shitty Agency Murat / September 2, 2013']".
 
-Contradict the above with companies in the likes of Microsoft and Paypal or even smaller ones such as GoCardless or Moo, where each additional client's additional importance is small or can even be neglected. Would those companies prioritize things differently? How would they allocate resources or investments? Would they prefer to improve only existing client relationships or improve their offerings as much as possible creating a big barrier of entry for competitors and acquiring more clients?
+Consider how the above contradicts with companies in the likes of Microsoft and Paypal or even smaller ones such as GoCardless or Moo, where each additional client's additional importance is small or can even be neglected. Would those companies prioritize things differently? How would they allocate resources or investments? Would they prefer to improve only existing client relationships or improve their offerings as much as possible creating a big barrier of entry for competitors and acquiring more clients?
 
 An analogy describing the above came up while watching the movie "Kingsman". It seems that the British IT industry is geared towards sewing custom made suits for the person on the left of the picture, while purposefully neglecting to make jackets for the person on the right.
 
@@ -82,4 +82,6 @@ Paradoxically this counter intuitive approach initially works: Because of the si
 
 Inside the company's microcosm, in the micro level, we have the "demoralization of the troops", the people that actually create wealth are not as much important as the customer facing yes-men (consultants), moreover they are treated as necessary evil / expense and that makes them sad, unproductive and disloyal, rightfully so it seems.
 
-Next one: KISKE-FIELD-MEDIUM, KISKE-FIELD-LOCAL.
+Initial Cover: https://www.flickr.com/photos/kumipallomaa/9579034798, from Pate-keetongu.
+
+Next one: "(The Kiske field - local)[/2015-03-20-kiske_field.html 'The Kiske field']", "(The Kiske field - medium)[https://medium.com/@dimist/the-kiske-field-is-the-first-part-of-a-series-about-british-it-industry-instead-of-a-large-article-adc771399041 'The Kiske field on Medium']".
