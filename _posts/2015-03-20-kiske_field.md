@@ -5,7 +5,7 @@ title: The Kiske field
 
 # The Kiske field
 
-The Kiske field is the second part of a series about British IT industry. Instead of a large article, I decided to split it in smaller chunks. A very important disclaimer: I have not been able to talk with the people involved in the story below nor check it out extensively, so please treat the story in the next section as fiction. First part is here: MEDIUM, or LOCAL.
+The Kiske field is the second part of a series about British IT industry. Instead of a large article, I decided to split it in smaller chunks. A very important disclaimer: I have not been able to talk with the people involved in the story below nor check it out extensively, so please treat the story in the next section as fiction. First part is here: "(business relationships)[https://medium.com/@dimist/problematic-business-relationships-44dc00aeb05c "Business relatioships medium"] - (business relationships)[/posts/2015-02-01-relationships "Business relationships - local copy"]".
 
 ## Definition - first story.
 
@@ -13,11 +13,11 @@ More than 10 years before, [Iron Maiden](https://en.wikipedia.org/wiki/Iron_Maid
 
 At about that time a hot discussion topic among genre's fans was who would be the next "Dickinson". It ended up being [Blaze Bailey](https://en.wikipedia.org/wiki/Blaze_Bayley 'Blaze Bailey - Wikipedia'), who was at then singing in an English niche band that almost no-one had ever heard of. Another candidate among the many, was the well known heavy metal singer and front-man [Michael Kiske](https://en.wikipedia.org/wiki/Michael_Kiske 'Michael Kiske - Wikipedia'), which brings us to the next part.
 
-Many years later, I was operating a fanzine and was working part time as a metal journalist, so I had the chance to meet Blaze Bailey for an interview a year after he had left the band. The funny thing was that when asked about the Iron Maiden years, he was stressing on how lucky he felt -even if it didn't last long- and how surprised he was. Another friend of mine had interviewed Michael Kiske.  Kiske was not affected from the rejection always doing many things, but when asked off the record (this is what I cannot prove or confirm) he said that the rumor "in the business" was that *"Steve Harris would never accept a non-Englishman to lead England's best heavy metal band, so he did an international competition in order to choose the the best candidate"*.
+Many years later, I was operating a fanzine and was working part time as a metal journalist, so I had the chance to meet Blaze Bailey for an interview a year after he had left the band. The funny thing was that when asked about the Iron Maiden years, he was stressing on how lucky he felt -even if it didn’t last long- and how surprised he was. Another friend of mine had interviewed Michael Kiske. Kiske was not affected from the rejection always doing many things, but when asked off the record (this is what I cannot prove or confirm) he said that the rumor "*in the business*" was that "*Steve Harris would never accept a non-Englishman to lead England’s best heavy metal band, so he did an international competition in order to choose the best candidate from his country*".
 
 Based on the (unconfirmed) story above we can define the "Kiske law" on HR:
 
-**Choosing the best English person from a list of international candidates**
+**Choose the best English-person from a list of international candidates**
 
 And for ease of use the lemma-definition of a "Kiske field":
 
@@ -27,15 +27,15 @@ And for ease of use the lemma-definition of a "Kiske field":
 
 ## Another story
 
-This is a real story, with the industry and the names of the people involved changed. It's about a friend of mine named Daniella. Daniella is one of the best account managers on her field whom I lately meet her at about once per year. Two years before, she was talking to me about why she would look for changing employers "*soon*":
+This is a real story, with the industry and the names of the people involved changed. It’s about a friend of mine named Daniella. Daniella is one of the best account managers on her field whom I lately meet her at about once per year. Two years before, she was talking to me about why she would look for changing employers "*soon*":
 
 *"When I joined the company almost everybody on our team was from Europe's south ([PIGS](http://en.wikipedia.org/wiki/PIGS_%28economics%29 'PIGS')), we were handling a range of client accounts, usually working long hours. After first two years down the line the company got established and decided to stabilize on the number of clients and customer acquisition rate.
 
-I found out that as old employees started leaving, having a normal turnover, the new hires were being paid more for less amount of work. Also all all of them where locals. This was the first the signal that I had to move on"*
+I found out that as old employees started leaving, having a normal turnover, the new hires were being paid more for less amount of work. Also all all of them where locals. This was the first the signal that I had to move on."*
 
-Following Daniella’s Facebook posts ( :-[ ), I saw that some months later she is head of European operations on her sector working for a large multinational. The multinational though is a company based in Scandinavia. Following her posts, couldn't help myself to wonder if the same story would possible for a UK multinational of any size.
+Following Daniella on Facebook and Twitter, I saw that some months later she became  head of European operations on her sector, working for a large multinational. The multinational though is a company based in Scandinavia. Couldn't help myself from wondering if the same story would possible for a UK multinational of any size.
 
-I have heard many stories, I also have mine. This though perfectly describes the "Kiske effect".
+I have heard many stories, I also have mine. The one in the previous paragraph though perfectly describes the "Kiske effect".
 
 ## Analysis
 
@@ -43,10 +43,10 @@ Decided not to write any personal experiences mainly so that there would not be 
 
 Generally the following pattern has been observed, at least in the IT industry:
 
-1. First generation foreigners are usually treated as glorified temp employees (I call them temp-[plebs](http://en.wikipedia.org/wiki/Plebgate 'Plebgate')). At any given time they might get back to their country of origin.
-2. As a result promoting them into mid-level management bears the risk of creating a gap (or the possibility of a domino effect if replaced by another person from the same pool).
+1. First generation foreigners are prone to return back to their country of origin. That’s why they are usually treated as glorified temp employees. (I call them temp-[plebs](http://en.wikipedia.org/wiki/Plebgate 'Plebgate')). 
+2. As a result promoting them specially into mid-level management bears the risk of creating a gap once they leave (or the possibility of a domino effect if replaced by another person from the same pool).
 3. This in turn affects their (our) mentality and psychology: being artificially marginalized impacts corporate loyalty; hence
-4. They (we) in effect are prone to switch jobs, since there is no attachment with the "current" employer.
+4. They (we) in effect are prone to switch jobs, since there is no attachment with the “current” employer.
 
 Some additional observations on the points above, after discussions with many and different people:
 
