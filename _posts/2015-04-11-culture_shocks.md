@@ -13,6 +13,10 @@ Starting with something from Quora http://www.quora.com/What-things-can-you-do-i
 
 Tell your boss that he's an idiot and he's running the company into the ground, and still have a job the next day."
 
+Let's add another quote, this was from a person of western European origin that owned a small shop in the tourist industry in a Greek city:
+
+"*Greeks are some of the best employees you could have, trustworthy, energetic, active. The problem with then is that at some point they will come and tell you how to run your business.*"
+
 I'll contemplate on the whys, because it's here the same for Greeks (that's me) and maybe others. Let's start with a loose translation about internal company organization from a book about Greek economy, "(The invisible chasm)[http://www.public.gr/product/books/greek-books/economics/economics/to-aorato-rigma/prod5810148pp/]":
 
 "Traditionally the cell of the Greek business unit is the boat. ... When crisis comes, usually in a form of a storm, everybody needs to break hierarchy and save themselves and everybody present because otherwise they're going to sink and die. It is common to listen to people swearing at their superiors, doing each other's jobs if there is space for overlap and generally do whatever possible in order to get out of the situation. ..."
@@ -41,6 +45,8 @@ Kevin: I see... for the moment next time limit yourself to a "Yes".
 
 I will not tell you the ending of this story (which doesn't have a happy ending for me). But you got the point: Being behind schedule and in a bad place, my inertia was to break barriers, engage in direct communication... etc. Ryan in this example wanted essentially to issue an order having a hierarchical understanding of the situation on which he was the "client", so his approach was in the lines of "I need you to do this". When my response was not the expected one his gut reaction was - again - to follow the hierarchical approach, by talking to my manager. If I could guess, he'd probably talk to me on the spot, instead of spending time to find my manager and explain his point of view, moreover if we were in behind-schedule-stress mode. Of course you shouldn't bet on my guess.
 
+What also should be considered should be the shock-wave delivered to our story's Ryan: We were in crisis-mode, so in his mindset the only possible response would be something in the realm of "yes". Instead of that, he got a full spectrum challenge of his assumptions. In hindsight that should have been an "ouch" momment, a very negative surprise indeed ...
+
 This gets us to the second slap.
 
 ## It's a one way street
@@ -67,7 +73,7 @@ Well the funny thing is that if those two people were running a who is more famo
 
 We were trying to raise capital for our then startup at about 2009. While saying that we had "pivoted", which we had, initially people were skeptic thinking that our initial planning was wrong hence the need for pivot. Some had suggested that we should not mention it but argue instead that our current direction was the original one - a white lie. Later on, lean startup methodologies caught up and became popular. After their tipping point and getting spread, people kind of  demanded us to have pivoted at least once as a sign that the company had gotten to the next level: They had some hypothesis, tested it, got the results and changed direction, so they've matured. There is nothing wrong with an idea getting traction and becoming part of the established paradigm, my thought was that since the idea was solidified across the Atlantic it would have somehow found it's way here. 
 
-## Conclusion
+## Conclusions
 
 The summarization of the "Culture shocks" and their consequences, materialized while finishing this post. It seemed to me that coming to UK, I would get to an alternative version of the States, while I landed into a great amazing European country, but nevertheless European. After years I made the decision to make it mine and live here, but the brain has still not fully recovered from the initial shock and partial diassapointment.
 
@@ -76,5 +82,12 @@ Instead of embracing capitalism à la Adam Smith hence building products and ser
 We many times promote the best "local" person in the room at least to the highest positions in our companies (part 2: (Kiske field)[_posts/2015-03-20-kiske_field]) as it would have happened in France or Spain, although the London-zone is to some extent, a city of first generation immigrants, a small US.
 
 It is contradictory to consider that people from this country, not many generations before, challenged existing assumptions, invested in science, reserach producing an infinte catalogue of scientific discoveries among others. Yet again, as in "It's a one way street" above, internally in companies you are not allowed to challenge what is communicated to you or even discuss it thoroughly. In strictly business culture, concepts from Silicon valley had to grow here from the start, even if they manifestated from a culture considered similar (don't say USA is "Anglo-Saxon") expressed in exactly the same language. As a paradox, German end Scandinavian business cultures embraced them first. At the same time in the entertainment sphere some reason overseas junk pop is accepted, such as the curves or Rihana's bottom or big-brother-X-factor as it is the case in ... (you've guessed it) a typical European country.
+
+Another realisation was how much what we produce derives from our culture, origins and the society on which we were brought up. There was the false assumption that in purely technical disciples, things would be more abstract in a mathematical sense while also internationalised because of ... Internet. Maybe, reflecting on "(business relationships)[https://medium.com/@dimist/problematic-business-relationships-44dc00aeb05c "Business relatioships medium"] - (business relationships)[/posts/2015-02-01-relationships "Business relationships - local copy"]"
+the argument is best summarised in the following http://en.wikiquote.org/wiki/Andy_Warhol quote:
+
+"*What’s great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest. You can be watching TV and see Coca-Cola, and you know that the President drinks Coke, ...*"
+
+the reason why US can make better software (which is same for everybody) and iPhones, even if the theoretical foundations have been laid here.
 
 That's the end of this series of articles. Thank you for reading up to this point!
