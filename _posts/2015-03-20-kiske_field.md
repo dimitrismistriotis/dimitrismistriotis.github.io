@@ -39,7 +39,7 @@ I have heard many stories, I also have mine. The one in the previous paragraph t
 
 ## Analysis
 
-Decided not to write any personal experiences mainly so that there would not be personal involvement which might distort my view. There are many opinions on why this is happening. I'd like to discuss about temporary nature of foreign employees, because I believe things there have changed.
+There are many opinions on why the above happen that belong to a wide spectrum of social, economical, and historical reasons. I'd like to discuss about temporary nature of foreign employees, because I believe things there have changed.
 
 Generally the following pattern has been observed, at least in the IT industry:
 
@@ -50,16 +50,16 @@ Generally the following pattern has been observed, at least in the IT industry:
 
 Some additional observations on the points above, after discussions with many and different people:
 
-Point (1) is still the case for many cases. I strongly believe that this was true in the not so distant past, but not currently. Allow to elaborate:
+Point (1) is still holds for many cases. I strongly believe that this was true in the not so distant past, but not currently. Allow to elaborate:
 
-As the story goes the "unspoken deal" for a foreigner i the UK, specially in London involved a short career trajectory among those lines: Study (BSc), maybe study some more (MSc), optional internship, *bang!*, permanent work for a couple of years, *bang!* or a promotion and then... *bang!*.
+As the story goes the "unspoken deal" for a newcomer to the UK, specially in London involved a short career trajectory among those lines: Study (BSc), maybe study some more (MSc), optional internship, *bang!*, permanent work for a couple of years, *bang!* or a promotion and then... *bang!*.
 
-Where "*bang!*" equals of course return to the country of origin. the CV would include UK experience or moreover London experience, which in many places is a salary multiplier for some reason. Something similar was also the case with people from rural Britain. It was supposed to be a temporary thing. Not any more: Having deep recessions around progressively eliminates this possibility. As an example people from PIGS countries cannot return, even if they want to. So point (1) above is now not that valid. It is possible that the business world has not yet adjusted... Maybe.
+Where "*bang!*" is the return to the country of origin moment. Person's CV would include UK experience or moreover London experience, which in many places is a big salary multiplier. Something similar seems also to be the case with people from rural Britain. It is supposed to be a temporary thing, but not any more. Having many countries in recession and Britain as a major job generator lowers this as a possibility. As an example people from PIGS countries cannot return, even if they want to. So point (1) above is now not as valid as it used to be. It is possible that the business world has not yet adjusted... Maybe.
 
 Second point enhances the side-effects of point 1 - again in the past. Getting promoted
 increased the perceived value on the country of origin. Being a manager "here" translates to Sr Manager "there" so a promotion can even accelerate the speed towards the *"bang!"* point.
 
-Last points (3 and 4) are about what's happening on the other side: Imagine that you start working in a company, you do your best for a couple of years. You don't see promotion, a change in your salary or even a discussion your career. You see this happening with other people. What would you think? How would you react?
+Last points (3 and 4) are about what's happening on the other side: Imagine that you start working in a company, you do your best for a couple of years. You don't see promotion, a change in your salary or even a discussion about your career. You see this happening with other people. What would you think? How would you react?
 
 Observing a vicious circle: **Is your company in a Kiske field?**
 
