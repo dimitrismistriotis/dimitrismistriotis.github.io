@@ -59,7 +59,7 @@ My then manager was preparing for my first appraisal for which he had a meeting 
 
 After that I started asking around. It seemed that in most places that was the state of affairs. Exception was foreign based companies operating  British branch. An counter-example would be my experience in Accenture, there was grading of managers in both a semi-anonymous as well as in formal fashion.
 
-My opinion, without thorough research though, has to do with the concept of employment and how it is understood in different cultures. I tend to believe that in the US/Canada it resembles conceptually a **contract**: more or less two parts discuss on what each one offers to the other. Employee provides her skill, labour, loyalty, some restrictions on their lives etc. The employer provides the salary,job stability but also career path/trajectory, education, training as well as all some so called perks. With the king of "perks" being Google (where is it based?). It seems that there is an agreed "deal". An employee breaking the “deal” find themselves fired. If the company does so, there has to be some justification, which was not the case in our last story.
+My opinion, without thorough research though, has to do with the concept of employment and how it is understood in different cultures. I tend to believe that in the US/Canada it resembles conceptually a **contract**: more or less two parts discuss on what each one offers to the other. Employee provides her skill, labour, loyalty, some restrictions on their lives etc. The employer provides the salary,job stability but also career path/trajectory, education, training as well as all some so called perks. With the king of "perks" being Google (where is it based?). It seems that there is an agreed "deal". An employee breaking the "deal" find themselves fired. If the company does so, there has to be some justification, which was not the case in our last story.
 
 In Britain and probably mostly in Europe it seems that employment stems from **medieval serfdom** with many improvements. One of them is that you have the right to change employees without prosecution. Employer and employee agree to a salary and more or less that's it. I haven't witnessed in my employment in British companies things like: training programs, investment in  skill-set, even with something inexpensive such as books, or any significant perks. Recently my job function changed without even communicating the changes with me in advance. One day I got to the office and I was told that I should be doing "*different things*". When complaining that this was not aligned with my initial job description or what was discussed in the interview, the response was that I was right, but that the company was "evolving". For me this was breach of contract, for my manager it was business as usual.
 
@@ -67,7 +67,7 @@ In Britain and probably mostly in Europe it seems that employment stems from **m
 
 One of the many concepts described and popularized in Eric Ries "Lean startup" book is the "(pivot)[http://en.wikipedia.org/wiki/Lean_startup#Pivot "Pivot definition Wikipedia"]". Personally it is related to a paradigm shift I experienced:
 
-We were trying to raise capital for our then startup at about 2009. When saying that we had "pivoted", which we had, initially people were skeptic thinking that our initial planning was wrong hence the need for pivot. Some had suggested that we should not mention it but argue instead that our current direction was the initial one - a white lie. Later on, lean startup methodologies caught up. After that tipping point and acceptance, people kind of demanded us to have pivoted at least once as a sign that the company had gotten to the next level: They had some hypothesis, tested it, got the results and changed direction, so they've matured. 
+We were trying to raise capital for our then start-up at about 2009. When saying that we had "pivoted", which we had, initially people were sceptic thinking that our initial planning was wrong hence the need for pivot. Some had suggested that we should not mention it but argue instead that our current direction was the initial one - a white lie. Later on, lean start-up methodologies caught up. After that tipping point and acceptance, people kind of demanded us to have pivoted at least once as a sign that the company had gotten to the next level: They had some hypothesis, tested it, got the results and changed direction, so their proposition had matured.
 
 There is nothing wrong with a concept getting traction and becoming part of the established paradigm. I could not understand why it took so long based that the idea was solidified across the Atlantic, expressed in English and generally a product of a similar culture. Why were the extra number of years required? 
 
@@ -75,19 +75,18 @@ There is nothing wrong with a concept getting traction and becoming part of the 
 
 ### Euro-something
 
-Summarization of my "Culture shocks" and their consequences materialized while finishing this post. It seemed to me that coming to UK, I would get to an alternative version of the States, while I landed into a great amazing European country, but nevertheless European. After years I made the decision to make it mine and live here, but the brain has still not fully recovered from the initial shock and partial disappointment.
+Summarization of my "Culture shocks" and their consequences materialized while finishing writing this post. It seemed to me that coming to UK, I would get to an alternative version of the States, while I landed into a great amazing European country, but nevertheless European. After years I made the decision to make it mine and live here, but the brain has still not fully recovered from the initial shock and partial disappointment.
 
-Instead of embracing capitalism à-la Adam Smith by building products and services for the masses,  as it happened in the industrial revolution altering the global status quo (which UK dominated), we prefer to maintain the existing state of affairs (as discussed in "(Business Relationships)[/posts/2015-02-01-relationships]")... as you would expect from ego-centric Europeans.
+UK dominated the industrial revolution and the globe. Industrialisation process involved capitalism à-la Adam Smith by building products and services for the masses on a massive scale, yet now it is preferred to maintain the existing state of affairs (as discussed in "(Business Relationships)[/posts/2015–02–01-relationships]")... as you would expect from narrow minded Europeans.
 
-Another realization was how much what we produce derives from our culture, origins and the society on which we were brought up. There was the false assumption that in purely technical disciples, things would be more abstract in a mathematical sense while also internationalized because of ... Internet. Maybe, reflecting on "(business relationships)[https://medium.com/@dimist/problematic-business-relationships-44dc00aeb05c "Business relationships medium"] - (business relationships)[/posts/2015-02-01-relationships "Business relationships - local copy"]"
-the argument is best summarized in the following http://en.wikiquote.org/wiki/Andy_Warhol quote:
+Another realization was how much what we create derives from our culture, origins and the society from which we were brought up. Be it organisational structures, company orientation and even software. There was the false assumption that in purely technical disciples, things would be more abstract in a mathematical sense while also internationalized because of... Internet. Maybe, the argument is best summarized in the following http://en.wikiquote.org/wiki/Andy_Warhol quote:
 
 "*What’s great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest. You can be watching TV and see Coca-Cola, and you know that the President drinks Coke, ...*"
 
 the reason why US can make better software (which is same for everybody) and iPhones, even if the theoretical foundations have been laid here.
 
 
-### Reevaluating previous post
+### In Defence of Kiske fields
 
 ... COPY FROM NOTES ...
 
