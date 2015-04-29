@@ -63,21 +63,13 @@ My opinion, without thorough research though, has to do with the concept of empl
 
 In Britain and probably mostly in Europe it seems that employment stems from **medieval serfdom** with many improvements. One of them is that you have the right to change employees without prosecution. Employer and employee agree to a salary and more or less that's it. I haven't witnessed in my employment in British companies things like: training programs, investment in  skill-set, even with something inexpensive such as books, or any significant perks. Recently my job function changed without even communicating the changes with me in advance. One day I got to the office and I was told that I should be doing "*different things*". When complaining that this was not aligned with my initial job description or what was discussed in the interview, the response was that I was right, but that the company was "evolving". For me this was breach of contract, for my manager it was business as usual.
 
-## Steve Blank versus Eric Ries
-
-In the startup world they are both well known and respected. Steve Blank is known outside his business accomplishments for his books "(The four steps to epiphany)[http://www.amazon.co.uk/Four-Steps-Epiphany-Steve-Blank/dp/0989200507 "The four steps to epiphany on Amazon"]" and the more recent "(Startup owners manual)[http://www.amazon.co.uk/The-Startup-Owners-Manual-Step-By-Step/dp/0984999302/ref=pd_bxgy_b_text_y/278-6803900-2006242 "Startup owner's manual on Amazon"]". Eric Ries is also well known for his business accomplishments as well as his book (The Lean Startup: How Constant Innovation Creates Radically Successful Businesses)[http://www.amazon.co.uk/The-Lean-Startup-Innovation-Successful/dp/0670921602/ref=pd_bxgy_b_text_z/278-6803900-2006242 'Lean startup on Amazon']. A very convenient discovery was that Amazon.co.uk has grouped them together:
-
-![Amazon.co.uk book grouping](/images/blank_and_ries_amazon_recommendation.png "Amazon.co.uk book grouping")
-
-Well if we had to pick up who is more well known, the answer would probably be Steve Blank for a many reasons, such as being around for more years. My first surprise was that while discussing about startups, everybody seemed to know Ries, but almost nobody Blank. I now suspect that for some reason Ries became UK-popular, while for some other reason this did not happened with Blank, which is odd. Which brings us to the next section.
-
 ## Late pivots
 
-One of the many concepts described in Ries "Lean startup" book and impresses me most is that of a "(pivot)[http://en.wikipedia.org/wiki/Lean_startup#Pivot "Pivot definition Wikipedia"]" and I experienced a paradigm shift:
+One of the many concepts described and popularized in Eric Ries "Lean startup" book is the "(pivot)[http://en.wikipedia.org/wiki/Lean_startup#Pivot "Pivot definition Wikipedia"]". Personally it is related to a paradigm shift I experienced:
 
 We were trying to raise capital for our then startup at about 2009. When saying that we had "pivoted", which we had, initially people were skeptic thinking that our initial planning was wrong hence the need for pivot. Some had suggested that we should not mention it but argue instead that our current direction was the initial one - a white lie. Later on, lean startup methodologies caught up. After that tipping point and acceptance, people kind of demanded us to have pivoted at least once as a sign that the company had gotten to the next level: They had some hypothesis, tested it, got the results and changed direction, so they've matured. 
 
-There is nothing wrong with an idea getting traction and becoming part of the established paradigm, my thought was that since the idea was solidified across the Atlantic it would have crossed over instantly... why wait for a number of years? 
+There is nothing wrong with a concept getting traction and becoming part of the established paradigm. I could not understand why it took so long based that the idea was solidified across the Atlantic, expressed in English and generally a product of a similar culture. Why were the extra number of years required? 
 
 ## Conclusions
 
