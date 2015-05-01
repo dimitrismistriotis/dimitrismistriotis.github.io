@@ -88,7 +88,6 @@ the reason why US can make better software (which is same for everybody) and iPh
 
 ### In Defence of Kiske fields
 
-... COPY FROM NOTES ...
-
+Reconsidering the Kiske field post ((local copy)[posts/2015-03-20-kiske_field] https://medium.com/@dimist/the-kiske-field-is-the-first-part-of-a-series-about-british-it-industry-instead-of-a-large-article-adc771399041?source=your-stories), generates more questions than answers: Should UK/IT companies hire foreigners? If so, what should happen with their different behaviour or approach on concepts such as hierarchy? Should the differences be accepted as enhancement and an attempt to diversify business culture and operations? Or should those people be educated on how to behave as part of their induction? Or should we just place them in the bottom of the barrel, and make sure that they will stay there without ever stirring up to the top?
 
 That's the end of this series of articles. Thank you for reading up to this point!

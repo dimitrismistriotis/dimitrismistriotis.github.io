@@ -35,7 +35,7 @@ I found out that as old employees started leaving, having a normal turnover, the
 
 Following Daniella on Facebook and Twitter, I saw that some months later she became  head of European operations on her sector, working for a large multinational. The multinational though is a company based in Scandinavia. Couldn't help myself from wondering if the same story would possible for a UK multinational of any size.
 
-I have heard many stories, I also have mine. The one in the previous paragraph though perfectly describes the "Kiske effect".
+I have heard many stories, I also have mine. The one in the previous paragraph though perfectly describes the "Kiske effect". I am not sure if the above could be described with the recently popular term "(gentrification)[https://en.wikipedia.org/wiki/Gentrification ]" within a company instead of an urban area.
 
 ## Analysis
 
@@ -62,6 +62,8 @@ increased the perceived value on the country of origin. Being a manager "here" t
 Last points (3 and 4) are about what's happening on the other side: Imagine that you start working in a company, you do your best for a couple of years. You don't see promotion, a change in your salary or even a discussion about your career. You see this happening with other people. What would you think? How would you react?
 
 Observing a vicious circle: **Is your company in a Kiske field?**
+
+In the next and last article about "(culture shocks)["/posts/2015-04-11-culture_shocks" 'Culture Shocks']" (Medium), there will be some arguments on why a company **should** operate inside a Kiske field, which by reading this post seems a controversial proposition.
 
 Note: Original cover photo from: https://www.flickr.com/photos/54459164@N00/7216896404/
 "tell me why I have to be a Powerslave" from Johnson Cameraface.
