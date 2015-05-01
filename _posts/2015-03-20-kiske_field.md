@@ -67,3 +67,5 @@ In the next and last article about "(culture shocks)["/posts/2015-04-11-culture_
 
 Note: Original cover photo from: https://www.flickr.com/photos/54459164@N00/7216896404/
 "tell me why I have to be a Powerslave" from Johnson Cameraface.
+
+Article description initially for medium: This is the second part of a series about British IT. Discusses a particular aspect in organisational structure.

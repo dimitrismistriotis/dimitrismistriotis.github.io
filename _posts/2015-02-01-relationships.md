@@ -85,3 +85,5 @@ Inside the company's microcosm, in the micro level, we have the "demoralization 
 Initial Cover: https://www.flickr.com/photos/kumipallomaa/9579034798, from Pate-keetongu.
 
 Next one: "(The Kiske field - local)[/2015-03-20-kiske_field.html 'The Kiske field']", "(The Kiske field - medium)[https://medium.com/@dimist/the-kiske-field-is-the-first-part-of-a-series-about-british-it-industry-instead-of-a-large-article-adc771399041 'The Kiske field on Medium']".
+
+Article description initially for medium: This is the first part of a series about British IT. Posts will range from "generic" to "personal" ones.
