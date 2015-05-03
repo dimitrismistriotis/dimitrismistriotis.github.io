@@ -46,7 +46,7 @@ Generally the following pattern has been observed, at least in the IT industry:
 1. First generation foreigners are prone to return back to their country of origin. That’s why they are usually treated as glorified temp employees. (I call them temp-[plebs](http://en.wikipedia.org/wiki/Plebgate 'Plebgate')). 
 2. As a result promoting them specially into mid-level management bears the risk of creating a gap once they leave (or the possibility of a domino effect if replaced by another person from the same pool).
 3. This in turn affects their (our) mentality and psychology: being artificially marginalized impacts corporate loyalty; hence
-4. They (we) in effect are prone to switch jobs, since there is no attachment with the “current” employer.
+4. They (we) in effect are prone to switch jobs, since there is no attachment with the "current" employer.
 
 Some additional observations on the points above, after discussions with many and different people:
 
