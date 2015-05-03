@@ -19,7 +19,8 @@ I can only imagine how Rayn, head of a client face departmen t, might have felt 
 **Ryan**: blah blah (one sentence explanation)
 **Me**: Based on what you just said DEF is a better option than *ABC*, should we try *DEF* instead?
 **Ryan**: I'll get back to you. Bye.
- but went instead to my then manager, Kevin. Next day Kevin came along:
+
+Only that he never got back to me, but went instead to my then manager, Kevin. Next day Kevin came along:
 
 **Kevin**: Hi, Ryan came to me yesterday ...
 **Me**: I do not understand why. He must have given you his arguments, which you will repeat to me along with your understanding of the situation. Yes?
@@ -29,7 +30,7 @@ I can only imagine how Rayn, head of a client face departmen t, might have felt 
 **Me**: But we are in crisis mode, if I don't know how he got to these points, I will have to ask for his input every five minutes. If on the other hand he provides his insight, then I will be able to guess his needs without disrupting him.
 **Kevin**: I see; for the moment next time limit yourself to answering “Yes”.
 
-I will omit the not so happy conclusion of this story. Let's distinguish between the two approaches: Being behind schedule and in a bad place, my inertia was to break barriers, engage in direct communication etc. Ryan for the same reasons in the example above issued an order. Possibly inspired by a hierarchical understanding of the situation someone should lead (himself of course), so an "I need you to do this" approach was more appropriate. When my response was not the expected one, his gut reaction was - again - to follow they hierarchy this time through my manager. My guess would be that he would talk to me on the spot first. Finding my manager, then explaining his point of view even more, all that when in behind-schedule-stress mode just a waste of time.
+I will omit the not so happy conclusion of this story. Let's distinguish between the two approaches: Being behind schedule and in a bad place, my inertia was to break barriers, engage in direct communication, generally establish bidirectional information flows and synergy mechanisms. Ryan for the same reasons in the example above issued an order. Possibly inspired by a hierarchical understanding of the situation someone should lead (himself of course), so an "I need you to do this" approach was more appropriate. When my response was not the expected one, his gut reaction was - again - to follow they hierarchy this time through my manager. My guess would be that he would talk to me on the spot first. Finding my manager, then explaining his point of view even more, all that when in behind-schedule-stress mode just a waste of time.
 
 What also should also be considered is the potential shock-wave delivered to Ryan: In his mindset everyone should be in "yes"-mode. Instead of that, he got a full spectrum challenging of his assumptions. In hindsight that should have been a huge "ouch" moment, a very negative surprise indeed...
 
@@ -72,3 +73,5 @@ Maybe this is the core on why although theoretical foundations of computing have
 Reconsidering the "Kiske field" post ([medium](https://medium.com/@dimist/the-kiske-field-is-the-first-part-of-a-series-about-british-it-industry-instead-of-a-large-article-adc771399041) - [local](/2015-03-20-kiske_field.html 'The Kiske field')), now there are more questions than answers: Should UK IT companies hire foreigners? If so, what should happen with their different behaviour or approach on concepts such as hierarchy? Should the differences be accepted as enhancement and an attempt to diversify business culture and operations? Or should those people be educated on how to behave as part of their induction? Or should we just place them in the bottom of the barrel, and make sure that they will stay there without ever stirring up to the top?
 
 That's the end of this series of articles. Thank you for reading up to this point!
+
+Note: Cover photo [Culture shocks]("/images/culture_shocks-plugs.jpg"), from me.
