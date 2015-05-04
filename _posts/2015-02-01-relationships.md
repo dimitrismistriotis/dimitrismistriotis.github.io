@@ -41,7 +41,7 @@ Ending the prolonged introduction: positioning your software company as a consul
 
 ## Inwards
 
-After discussing the issues of the consulting approach towards the marketplace and competition, let's look how this affects companies internal structuring. Looking inwards I have observed that what is considered important is not as much as it should be functions that are related with the end product or service such as programming or design, or generally what's happening at the assembly line. What is considered important is satisfying the richest customer as soon as possible. Hence the spotlight is constantly reserved for client-facing functions, with the rest (functions, people, departments) being marginalized as second class citizens.
+After discussing the issues of the consulting approach towards the marketplace and competition, let's look how this affects companies internal structuring.  Looking inwards I have observed that what is considered important is not that much what is related with the final product or service or activities related to production. What is considered important is satisfying the richest customer as soon as possible. Hence the spotlight is constantly reserved for client-facing functions, with the rest (functions, people, departments) being marginalized as second class citizens.
 
 Some companies take this approach to the next level treating their whole operations as an expense. Example: We don't need to have developers in our software company, we can outsource the function and keep only a product owner who would know the history of the project. Only the *relationship* with the paying clients is necessary the rest are expenses. Imagine yourself as a developer or graphic designer or system administrator in a company like this. You work hard in order to create or enhance a product or a service and the moment it starts generating profits, you become an expense. It's like working so that you can become unemployed.
 
@@ -87,3 +87,5 @@ Initial Cover: https://www.flickr.com/photos/kumipallomaa/9579034798, from Pate-
 Next one: "[The Kiske field - local](/2015-03-20-kiske_field.html 'The Kiske field')", "[The Kiske field - medium](https://medium.com/@dimist/the-kiske-field-is-the-first-part-of-a-series-about-british-it-industry-instead-of-a-large-article-adc771399041 'The Kiske field on Medium')".
 
 Article description initially for medium: This is the first part of a series about British IT. Posts will range from "generic" to "personal" ones.
+
+Hacker news link: https://news.ycombinator.com/item?id=9484840
