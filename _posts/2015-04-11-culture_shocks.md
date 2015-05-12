@@ -13,9 +13,9 @@ I can only assume that in Israel the same must be the case in the context of an 
 
 I painfully observed a completely different approach while working in the UK: People above me in organisational charts used to engage into general conversations while in relaxed everyday situations, the "how was your weekend" water-cooler talks. When faced with a crisis or when the stakes were high, a different pattern of behaviour emerged: Everybody would blindly listen and obey the leader, whose responsibility was to guide the company or their team out of the crisis. Then we would all be friends again and chit chat over a pint of beer.
  
-I can only imagine how Rayn, head of a client face departmen t, might have felt in the following situation, talking with me:
+I can only imagine how Ryan, head of a client face department, might have felt in the following situation, talking with me:
 **Ryan** (looking stressed): "We need to do *XYZ* for *ABC*" (note: not "I want you to do *XYZ* for *ABC*").
-**Me**: Why? 
+**Me**: Why?
 **Ryan**: blah blah (one sentence explanation)
 **Me**: Based on what you just said DEF is a better option than *ABC*, should we try *DEF* instead?
 **Ryan**: I'll get back to you. Bye.
