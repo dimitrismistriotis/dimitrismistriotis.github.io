@@ -5,7 +5,7 @@ title: The Kiske field
 
 # The Kiske field
 
-The Kiske field is the second part of a series about British IT industry. Instead of a large article, I decided to split it in smaller chunks. A very important disclaimer: I have not been able to talk with the people involved in the story below nor check it out extensively, so please treat the story in the next section as fiction. First part is here: "(business relationships)[https://medium.com/@dimist/problematic-business-relationships-44dc00aeb05c "Business relatioships medium"] - (business relationships)[/posts/2015-02-01-relationships "Business relationships - local copy"]".
+The Kiske field is the second part of a series about British IT industry. Instead of a large article, I decided to split it in smaller chunks. A very important disclaimer: I have not been able to talk with the people involved in the story below nor check it out extensively, so please treat the story in the next section as fiction. First part is here: "[business relationships](https://medium.com/@dimist/problematic-business-relationships-44dc00aeb05c 'Business relatioships medium') - [business relationships](/2015/02/01/relationships.html 'Business relationships - local copy')".
 
 ## Definition - first story.
 
@@ -59,11 +59,11 @@ Where "*bang!*" is the return to the country of origin moment. Person's CV would
 Second point enhances the side-effects of point 1 - again in the past. Getting promoted
 increased the perceived value on the country of origin. Being a manager "here" translates to Sr Manager "there" so a promotion can even accelerate the speed towards the *"bang!"* point.
 
-Last points (3 and 4) are about what's happening on the other side: Imagine that you start working in a company, you do your best for a couple of years. You don't see promotion, a change in your salary or even a discussion about your career. You see this happening with other people. What would you think? How would you react?
+Last points (3 and 4) are about what's happening on the other side: Imagine that you start working in a company, you do your best for a couple of years. You don`t see promotion, a change in your salary or even a discussion about your career. You see this happening with other people. What would you think? How would you react?
 
 Observing a vicious circle: **Is your company in a Kiske field?**
 
-In the next and last article about "(culture shocks)["/posts/2015-04-11-culture_shocks" 'Culture Shocks']" (Medium), there will be some arguments on why a company **should** operate inside a Kiske field, which by reading this post seems a controversial proposition.
+In the next and last article about "[culture shocks]("/2015/04/11/culture_shocks.html" 'Culture Shocks')" [Medium](https://medium.com/@dimist/culture-shocks-1b45e8e89f99), there will be some arguments on why a company **should** operate inside a Kiske field, which by reading this post seems a controversial proposition.
 
 Note: Original cover photo from: https://www.flickr.com/photos/54459164@N00/7216896404/
 "tell me why I have to be a Powerslave" from Johnson Cameraface.
