@@ -64,7 +64,7 @@ UK dominated the industrial revolution and the globe. Industrialisation process 
 
 Another realisation was how much of everything we do derives from our culture, origins and the society from which we were brought up. Be it organisational structures, company orientation and even software. There was the false assumption that in purely technical disciples, things would be more abstract in a mathematical sense while also internationalised because of .., Internet. Maybe, the argument is best summarised in the following [Andy Warhol](http://en.wikiquote.org/wiki/Andy_Warhol) quote:
 
-"*What's great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest. You can be watching TV and see Coca-Cola, and you know that the President drinks Coke ... *"
+"*What`s great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest. You can be watching TV and see Coca-Cola, and you know that the President drinks Coke ... *"
 
 Maybe this is the core on why although theoretical foundations of computing have been laid here, US makes better software and iPhones.
 
@@ -74,4 +74,5 @@ Reconsidering the "Kiske field" post ([medium](https://medium.com/@dimist/the-ki
 
 That`s the end of this series of articles. Thank you for reading up to this point!
 
-Note: Cover photo [Culture shocks]("/images/culture_shocks-plugs.jpg"), from me.
+Note: Cover photo [Culture shocks](/images/culture_shocks-plugs.jpg), from me.
+
