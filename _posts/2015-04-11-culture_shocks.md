@@ -7,7 +7,7 @@ Decided to write on the third and last part of this series about some cultural d
 
 Starting with an entry in Quora on "[What things can you do in Israel that you cannot do in the USA?](http://www.quora.com/What-things-can-you-do-in-Israel-that-you-cannot-do-in-the-USA)": *"Tell your boss that he's an idiot and he's running the company into the ground, and still have a job the next day."*
 
-I'll contemplate on the whys, because might be the case for other nationalities as well. Let's start with a loose translation about internal company organisation from a book about Greek economy, "The invisible chasm": *"Traditionally the cell of a Greek business unit is a boat. ... When a crisis comes, usually in a form of a storm, everybody needs act individually saving themselves and everybody else present otherwise they whole boat sinks and all aboard die. It is common to listen to people swearing at their superiors, overlap  if a functional vacuum occurs... Do whatever  deemed necessary in order to get out of the situation. ..."*
+I`ll contemplate on the whys, because might be the case for other nationalities as well. Let`s start with a loose translation about internal company organisation from a book about Greek economy, "The invisible chasm": *"Traditionally the cell of a Greek business unit is a boat. ... When a crisis comes, usually in a form of a storm, everybody needs act individually saving themselves and everybody else present otherwise they whole boat sinks and all aboard die. It is common to listen to people swearing at their superiors, overlap  if a functional vacuum occurs... Do whatever  deemed necessary in order to get out of the situation. ..."*
 
 I can only assume that in Israel the same must be the case in the context of an army unit, or the traditional family living in distant countries among different nationals, the [goyim](http://en.wikipedia.org/wiki/Goy). For a number cultures, hierarchy can be broken or bypassed at will when certain situations occur.
 
@@ -18,7 +18,7 @@ I can only imagine how Ryan, head of a client face department, might have felt i
 **Me**: Why?
 **Ryan**: blah blah (one sentence explanation)
 **Me**: Based on what you just said DEF is a better option than *ABC*, should we try *DEF* instead?
-**Ryan**: I'll get back to you. Bye.
+**Ryan**: I`ll get back to you. Bye.
 
 Only that he never got back to me, but went instead to my then manager, Kevin. Next day Kevin came along:
 
@@ -27,10 +27,10 @@ Only that he never got back to me, but went instead to my then manager, Kevin. N
 **Kevin**: More or less...
 **Me**: So based on the same inputs, I will provide the same response. Now I am additionally frustrated because he bypassed me and got to you.
 **Kevin**: Ah, now it makes sense, what was needed was you to say "Yes", not argue about his points.
-**Me**: But we are in crisis mode, if I don't know how he got to these points, I will have to ask for his input every five minutes. If on the other hand he provides his insight, then I will be able to guess his needs without disrupting him.
+**Me**: But we are in crisis mode, if I don`t know how he got to these points, I will have to ask for his input every five minutes. If on the other hand he provides his insight, then I will be able to guess his needs without disrupting him.
 **Kevin**: I see; for the moment next time limit yourself to answering “Yes”.
 
-I will omit the not so happy conclusion of this story. Let's distinguish between the two approaches: Being behind schedule and in a bad place, my inertia was to break barriers, engage in direct communication, generally establish bidirectional information flows and synergy mechanisms. Ryan for the same reasons in the example above issued an order. Possibly inspired by a hierarchical understanding of the situation someone should lead (himself of course), so an "I need you to do this" approach was more appropriate. When my response was not the expected one, his gut reaction was - again - to follow they hierarchy this time through my manager. My guess would be that he would talk to me on the spot first. Finding my manager, then explaining his point of view even more, all that when in behind-schedule-stress mode just a waste of time.
+I will omit the not so happy conclusion of this story. Let`s distinguish between the two approaches: Being behind schedule and in a bad place, my inertia was to break barriers, engage in direct communication, generally establish bidirectional information flows and synergy mechanisms. Ryan for the same reasons in the example above issued an order. Possibly inspired by a hierarchical understanding of the situation someone should lead (himself of course), so an "I need you to do this" approach was more appropriate. When my response was not the expected one, his gut reaction was - again - to follow they hierarchy this time through my manager. My guess would be that he would talk to me on the spot first. Finding my manager, then explaining his point of view even more, all that when in behind-schedule-stress mode just a waste of time.
 
 What also should also be considered is the potential shock-wave delivered to Ryan: In his mindset everyone should be in "yes"-mode. Instead of that, he got a full spectrum challenging of his assumptions. In hindsight that should have been a huge "ouch" moment, a very negative surprise indeed...
 
@@ -70,8 +70,8 @@ Maybe this is the core on why although theoretical foundations of computing have
 
 ### In Defence of Kiske fields 
 
-Reconsidering the "Kiske field" post ([medium](https://medium.com/@dimist/the-kiske-field-is-the-first-part-of-a-series-about-british-it-industry-instead-of-a-large-article-adc771399041) - [local](/2015-03-20-kiske_field.html 'The Kiske field')), now there are more questions than answers: Should UK IT companies hire foreigners? If so, what should happen with their different behaviour or approach on concepts such as hierarchy? Should the differences be accepted as enhancement and an attempt to diversify business culture and operations? Or should those people be educated on how to behave as part of their induction? Or should we just place them in the bottom of the barrel, and make sure that they will stay there without ever stirring up to the top?
+Reconsidering the "Kiske field" post ([medium](https://medium.com/@dimist/the-kiske-field-is-the-first-part-of-a-series-about-british-it-industry-instead-of-a-large-article-adc771399041) - [local](/2015/03/20/kiske_field.html 'The Kiske field')), now there are more questions than answers: Should UK IT companies hire foreigners? If so, what should happen with their different behaviour or approach on concepts such as hierarchy? Should the differences be accepted as enhancement and an attempt to diversify business culture and operations? Or should those people be educated on how to behave as part of their induction? Or should we just place them in the bottom of the barrel, and make sure that they will stay there without ever stirring up to the top?
 
-That's the end of this series of articles. Thank you for reading up to this point!
+That`s the end of this series of articles. Thank you for reading up to this point!
 
 Note: Cover photo [Culture shocks]("/images/culture_shocks-plugs.jpg"), from me.
