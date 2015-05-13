@@ -5,7 +5,7 @@ title: The Kiske field
 
 # The Kiske field
 
-The Kiske field is the second part of a series about British IT industry. Instead of a large article, I decided to split it in smaller chunks. A very important disclaimer: I have not been able to talk with the people involved in the story below nor check it out extensively, so please treat the story in the next section as fiction. First part is here: "[business relationships](https://medium.com/@dimist/problematic-business-relationships-44dc00aeb05c 'Business relatioships medium') - [business relationships](/2015/02/01/relationships.html 'Business relationships - local copy')".
+The Kiske field is the second part of a series about British IT industry. Instead of a large article, I decided to split it in smaller chunks. A very important disclaimer: I have not been able to talk with the people involved in the story below nor check it out extensively, so please treat the story in the next section as fiction. First part is here: "[business relationships on Medium](https://medium.com/@dimist/problematic-business-relationships-44dc00aeb05c 'Business relatioships medium') - [business relationships - local copy](/2015/02/01/relationships.html 'Business relationships - local copy')".
 
 ## Definition - first story.
 
