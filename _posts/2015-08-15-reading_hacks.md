@@ -25,7 +25,8 @@ trigger regression or limited results.
 
 ## The hacks
 
-In loose order of importance.
+Need to state again that the ordering is In loose order of personal importance.
+For each person the importance or what to choose to invest first is different.
 
 ## Read it when you need it
 
@@ -86,7 +87,7 @@ starting the commute from a different station added 5 minutes to the journey
 but eliminated one exchange. This created a 25 minute continious pocket back
 and forth in total of almost an hour of reading per day.
 
-## It is OK to stop
+## It is OK to quit or stop
 
 This hack is again from a person from the IT start-up scene whose name I cannot
 remember: If at any given point while reading you feel like doing something
