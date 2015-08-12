@@ -2,13 +2,12 @@
 or *How I read*
 
 This post is inspired from FightMediocrity's YouTube channel video
-"How I read two to three books every week" - 
-[link](https://www.youtube.com/watch?v=qARv-vEh2o8). Great content, wanted to
-give back and also revise my techniques.
-This post is a follow up to the author's call:
-*So if any of you have advice on how you do things that can help me, and not
-only just me but everyone else in regards to this, please share so everyone
-can benefit.*
+"[How I read two to three books every 
+week](https://www.youtube.com/watch?v=qARv-vEh2o8)". Great content, wanted to
+give back and also revise my techniques. This post is a follow up to the
+author's call: *"So if any of you have advice on how you do things that can
+help me, and not only just me but everyone else in regards to this, please 
+share so everyone can benefit."*
 
 ## Choosing different techniques
 
