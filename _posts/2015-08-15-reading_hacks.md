@@ -74,8 +74,8 @@ it more.
 
 Advice from Tim Feriss from the "[4 hour week](http://www.amazon.co.uk/4-Hour-Work-Week-Escape-Anywhere/dp/0091929113/)":
 
-![How to read faster first part](images/reading_hacks/how_to_read-pt1.jpg "How to read faster first part")
-![How to read faster second part](images/reading_hacks/how_to_read-pt2.jpg "How to read faster second part")
+![How to read faster first part](/images/reading_hacks/how_to_read-pt1.jpg "How to read faster first part")
+![How to read faster second part](/images/reading_hacks/how_to_read-pt2.jpg "How to read faster second part")
 
 or this YouTube video: [How to Triple Your Reading Speed in 20 Minutes](https://www.youtube.com/watch?v=jeOHqI9SqOI), or the associated blog post: [Learn How to Triple Your Reading Speed in 5 Minutes](http://fourhourworkweek.com/2015/06/09/speed-reading/).
 
