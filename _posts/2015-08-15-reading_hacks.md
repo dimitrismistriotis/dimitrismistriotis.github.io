@@ -164,22 +164,17 @@ are also people that want to evolve and people that feel fine as they are.
 I could have not stated it better than Malkhaz Geldiashvili who inspired me to
 write this post, quoting his YouTube video transcript:
 
-*"So the two issues that I come across with this: The first one is, I always have
-one person tell me, '**That's too much**. Why are you straining yourself, dude? Like that's
-way too much.' And they say something like, 'I read a couple of books every year, and
-I'm fine with that.' And that's OK. I'm not going to criticize that, but that's what
-I do when I play tennis for example. So I play tennis a couple of times a month, but
-I would never go up to a professional tennis player, who's passionate about what he does,
-and tell him, 'Dude, why are you straining yourself? You know, just relax. You don't
-have to practice that much.' You know, it's the exact same thing. And reading is something
-that I'm most passionate about because, it has really transformed my life. With every
-book that I read, I become happier, I become financially stronger, physically stronger,
-emotionally stronger. And the second issue that I come across with sometimes is this
-whole thing of, I call it '**pseudo-aristocrat problem**.' Basically a person that read a bunch
-of Mark Twain back in the day or whatever, and he tells you, 'You know, if you don't
-read a book, then it doesn't count.' And I have done both. I've read many books and I've
-listened to many books, and I can tell you there is pretty much no real difference in
-doing either one. And you have **nothing to be ashamed of**."*
+*“So the two issues that I come across with this: The first one is, I always
+have one person tell me, ‘**That’s too much**. Why are you straining yourself,
+dude? Like that’s way too much.’ And they say something like, ‘I read a couple
+of books every year, and I’m fine with that.’ And that’s OK. I’m not going to
+criticize that, but that’s what I do when I play tennis for example. So I play
+tennis a couple of times a month, but I would never go up to a professional
+tennis player, who’s passionate about what he does, and tell him, ‘Dude, why
+are you straining yourself? You know, just relax. You don’t have to practice
+that much.’ You know, it’s the exact same thing. … I’ve read many books and
+I’ve listened to many books, and I can tell you there is pretty much no real
+difference in doing either one. And you have **nothing to be ashamed of**.”*
 
 # Additional resources
 
