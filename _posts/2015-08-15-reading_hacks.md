@@ -1,5 +1,5 @@
 # Reading Hacks
-or *How I read*
+or "*my reading more how-to*"
 
 This post is inspired from FightMediocrity's YouTube channel video
 "[How I read two to three books every 
