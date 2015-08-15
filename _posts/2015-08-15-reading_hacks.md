@@ -184,5 +184,5 @@ doing either one. And you have **nothing to be ashamed of**."*
 # Additional resources
 
 Have not yet utilised the advice here, next on the list:
-[Read to lead: how to digest books above your “level”](http://ryanholiday.net/read-to-lead-how-to-digest-books-above-your-level/) from Ryan Holiday.
+[Read to lead: how to digest books above your “level”](http://ryanholiday.net/read-to-lead-how-to-digest-books-above-your-level/), from Ryan Holiday.
 
