@@ -32,6 +32,7 @@ and preference. For each person the order of importance or which to choose to
 adopt is different.
 
 ## Read it when you need it
+
 The “drink water when thirsty” approach. This piece of advice originates from
 start-up literature: It is better to engage with content close to when it is
 needed in order to achieve a task. This will keep the brain active and will
@@ -111,60 +112,54 @@ often.
 
 ## Prefer paperbacks
 
-Paperbacks have some advantages: They are easier to carry around because of 
-weight and size. This means that there are more opportunities to read them
-hence one can read more for the same time.
-
-Also because of the lower price, there is less guilt in "book abuse":
-underlining them, sticking post-its, having coffee spill over in a coffe shop
-etc.
-
-For the two reasons above it is easier to circulate them among friends: borrow,
-lend etc. After one or two reads the cost per person read drops significantly.
+Paperbacks have some advantages: They are easier to carry around because of
+weight and size. This means it is easier to utilise opportunities to read,
+hence one can read more. Because of the lower price, there is less guilt in
+“book abuse”: underlining, sticking post-its, having coffee spill over in a
+coffee shop etc.
 
 There is another factor that contributes to reading paperbacks: they can be
-purchased from different sources. Remember the 3rd book of the Dune series
+purchased from alternative sources. Remember the 3rd book of the Dune series
 mentioned before? It was purchased from a Christian charity from the US for
-about £2.50 (One cup of coffee in the UK). This means that there is both the
-contribution to the charity as well as that stopping it has a £2.50 "loss",
-which would be easier than doing the same to a £30 hard-copy.
+about £2.50 which is the cost of one cup of coffee in a UK café. This means
+that there is both the contribution to the charity as well as that stop reading
+it was associated with a £2.50 “loss”, which would be easier than doing the
+same to a £30 hard-copy.
 
 ### But I hate paperbacks and I love my kindle
 
-... and that's OK. What this section wants to convey is also something in the
-lines of *"Choose your prefered medium"*. Whatever works best.
+... and that's OK. What this section wants to convey is more something in the
+lines of *"Choose your preferred medium"*. Whichever works best.
 
 ## Alternate between "fact" and "fiction" titles
 
-Maybe the most "personal" one, in the area that it might not be applicable to
-everyone. Alternating between fiction and non fiction titles helps me:
-
-* to enjoy reading more leading to generally reading more,
-* introduce new concepts,
-* cultivate my English.
+Maybe the most “personal” one, in the area that it might not be applicable to
+everyone. Alternating between fiction and non fiction titles helps to: enjoy
+reading more leading to generally reading more, introduce new concepts,
+cultivate my English.
 
 ## Buy now to read later
 
-Alternatively bookmark, write down the title, archive details.
-Buy now to read later applies mostly for items in the physical world that are
-either rare or in sale or for some reason attractive for a purchase. You see
+Alternatively bookmark when on-line, write down the title in a notepad,
+generally archive details. Buy now/read later applies more for items that are
+either rare or in sale or for any reason attractive to purchase. You see
 the volume that you want to read a bench selling for £2: Can be purchased on
 the spot and be read in a year.
 
 Alternatively archiving/bookmarking so that the information can be referenced
-back. One "app for that" is Google's Keep which can store both photos and
-text in post-it format.
+back. One "app for that" is Google's
+[Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
+which can store both photos and text in post-it format.
 
-## Accapt and Admit it
+## Accept and Admit it
 
-Placed it strategically as the last one to demonstrate that the above hacks
-are of different importance to different people. For some this could be the
-first step.
+Placed it as the last one to demonstrate that the above hacks are of different
+importance to each one. For some this could be the first step.
 
 Admit first to yourself that reading is one of the ways to educate and inform
-yourself. Then that this is OK and not for everyone. There are people that
-learn through different media or are just reading-intolerant. There are also
-people that want to evolve and people that feel fine as they are.
+yourself. Then that this is not everyone's choice and that's OK. There are
+people that learn through different media or are just reading-intolerant. There
+are also people that want to evolve and people that feel fine as they are.
 
 I could have not stated it better than Malkhaz Geldiashvili who inspired me to
 write this post, quoting his YouTube video transcript:
