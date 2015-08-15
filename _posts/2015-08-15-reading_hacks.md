@@ -11,58 +11,57 @@ share so everyone can benefit."*
 
 ## Choosing different techniques
 
-It seems that reading "hacks" are similar to setting up a person's programming
-environment: "Different things work for different people" and because of that
-no two people will have the same elements or the same mix of them working for
-them. As an example most developers I know use a different colour combination
-for highlighting source code. What is common in this case is that everyone
-has looked out, tried different things and made a choice for himself. This
-indicates how I would suggest to use this post: copy a lot from different
-places, but at the end of the day end up with something that works for you.
+Those hacks are similar to setting up a personal working environment where
+things work differently for different people. So in theory no two people should
+find the exact same elements or the same mix being equally effective for them.
+As an example most developers I know use a different colour combination for 
+highlighting source code. What is common here is that everyone looked out,
+tried different things and made a choice that suits himself. This indicates 
+how I would suggest to use this post: copy a lot from different places, but at 
+the end of the day end up with something that serves you best.
 
 Something related with skill acquisition and retention would be suggesting
 adopting one technique at a time, integrating it, then picking up another one
-etc. Even if 100% of the stuff below makes sense to you (which should not be
-the case because everyone is different), adopting each one of them might
-trigger regression or limited results.
+and so forth. Even if 100% of the stuff below makes sense, adopting all of
+them might trigger regression or limited results.
 
 ## The hacks
 
-Need to state again that the ordering is In loose order of personal importance.
-For each person the importance or what to choose to invest first is different.
+Need to state again that the ordering is In loose order of personal importance
+and preference. For each person the order of importance or which to choose to
+adopt is different.
 
 ## Read it when you need it
+The “drink water when thirsty” approach. This piece of advice originates from
+start-up literature: It is better to engage with content close to when it is
+needed in order to achieve a task. This will keep the brain active and will
+allow higher absorbency rates.
 
-The "it is better to drink water while feeling thirsty analogy". This piece of
-advice originates from start-up literature but cannot now remember the origin.
-It is better to engage with content close to when it is needed in order to
-achieve a task. This will keep the brain active and will allow higher
-absorvance rate of content.
-
-An example from my experiences would be Noam Wassermann's "The founder's
-dilemmas", which has lots of statistical analysis on various start-up companies
-and what they encounter. There is a chapter about stuffing. I read that book
-while in a start-up scenario we would be in the process of discussing if a
-person should be hired and what characteristics that person should have as well
-as compensation etc. Maybe the highest pages per day ratio ever.
+An example from my experience would be reading Noam Wassermann’s “The founder’s
+dilemmas”, which has lots of statistical analysis on various start-up companies
+and what they encounter, one chapter is about stuffing. I read that book while
+in a start-up scenario we would be in the process of discussing if a person
+should be hired and what characteristics that person should have as well as
+other aspects such as compensation versus equity. Maybe I achieved the highest
+pages per day ratio ever.
 
 So the hack would be summarised to: Identify a gap that needs to be addressed
-in the near future, then read material related to that gap.
+in the near future, then engage with material related to that gap.
 
 ## Read it when you want it
 
 The second strongest force after necessity should be desire or curiosity. This
-applies both for fiction and non-fiction titles. Identify things that are of
-interest to you and engage when you feel like it.
+applies both for fiction and non-fiction titles: identify things that are of
+interest to you and engage when you feel like it. Try to avoid what is
+currently popular or trending on the web or hip, unless it has to do with your
+interests.
 
-Try to avoid what is currently popular or trending on the web or just hip,
-unless of course it has to do with your interests.
-
-Example: I have a semi-professional interest in advertising and the arts of
-persuasion in general. I was lucky enough to win a copy of Byron Sharp's "how
-brands grow". It immediately became the next item  of my list. If I realise
-that I ended up not so interested in the subject, it will probably be given to
-someone that might like or need it more.
+Example: I have a semi-professional interest in advertising and generally in
+the arts of mass-persuasion . I was lucky enough to win a copy of Byron Sharp’s
+"[how brands grow”](http://marketinglawsofgrowth.com/)". It immediately became
+the next item of my list. If I realise that I ended up not so interested in the
+subject, it would have probably been passed to someone that might like or need
+it more.
 
 ## Read actively
 
@@ -73,41 +72,42 @@ Advice from Tim Feriss from the "[4 hour week](http://www.amazon.co.uk/4-Hour-Wo
 
 or this YouTube video: [How to Triple Your Reading Speed in 20 Minutes](https://www.youtube.com/watch?v=jeOHqI9SqOI), or the associated blog post: [Learn How to Triple Your Reading Speed in 5 Minutes](http://fourhourworkweek.com/2015/06/09/speed-reading/).
 
-Following lines with the finger provided a great speed multiplier and focus
-assistance even when some distractions were around. Then adjusting the eyes
-as adviced provided an additional incremental improvement.
+Following lines with the finger tracing provided a great speed multiplier and
+focus assistance even when some distractions were around. Then adjusting the
+eyes as advised provided an additional incremental improvement.
 
-In order to be active and engaged some people hold a pen or marker to underline
-passages. An complimental approach is to use post-its for interesting pages.
-I have seen the latter also as a substitution for underlining for whoever
-does not want to "damage" the book.
+In order to be active and engaged some prefer a pen or marker to underline
+passages. An compartmental approach is to use post-its on pages. I have seen
+the latter also as a substitution for underlining for whoever does not want to
+"damage" the book.
 
 ## Make time
 
-By engaging into small rearrangments of day to day schedule can many times
-create pockets of time for extra reading. On London using the underground,
+Making small rearrangements of daily schedule can often create pockets of time
+for extra reading. As an example while in London using the underground:
 starting the commute from a different station added 5 minutes to the journey
-but eliminated one exchange. This created a 25 minute continious pocket back
-and forth in total of almost an hour of reading per day.
+but eliminated one train exchange. This created a 25 minute continuous commute
+back and forth, totalling to almost an hour for reading each working day.
 
 ## It is OK to quit or stop
 
-This hack is again from a person from the IT start-up scene whose name I cannot
+This hack is again from a person from the IT start-up scene whom I cannot
 remember: If at any given point while reading you feel like doing something
 else, then stop. Do what you have to and then come back or leave it for another
 day.
 
-I would say that it is OK to stop reading books if they suddenly are not
-any more interesting or if the mood about them changed. This happened with the
-third part of the Dune series: I wanted to read about the sands of Arakis,
-but after following up from volume two just could not follow through. I dropped
-the book immediately.  Will probably pick it up at some point in the future.
-A friend of mine always reads books up to their last page no matter what. After
-trying to do this, I found myself not wanting to read anything significant for
-a couple of weeks, so it did not apply to me.
+I would extend this suggesting that it is OK to stop reading books if they end
+up not interesting or if the mood about them changes. This happened with the
+third part of the Dune series: I wanted to read more about the sands of the
+planet Arrakis, but after following up from volume two I just could not follow
+through. I dropped the book immediately and will probably pick it up at some
+point in the future. A close friend always reads books up to their last page no
+matter what.  After trying to do the same, I found myself not wanting to read
+anything significant for a couple of weeks.
 
-The above should not become a habit: starting but never finishing. The tactic
-should exist as a tool, but one of the tools that are not used often.
+The above should not become a habit of starting something and never finishing.
+The tactic should exist as a tool, but one of the tools that are not used
+often.
 
 ## Prefer paperbacks
 
