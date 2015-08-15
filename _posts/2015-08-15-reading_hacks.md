@@ -1,3 +1,9 @@
+---
+layout: default
+title: Reading hacks
+permalink: /posts/reading_hacks
+---
+
 # Reading Hacks
 or "*my reading more how-to*"
 
