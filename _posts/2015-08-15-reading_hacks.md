@@ -8,11 +8,11 @@ permalink: /posts/reading_hacks
 or "*my reading more how-to*"
 
 This post is inspired from FightMediocrity's YouTube channel video
-"[How I read two to three books every 
+"[How I read two to three books every
 week](https://www.youtube.com/watch?v=qARv-vEh2o8)". Great content, wanted to
 give back and also revise my techniques. This post is a follow up to the
 author's call: *"So if any of you have advice on how you do things that can
-help me, and not only just me but everyone else in regards to this, please 
+help me, and not only just me but everyone else in regards to this, please
 share so everyone can benefit."*
 
 ## Choosing different techniques
@@ -20,10 +20,10 @@ share so everyone can benefit."*
 Those hacks are similar to setting up a personal working environment where
 things work differently for different people. So in theory no two people should
 find the exact same elements or the same mix being equally effective for them.
-As an example most developers I know use a different colour combination for 
+As an example most developers I know use a different colour combination for
 highlighting source code. What is common here is that everyone looked out,
-tried different things and made a choice that suits himself. This indicates 
-how I would suggest to use this post: copy a lot from different places, but at 
+tried different things and made a choice that suits himself. This indicates
+how I would suggest to use this post: copy a lot from different places, but at
 the end of the day end up with something that serves you best.
 
 Something related with skill acquisition and retention would be suggesting
@@ -185,5 +185,5 @@ difference in doing either one. And you have **nothing to be ashamed of**.”*
 # Additional resources
 
 Have not yet utilised the advice here, next on the list:
-[Read to lead: how to digest books above your “level”](http://ryanholiday.net/read-to-lead-how-to-digest-books-above-your-level/), from Ryan Holiday.
+[Read to lead: how to digest books above your "level"](http://ryanholiday.net/read-to-lead-how-to-digest-books-above-your-level/), from Ryan Holiday and and [33 thoughts on reading](http://austinkleon.com/2014/10/17/33-thoughts-on-reading/) by Austin Kleon.
 
