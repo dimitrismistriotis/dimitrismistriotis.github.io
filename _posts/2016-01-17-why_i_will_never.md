@@ -15,7 +15,7 @@ The reasons that make me currently unsuitable for most UK minded, not necessary 
 * Interfacing,
 * Desire for excellence, customer satisfaction,
 * Improper approach to being international,
-* Glass walls - which kind of make sense,
+* Glass walls (that kind of make sense),
 * NEXT ONES HERE OR REMOVE THIS LINE.
 
 ## Interfacing
@@ -34,9 +34,7 @@ The interaction can possibly progress becoming an "insight".
 
 SECOND DIAGRAM HERE.
 
-Allow to revisit some experiences accumulated along my employment for UK based companies (3).
-
-### He needs improvement
+Here are some anecdotes from following the second way with people following the first.
 
 ### Why we are paying you
 
@@ -44,7 +42,16 @@ Sitting in a meeting room with Rachel, head of marketing. Last week the marketin
 
 **Rachel**: We will air more TV advertisements in the following weeks in those dates, will that be OK?
 **Me**: Sure, can I ask why did we choose to go on TV?
-**Rachel**: (ignores my question) It will be next Friday, Monday the 5th and then we will get feedback from sales to see how and when to schedule more.
+**Rachel**: (ignores the question) It will be next Friday, Monday the 5th and then we will get feedback from sales to see how and when to schedule more.
+... conversation continues ...
+**Me**: Can I ask again about why air a TV advertisement? You didn't answer before...
+**Rachel**: Listen, we (imperial "we") are paying you to work on the web side, how we advertise is my responsibility and it is not your job to ask how we advertise.
+
+Of course I was approaching the whole situation as a pure technical issue: is it an one off (so I should increase capacity temporarily) or a thing that will be persist (I should look for a more permanent solution)? Is it because *"our targeted demographic is in their 40s and 50s in a not so Internet savvy region"* so I should be more careful on not using technical terms on the copies and also remind the copy writer? If I am not allowed to get an insight on how Rachel thinks, how can I empathise with her or what she wants to achieve so that I can make small decisions without asking her?
+
+### Needs improvement
+
+A funny story in retrospect happened when a line manager informed me in an meeting that a person that I was working him told him to communicate to me that "I needed to improve my English". While asking for specifics, like what should be particularly improved, there was the following comment: *"Dimitrios is asking so many questions, I do not know what is wrong just cannot understand why he doesn't get what he needs to do on the first time"*. So I should just execute whatever was communicated no questions asked and the only way someone would ask something would be because... he didn't get it the first time.
 
 Notes:
 
