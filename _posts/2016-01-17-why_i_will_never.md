@@ -10,13 +10,7 @@ It starts with a story: I am sitting in a small meeting room of the US-based mul
 
 The story continues with my current manager asking me if I am OK and why I don't look happy. I decided to tell him that I had been happy when he broke the news and was concerned on how to keep up and improve. At the back of my head I have two different thoughts fighting like that little angel and devil from those vintage cartoons. The one shouts: "Be happy and party" the other one screams: "Write about it, process it and let people know". They both won.
 
-The reasons that make me currently unsuitable for most UK minded, not necessary UK based employers as I have experienced in the last seven years working here but also from discussions with many people are:
-
-* Interfacing,
-* Desire for excellence, customer satisfaction,
-* Improper approach to being international,
-* Glass walls (that kind of make sense),
-* NEXT ONES HERE OR REMOVE THIS LINE.
+Wills start with the internal organisational structure, how departments and people interact.
 
 ## Interfacing
 
@@ -26,7 +20,7 @@ Suppose we have two teams that need to work together, the green and the orange. 
 
 FIRST DIAGRAM HERE.
 
-I have been educated in a more interactive way where there is a lot of interaction between teams and people representing them. The first interactions should be dedicated for that discovery process, consisting mostly of questions and answers about what people do and how they see things. The boundaries of communication are a little bit fuzzy and while trying to fulfil the "requirements" of your internal or external clients there is a parallel dialogue going on from which you are trying to get insights on their deeper needs and motivation and similarly them from you.
+I have been educated in a more interactive way where there is a lot of interaction among teams and their representatives. The first interactions should be dedicated for that discovery process, consisting mostly of questions and answers about what people do and how they see things. The boundaries of communication are a little bit fuzzy and while trying to fulfil the "requirements" of your internal or external clients there is a parallel dialogue going on from which you are trying to get insights on their deeper needs and motivation and similarly them from you.
 
 SECOND DIAGRAM HERE.
 
@@ -52,6 +46,12 @@ Of course I was approaching the whole situation as a pure technical issue: is it
 ### Needs improvement
 
 A funny story in retrospect happened when a line manager informed me in an meeting that a person that I was working him told him to communicate to me that "I needed to improve my English". While asking for specifics, like what should be particularly improved, there was the following comment: *"Dimitrios is asking so many questions, I do not know what is wrong just cannot understand why he doesn't get what he needs to do on the first time"*. So I should just execute whatever was communicated no questions asked and the only way someone would ask something would be because... he didn't get it the first time.
+
+## Peer to Peer versus Client/Server
+
+Another way to frame the same argument would be a "peer to peer" versus a "client/server" approach. In a peer to peer company, the management sets priorities and targets, internal rules as well as manages the business culture. It is up to the different departments, the peers, to fulfil the above acting in the best interests of the organisation. Differernt departments and people have their own **relative importance**, needs and targets within the the organization.
+
+In a "client/server" fashion there is an imaginary pyramid where the ones higher dictate to the lower ones essentially what to do. There is no realtive importance or targets. The importance and sense of urgency is **binary**. Either you are on the "client" side where what you say must be implemented as soon as possible and the way you want it, or you are on the receiving end where you have to obey. One or Zero, nothing in between. Example: if a company decides to focus on branding and the marketing department decides that changing the front page is important, it is OK for them to cancel the "searching" project which is 90% complete and would give a better user experience, which is what they thought was necessary three months before. Reallocating resources back and forth is not their problem, nor do they care. There is no possibility to negotiate delivering the front page changes one week later or schedule for both in parallel, remember you are the zero.
 
 Notes:
 
