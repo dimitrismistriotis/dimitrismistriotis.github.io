@@ -257,3 +257,7 @@ body div.container p i.contact_icon {
   margin-right: 5px;
 }
 
+img.book_post {
+  width: 120px;
+  height: 180px;
+}
