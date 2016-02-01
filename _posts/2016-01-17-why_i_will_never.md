@@ -6,6 +6,8 @@ permalink: /posts/why_i_will_never
 
 # Why I will never work again for a British company (1)
 
+(subheader: from a person that loves provocative headers)
+
 Decided to write these posts after this recent experience: I sit in a small meeting room of the US-based multinational for which I am currently employed doors locked, facing a video screen on which my current manager summarises the latest appraisal and the changes that it will bring to my financial situation. The summary ends with three reasons on why my performance has been good. Suddenly my mind plays a nasty deja-vu trick and transports me to a very similar situation three to four years before in a meeting room similar to the one I am sitting right now belonging to a UK-based employer with my then line manager reading from a printer paper why I am not doing good and need improvement. The deja-vu tinkers with my head because in both cases the rational was exactly the same but with the exact opposite outcome!
 
 The story continues with my current manager asking me if I am OK and why I don't look happy. I decided to tell him that I have been so surprised by the news that I am speechless. Something not far from the truth but for two competing reasons as at the back of my head I have two different thoughts fighting like that little angel and devil from those vintage cartoons. One shouts: "Be happy and party" the other screams: "Write about it, process it and let people know". They both won.
@@ -51,11 +53,15 @@ A funny story in retrospect happened when a line manager informed me in an meeti
 
 Borrowing from computer systems architecture, another way to frame the same argument would be a "peer to peer" versus a "master/slave"(4) approach. In a peer to peer company, the management sets priorities and targets, internal rules as well as manages the business culture. It is up to the different departments, the peers, to fulfil the above acting in the best interests of the organisation. Differernt departments and people have their own **relative importance**, needs and targets within the the organization.
 
-In a "client/server" fashion there is an imaginary pyramid where the ones higher dictate to the lower ones essentially what to do. There is no realtive importance or targets. The importance and sense of urgency is **binary**. Either you are on the "client" side where what you say must be implemented as soon as possible and the way you want it, or you are on the receiving end where you have to obey. One or Zero, nothing in between. Example: if a company decides to focus on branding and the marketing department decides that changing the front page is important, it is OK for them to cancel the "searching" project which is 90% complete and would give a better user experience, which is what they thought was necessary three months before. Reallocating resources back and forth is not their problem, nor do they care. There is no possibility to negotiate delivering the front page changes one week later or schedule for both in parallel, remember you are the zero.
+In a "master/slave" environment the people on the "master" side dictate to the "client" ones what to do. Between those two the relationship cannot be anything but **binary** maybe with some politeness as icing on top for sugarcoating purposes. When you are on the "master" side whatever you say must be more or less be implemented, on the "slave" side you can more or less obey - no middle ground. To make matters worse IT is always on the "slave" side, even in technology related companies.
+
+
+Rewrite:
+Example: if a company decides to focus on branding and the marketing department decides that changing the front page is important, it is OK for them to cancel the "searching" project which is 90% complete and would give a better user experience, which is what they thought was necessary three months before. Reallocating resources back and forth is not their problem, nor do they care. There is no possibility to negotiate delivering the front page changes one week later or schedule for both in parallel, remember you are the zero.
 
 Notes:
 
-1. Extravagant title aiming to grab attention the proper one is: *"Why I am not inclined to pursue future employment to a company of British origin"*.
+1. Extravagant title aiming to grab attention the proper one is: *"Why I am not inclined to pursue future employment to a company of British origins"*. Apart from humour, title has a little bit of clickbait intention, apologies if it annoys the reader.
 2. The diagrams are inspired from "LINK TO BUSINESS INSIDER ARTICLE AND TITLE", but not exactly the same.
 3. The stories are a mix of different ones hence fictional but with actual experiences as structural elements. They have also been trimmed to get faster to the point and also the names are random.
 4. Note that the term "client/server" is mostly used. This is an example of applying politicall correctness to language, on which we will return in a subsequent post.
