@@ -22,3 +22,7 @@ In one of the companies that I used to work for, I was very upset because the st
 ## For intro
 
 Because the places that I have worked for are stated in my CV, which is publicly available, or can be retrieved from a linked-in search, I did not want to refer to specific people or companies as I did not ask for their permission while there is always the possibility of legal implications. The examples that I mention are stories from me and other people mixed and remixed together. So although the material is true the specific incidents are not as they are an accumulation of facts from different places, times and people. Where I supplied concrete stories such as experiences of me, I changed names or other details essentially to anonymize them.
+
+Family friend scientific observation:
+
+I was talking about my experiences and observations with a family friend that has worked with many US-Americans and Britons extensively in the past. He told me more or less this: "Do you know what I believe is the difference between those two? If what you do wields results, people from the USA even if they don't understand how you operate, will come to you and say: 'How much do you want to come to work with us?', Britons will first try to ignore it as if it never occurred and if you persist they will try to stop you even if your methods are right and the results OK".
