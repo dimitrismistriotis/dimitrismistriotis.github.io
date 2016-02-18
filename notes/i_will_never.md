@@ -1,5 +1,16 @@
 # I will never - notes
 
+Absence of feedback loops, Chinese whispers games
+
+There is a very good video explaining industry issues, one of them this from a city veteran:
+
+VIMEO
+
+The "master/slave" mode has another the added benefit of killing feedback loops: being on the "slave" side asking for additional instructions, disambiguations is let's say not encouraged. On top of that usually having an opinion or turning someone off is a punishable offence. The first implication of this is that what should be developed is not what the "client" side has on it's mind, even if we accept that the "master/slave" model is an OK way to do things, but what the "slave" side understood on the first - and only - communication circle. The rest has to be deduced or assumed.
+
+
+What I have heard more than once, as if people have copy pasted is the following: "Let's do what we got told to so that we will be OK, and then they will see that it didn't work". Well if you are so sure that it will not work, why not bring it up before committing any resources in the first place?
+
 The bad c-word
 
 The c-word that is almost never used is "context". Following up from the interaction analysis between people and departments, it's immediate consequence is that requests or better orders come without context: "Do this".
