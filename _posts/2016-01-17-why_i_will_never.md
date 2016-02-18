@@ -1,18 +1,14 @@
 ---
 layout: default
-title: Why I will never work again for a British company
+title: Why I will never work again for a London-type company
 permalink: /posts/why_i_will_never
 ---
 
-# Why I will never work again for a British company (1)
-
-(subheader: from a person that loves provocative headers)
+# Why I will never work again for a London-type company (1)
 
 Decided to write these posts after this recent experience: I sit in a small meeting room of the US-based multinational for which I am currently employed doors locked, facing a video screen on which my current manager summarises the latest appraisal and the changes that it will bring to my financial situation. The summary ends with three reasons on why my performance has been good. Suddenly my mind plays a nasty deja-vu trick and transports me to a very similar situation three to four years before in a meeting room similar to the one I am sitting right now belonging to a UK-based employer with my then line manager reading from a printer paper why I am not doing good and need improvement. The deja-vu tinkers with my head because in both cases the rational was exactly the same but with the exact opposite outcome!
 
 The story continues with my current manager asking me if I am OK and why I don't look happy. I decided to tell him that I have been so surprised by the news that I am speechless. Something not far from the truth but for two competing reasons as at the back of my head I have two different thoughts fighting like that little angel and devil from those vintage cartoons. One shouts: "Be happy and party" the other screams: "Write about it, process it and let people know". They both won.
-
-So, "why I will never work again for a British company", title exagerated to inrtigue you, part one about internal organisational structure and how departments and people interact.
 
 ## Interfacing
 
@@ -61,7 +57,7 @@ Before further dive in to other observations two specific manifestations of the 
 
 Notes:
 
-1. Extravagant title aiming to grab attention the proper one is: *"Why I am not inclined to pursue future employment to a company of British origins"*. Apart from humour, title has a little bit of clickbait intention, apologies if it annoys the reader.
+1. Initial title was about "British" companies, but after some research it seems that some of the stuff mentioned are more specific to the London zone. Having never worked outside Greater London and being conservative, settled on the current title.
 2. The diagrams are inspired from "LINK TO BUSINESS INSIDER ARTICLE AND TITLE", but not exactly the same.
 3. The stories are a mix of different ones hence fictional but with actual experiences as structural elements. They have also been trimmed to get faster to the point and also the names are random.
 4. Note that the term "client/server" is mostly used. This is an example of applying political correctness to language, on which we will return in a subsequent post.
