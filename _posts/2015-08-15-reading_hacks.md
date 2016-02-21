@@ -157,6 +157,14 @@ back. One "app for that" is Google's
 [Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
 which can store both photos and text in post-it format.
 
+After the death of Umberto Eco, this comment from Nassim Nicholas Taleb after visiting Eco's house surfaced:
+
+![eco-taleb](/images/eco-taleb.png "eco-taleb")
+
+Let's listen to the masters!
+
+**Source: [https://twitter.com/tgeorgakopoulos/status/701004846313426948/](https://twitter.com/tgeorgakopoulos/status/701004846313426948/)**
+
 ## Accept and Admit it
 
 Placed it as the last one to demonstrate that the above hacks are of different
