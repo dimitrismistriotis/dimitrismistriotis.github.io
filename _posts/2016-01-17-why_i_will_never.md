@@ -10,6 +10,8 @@ Decided to write these posts after this recent experience: I sit in a small meet
 
 The story continues with my current manager asking me if I am OK and why I don't look happy. I decided to tell him that I have been so surprised by the news that I am speechless. Something not far from the truth but for two competing reasons as at the back of my head I have two different thoughts fighting like that little angel and devil from those vintage cartoons. One shouts: "Be happy and party" the other screams: "Write about it, process it and let people know". They both won.
 
+Maybe add here: add observation and list of what will be discussed. Bullet points and follow up to interfacing.
+
 ## Interfacing
 
 Let's start with one of the reasons stated above. get to the differentiating reasons but first an insight on how I process/treat my "work" (2).
