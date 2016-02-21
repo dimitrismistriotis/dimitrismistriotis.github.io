@@ -165,7 +165,7 @@ Let's listen to the masters!
 
 **Source: [https://twitter.com/tgeorgakopoulos/status/701004846313426948/](https://twitter.com/tgeorgakopoulos/status/701004846313426948/)**
 
-## Accept and Admit it
+## Admit it and accept it
 
 Placed it as the last one to demonstrate that the above hacks are of different
 importance to each one. For some this could be the first step.
