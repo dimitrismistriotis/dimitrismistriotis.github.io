@@ -8,30 +8,34 @@ permalink: /entroware
 
 ## Story so far, Apple and other options
 
+### Apple
+
 ![Licensed not sold](images/entroware/licensed_not_sold.jpg "Licensed not sold")
 
 Was a happy Apple consumer for the last 7 years (2 laptops, upgrades, some accessories). Wonderful customer service once I needed it. Decided not to get another one from them for  the following reasons:
-* Repairability: Internal WiFi broke. Found out that (1) it is extremely rare and (2) difficult to fix. Repairability was not an issue in the past, but currenltly decided to keep laptops for as long as possible so immediatelly if became one.
+* Repairability: Internal WiFi broke. Found out that (1) it is extremely rare and (2) difficult to fix. Repairability was not an issue in the past, but currently decided to keep laptops for as long as possible so immediately if became one.
 * Closed systems and aggressive lock in. What I did not like from Microsoft in the 90s, Apple is forcing now (custom screws, screen sharing limited to apple TVs are two examples).
 * Started getting fed up with the even changing charger adapters and having to spend lots of money for an adapter.
 * The fact that you do not "own" the software but are licensed to use it (as I read it in the visualised terms and conditions here: http://itunestandc.tumblr.com/image/132727649660, here for more: http://itunestandc.tumblr.com/) was the last straw.
 * Negating the arguments above, will keep the original machine so I will have an Apple computer should I need to use one, I'll switch on one I already have.
 
-![Effective immidiately](images/entroware/notices_immidiatelly.jpg "Effective immidiately")
+![Effective immediately](images/entroware/notices_immediately.jpg "Effective immediately")
 
-Another option championed by a hardware techie friend was to buy a cheap or a used Windows laptop and install my favourite Linux distribution on top with the added benefit of dual booting. I did not want to try this because (1) there are no actual compatibility gurantees and (2) there are battery/hibernation issues. The compatibilty argument (1) is a weak one because hardware is more or less supported these days, specially if not on the bleeding edge. There is the possibility though of something not working or not being supported well enough. The battery/hibernation (2) issues are more common. It seems that - although I am no expert on the subject - that hibernation and battery consumption is very difficult and not all hardware plays well with that. Having a laptop that needs charging every 2-3 hours, instead of saying 4-5 or more is something that costs electricity, strains the battery and beats the definition of having a laptop. For this reason the buy and install option was rejected. All these lead to a Linux specific vendor.
+### Used Laptop
+
+Another option championed by a hardware techie friend was to buy a cheap used Windows laptop and install my favourite Linux distribution on top or dual boot. I did not want to try this because (1) there are no actual compatibility guarantees and (2) there are battery/hibernation issues. The compatibility argument (1) is a weak one because hardware is more or less supported these days, specially if not on the bleeding edge. There is the possibility though of something not working or not being supported well enough. The battery/hibernation (2) issues are very common with this option. It seems that - although I am no expert on the subject - that hibernation and battery consumption is technically difficult and not all hardware plays well with Linux kernels. Having a laptop that needs charging every 2-3 hours, instead of saying 4-5 or more is something that bears electricity costs, it also strains the battery and beats the rationale of having a laptop. For this reason the buy and install option was rejected. All these lead to a Linux specific vendor.
 
 Additionally:
 
-* was willing to pay more for a linux first / linux friendly computer,
+* was willing to pay more for a Linux first / Linux friendly computer,
 * Needed a thin laptop which I could sit with in a sofa or take with me in a trip,
-* Preferred to buy from a UK firm if possible circulating as much money as I could within the country and also giving a kudo to the local people.
+* Preferred to buy from a UK firm if possible circulating as much money as I could within the country and also giving a kudos to the local industry.
 
-## Other considerations
+### System 76 and other distributors
 
 System 76 was another consideration. Currently they ship to UK but was unsure of the case of having something stopped at customs. Maybe a partnership with a local dealer or something like Amazon would help?
 Dell: no place where I could see their offering, so level was equal with Entroware.
-Refurbish company: Very nice idea, might consider them if a local (UK) manifacturer was not available. The idea of fixing the BIOS is a very clever one.
+Refurbish company: Very nice idea, might consider them if a local (UK) manufacturer was not available. The idea of fixing the BIOS is a very clever one.
 
 ## Let's hold our breath a bit
 
