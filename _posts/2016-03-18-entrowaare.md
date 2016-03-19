@@ -35,33 +35,20 @@ Additionally:
 
 System 76 was another consideration. Currently they ship to UK but was unsure of the case of having something stopped at customs. Maybe a partnership with a local dealer or something like Amazon would help?
 Dell: no place where I could see their offering, so level was equal with Entroware.
-Refurbish company: Very nice idea, might consider them if a local (UK) manufacturer was not available. The idea of fixing the BIOS is a very clever one.
+[Ministry of freedom](https://minifree.org/product/libreboot-x200/): Very nice idea, might consider them if a local (UK) manufacturer was not available. The idea of fixing the BIOS is a very clever one.
 
 ## Let's hold our breath a bit
 
-Took a bit too long to come. This is not a minus, I understood that a person assembled the laptop and then handled it over to someone else to install the software.
-After I saw the email explaining the handover I remembered that entroware's site mentions that they ship within 5-7 business days not that the order is shipped or something.
-To make the story short, the machine arrived after 13 days. I did not need it in now time so the waiting did not cause any disruption. In the meantime I compiled a migration list from my previous machine: https://gist.github.com/dimitrismistriotis/f7a84f724a173640b30a
+Took a bit to be delivered. This is not a minus; From the order updates I understood that a person assembled the laptop then handled it over to someone else to install the software.
+After I saw the email explaining the handover to the delivery I remembered that Entroware's site mentions that they ship within 5-7 business days not that the order should arrive within 5-7 business days. To make the story short, the machine arrived after 13 days. I did not need it in now time so the waiting did not cause any disruption. In the meantime I compiled a migration list from my previous machine: https://gist.github.com/dimitrismistriotis/f7a84f724a173640b30a
 
+## Other things to do while waiting for your computer to arrive
 
-Blame my English but what it meant was that the order bets to the shipping/parcel company within 5-7 days not to the delivery address. The delivery company now provided an refernce ID and a web address to check. Entroware ordered an "Express 48" service which indicates that they try to speed things up from their end loosing some money by purchasing the faster option. I thought "Express 48" meant 48 hours or 2 days. Parcel force send me then a text saying that the delivery would happen by the following 3 days (They got the parcel on 26th of February, they said I'd get it by 1st of March. Being in 2016 with 29 days the counter 48 hour counter start on the next working day).
-I do not know how this would appeal to people accustomed to Amazon Prime and the current generation accustomed to want things to happen instantly. I want to keep the machine for an average of 3 years, so some extra days do not matter as I can still wotk with my existing one.
-Gist of the situation is not to get a laptop from them if you need it in now-time, which was not the case for me: it took a while, but not a problem in my case.
+Looking around on the Internet was wandering which version of Ubuntu would be installed, what would the hardware experience be if I downgraded (it must be a version behind) to the latest elementaryOS. Because I have a spare laptop hard drive from a previous machine, I was also wandering how easy it would be to open the machine and swap hard drives. For my favourite now dead 2007 Macbook changing hard drives was ultra easy. In my current 2011 model 15 screws need to be taken off and some of them are of a different type than others. Would Entroware's Apollo allow a hard drive swap in less than 5 minutes? At the end decided to stick with the defaults and do nothing. A factor that assisted me in this decision is reading the probably current elementaryOS's iteration does not support current motherboard.
 
-Delivered on 1st of March. Which makes it order to door: 18/02/2016 to 01 13 days (2016 is a leap year). In the mean time I compiled a migration list: XXX and was eager to experience the machine.
+## First days of usage
 
-Looking around on the internet was wandering which version of Ubuntu would be installed, what would the hardware experience be if I downgraded (it must be a version behind) to the latest elementaryOS. Because I have a spare laptop hard drive from a previous machine, I was also wandering how easy it would be to open the machine and swap hard drives. In my favourite now dead 2007 Macbook changing hard drive was untra easy. In my current 2011 model 15 screws need to be taken off and some of them are of a different type than others. Would Entroware's Apollo allow a hard drive swap in less than 5 minutes?
-
-Another review:
-http://www.jupiterbroadcasting.com/96836/entroware-apollo-linux-macbook-killer-las-406/
-
-https://soundcloud.com/kevie-1/tuxjam-48-here-there-and-entroware
-
-In the meantime I compiled a list of what needed to be moved along: https://gist.github.com/dimitrismistriotis/f7a84f724a173640b30a
-
-I tried start using the laptop starting by migrating my files and configuring it from scratch (I do that in every new system so that
-clutter will not survive between installations). After a week or so, I found myself organically having migrated most of my stuff,
-using my Entroware laptop instead of my Macbook for all things Linux. Have not finished yet as my list still involves some copying.
+I tried start using the laptop starting by migrating my files and configuring it from scratch (I do that in every new system so that clutter will not persist between installations). After a week or so, I found myself having migrated most of my stuff organically, using my Entroware laptop instead of my Macbook more end more. Have not finished yet as my list still involves some copying.
 
 At some point I forgot about writing this review post realised that I had immersed into an experience that was one step ahead from the desired
 "it just works", it goes beyond doing a great job. After using it for a week as my main computer at home, I realised that Entroware's Apollo is the
@@ -115,3 +102,11 @@ http://arstechnica.co.uk/information-technology/2016/03/dells-skylake-xps-13-pre
 
 I had investigated this option in the past. Generally I found Dell's Ubuntu laptops pricey. Did not like the fact that being a generally available and popular brand, there was no place where I could touch a machine lift it and get a feel of it. This levels the field compared to other companies a lot since you buy in both cases something that you
 do not exactly know how it is unti you unbox it.
+
+Note: I think I discovered entrowere from the list here: http://linuxpreloaded.com/
+and then did some searching.
+
+## Other reviews
+
+* http://www.jupiterbroadcasting.com/96836/entroware-apollo-linux-macbook-killer-las-406/
+* https://soundcloud.com/kevie-1/tuxjam-48-here-there-and-entroware
