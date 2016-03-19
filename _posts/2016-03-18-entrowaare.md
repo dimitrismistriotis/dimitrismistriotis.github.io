@@ -37,6 +37,10 @@ System 76 was another consideration. Currently they ship to UK but was unsure of
 Dell: no place where I could see their offering, so level was equal with Entroware.
 [Ministry of freedom](https://minifree.org/product/libreboot-x200/): Very nice idea, might consider them if a local (UK) manufacturer was not available. The idea of fixing the BIOS is a very clever one.
 
+Dell: http://arstechnica.co.uk/information-technology/2016/03/dells-skylake-xps-13-precision-workstations-now-come-with-ubuntu-preinstalled/ I had investigated this option in the past. Generally I found Dell's Ubuntu laptops pricey. Did not like the fact that being a generally available and popular brand, there was no place where I could touch a machine lift it and get a feel of it. This levels the field compared to other companies a lot since you buy in both cases something that you do not exactly know how it is until unbox time.
+
+I do not remember how the company surfaced to my attention, I think from this list: http://linuxpreloaded.com/ while evaluating all available UK options.
+
 ## Let's hold our breath a bit
 
 Took a bit to be delivered. This is not a minus; From the order updates I understood that a person assembled the laptop then handled it over to someone else to install the software.
@@ -50,61 +54,42 @@ Looking around on the Internet was wandering which version of Ubuntu would be in
 
 I tried start using the laptop starting by migrating my files and configuring it from scratch (I do that in every new system so that clutter will not persist between installations). After a week or so, I found myself having migrated most of my stuff organically, using my Entroware laptop instead of my Macbook more end more. Have not finished yet as my list still involves some copying.
 
-At some point I forgot about writing this review post realised that I had immersed into an experience that was one step ahead from the desired
-"it just works", it goes beyond doing a great job. After using it for a week as my main computer at home, I realised that Entroware's Apollo is the
-laptop I always wanted to have and honestly never thought I would.
-It supports a high screen resolution without flops, I can plug the HDMI cable to my TV monitor and see a video there (full screen). It is possible to fold it, move to 
-a different room and then open it without everything stalling as hibernate works and it has a very good (maybe not perfect but nevertheless very good)
- battery autonomy. I found myself doing some Udacity classes followed by some word processing. I was holding the machine for some hours in my lap without
-feeling the battery getting warmer and warmer which was my Macbook while running Linux experience. The chasis design is good without having
-a large fruit glowing at the back and it switches on without a big TADAAA sound that needs hackery to become disabled. Bonus points: I know that if I want to upgrade it
-I can unscrew the screws in the back and that's it.
+At some point I forgot about writing this review post realised that I had immersed into an experience that was one step ahead from the desired *"it just works"*. It reaches beyond doing a great job. After using it for a week as my main computer at home, I realised that Entroware's Apollo is the laptop I always wanted to have and honestly never thought I would.
 
-The only thing that felt clunky was the trackpad experience. Initially it is configured to be both single and double button at the same time. It's top is acting as like trackpad, while the bottom does left and right clicks... Counterintuitive...
-I found myseld using my mouse which was sitting in a drawer and I was ready to throw away.
-I had this was solved on with elementaryOS so maybe I should wait a bit more or try to dig into Ubuntu's settings. Other users also did not like the
-trackpad, so I am not alone here. Also some times hit clicked the pad accidentally while typing popping the pointer of the text to where the mouse pointer was.
+It supports a high screen resolution without flops, I can plug the HDMI cable to my TV monitor and see a video there (full screen). It is possible to fold it, get to a different room and then open it without everything stalling, this because hibernate works and while the machine has a very good (maybe not perfect but nevertheless very good) battery autonomy.
 
-Concluding we have a "yes". If you are a UK resident interested into having an open source software machine, go Entroware. As simple as that.
+I found myself doing some Udacity classes followed by some word processing. I was holding the machine for some hours in my lap without feeling the area battery getting warmer and warmer which was my Macbook Linux experience. The chassis design is good without a large fruit glowing at the back and it switches on without a big TADAAA sound that needs hackery to become disabled. Bonus points: I know that if I want to upgrade one of it's components I can unscrew the screws in the back and that's it... with a regular screwdriver if anyone from Apple is listening.
 
-Some follow up thoughts:
+The only thing that felt clunky was the trackpad experience. Initially it is configured to be both single and double button at the same time. It's top is acting as like a single click trackpad, while the bottom does left and right clicks... Counter intuitive, specially when there is a key that brings on the menus.
+I found myself sometimes using my mouse which was slowly dying in a drawer and I was ready to throw away. I had this was solved on with elementaryOS so maybe I should wait a bit more or try to dig into Ubuntu's settings. Other users also did not like the trackpad, so I am not alone in this one. Also some times I clicked the pad accidentally while typing popping the pointer of the text to where the mouse pointer was pointing at the time. PITA.
 
-Is it too late?
+## Conclusion
 
-Probably. People have started shifting away from desktops, even laptops and the focus shifting towards the tablet for creative work and
-mobile for consumption. Entroware might be in an ever declining market whose users would like to create content in a Surface4 or an iPad.
-For what people like me that need to do web and general purpose programming with maybe some data wrangling or VMs/containers, it seems that most of
-the stuff needed has already been ported to OS/X. Many people have migrated from Linux to OS/X probably without considering coming back. Maybe
-the OS of choise for developers has shifted to OS/X creating an irreversable trend. Remember that recently I read that in some cases a Linux VM inside an 
-OS/X host performs way better with regards to energy consumption a single Linux installation. Obviously it has to do with Apple's tight hardware/software
-integration but nevertheless for many people OS/X is their day to day OS and Linux if needed is a VMWare/Vagrant/docker stone throw away.
+Concluding we have a **"yes"**. If you are a UK resident interested into having an open source software machine, go Entroware. As simple as that.
 
-The above opinion, that it might be too late for Linux even on the developer desktop is backed by StackOverflow's 2016 data (http://stackoverflow.com/research/developer-survey-2016#technology-desktop-operating-system). Specifically: *Last year, Mac edged ahead of the Linuxes as the number 2 operating system among developers. This year it became clear that trend is real. If OS adoption rates hold steady, by next year's survey fewer than 50% of developers may be using Windows.*
+1 - 10 rank: 9 while I was over excited. I waited a month before posting this just to see if the initial feeling would wear off but I'm still excited so **9**.
 
-The hope of local computer manifacturers, that old but not forgotten Linux promise.
+## follow up thoughts
 
-One promise of the open source movement that I had heard in the past is that by having a huge part of creating a general purpose computer - which is the OS -
-taken care of, it would be easier for local manifacturers to address needs specific to their audience. In other words produce machines that US centric
-manifacturers could not do or are not willing to. We have seen some attempts failing such FirefoxOS and some succeding such as the Rassberry Pi. Although few
-have tried, Entroware's attempts somehow revive this "dream". Manifactured or at least assembled in UK, setup with a EN/GB keyboard distributed and delivered 
-locally. Probably there is a better value proposition for desktop or servers that might need onsite support: what would be better for on-site support than
-having the people that build the machines fixing them or at least having them one phone call away?
+### Is it too late for a Linux laptop?
 
-Things I would like to see:
+Probably. People have started shifting away from desktops, even laptops and the focus shifting towards modern tablets for creative work (Microsoft's Surface, Apple's latest iPads) and mobiles for consumption. Entroware might have entered an ever declining market in size.
 
-Elementary OS and Recovery media. I got used to elementary, but want to see the latest Ubuntu first. I actually do not know (I tried to ask the Entroware's support) how to configure a machine from scratch, in case I ever want to change my hard drive for any reason. Up to now I am not sure if a plain Ubuntu USB stick and a "click install" is enough or if something else is needed. Maybe a guide on the company's blog would help. Would be good in case I wanted to try different distributions for a bit.
+For what people like me that need to do web and general purpose programming with maybe some data wrangling or VMs/containers, it seems that most of the software needed has already been progressively ported to OS/X. Many people have migrated there probably without considering coming back.
 
-1 - 10 rank: 9 but I'm over excited. I waited a month before posting this just to see if the initial feeling would wear off but I'm still excited so 9.
+Remember reading recently that in some cases a Linux VM inside an OS/X host performs better with regards to energy consumption than an actual Linux installation. Obviously it has to do with Apple's tight hardware/software integration but nevertheless for many people OS/X is their day to day OS and Linux if needed is a VMWare/Vagrant/docker stone throw away just to be closer to what their cloud provider uses.
 
-Other options:
+Maybe OS of choice for developers has shifted to OS/X creating an irreversible trend. The above opinion, is backed by StackOverflow's 2016 data (http://stackoverflow.com/research/developer-survey-2016#technology-desktop-operating-system). Specifically: *Last year, Mac edged ahead of the Linuxes as the number 2 operating system among developers. This year it became clear that trend is real. If OS adoption rates hold steady, by next year's survey fewer than 50% of developers may be using Windows.*
 
-http://arstechnica.co.uk/information-technology/2016/03/dells-skylake-xps-13-precision-workstations-now-come-with-ubuntu-preinstalled/
+### The hope for local computer manufacturers, that old but not forgotten Linux promise.
 
-I had investigated this option in the past. Generally I found Dell's Ubuntu laptops pricey. Did not like the fact that being a generally available and popular brand, there was no place where I could touch a machine lift it and get a feel of it. This levels the field compared to other companies a lot since you buy in both cases something that you
-do not exactly know how it is unti you unbox it.
+One promise of the open source movement that I had heard in the past is that by having a huge part of creating a general purpose computer - the OS - taken care of, it would be easier for local manufacturers to address needs specific to their audience. In other words produce machines that mass
+manufacturers could not do or are not willing to. We have seen some attempts failing such as FirefoxOS and some succeeding such as the Raspberry Pi. Although few have tried, Entroware's attempts somehow revive this "dream". Manufactured or at least assembled in UK, set-up with a EN/GB keyboard distributed and delivered locally. Probably there is a better value proposition for desktops or servers in SMBs that might need on-site support: what would be better for on-site support than
+having the people that build the machines repairing them while being one phone call away?
 
-Note: I think I discovered entrowere from the list here: http://linuxpreloaded.com/
-and then did some searching.
+## Things I would like to see
+
+Elementary OS and Recovery media. Got used to elementary, trying the latest Ubuntu at the moment. I actually do not know (I tried to ask the Entroware's support) how to configure a machine from scratch, in case I ever want to change my hard drive or for any reason. Up to now I am not sure if a plain Ubuntu USB stick and a "click install" is enough or if something else is needed. Maybe a guide on the company's blog would help. Would be good in case also for trying different distributions without risk.
 
 ## Other reviews
 
