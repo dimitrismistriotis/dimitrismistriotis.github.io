@@ -4,7 +4,7 @@ title: Entroware Review
 permalink: /entroware
 ---
 
-# Entroware Review
+# Entroware Apollo review
 
 ## Story so far, Apple and other options
 
@@ -25,19 +25,19 @@ Was a happy Apple consumer for the last 7 years (2 laptops, upgrades, some acces
 
 Another option championed by a hardware techie friend was to buy a cheap used Windows laptop and install my favourite Linux distribution on top or dual boot. I did not want to try this because (1) there are no actual compatibility guarantees and (2) there are battery/hibernation issues. The compatibility argument (1) is a weak one because hardware is more or less supported these days, specially if not on the bleeding edge. There is the possibility though of something not working or not being supported well enough. The battery/hibernation (2) issues are very common with this option. It seems that - although I am no expert on the subject - that hibernation and battery consumption is technically difficult and not all hardware plays well with Linux kernels. Having a laptop that needs charging every 2-3 hours, instead of saying 4-5 or more is something that bears electricity costs, it also strains the battery and beats the rationale of having a laptop. For this reason the buy and install option was rejected. All these lead to a Linux specific vendor.
 
+### System 76 and other distributors
+
+[System 76](https://system76.com/) was another consideration. Currently they ship to UK but was unsure of the case of having something stopped at customs. Maybe a partnership with a local dealer or something like Amazon would help?
+Dell: no place where I could see their offering, so level was equal with Entroware.
+[Ministry of freedom](https://minifree.org/product/libreboot-x200/): Very nice idea, might consider them if a local (UK) manufacturer was not available. The idea of fixing the BIOS is a very clever one.
+
+Dell: http://arstechnica.co.uk/information-technology/2016/03/dells-skylake-xps-13-precision-workstations-now-come-with-ubuntu-preinstalled/ I had investigated this option in the past. Generally I found Dell's Ubuntu laptops pricey. Did not like the fact that being a generally available and popular brand, there was no place where I could touch a machine lift it and get a feel of it. This levels the field compared to other companies a lot since you buy in both cases something that you do not exactly know how it is until unbox time.
+
 Additionally:
 
 * was willing to pay more for a Linux first / Linux friendly computer,
 * Needed a thin laptop which I could sit with in a sofa or take with me in a trip,
 * Preferred to buy from a UK firm if possible circulating as much money as I could within the country and also giving a kudos to the local industry.
-
-### System 76 and other distributors
-
-System 76 was another consideration. Currently they ship to UK but was unsure of the case of having something stopped at customs. Maybe a partnership with a local dealer or something like Amazon would help?
-Dell: no place where I could see their offering, so level was equal with Entroware.
-[Ministry of freedom](https://minifree.org/product/libreboot-x200/): Very nice idea, might consider them if a local (UK) manufacturer was not available. The idea of fixing the BIOS is a very clever one.
-
-Dell: http://arstechnica.co.uk/information-technology/2016/03/dells-skylake-xps-13-precision-workstations-now-come-with-ubuntu-preinstalled/ I had investigated this option in the past. Generally I found Dell's Ubuntu laptops pricey. Did not like the fact that being a generally available and popular brand, there was no place where I could touch a machine lift it and get a feel of it. This levels the field compared to other companies a lot since you buy in both cases something that you do not exactly know how it is until unbox time.
 
 I do not remember how the company surfaced to my attention, I think from this list: http://linuxpreloaded.com/ while evaluating all available UK options.
 
@@ -48,7 +48,7 @@ After I saw the email explaining the handover to the delivery I remembered that 
 
 ## Other things to do while waiting for your computer to arrive
 
-Looking around on the Internet was wandering which version of Ubuntu would be installed, what would the hardware experience be if I downgraded (it must be a version behind) to the latest elementaryOS. Because I have a spare laptop hard drive from a previous machine, I was also wandering how easy it would be to open the machine and swap hard drives. For my favourite now dead 2007 Macbook changing hard drives was ultra easy. In my current 2011 model 15 screws need to be taken off and some of them are of a different type than others. Would Entroware's Apollo allow a hard drive swap in less than 5 minutes? At the end decided to stick with the defaults and do nothing. A factor that assisted me in this decision is reading the probably current elementaryOS's iteration does not support current motherboard.
+Looking around on the Internet was wandering which version of Ubuntu would be installed, what would the hardware experience be if I downgraded (it must be a version behind) to the latest (elementaryOS)[https://elementary.io/]. Because I have a spare laptop hard drive from a previous machine, I was also wandering how easy it would be to open the machine and swap hard drives. For my favourite now dead 2007 Macbook changing hard drives was ultra easy. In my current 2011 model 15 screws need to be taken off and some of them are of a different type than others. Would Entroware's Apollo allow a hard drive swap in less than 5 minutes? At the end decided to stick with the defaults and do nothing. A factor that assisted me in this decision is reading the probably current elementaryOS's iteration does not support current motherboard.
 
 ## First days of usage
 
@@ -69,7 +69,7 @@ Concluding we have a **"yes"**. If you are a UK resident interested into having 
 
 1 - 10 rank: 9 while I was over excited. I waited a month before posting this just to see if the initial feeling would wear off but I'm still excited so **9**.
 
-## follow up thoughts
+## Follow up thoughts
 
 ### Is it too late for a Linux laptop?
 
