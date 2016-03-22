@@ -6,6 +6,8 @@ permalink: /entroware
 
 # Entroware Apollo review
 
+![Entroware](images/entroware/entroware-logo.png "Entroware")
+
 ## Story so far, Apple and other options
 
 ### Apple
@@ -60,6 +62,8 @@ It supports a high screen resolution without any issues, I can plug the HDMI cab
 
 I found myself doing some Udacity classes followed by some word processing. I was holding the machine for some hours in my lap without feeling the battery area getting warmer and warmer which was my Macbook Linux experience. The chassis design is good without a large fruit glowing at the back and it switches on without a big TADAAA sound that needs hackery to become disabled. Bonus points: I know that if I want to upgrade one of it's components I can unscrew the screws in the back and that's it… with a regular screwdriver if anyone from Apple is reading this.
 
+![No battery heat](images/entroware/lap_no_heat.jpg "No battery heat")
+
 The only thing that felt clunky was the trackpad experience. Initially it is configured to be both single and double button at the same time. It's top is acting as like a single click trackpad, while the bottom does left and right clicks… Counter intuitive, specially when there is a key that brings up the menus.
 I found myself sometimes using my mouse which I had almost thrown away. This issue was solved on with elementaryOS so maybe I should wait a bit more or try to dig deeper into Ubuntu's settings. Other users and reviewers also did not like the trackpad, so I am not alone in this one. Also some times I clicked the pad accidentally while typing popping the pointer of the text to where the mouse pointer was pointing at the time. PITA.
 
@@ -95,3 +99,7 @@ Elementary OS and Recovery media. Got used to elementary, trying the latest Ubun
 
 * http://www.jupiterbroadcasting.com/96836/entroware-apollo-linux-macbook-killer-las-406/
 * https://soundcloud.com/kevie-1/tuxjam-48-here-there-and-entroware
+
+## e-shop link
+
+https://www.entroware.com/store/apollo
