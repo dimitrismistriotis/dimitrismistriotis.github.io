@@ -64,6 +64,8 @@ I found myself doing some Udacity classes followed by some word processing. I wa
 
 ![No battery heat](images/entroware/lap_no_heat.jpg "No battery heat")
 
+![Back of the laptop with normal screws and it's first sticker.](images/entroware/laptop-back.jpg "Back of the laptop with normal screws and it's first sticker.")
+
 The only thing that felt clunky was the trackpad experience. Initially it is configured to be both single and double button at the same time. It's top is acting as like a single click trackpad, while the bottom does left and right clicks… Counter intuitive, specially when there is a key that brings up the menus.
 I found myself sometimes using my mouse which I had almost thrown away. This issue was solved on with elementaryOS so maybe I should wait a bit more or try to dig deeper into Ubuntu's settings. Other users and reviewers also did not like the trackpad, so I am not alone in this one. Also some times I clicked the pad accidentally while typing popping the pointer of the text to where the mouse pointer was pointing at the time. PITA.
 
@@ -103,3 +105,5 @@ Elementary OS and Recovery media. Got used to elementary, trying the latest Ubun
 ## e-shop link
 
 https://www.entroware.com/store/apollo
+
+![Top of machine against bank statement envelope - no glowing fruit...](images/entroware/laptop-front_vs_bank_statement.jpg "Top of machine against bank statement envelope - no glowing fruit...")
