@@ -8,13 +8,29 @@ permalink: /posts/why_i_will_never
 
 Decided to write these posts after this recent experience: I sit in a small meeting room of the US-based multinational for which I am currently employed doors locked, facing a video screen on which my current manager summarises the latest appraisal and the changes that it will bring to my financial situation. The summary ends with three reasons on why my performance has been good. Suddenly my mind plays a nasty deja-vu trick and transports me to a very similar situation three to four years before in a meeting room similar to the one I am sitting right now belonging to a UK-based employer with my then line manager reading from a printer paper why I am not doing good and need improvement. The deja-vu tinkers with my head because in both cases the rational was exactly the same but with the exact opposite outcome!
 
-The story continues with my current manager asking me if I am OK and why I don't look happy. I decided to tell him that I have been so surprised by the news that I am speechless. Something not far from the truth but for two competing reasons as at the back of my head I have two different thoughts fighting like that little angel and devil from those vintage cartoons. One shouts: "Be happy and party" the other screams: "Write about it, process it and let people know". They both won.
+The story continues with my current manager staring at the emotional blankness
+of my face asking me if I am OK and why I don't
+look as happy as I am supposed to. I decided to tell him that I have been so surprised by the news that I am speechless. Something not far from the truth but for two competing reasons as at the back of my head I have two different thoughts fighting like that little angel and devil from those vintage cartoons. One shouts: "Be happy and party" the other screams: "Write about it, process it and let people know". They both won.
 
-Maybe add here: add observation and list of what will be discussed. Bullet points and follow up to interfacing.
+If I had to picture the factors behind my rationale I would think of a diagram with overlapping
+circles something similar to this one:
 
-## Interfacing
+DIAGRAM HERE
 
-Let's start with one of the reasons stated above. get to the differentiating reasons but first an insight on how I process/treat my "work" (2).
+Generally the reasons are the following:
+
+* Departments working in isolation with each other
+* Master - slave relationships
+* Projection of the class system to the workplace where it was supposed to be an international environment
+* Preserving the status quo trumps efficiency and everything else
+* People not believing things can be better or different
+* Imperial arrogance without the imperium/empire
+* Glass walls for foreigners and unequal representation higher in organisations
+
+I will explain how I have experienced each one of them and how each interacts
+or overlaps with another.
+
+## Communication lines between departments
 
 Suppose we have two teams that need to work together, the green and the orange. The most common pattern of interaction that I have observed is the "I say you do" one where someone acting as a client/master requests things to be done and the other one can usually only acknowledge.
 
