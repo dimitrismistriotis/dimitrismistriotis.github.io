@@ -10,7 +10,7 @@ Decided to write these posts after this recent experience: I sit in a small meet
 
 The story continues with my current manager staring at the emotional blankness
 of my face asking me if I am OK and why I don't
-look as happy as I am supposed to. I decided to tell him that I have been so surprised by the news that I am speechless. Something not far from the truth but for two competing reasons as at the back of my head I have two different thoughts fighting like that little angel and devil from those vintage cartoons. One shouts: "Be happy and party" the other screams: "Write about it, process it and let people know". They both won.
+look as happy as I am supposed to. I decided to tell him that I have been so surprised by the news that I am speechless. Something not far from the truth but for two competing reasons as at the back of my head I have two different thoughts fighting like that little angel and devil from those vintage cartoons. One shouts: "Be happy, party, and forget everything else" the other screams: "Write about it, process it and let people know". Somehow they both won.
 
 If I had to picture the factors behind my rationale I would think of a diagram with overlapping
 circles something similar to this one:
@@ -20,10 +20,11 @@ DIAGRAM HERE
 Generally the reasons are the following:
 
 * Departments working in isolation with each other
-* Master - slave relationships
+* Master - slave relationships internal and external
 * Projection of the class system to the workplace where it was supposed to be an international environment
+* Absence of rules and transparency - just obey
 * Preserving the status quo trumps efficiency and everything else
-* People not believing things can be better or different
+* People not believing things can be different or even better
 * Imperial arrogance without the imperium/empire
 * Glass walls for foreigners and unequal representation higher in organisations
 
@@ -45,6 +46,8 @@ The interaction can possibly progress becoming an "insight".
 SECOND DIAGRAM HERE.
 
 Here are some anecdotes from following the second way with people following the first.
+
+Following are some manifestations of the menallity above
 
 ### Why we are paying you
 
@@ -72,6 +75,35 @@ In a "master/slave" environment the people on the "master" side dictate to the "
 There was the experience with the communications revamp: The development team was in the last phases of a refactoring that had the introduction of some significant functionality as a by-product and a specific technology for which that girl, let's call her Aruna was interested in (5). At that point people from customer service ~~asked~~ ordered us to do yet another re-write of the email communication to our users because "important client X said so". To our pleas for pushing it back for a week so that we could finish what we were doing, moreover as it had been pushed back more than once, we got a display of power: we say you do, STFU in between and move on "please". Even the argument that the refactoring would be further delayed because of the context switch fell to deaf ears: "No we can inject additional work and the schedule remains the same". The story ended with our friend Aruna starting to update her CV and leaving the company in two months after the incident to greener pastures. The injected stuff was half baked because it just did not fit the flow, "big client X" did not end up happy. Rafactoring got severely cut down. COmpany suffered but at least the master/slave model preserved thanks God.
 
 Before further dive in to other observations two specific manifestations of the master/slave model: Chinese whispers and the "c-word" in the next post.
+
+
+### It's far more better to say yes and do it wrong than have a talk and do it right
+
+After discussing the above with many people as well as some self reflection to previous experiences,
+it seems that it is far better to do the wrong thing and iterate then try to do something right
+the first time.
+
+When you are in the room gathering requirements, you are allowed to ask as little as possible or
+even better nothing. What is important is to say "yes" to your master. Then you can go back to
+your desk, play chinese wishpers with your subordinates and produce somehow an artifact based on
+your understanding of his master's voice. Then you display the output of your work and receive
+some feedback: "I meant this", "it looks to me more that we should do that", etc. Then rinse and
+repeat.
+
+Eventually though with much more resources and effort a final result which is what the master
+wanted will be reached, moreover what is the important factor is that whenever there was a meeting
+you reached the saying yes point very fast, you are such a good slave. What people like me did
+not understand is that your "master" here is probably "slave" to someone else. He did not even bother
+acquiring as much information or understanding of the situation because he did not wanted to disrupt
+this chain of relationships. This behaviour is the fabric of the whole system.
+
+In my world, and it seems that it is the world of also the USA based companes (which remember in
+IT are doing bettter than the UK ones so they are "right"), talent and time are scarse resources.
+Asking questions, empathising and getting insights will speedup those feedback loops. It is OK
+not to know something and leave it up for later or even use the output of an itteration as a basis
+for a future conversation. On top it is OK to say that "there is not enough information at this
+point so we cannot start anything". The master can be sad in the present as long as  him or the
+company can be happy in the future
 
 Notes:
 
