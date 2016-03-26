@@ -20,16 +20,23 @@ DIAGRAM HERE
 Generally the reasons are the following:
 
 * Departments working in isolation with each other
-* Master - slave relationships internal and external
-* Projection of the class system to the workplace where it was supposed to be an international environment
+* Master - slave relationships when they collaborate internally and externally
+* Projection of the class system to the workplace and other "localities" while it was supposed to be an international environment
+* Exellence intollerance.
+* Too much reliant on how "the City"/financial sector works even in industries that are very different - fixed mentallity.
 * Absence of rules and transparency - just obey
-* Preserving the status quo trumps efficiency and everything else
+* Preserving the status quo trumps efficiency (or honestly everything else)
 * People not believing things can be different or even better
 * Imperial arrogance without the imperium/empire
 * Glass walls for foreigners and unequal representation higher in organisations
 
 I will explain how I have experienced each one of them and how each interacts
-or overlaps with another.
+or overlaps with another. With the exception of some stories that I wanted to get out of my head,
+I will try to be brief because the list is extensive. If anyone of you, my readers wants an
+expansion or more information on a specific subjects, plese say so and I will write something for
+you, even if you are the only person requesting it. If you believe that your organisation or company
+suffers from some of the above and needs help getting out, get in touch. I will do something
+very English, I will charge you.
 
 ## Communication lines between departments
 
