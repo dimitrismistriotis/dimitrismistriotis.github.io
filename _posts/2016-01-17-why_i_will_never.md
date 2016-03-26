@@ -105,6 +105,31 @@ for a future conversation. On top it is OK to say that "there is not enough info
 point so we cannot start anything". The master can be sad in the present as long as  him or the
 company can be happy in the future.
 
+## On glass walls
+
+I have seen it in many different companies in the London zone including the ones I have worked
+for. You enter for a junior or senior but not very high position and you see that the ratio
+of nationalities of the people follows more or less the UK average. For IT and developers it is
+usually people from the Indian subcontinent or Europe's South. While you observe the hierarchy
+you see that somehow these people are progressively excluded. The higher echelons look somehow
+reserved for locals and possibly second generation immigrants or people with mixed origins. I have
+observed it so often that now I can confidently say that there is a glass wall. Another term I heard
+recently is called "unequal representation".
+
+https://twitter.com/valaafshar/status/605079192653414400
+
+and image
+
+http://cis.org/miano/92-top-tech-companies-created-us-were-founded-native-born-americans
+
+
+I believe the existence of glass walls is where all the arguments come together and also the
+ultimate chichen and egg situation. Eventually I found myself being measured against criteria
+that I could never adopt or even understand created a situation of facing a glass wall: you
+can go so far until you end up in a place where you have to interface a lot with people
+that have a completely different set of expectations from you and also are not willing to discuss
+it.
+
 Notes:
 
 1. Initial title was about "British" companies, but after some research it seems that some of the stuff mentioned are more specific to the London zone. Having never worked outside Greater London and being conservative, settled on the current title.
