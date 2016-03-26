@@ -19,7 +19,7 @@ DIAGRAM HERE
 
 Generally the reasons are the following:
 
-* Departments working in isolation with each other
+* A. Communication lines between departments
 * Master - slave relationships when they collaborate internally and externally
 * Projection of the class system to the workplace and other "localities" while it was supposed to be an international environment
 * Exellence intollerance.
@@ -38,7 +38,7 @@ you, even if you are the only person requesting it. If you believe that your org
 suffers from some of the above and needs help getting out, get in touch. I will do something
 very English, I will charge you.
 
-## Communication lines between departments
+## A. Communication lines between departments
 
 Suppose we have two teams that need to work together, the green and the orange. The most common pattern of interaction that I have observed is the "I say you do" one where someone acting as a client/master requests things to be done and the other one can usually only acknowledge.
 
@@ -54,24 +54,28 @@ SECOND DIAGRAM HERE.
 
 Here are some anecdotes from following the second way with people following the first.
 
-Following are some manifestations of the menallity above
+Two stories related mostly with internal communication from my experience follow, feel free to
+skip to (B). The experiences are not real but a mash-up of very different places and people. None
+have happened to me but each individual element has.
 
 ### Why we are paying you
 
-Sitting in a meeting room with Rachel, head of marketing. Last week the marketing department had air a TV advertisement which caused a spike of usage. The fact that at the same time there were deployment scripts running, stopping the service for a some time made the situation worse. The conversation went somehow like this:
+Sitting in a meeting room with Rachel, responsibl marketing. Last week the marketing department had air a TV advertisement which caused a spike of usage on company's web site. At the same time there were scheduled delpoyments running so the site visitors had some blips. This was the setup, the conversation went somehow like this:
 
 **Rachel**: We will air more TV advertisements in the following weeks in those dates, will that be OK?
 **Me**: Sure, can I ask why did we choose to go on TV?
 **Rachel**: (ignores the question) It will be next Friday, Monday the 5th and then we will get feedback from sales to see how and when to schedule more.
 ... conversation continues ...
-**Me**: Can I ask again about why air a TV advertisement? You didn't answer before...
-**Rachel**: Listen, we (imperial "we") are paying you to work on the web side, how we advertise is my responsibility and it is not your job to ask how we advertise.
+**Me**: Can I ask why air a TV advertisement? You didn't answer before...
+**Rachel**: Listen (pause), we (imperial "we") are paying you to work on the web side, how we advertise is my responsibility and it is not your job to ask how we advertise.
 
-Of course I was approaching the whole situation as a pure technical issue: is it an one off (so I should increase capacity temporarily) or a thing that will be persist (I should look for a more permanent solution)? Is it because *"our targeted demographic is in their 40s and 50s in a not so Internet savvy region"* so I should be more careful on not using technical terms on the copies and also remind the copy writer? If I am not allowed to get an insight on how Rachel thinks, how can I empathise with her or what she wants to achieve so that I can make small decisions without asking her?
+I was approaching the whole situation as a pure technical issue: is it an one off (so I should increase capacity temporarily) or a thing that will be persist (I should look for a more permanent solution)? Is it because *"our targeted demographic is in their 40s and 50s in a not so Internet savvy region"* so I should be more careful on not using technical terms on the copies and also remind the copy writer? If I am not allowed to get an insight on how Rachel thinks, how can I empathise with her or what she wants to achieve so that I can make small decisions without asking her? Also: who said that not answering pretendind that the question was not even said is an appropriate polite way to deffer it? Because your parents did that to you when you were a kid somehow legitimises it? What would go wrong if an IT guy knew how marketing decisions where made?
 
-### Needs improvement
+### English need improvement
 
-A funny story in retrospect happened when a line manager informed me in an meeting that a person that I was working him told him to communicate to me that "I needed to improve my English". While asking for specifics, like what should be particularly improved, there was the following comment: *"Dimitrios is asking so many questions, I do not know what is wrong just cannot understand why he doesn't get what he needs to do on the first time"*. So I should just execute whatever was communicated no questions asked and the only way someone would ask something would be because... he didn't get it the first time.
+A funny story in retrospect. My line manager at a scheduled performance review informed me in an meeting that a person that I was working him told him to communicate to me that "I needed to improve my English". I am really interested in my communication skills so I asked for specifics, is it my kangaroo accent, something else?
+
+Then the line manager asked me to wait five minutes got out and came back. There was the following comment he was told from the other person: *"Dimitrios is asking so many questions, I do not know what is wrong just cannot understand why he doesn't get what he needs to do on the first time"*. I should just execute whatever was communicated. My probing for context and additional information could only be a result of not getting it right for the first time. Wow, really?
 
 ## Peer to Peer versus Master/Slave
 
