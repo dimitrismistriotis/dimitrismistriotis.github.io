@@ -77,7 +77,7 @@ There was the experience with the communications revamp: The development team wa
 Before further dive in to other observations two specific manifestations of the master/slave model: Chinese whispers and the "c-word" in the next post.
 
 
-### It's far more better to say yes and do it wrong than have a talk and do it right
+### It is better to say yes and do it wrong than talk and do it right
 
 After discussing the above with many people as well as some self reflection to previous experiences,
 it seems that it is far better to do the wrong thing and iterate then try to do something right
@@ -103,7 +103,7 @@ Asking questions, empathising and getting insights will speedup those feedback l
 not to know something and leave it up for later or even use the output of an itteration as a basis
 for a future conversation. On top it is OK to say that "there is not enough information at this
 point so we cannot start anything". The master can be sad in the present as long as  him or the
-company can be happy in the future
+company can be happy in the future.
 
 Notes:
 
