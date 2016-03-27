@@ -17,11 +17,11 @@ circles something similar to this one:
 
 DIAGRAM HERE
 
-Generally the reasons are the following:
+Generally it has to do with the following:
 
-* A. Communication lines between departments
-* Master - slave relationships when they collaborate internally and externally
-* Projection of the class system to the workplace and other "localities" while it was supposed to be an international environment
+* A. Communication between departments
+* B. Master - slave relationships when they collaborate internally and externally
+* C. Local baggage to a supposedly international environment - class mentallity, other behaviours.
 * Exellence intollerance.
 * Too much reliant on how "the City"/financial sector works even in industries that are very different - fixed mentallity.
 * Absence of rules and transparency - just obey
@@ -38,13 +38,13 @@ you, even if you are the only person requesting it. If you believe that your org
 suffers from some of the above and needs help getting out, get in touch. I will do something
 very English, I will charge you.
 
-## A. Communication lines between departments
+## A. Communication between departments
 
-Suppose we have two teams that need to work together, the green and the orange. The most common pattern of interaction that I have observed is the "I say you do" one where someone acting as a client/master requests things to be done and the other one can usually only acknowledge.
+Suppose we have two teams that need to work together, the green and the orange. The most common pattern of interaction that I have observed is the "I say you do" one where someone, the green team for our example requests things to be done. The other part can usually only only acknowledge.
 
 FIRST DIAGRAM HERE.
 
-I have been educated in a more interactive way where there is a lot of interaction among teams and their representatives. The first interactions should be dedicated for that discovery process, consisting mostly of questions and answers about what people do and how they see things. The boundaries of communication are a little bit fuzzy and while trying to fulfil the "requirements" of your internal or external clients there is a parallel dialogue going on from which you are trying to get insights on their deeper needs and motivation and similarly them from you.
+I have been educated in a different way where there is a lot of interaction among teams and their representatives. The first interactions should be dedicated for that discovery process, consisting mostly of questions and answers about what people do and how they see things. The boundaries of communication are a little bit fuzzy and while trying to fulfil the "requirements" of your internal or external clients there is a parallel dialogue going on from which you are trying to get insights on their deeper needs and motivations. Similarly they do the same thing with you. Depicted somehow like this:
 
 SECOND DIAGRAM HERE.
 
@@ -52,11 +52,10 @@ The interaction can possibly progress becoming an "insight".
 
 SECOND DIAGRAM HERE.
 
-Here are some anecdotes from following the second way with people following the first.
+I think the unidirectional communication pattern is maybe the strongest factor for my issues and also for parts of the industry in general. For example how would an "orange" person here have an insight on what a client really needs if a "green" person is in a client facing role. The answer is that he cannot and probably with that mentallity he should not either.
 
-Two stories related mostly with internal communication from my experience follow, feel free to
-skip to (B). The experiences are not real but a mash-up of very different places and people. None
-have happened to me but each individual element has.
+Before following to the next section allow two stories related mostly with me following the second communication and interaction style in places that only knew the first. Feel free to
+skip to (B). if not that much interested. The experiences are not real but a mash-up of very different places and people. None have happened to me but each individual element has.
 
 ### Why we are paying you
 
@@ -77,15 +76,15 @@ A funny story in retrospect. My line manager at a scheduled performance review i
 
 Then the line manager asked me to wait five minutes got out and came back. There was the following comment he was told from the other person: *"Dimitrios is asking so many questions, I do not know what is wrong just cannot understand why he doesn't get what he needs to do on the first time"*. I should just execute whatever was communicated. My probing for context and additional information could only be a result of not getting it right for the first time. Wow, really?
 
-## Peer to Peer versus Master/Slave
+## B. Peer to Peer versus Master/Slave
 
-Borrowing from computer systems architecture, another way to frame the same argument would be a "peer to peer" versus a "master/slave" (4) approach. In a peer to peer company, the management sets priorities and targets, internal rules as well as manages the business culture. It is up to the different departments, the peers, to fulfil the above acting in the best interests of the organisation. Different departments and people have their own **relative importance**, needs and targets within the the organization.
+Borrowing from computer systems architecture, another way to frame the same argument would be a "*peer to peer*" compared against say a "*master/slave*" (4) approach. In a peer to peer setting, top level management sets priorities and targets, internal rules as well as curates the business culture. It is up to the different departments, the peers, to fulfil their mission acting in the best interests of the organisation. Different departments and people have their own **relative importance**, needs and targets within the the organization's boundaries.
 
-In a "master/slave" environment the people on the "master" side dictate to the "client" ones what to do. Between those two the relationship cannot be anything but **binary** maybe with some politeness as icing on top for sugar-coating purposes. When you are on the "master" side whatever you say must be more or less be implemented, on the "slave" side you can more or less obey - no middle ground. To make matters worse even in technology related companies IT is always on the "slave" side.
+In a "*master/slave*" environment there is a documented or implied hierarchy. People on the "master" side dictate to the ones on the "client" what to do, without any need for justification or options. Also there is no collaboration between departments, only a respect to that hierarchy. Between business functions or teams the relationship cannot be anything else but **binary**. Politeness is utilised for sugar-coating purposes. I am referring to the very well documented "*could you please have this report ready by 16:00?*", which is not a question, there is no please and 16:00 is not something to be debated. When you are on the "master" side whatever you say must be fulfilled and the way you want to, if you are on the "slave" side your purpose is to obey.
 
-There was the experience with the communications revamp: The development team was in the last phases of a refactoring that had the introduction of some significant functionality as a by-product and a specific technology for which that girl, let's call her Aruna was interested in (5). At that point people from customer service ~~asked~~ ordered us to do yet another re-write of the email communication to our users because "important client X said so". To our pleas for pushing it back for a week so that we could finish what we were doing, moreover as it had been pushed back more than once, we got a display of power: we say you do, STFU in between and move on "please". Even the argument that the refactoring would be further delayed because of the context switch fell to deaf ears: "No we can inject additional work and the schedule remains the same". The story ended with our friend Aruna starting to update her CV and leaving the company in two months after the incident to greener pastures. The injected stuff was half baked because it just did not fit the flow, "big client X" did not end up happy. Rafactoring got severely cut down. COmpany suffered but at least the master/slave model preserved thanks God.
+Something that makes things worse in my profession is that even in technology oriented companies, IT is always on the "slave" side.
 
-Before further dive in to other observations two specific manifestations of the master/slave model: Chinese whispers and the "c-word" in the next post.
+Two observations related to the *master/slave* model is the existence of Chinese whispers and the malevolence attached to the "c-word". Some more thoughts follow, while the skimming reader might prefer to jump to section C.
 
 
 ### It is better to say yes and do it wrong than talk and do it right
