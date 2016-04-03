@@ -21,14 +21,14 @@ Generally it has to do with the following:
 
 * A. Communication between departments
 * B. Master - slave relationships when they collaborate internally and externally
-* C. Local baggage to a supposedly international environment - class mentallity, other behaviours.
-* Exellence intollerance.
-* Too much reliant on how "the City"/financial sector works even in industries that are very different - fixed mentallity.
+* C. Excellence intolerance.
+* D. Local baggage to a supposedly international environment - class mentality, other behaviours.
+* Too much reliant on how "the City"/financial sector operates even for industries that are inherently (fixed mentality).
 * Absence of rules and transparency - just obey
-* Preserving the status quo trumps efficiency (or honestly everything else)
+* Preserving the status quo trumps efficiency (or everything else really)
 * People not believing things can be different or even better
 * Imperial arrogance without the imperium/empire
-* Glass walls for foreigners and unequal representation higher in organisations
+* Glass walls for foreigners and unequal representation
 
 I will explain how I have experienced each one of them and how each interacts
 or overlaps with another. With the exception of some stories that I wanted to get out of my head,
@@ -114,6 +114,13 @@ not to know something and leave it up for later or even use the output of an itt
 for a future conversation. On top it is OK to say that "there is not enough information at this
 point so we cannot start anything". The master can be sad in the present as long as  him or the
 company can be happy in the future.
+
+## C. Excellence intolerance.
+
+I was trying to get to a striking pictorial to explain this, until luckily I stumbled to a diagram
+similar to this:
+
+flawed/or not developed yet --> works without flaws / "bugs" --> Excellent
 
 ## On glass walls
 
