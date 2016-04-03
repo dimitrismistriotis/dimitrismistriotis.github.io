@@ -12,6 +12,17 @@ The story continues with my current manager staring at the emotional blankness
 of my face asking me if I am OK and why I don't
 look as happy as I am supposed to. I decided to tell him that I have been so surprised by the news that I am speechless. Something not far from the truth but for two competing reasons as at the back of my head I have two different thoughts fighting like that little angel and devil from those vintage cartoons. One shouts: "Be happy, party, and forget everything else" the other screams: "Write about it, process it and let people know". Somehow they both won.
 
+**Disclaimer**: This is not an aphorism of the current culture nor a polemic, I would not treat it
+as a criticism either. What this essay tries to be is a reflection of the culture that I have
+encountered, emphasis on the bad parts - blame human nature - and why I believe that I cannot be
+part of it or say it in another way, why as a first generation immigrant I cannot fully assimilate.
+Whenever we need answers we turn to the arts, the more appropriate quote I found is from an author
+that had lived extensively abroad. Richard K. Morgan's aspect is as follows:
+
+*I think living in any alien culture for any length of time teaches you one very valuable lesson - that your own experience of the world is severely limited, and that there are millions of other people out there living their lives quite successfully in ways that are utterly different to your own.  It gives you a solid grounding in diversity as a fact of life and - unless you recoil into a defensive xenophobic chauvinism -  it teaches you the value of pluralism.  You're never going to be able to go back to your own culture and look at it the same way again.  You'll see flaws that weren't apparent before, and better ways of doing things that other cultures can offer.  (Of course, it's also important to be able to apply that in reverse - to see clearly where there are things your own culture does do better and which the culture you're working in lacks; you can't become one of these breast-beating knee-jerk anti-West wankers!)  Having that breadth of vision is deeply liberating, and it sharpens you at all sorts if levels if you let it.*
+
+(full text here: "[Becoming a Writer while Teaching Abroad: Interviews with Two Authors](https://teachabroadnetwork.com/blog/305/becoming-a-writer-while-teaching-abroad-interviews-with-two-authors)")
+
 If I had to picture the factors behind my rationale I would think of a diagram with overlapping
 circles something similar to this one:
 
@@ -33,7 +44,7 @@ Generally it has to do with the following:
 I will explain how I have experienced each one of them and how each interacts
 or overlaps with another. With the exception of some stories that I wanted to get out of my head,
 I will try to be brief because the list is extensive. If anyone of you, my readers wants an
-expansion or more information on a specific subjects, plese say so and I will write something for
+expansion or more information on a specific subjects, please say so and I will write something for
 you, even if you are the only person requesting it. If you believe that your organisation or company
 suffers from some of the above and needs help getting out, get in touch. I will do something
 very English, I will charge you.
