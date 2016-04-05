@@ -23,8 +23,7 @@ that had lived extensively abroad. Richard K. Morgan's aspect is as follows:
 
 (full text here: "[Becoming a Writer while Teaching Abroad: Interviews with Two Authors](https://teachabroadnetwork.com/blog/305/becoming-a-writer-while-teaching-abroad-interviews-with-two-authors)")
 
-If I had to picture the factors behind my rationale I would think of a diagram with overlapping
-circles something similar to this one:
+Generally the factors interweave and overlap with each other, if I had to visualise this relationship, I would use something like this:
 
 DIAGRAM HERE
 
