@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Why I will never work again for a London-type company
+title: Why I will never work again for a typical English company
 permalink: /posts/why_i_will_never
 ---
 
-# Why I will never work again for a London-type company (1)
+# Why I will never work again for a typical English company (1)
 
 Decided to write these posts after this recent experience: I sit in a small meeting room of the US-based multinational for which I am currently employed doors locked, facing a video screen on which my current manager summarises the latest appraisal and the changes that it will bring to my financial situation. The summary ends with three reasons on why my performance has been good. Suddenly my mind plays a nasty deja-vu trick and transports me to a very similar situation three to four years before in a meeting room similar to the one I am sitting right now belonging to a UK-based employer with my then line manager reading from a printer paper why I am not doing good and need improvement. The deja-vu tinkers with my head because in both cases the rational was exactly the same but with the exact opposite outcome!
 
@@ -33,7 +33,7 @@ Generally it has to do with the following:
 * B. Master - slave relationships when they collaborate internally and externally
 * C. Excellence intolerance.
 * D. Local baggage to a supposedly international environment - class mentality, other behaviours.
-* Too much reliant on how "the City"/financial sector operates even for industries that are inherently (fixed mentality).
+* E. Too much reliant on how "the City"/financial sector operates even for industries that are inherently different (fixed mentality).
 * Absence of rules and transparency - just obey
 * Preserving the status quo trumps efficiency (or everything else really)
 * People not believing things can be different or even better
@@ -131,6 +131,12 @@ I was trying to get to a striking pictorial to explain this, until luckily I stu
 similar to this:
 
 flawed/or not developed yet --> works without flaws / "bugs" --> Excellent
+
+## E. City/financial sector overreliance.
+
+It feels sometimes that the "City" engulfes Britain the way the octupus in NSA's satelite engulfs the world:
+
+[Nrol-39](/images/nrol-39_logo.jpg)
 
 ## On glass walls
 
