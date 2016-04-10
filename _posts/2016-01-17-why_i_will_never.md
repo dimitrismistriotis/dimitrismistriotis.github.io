@@ -69,7 +69,7 @@ skip to (B). if not that much interested. The experiences are not real but a mas
 
 ### Why we are paying you
 
-Sitting in a meeting room with Rachel, responsibl marketing. Last week the marketing department had air a TV advertisement which caused a spike of usage on company's web site. At the same time there were scheduled delpoyments running so the site visitors had some blips. This was the setup, the conversation went somehow like this:
+Sitting in a meeting room with Rachel, responsible for marketing. Last week the marketing department had air a TV advertisement which caused a spike of usage on company's web site. At the same time there were scheduled deployments running so the site visitors had some blips. This was the set-up, the conversation went somehow like this:
 
 **Rachel**: We will air more TV advertisements in the following weeks in those dates, will that be OK?
 **Me**: Sure, can I ask why did we choose to go on TV?
@@ -78,7 +78,7 @@ Sitting in a meeting room with Rachel, responsibl marketing. Last week the marke
 **Me**: Can I ask why air a TV advertisement? You didn't answer before...
 **Rachel**: Listen (pause), we (imperial "we") are paying you to work on the web side, how we advertise is my responsibility and it is not your job to ask how we advertise.
 
-I was approaching the whole situation as a pure technical issue: is it an one off (so I should increase capacity temporarily) or a thing that will be persist (I should look for a more permanent solution)? Is it because *"our targeted demographic is in their 40s and 50s in a not so Internet savvy region"* so I should be more careful on not using technical terms on the copies and also remind the copy writer? If I am not allowed to get an insight on how Rachel thinks, how can I empathise with her or what she wants to achieve so that I can make small decisions without asking her? Also: who said that not answering pretendind that the question was not even said is an appropriate polite way to deffer it? Because your parents did that to you when you were a kid somehow legitimises it? What would go wrong if an IT guy knew how marketing decisions where made?
+I was approaching the whole situation as a pure technical issue: is it an one off (so I should increase capacity temporarily) or a thing that will be persist (I should look for a more permanent solution)? Is it because *"our targeted demographic is in their 40s and 50s in a not so Internet savvy region"* so I should be more careful on not using technical terms on the copies and also remind the copy writer? If I am not allowed to get an insight on how Rachel thinks, how can I empathise with her or what she wants to achieve so that I can make small decisions without asking her? Also: who said that not answering pretending that the question was not even said is an appropriate polite way to defer it? Because your parents did that to you when you were a kid somehow legitimises it? What would go wrong if an IT guy knew how marketing decisions where made?
 
 ### English need improvement
 
@@ -117,10 +117,10 @@ not understand is that your "master" here is probably "slave" to someone else. H
 acquiring as much information or understanding of the situation because he did not wanted to disrupt
 this chain of relationships. This behaviour is the fabric of the whole system.
 
-In my world, and it seems that it is the world of also the USA based companes (which remember in
-IT are doing bettter than the UK ones so they are "right"), talent and time are scarse resources.
-Asking questions, empathising and getting insights will speedup those feedback loops. It is OK
-not to know something and leave it up for later or even use the output of an itteration as a basis
+In my world, and it seems that it is the world of also the USA based companies (which remember in
+IT are doing better than the UK ones so they are "right"), talent and time are scarce resources.
+Asking questions, empathising and getting insights will speed-up those feedback loops. It is OK
+not to know something and leave it up for later or even use the output of an iteration as a basis
 for a future conversation. On top it is OK to say that "there is not enough information at this
 point so we cannot start anything". The master can be sad in the present as long as  him or the
 company can be happy in the future.
@@ -147,7 +147,7 @@ OK this sector seems weak. I will probably remove it or rewrite it.
 
 It is conceptually more of a case of the previous section but it's extent makes it need to have a section of it's own.
 
-It feels sometimes that the "City" engulfes Britain the way the octupus in NSA's satelite engulfs the world:
+It feels sometimes that the "City" engulfs Britain the way the octopus in NSA's satellite engulfs the world:
 
 [Nrol-39](/images/nrol-39_logo.jpg)
 
@@ -178,7 +178,7 @@ http://cis.org/miano/92-top-tech-companies-created-us-were-founded-native-born-a
 
 
 I believe the existence of glass walls is where all the arguments come together and also the
-ultimate chichen and egg situation. Eventually I found myself being measured against criteria
+ultimate chicken and egg situation. Eventually I found myself being measured against criteria
 that I could never adopt or even understand created a situation of facing a glass wall: you
 can go so far until you end up in a place where you have to interface a lot with people
 that have a completely different set of expectations from you and also are not willing to discuss
@@ -236,11 +236,11 @@ treating the incident in isolation.
 
 The other element that has been discussed elsewhere here is that the higher echelons of management should not feel the need to provide transparency or
 rationale to the lower ones. "Jessica is the employee of the month because I said so". The plebs job is to obey, in that case they should cheer and
-clap their hands, not challenge the decission nor tell me what to do. I think these requests are the cardinal sin for such environmnents: the pleb 
+clap their hands, not challenge the decision nor tell me what to do. I think these requests are the cardinal sin for such environments: the pleb 
 is rising to the level of the boss: "tell me how to make decisions" and also claiming that they have a saying in how these are made "Why Jessica not me?".
 Our foreign friends question felt like insulting too many taboos at once.
 
-The las thing is that the people that tend to get upraised/promoted without any justification are usually locals or chronies of the boss, something
-that shouldn't be a surprise really. This might instill a self fulfilling prophecy to the rest of the employees: The man will never award me
-because I am a foreigner/minority/whatever so they will not work more/better etc so once this kicks off the person doing this will not be eliigible
+The las thing is that the people that tend to get upraised/promoted without any justification are usually locals or cronies of the boss, something
+that shouldn't be a surprise really. This might instil a self fulfilling prophecy to the rest of the employees: The man will never award me
+because I am a foreigner/minority/whatever so they will not work more/better etc so once this kicks off the person doing this will not be eligible
 for promotion/appraisal anyway.
