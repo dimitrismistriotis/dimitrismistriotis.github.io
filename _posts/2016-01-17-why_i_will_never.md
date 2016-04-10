@@ -32,13 +32,13 @@ Generally it has to do with the following:
 * A. Communication between departments on a need to know basis.
 * B. Master - slave relationships when they collaborate internally and externally
 * C. Excellence intolerance.
-* D. Local baggage to a supposedly international environment - class mentality, other behaviours.
+* D. Cultural baggage to a supposedly international environment - class mentality, other behaviours.
 * E. Too much reliant on how "the City"/financial sector operates even for industries that are inherently different (fixed mentality).
-* Absence of rules and transparency - just obey
-* Preserving the status quo trumps efficiency (or everything else really)
+* Absence of rules and transparency - obey only
+* Preserving the status quo trumps efficiency (or really everything else)
 * People not believing things can be different or even better
-* Imperial arrogance without the imperium/empire
-* Glass walls for foreigners and unequal representation
+* Imperial arrogance without the empire
+* Glass walls for foreigners and unequal representation (because of all of the above)
 
 I will explain how I have experienced each one of them and how each interacts
 or overlaps with another. With the exception of some stories that I wanted to get out of my head,
@@ -131,6 +131,17 @@ I was trying to get to a striking pictorial to explain this, until luckily I stu
 similar to this:
 
 flawed/or not developed yet --> works without flaws / "bugs" --> Excellent
+
+## D. Cultural baggage to a supposedly international environment - class mentality, other behaviours
+
+Allow a list rather than specifics, I think it paints a picture:
+
+* Believing that it is OK to complain to HR or your supervisor about something instead of correcting you on the spot,
+* Having to work with the person that "snitched" on you afterwards without addressing the issue that you feel uncomfortable
+* Having the silent treatment as an accepted response to an argument
+* A barrage of implied rules on how to behave.
+
+OK this sector seems weak. I will probably remove it or rewrite it.
 
 ## E. City/financial sector over-reliance.
 
