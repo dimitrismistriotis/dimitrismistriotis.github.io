@@ -132,11 +132,21 @@ similar to this:
 
 flawed/or not developed yet --> works without flaws / "bugs" --> Excellent
 
-## E. City/financial sector overreliance.
+## E. City/financial sector over-reliance.
+
+It is conceptually more of a case of the previous section but it's extent makes it need to have a section of it's own.
 
 It feels sometimes that the "City" engulfes Britain the way the octupus in NSA's satelite engulfs the world:
 
 [Nrol-39](/images/nrol-39_logo.jpg)
+
+If an approach of management/mentality/conviction works for the City, it has to magically apply
+to anything else. If someone had been exposed to the money laundering/exploitative/work all day/backstabbing/cut-throat/sexist/generally rotten part of the world that it is London's financial centre, he is perfectly capable to govern any other business or government sector.
+
+Some years before the CEO of the IT company that I had been recently employed wanted to welcome the newcomers. In his speech while addressing the company culture he brought up the memories of his days in the finance sector, the well known "take a cab go home shower and come back" at 7 o'clock in the morning experience. Afterwards he explained to us how he thought that the people in his company deserve to have "a life" and how proud he was to have created a company where work-life balance exists. without wanting to attack him personally but only the mentality - after all there was a board of directors that was checking and approving his decisions and also he looked as a very nice guy, he conveniently forgot to mention the fact that his company was exploiting people ruining their careers by sticking them to very antiquated technologies and approaches (as in the City), that the only way to achieve more was by working more, not by improving the way people worked or by any serious investment (as in the City), that a person high in the hierarchy could hire his son and another promote his girlfriend/receptionist to HR administrator bypassing any policies, meritocracy and other proper governance practices (as it happens often in the ...). He was a good CEO because he was not judged as an IT CEO but rather as "how would a finance person handle this".
+
+If someone is a great say a great surgeon saving lives in many difficult situations, we would never trust him to fly an airplane just because he is a great surgeon - it is a different thing. Similarly if someone is good in administering the portions of cocaine so that the bankers can work around the clock does translate into being a good fit for running an IT company...
+
 
 ## On glass walls
 
