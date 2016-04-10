@@ -8,31 +8,24 @@ permalink: /posts/why_i_will_never
 
 Decided to write these posts after this recent experience: I sit in a small meeting room of the US-based multinational for which I am currently employed doors locked, facing a video screen on which my current manager summarises the latest appraisal and the changes that it will bring to my financial situation. The summary ends with three reasons on why my performance has been good. Suddenly my mind plays a nasty deja-vu trick and transports me to a very similar situation three to four years before in a meeting room similar to the one I am sitting right now belonging to a UK-based employer with my then line manager reading from a printer paper why I am not doing good and need improvement. The deja-vu tinkers with my head because in both cases the rational was exactly the same but with the exact opposite outcome!
 
-The story continues with my current manager staring at the emotional blankness
-of my face asking me if I am OK and why I don't
-look as happy as I am supposed to. I decided to tell him that I have been so surprised by the news that I am speechless. Something not far from the truth but for two competing reasons as at the back of my head I have two different thoughts fighting like that little angel and devil from those vintage cartoons. One shouts: "Be happy, party, and forget everything else" the other screams: "Write about it, process it and let people know". Somehow they both won.
+The story continues with my current manager staring at the emotional emptiness of my face asking me if I am OK and why I don't look as happy as I really should be. I told him that I have been so surprised by the news that I am speechless, something not far from the truth. Two competing lines of reasoning occupied the back of my head like that little angel and devil in these vintage cartoons. One shouts: "Be happy, party, and forget everything else" the other screams: "Write about it, process it and let people know". Somehow they both won.
 
 **Disclaimer**: This is not an aphorism of the current culture nor a polemic, I would not treat it
-as a criticism either. What this essay tries to be is a reflection of the culture that I have
-encountered, emphasis on the bad parts - blame human nature - and why I believe that I cannot be
-part of it or say it in another way, why as a first generation immigrant I cannot fully assimilate.
-Whenever we need answers we turn to the arts, the more appropriate quote I found is from an author
-that had lived extensively abroad. Richard K. Morgan's aspect is as follows:
+as a criticism either. What this essay tries to be is a reflection on mostly "the bad parts" that I encountered as an initial outsider trying to integrate and failing in the country's business culture. It is more in the lines of the experience of Richard K. Morgan discussing living abroad:
 
 *I think living in any alien culture for any length of time teaches you one very valuable lesson - that your own experience of the world is severely limited, and that there are millions of other people out there living their lives quite successfully in ways that are utterly different to your own.  It gives you a solid grounding in diversity as a fact of life and - unless you recoil into a defensive xenophobic chauvinism -  it teaches you the value of pluralism.  You're never going to be able to go back to your own culture and look at it the same way again.  You'll see flaws that weren't apparent before, and better ways of doing things that other cultures can offer.  (Of course, it's also important to be able to apply that in reverse - to see clearly where there are things your own culture does do better and which the culture you're working in lacks; you can't become one of these breast-beating knee-jerk anti-West wankers!)  Having that breadth of vision is deeply liberating, and it sharpens you at all sorts if levels if you let it.*
 
 (full text here: "[Becoming a Writer while Teaching Abroad: Interviews with Two Authors](https://teachabroadnetwork.com/blog/305/becoming-a-writer-while-teaching-abroad-interviews-with-two-authors)")
 
-Generally the factors interweave and overlap with each other, if I had to visualise this relationship, I would use something like this:
+So I do not imply that things in United Kingdom are inherently bad or wrong. Having though a different perspective which I decided to keep, I think the situation falls short with regards to the following points. Generally the factors interweave and overlap with each other as it usually happens with cultural issues. This produces a cross reference effect which might make reading more difficult, allow me to apologise in advance.
 
-DIAGRAM HERE
 
 Generally it has to do with the following:
 
 * A. Communication between departments on a need to know basis.
 * B. Master - slave relationships when they collaborate internally and externally
 * C. Excellence intolerance.
-* D. Cultural baggage to a supposedly international environment - class mentality, other behaviours.
+* D. Cultural baggage to a supposedly international environment - projection of class mentality and other behaviours.
 * E. Too much reliant on how "the City"/financial sector operates even for industries that are inherently different (fixed mentality).
 * Absence of rules and transparency - obey only
 * Preserving the status quo trumps efficiency (or really everything else)
