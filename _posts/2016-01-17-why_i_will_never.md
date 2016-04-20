@@ -22,7 +22,7 @@ So I do not imply that things in United Kingdom are inherently bad or wrong. Hav
 
 Generally it has to do with the following:
 
-* A. Communication between departments on a need to know basis.
+* A. Communication on a need to know basis.
 * B. Master - slave relationships when they collaborate internally and externally
 * C. Excellence intolerance.
 * D. Cultural baggage to a supposedly international environment - projection of class mentality and other behaviours.
@@ -41,7 +41,7 @@ you, even if you are the only person requesting it. If you believe that your org
 suffers from some of the above and needs help getting out, get in touch. I will do something
 very English, I will charge you.
 
-## A. Communication between departments on a need to know basis
+## A. Communication on a need to know basis
 
 Suppose we have two teams that need to work together, the green and the orange. The most common pattern of interaction that I have observed is the "I say you do" one where someone, the green team for our example requests things to be done. The other part can usually only only acknowledge.
 
