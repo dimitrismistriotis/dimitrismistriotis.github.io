@@ -6,80 +6,41 @@ permalink: /posts/why_i_will_never
 
 # Why I will never work again for a typical London company (1)
 
-Decided to write these posts after this recent experience: I sit in a small meeting room of the US-based multinational for which I am currently employed doors locked, facing a video screen on which my current manager summarises the latest appraisal and the changes that it will bring to my financial situation. The summary ends with three reasons on why my performance has been good. Suddenly my mind plays a nasty deja-vu trick and transports me to a very similar situation three to four years before in a meeting room similar to the one I am sitting right now belonging to a UK-based employer with my then line manager reading from a printer paper why I am not doing good and need improvement. The deja-vu tinkers with my head because in both cases the rational was exactly the same but with the exact opposite outcome!
+Decided to write these posts after this experience: I sit in a small meeting room of the US-based multinational for which I am currently employed doors locked, facing a video screen on which my current manager summarises the latest appraisal and the changes that it will bring to my financial situation. The summary ends with three reasons on why my performance has been good. Suddenly my mind plays a nasty deja-vu trick and transports me to a very similar situation three to four years before in a meeting room similar to the one I am sitting right now belonging to a UK-based employer with my then line manager reading from a printer paper why I am not doing good and need improvement. The deja-vu tinkers with my head because in both cases the rational was exactly the same but with the exact opposite outcome!
 
 The story continues with my current manager staring at the emotional emptiness of my face asking me if I am OK and why I don't look as happy as I really should be. I told him that I have been so surprised by the news that I am speechless, something not far from the truth. Two competing lines of reasoning occupied the back of my head like that little angel and devil in these vintage cartoons. One shouts: "Be happy, party, and forget everything else" the other screams: "Write about it, process it and let people know". Somehow they both won.
 
-**Disclaimer**: This is not an aphorism of the current culture nor a polemic, I would not treat it
-as a criticism either. What this essay tries to be is a reflection on mostly "the bad parts" that I encountered as an initial outsider trying to integrate and failing in the country's business culture. It is more in the lines of the experience of Richard K. Morgan discussing living abroad:
+**Disclaimer**: This is not an aphorism of the current culture nor a polemic, I would not treat it as a criticism either. What this essay tries to be is a reflection on mostly "the bad parts" that I encountered coming as an outsider trying to integrate and ultimately failing to do so in the country's business culture.
 
-*I think living in any alien culture for any length of time teaches you one very valuable lesson - that your own experience of the world is severely limited, and that there are millions of other people out there living their lives quite successfully in ways that are utterly different to your own.  It gives you a solid grounding in diversity as a fact of life and - unless you recoil into a defensive xenophobic chauvinism -  it teaches you the value of pluralism.  You're never going to be able to go back to your own culture and look at it the same way again.  You'll see flaws that weren't apparent before, and better ways of doing things that other cultures can offer.  (Of course, it's also important to be able to apply that in reverse - to see clearly where there are things your own culture does do better and which the culture you're working in lacks; you can't become one of these breast-beating knee-jerk anti-West wankers!)  Having that breadth of vision is deeply liberating, and it sharpens you at all sorts if levels if you let it.*
-
-(full text here: "[Becoming a Writer while Teaching Abroad: Interviews with Two Authors](https://teachabroadnetwork.com/blog/305/becoming-a-writer-while-teaching-abroad-interviews-with-two-authors)")
-
-So I do not imply that things in United Kingdom are inherently bad or wrong. Having though a different perspective which I decided to keep, I think the situation falls short with regards to the following points. Generally the factors interweave and overlap with each other as it usually happens with cultural issues. This produces a cross reference effect which might make reading more difficult, allow me to apologise in advance.
+So I do not imply that things in United Kingdom are inherently bad or wrong. Having though a different perspective which I decided to keep, I think the situation falls short with regards to the following points. The factors interweave and overlap with each other as it usually happens with cultural elements. One might influence or cause another, so there is not an easy to follow linearity, which would make things easier to read. I apologise in advance.
 
 
 Generally it has to do with the following:
 
 * A. Communication on a need to know basis.
-* B. Master - slave relationships when they collaborate internally and externally
+* B. Master/Slave not Peer to Peer.
 * C. Excellence intolerance.
 * D. Cultural baggage to a supposedly international environment - projection of class mentality and other behaviours.
 * E. Too much reliant on how "the City"/financial sector operates even for industries that are inherently different (fixed mentality).
-* Absence of rules and transparency - obey only
+* Absence of rules and transparency - only obedience.
 * Preserving the status quo trumps efficiency (or really everything else)
 * People not believing things can be different or even better
 * Imperial arrogance without the empire
 * Glass walls for foreigners and unequal representation (because of all of the above)
 
-I will explain how I have experienced each one of them and how each interacts
-or overlaps with another. With the exception of some stories that I wanted to get out of my head,
-I will try to be brief because the list is extensive. If anyone of you, my readers wants an
-expansion or more information on a specific subjects, please say so and I will write something for
-you, even if you are the only person requesting it. If you believe that your organisation or company
-suffers from some of the above and needs help getting out, get in touch. I will do something
-very English, I will charge you.
+Decided to be brief following the famous "Why Talented Creatives Are Leaving Your Shitty Agency": http://www.mobileinc.co.uk/2013/09/why-talented-creatives-are-leaving-your-shitty-agency/, aiming to produce a short read. Might come back and expand later in the future.
 
 ## A. Communication on a need to know basis
 
-Suppose we have two teams that need to work together, the green and the orange. The most common pattern of interaction that I have observed is the "I say you do" one where someone, the green team for our example requests things to be done. The other part can usually only only acknowledge.
+This has to do with communications among departments that serve different functions, say IT, Marketing, Customer Service etc. What I have observed is that a person might come from a department A and request something to be done from department B, "I want you to do this, please". The recipient is mostly only allowed to talk about the details of "this". It is generally not desired or even proper in some cases to ask why "this" should be done, what are the objectives, how does it contribute to the organisation's targets, if it is going to change in the near future.
 
-FIRST DIAGRAM HERE.
+I have seen people talking but not interacting, organisational communication looks like a computer systems sending requests and receiving responses, not like people working together. I have found in the past that having an open discussion and exposure to the bigger picture allows to serve clients better, as you know their needs, allows to be proactive, as you can guess what would be required, fill the gaps when the person of the other department is not available, empathise further.
 
-I have been educated in a different way where there is a lot of interaction among teams and their representatives. The first interactions should be dedicated for that discovery process, consisting mostly of questions and answers about what people do and how they see things. The boundaries of communication are a little bit fuzzy and while trying to fulfil the "requirements" of your internal or external clients there is a parallel dialogue going on from which you are trying to get insights on their deeper needs and motivations. Similarly they do the same thing with you. Depicted somehow like this:
+Attempts to do so have been fought back with the following rationale: "Dimitry wants to be in a meeting room and talk all day, not work", "There is a problem with his English comprehension as he seems not to get what I told him to do, asking too many questions" as well as my favourites: "You are questioning me on how to do my job, you are a developer not a Marketing executive", "We are paying you to do your job, not tell us how to do ours".
 
-SECOND DIAGRAM HERE.
+On the complete opposite on the US-originating companies that I used to work for I got for exactly the same behaviour a completely different response. With non-technical people they received it as at least an expression of flattery: he is not a zeros and ones guy, he wants to learn about us and what to do. Similar for more technical people as we would help each other better, with the discussion more formal: "how should as a developer structure my CSS so that it would be easier for you to maintain". Note that most of these discussions have occurred with Englishmen/women or 2nd generation immigrants that grew up here, so I do not believe that there is not an inherent attribute of this behaviour to the culture or the nation.
 
-The interaction can possibly progress becoming an "insight".
-
-SECOND DIAGRAM HERE.
-
-I think the unidirectional communication pattern is maybe the strongest factor for my issues and also for parts of the industry in general. For example how would an "orange" person here have an insight on what a client really needs if a "green" person is in a client facing role. The answer is that he cannot and probably with that mentallity he should not either.
-
-Before following to the next section allow two stories related mostly with me following the second communication and interaction style in places that only knew the first. Feel free to
-skip to (B). if not that much interested. The experiences are not real but a mash-up of very different places and people. None have happened to me but each individual element has.
-
-### Why we are paying you
-
-Sitting in a meeting room with Rachel, responsible for marketing. Last week the marketing department had air a TV advertisement which caused a spike of usage on company's web site. At the same time there were scheduled deployments running so the site visitors had some blips. This was the set-up, the conversation went somehow like this:
-
-**Rachel**: We will air more TV advertisements in the following weeks in those dates, will that be OK?
-**Me**: Sure, can I ask why did we choose to go on TV?
-**Rachel**: (ignores the question) It will be next Friday, Monday the 5th and then we will get feedback from sales to see how and when to schedule more.
-... conversation continues ...
-**Me**: Can I ask why air a TV advertisement? You didn't answer before...
-**Rachel**: Listen (pause), we (imperial "we") are paying you to work on the web side, how we advertise is my responsibility and it is not your job to ask how we advertise.
-
-I was approaching the whole situation as a pure technical issue: is it an one off (so I should increase capacity temporarily) or a thing that will be persist (I should look for a more permanent solution)? Is it because *"our targeted demographic is in their 40s and 50s in a not so Internet savvy region"* so I should be more careful on not using technical terms on the copies and also remind the copy writer? If I am not allowed to get an insight on how Rachel thinks, how can I empathise with her or what she wants to achieve so that I can make small decisions without asking her? Also: who said that not answering pretending that the question was not even said is an appropriate polite way to defer it? Because your parents did that to you when you were a kid somehow legitimises it? What would go wrong if an IT guy knew how marketing decisions where made?
-
-### English need improvement
-
-A funny story in retrospect. My line manager at a scheduled performance review informed me in an meeting that a person that I was working him told him to communicate to me that "I needed to improve my English". I am really interested in my communication skills so I asked for specifics, is it my kangaroo accent, something else?
-
-Then the line manager asked me to wait five minutes got out and came back. There was the following comment he was told from the other person: *"Dimitrios is asking so many questions, I do not know what is wrong just cannot understand why he doesn't get what he needs to do on the first time"*. I should just execute whatever was communicated. My probing for context and additional information could only be a result of not getting it right for the first time. Wow, really?
-
-## B. Peer to Peer versus Master/Slave
+## B. Master/Slave not Peer to Peer
 
 Borrowing from computer systems architecture, another way to frame the same argument would be a "*peer to peer*" compared against say a "*master/slave*" (4) approach. In a peer to peer setting, top level management sets priorities and targets, internal rules as well as curates the business culture. It is up to the different departments, the peers, to fulfil their mission acting in the best interests of the organisation. Different departments and people have their own **relative importance**, needs and targets within the the organization's boundaries.
 
@@ -186,11 +147,55 @@ Notes:
 5. Wanted to add it to her CV as an achievement.
 
 
---- 
+---
 
-Content not yet integrated
+Content not yet integrated and left out
 
 ---
+
+
+*I think living in any alien culture for any length of time teaches you one very valuable lesson - that your own experience of the world is severely limited, and that there are millions of other people out there living their lives quite successfully in ways that are utterly different to your own.  It gives you a solid grounding in diversity as a fact of life and - unless you recoil into a defensive xenophobic chauvinism -  it teaches you the value of pluralism.  You're never going to be able to go back to your own culture and look at it the same way again.  You'll see flaws that weren't apparent before, and better ways of doing things that other cultures can offer.  (Of course, it's also important to be able to apply that in reverse - to see clearly where there are things your own culture does do better and which the culture you're working in lacks; you can't become one of these breast-beating knee-jerk anti-West wankers!)  Having that breadth of vision is deeply liberating, and it sharpens you at all sorts if levels if you let it.*
+
+(full text here: "[Becoming a Writer while Teaching Abroad: Interviews with Two Authors](https://teachabroadnetwork.com/blog/305/becoming-a-writer-while-teaching-abroad-interviews-with-two-authors)")
+
+
+## A. Communication on a need to know basis
+
+Suppose we have two teams that need to work together, the green and the orange. The most common pattern of interaction that I have observed is the "I say you do" one where someone, the green team for our example requests things to be done. The other part can usually only only acknowledge.
+
+FIRST DIAGRAM HERE.
+
+I have been educated in a different way where there is a lot of interaction among teams and their representatives. The first interactions should be dedicated for that discovery process, consisting mostly of questions and answers about what people do and how they see things. The boundaries of communication are a little bit fuzzy and while trying to fulfil the "requirements" of your internal or external clients there is a parallel dialogue going on from which you are trying to get insights on their deeper needs and motivations. Similarly they do the same thing with you. Depicted somehow like this:
+
+SECOND DIAGRAM HERE.
+
+The interaction can possibly progress becoming an "insight".
+
+SECOND DIAGRAM HERE.
+
+I think the unidirectional communication pattern is maybe the strongest factor for my issues and also for parts of the industry in general. For example how would an "orange" person here have an insight on what a client really needs if a "green" person is in a client facing role. The answer is that he cannot and probably with that mentallity he should not either.
+
+Before following to the next section allow two stories related mostly with me following the second communication and interaction style in places that only knew the first. Feel free to
+skip to (B). if not that much interested. The experiences are not real but a mash-up of very different places and people. None have happened to me but each individual element has.
+
+### Why we are paying you
+
+Sitting in a meeting room with Rachel, responsible for marketing. Last week the marketing department had air a TV advertisement which caused a spike of usage on company's web site. At the same time there were scheduled deployments running so the site visitors had some blips. This was the set-up, the conversation went somehow like this:
+
+**Rachel**: We will air more TV advertisements in the following weeks in those dates, will that be OK?
+**Me**: Sure, can I ask why did we choose to go on TV?
+**Rachel**: (ignores the question) It will be next Friday, Monday the 5th and then we will get feedback from sales to see how and when to schedule more.
+... conversation continues ...
+**Me**: Can I ask why air a TV advertisement? You didn't answer before...
+**Rachel**: Listen (pause), we (imperial "we") are paying you to work on the web side, how we advertise is my responsibility and it is not your job to ask how we advertise.
+
+I was approaching the whole situation as a pure technical issue: is it an one off (so I should increase capacity temporarily) or a thing that will be persist (I should look for a more permanent solution)? Is it because *"our targeted demographic is in their 40s and 50s in a not so Internet savvy region"* so I should be more careful on not using technical terms on the copies and also remind the copy writer? If I am not allowed to get an insight on how Rachel thinks, how can I empathise with her or what she wants to achieve so that I can make small decisions without asking her? Also: who said that not answering pretending that the question was not even said is an appropriate polite way to defer it? Because your parents did that to you when you were a kid somehow legitimises it? What would go wrong if an IT guy knew how marketing decisions where made?
+
+### English need improvement
+
+A funny story in retrospect. My line manager at a scheduled performance review informed me in an meeting that a person that I was working him told him to communicate to me that "I needed to improve my English". I am really interested in my communication skills so I asked for specifics, is it my kangaroo accent, something else?
+
+Then the line manager asked me to wait five minutes got out and came back. There was the following comment he was told from the other person: *"Dimitrios is asking so many questions, I do not know what is wrong just cannot understand why he doesn't get what he needs to do on the first time"*. I should just execute whatever was communicated. My probing for context and additional information could only be a result of not getting it right for the first time. Wow, really?
 
 
 What's my current approach
