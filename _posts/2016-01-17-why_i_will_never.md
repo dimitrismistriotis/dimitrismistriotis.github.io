@@ -20,8 +20,8 @@ Generally it has to do with the following:
 * A. Communication on a need to know basis.
 * B. Master/Slave not Peer to Peer.
 * C. Excellence intolerance.
-* D. Cultural baggage to a supposedly international environment - projection of class mentality and other behaviours.
-* E. Too much reliant on how "the City"/financial sector operates even for industries that are inherently different (fixed mentality).
+* D. Over reliant on how City/financial sector operates even for inherently different industries.
+* E. Cultural baggage to a supposedly international environment - class mentality and other behaviours.
 * Absence of rules and transparency - only obedience.
 * Preserving the status quo trumps efficiency (or really everything else)
 * People not believing things can be different or even better
@@ -62,18 +62,7 @@ While what we learn from the Apples and the Googles and the Amazons of this worl
 
 Also there seems to be a preference for predictability and stability on delivering over improving the quality which might occasionally affect output's stability.
 
-## D. Cultural baggage to a supposedly international environment - class mentality, other behaviours
-
-Allow a list rather than specifics, I think it paints a picture:
-
-* Believing that it is OK to complain to HR or your supervisor about something instead of correcting you on the spot,
-* Having to work with the person that "snitched" on you afterwards without addressing the issue that you feel uncomfortable
-* Having the silent treatment as an accepted response to an argument
-* A barrage of implied rules on how to behave.
-
-OK this sector seems weak. I will probably remove it or rewrite it.
-
-## E. City/financial sector over-reliance.
+## D. Over reliant on how City/financial sector operates even for inherently different industries
 
 It is conceptually more of a case of the previous section but it's extent makes it need to have a section of it's own.
 
@@ -84,9 +73,27 @@ It feels sometimes that the "City" engulfs Britain the way the octopus in NSA's 
 If an approach of management/mentality/conviction works for the City, it has to magically apply
 to anything else. If someone had been exposed to the money laundering/exploitative/work all day/backstabbing/cut-throat/sexist/generally rotten part of the world that it is London's financial centre, he is perfectly capable to govern any other business or government sector.
 
-Some years before the CEO of the IT company that I had been recently employed wanted to welcome the newcomers. In his speech while addressing the company culture he brought up the memories of his days in the finance sector, the well known "take a cab go home shower and come back" at 7 o'clock in the morning experience. Afterwards he explained to us how he thought that the people in his company deserve to have "a life" and how proud he was to have created a company where work-life balance exists. without wanting to attack him personally but only the mentality - after all there was a board of directors that was checking and approving his decisions and also he looked as a very nice guy, he conveniently forgot to mention the fact that his company was exploiting people ruining their careers by sticking them to very antiquated technologies and approaches (as in the City), that the only way to achieve more was by working more, not by improving the way people worked or by any serious investment (as in the City), that a person high in the hierarchy could hire his son and another promote his girlfriend/receptionist to HR administrator bypassing any policies, meritocracy and other proper governance practices (as it happens often in the ...). He was a good CEO because he was not judged as an IT CEO but rather as "how would a finance person handle this".
+Some years before the CEO of the IT company that I had been recently employed gave a welcome speech to the newcomers. In his speech while addressing the company culture he brought up the memories of his days in the finance sector including the *"take a cab go home shower and come back"* at 7 o'clock in the morning experience. Afterwards he explained to us how he thought that the people in his company deserve to have a life and how proud he was to have created a company where work-life balance exists. While I really liked the person, I could not agree with his mentality, which was not entirely his: there was a board of directors that was checking and approving his decisions. He conveniently did not to mention the fact that his company was exploiting people ruining their careers by sticking them to antiquated technologies and approaches (as in the City), that the only way to achieve a better output was by working more, not by improving the way people worked or by any form of investment (as in the City), that a person high in the hierarchy could hire his son and another promote his girlfriend/receptionist to HR administrator bypassing any policies, meritocracy and other proper governance practices (as it happens often in the ...). He was a good CEO because he was not judged as an IT CEO but against the financial sector's expectations of the role.
 
-If someone is a great say a great surgeon saving lives in many difficult situations, we would never trust him to fly an airplane just because he is a great surgeon - it is a different thing. Similarly if someone is good in administering the portions of cocaine so that the bankers can work around the clock does translate into being a good fit for running an IT company...
+## D. Cultural baggage to a supposedly international environment - class mentality and other behaviours.
+
+For this I have totally myself to blame: I originated from a country with a classless system, where everything is more or less flat. When I was listening to people complaining about Britain's or other countries class system I mostly thought that they were lazy or something like that blaming others for their circumstance. Then I got off that plane... I can assume that the vast majority of people reading this paragraph will start laughing.
+
+I have observed some social norms brought over to the workplace even in industries where bringing them over is counter productive or if the clientele or the workforce is inherently international and does not share them.
+
+Some examples:
+
+* (A) and (B) above
+* Having a curfew on discussing work related issues or challenging anyone
+* People should not complain, the act of complaining will be examined more than the complaint itself.
+* Politeness and appearances trumps efficiency.
+* Having the silent treatment as an accepted response to an argument.
+* Implied rules on how to behave versus putting them down in a corporate course/document.
+* The fact that management can at any time change the previous one.
+
+Note: This paragraph contains graphic sexual references, feel free to skip it.
+The most striking experience that I had happened in an internal corporate dinner. At some point 
+
 
 
 ## On glass walls
