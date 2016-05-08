@@ -42,42 +42,14 @@ On the complete opposite on the US-originating companies that I used to work for
 
 ## B. Master/Slave not Peer to Peer
 
-Borrowing from computer systems architecture, another way to frame the same argument would be a "*peer to peer*" compared against say a "*master/slave*" (4) approach. In a peer to peer setting, top level management sets priorities and targets, internal rules as well as curates the business culture. It is up to the different departments, the peers, to fulfil their mission acting in the best interests of the organisation. Different departments and people have their own **relative importance**, needs and targets within the the organization's boundaries.
+Very related to the previous one, the internal external communication paths of communication flow and also hierarchy follow a "master/slave" not a "peer to peer" pattern, borrowing a term from systems architecture.
 
-In a "*master/slave*" environment there is a documented or implied hierarchy. People on the "master" side dictate to the ones on the "client" what to do, without any need for justification or options. Also there is no collaboration between departments, only a respect to that hierarchy. Between business functions or teams the relationship cannot be anything else but **binary**. Politeness is utilised for sugar-coating purposes. I am referring to the very well documented "*could you please have this report ready by 16:00?*", which is not a question, there is no please and 16:00 is not something to be debated. When you are on the "master" side whatever you say must be fulfilled and the way you want to, if you are on the "slave" side your purpose is to obey.
+In "master/slave" systems communication follows the request/response pattern. Master side issues a request and the Slave side needs to fulfil it and get back with an answer. Requests are unidirectional. On the contrast in Peer to Peer networks each peer wants to assist in achieving the system's purpose and the communication is bidirectional, each part of the system can issue requests and receive responses from other ones many times exchanging roles.
 
-Something that makes things worse in my profession is that even in technology oriented companies, IT is always on the "slave" side.
+I have observed two implications of this in the work place. The first one is that relationships are extremely binary (another computer science term). Either you are the Master so you get an "one", you are the important guy, what you said must be done, or you are the "zero", you just need to execute. Because of IT's nature, in such arrangements the functions fall on the "Slave" side, you end up working and going home feeling that you have been used, that you are (if the reader allows a non-PC term) someone's bitch. It is very sad.
 
-Two observations related to the *master/slave* model is the existence of Chinese whispers and the malevolence attached to the "c-word". Some more thoughts follow, while the skimming reader might prefer to jump to section C.
+The second implication is that very often things decent into an extreme game of Chinese whispers / broken telephone, specially when the "Master/Slave" relationship has more than two parts (A asks B, B asks C). People reluctant/scared/unaware of challenging and asking for specifics rush into delivering something that they understood was required which can be far from what is actually needed. A friend of mine summarised this very well with the above anecdote: "In the previous company that I worked, I found out that my manager was asking me to do what he thought his manager needed, many times missing the mark, his manager on the other hand was telling him what he understood from discussions with the CEO, whose input he never validated. Essentially we were shooting in the dark with me doing whatever I could. My manager was more eager to go to his and show him something fast even if following that chain back and forth we'd have to do it again and again".
 
-
-### It is better to say yes and do it wrong than talk and do it right
-
-After discussing the above with many people as well as some self reflection to previous experiences,
-it seems that it is far better to do the wrong thing and iterate then try to do something right
-the first time.
-
-When you are in the room gathering requirements, you are allowed to ask as little as possible or
-even better nothing. What is important is to say "yes" to your master. Then you can go back to
-your desk, play chinese wishpers with your subordinates and produce somehow an artifact based on
-your understanding of his master's voice. Then you display the output of your work and receive
-some feedback: "I meant this", "it looks to me more that we should do that", etc. Then rinse and
-repeat.
-
-Eventually though with much more resources and effort a final result which is what the master
-wanted will be reached, moreover what is the important factor is that whenever there was a meeting
-you reached the saying yes point very fast, you are such a good slave. What people like me did
-not understand is that your "master" here is probably "slave" to someone else. He did not even bother
-acquiring as much information or understanding of the situation because he did not wanted to disrupt
-this chain of relationships. This behaviour is the fabric of the whole system.
-
-In my world, and it seems that it is the world of also the USA based companies (which remember in
-IT are doing better than the UK ones so they are "right"), talent and time are scarce resources.
-Asking questions, empathising and getting insights will speed-up those feedback loops. It is OK
-not to know something and leave it up for later or even use the output of an iteration as a basis
-for a future conversation. On top it is OK to say that "there is not enough information at this
-point so we cannot start anything". The master can be sad in the present as long as  him or the
-company can be happy in the future.
 
 ## C. Excellence intolerance.
 
@@ -197,6 +169,45 @@ A funny story in retrospect. My line manager at a scheduled performance review i
 
 Then the line manager asked me to wait five minutes got out and came back. There was the following comment he was told from the other person: *"Dimitrios is asking so many questions, I do not know what is wrong just cannot understand why he doesn't get what he needs to do on the first time"*. I should just execute whatever was communicated. My probing for context and additional information could only be a result of not getting it right for the first time. Wow, really?
 
+
+## B. Master/Slave not Peer to Peer
+
+Borrowing from computer systems architecture, another way to frame the same argument would be a "*peer to peer*" compared against say a "*master/slave*" (4) approach. In a peer to peer setting, top level management sets priorities and targets, internal rules as well as curates the business culture. It is up to the different departments, the peers, to fulfil their mission acting in the best interests of the organisation. Different departments and people have their own **relative importance**, needs and targets within the the organization's boundaries.
+
+In a "*master/slave*" environment there is a documented or implied hierarchy. People on the "master" side dictate to the ones on the "client" what to do, without any need for justification or options. Also there is no collaboration between departments, only a respect to that hierarchy. Between business functions or teams the relationship cannot be anything else but **binary**. Politeness is utilised for sugar-coating purposes. I am referring to the very well documented "*could you please have this report ready by 16:00?*", which is not a question, there is no please and 16:00 is not something to be debated. When you are on the "master" side whatever you say must be fulfilled and the way you want to, if you are on the "slave" side your purpose is to obey.
+
+Something that makes things worse in my profession is that even in technology oriented companies, IT is always on the "slave" side.
+
+Two observations related to the *master/slave* model is the existence of Chinese whispers and the malevolence attached to the "c-word". Some more thoughts follow, while the skimming reader might prefer to jump to section C.
+
+
+### It is better to say yes and do it wrong than talk and do it right
+
+After discussing the above with many people as well as some self reflection to previous experiences,
+it seems that it is far better to do the wrong thing and iterate then try to do something right
+the first time.
+
+When you are in the room gathering requirements, you are allowed to ask as little as possible or
+even better nothing. What is important is to say "yes" to your master. Then you can go back to
+your desk, play chinese wishpers with your subordinates and produce somehow an artifact based on
+your understanding of his master's voice. Then you display the output of your work and receive
+some feedback: "I meant this", "it looks to me more that we should do that", etc. Then rinse and
+repeat.
+
+Eventually though with much more resources and effort a final result which is what the master
+wanted will be reached, moreover what is the important factor is that whenever there was a meeting
+you reached the saying yes point very fast, you are such a good slave. What people like me did
+not understand is that your "master" here is probably "slave" to someone else. He did not even bother
+acquiring as much information or understanding of the situation because he did not wanted to disrupt
+this chain of relationships. This behaviour is the fabric of the whole system.
+
+In my world, and it seems that it is the world of also the USA based companies (which remember in
+IT are doing better than the UK ones so they are "right"), talent and time are scarce resources.
+Asking questions, empathising and getting insights will speed-up those feedback loops. It is OK
+not to know something and leave it up for later or even use the output of an iteration as a basis
+for a future conversation. On top it is OK to say that "there is not enough information at this
+point so we cannot start anything". The master can be sad in the present as long as  him or the
+company can be happy in the future.
 
 What's my current approach
 
