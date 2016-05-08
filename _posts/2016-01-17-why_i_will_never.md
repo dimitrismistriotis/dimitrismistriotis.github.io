@@ -91,20 +91,45 @@ Whenever I did something wrong - to err is human - in the US based companies, I 
 
 ## F. Glass walls
 
-I have seen it in many different companies in the London zone including the ones I have worked
-for. You enter for a junior or senior but not very high position and you see that the ratio
-of nationalities of the people follows more or less the UK average. For IT and developers it is
-usually people from the Indian subcontinent or Europe's South. While you observe the hierarchy
-you see that somehow these people are progressively excluded. The higher echelons look somehow
-reserved for locals and possibly second generation immigrants or people with mixed origins. I have
-observed it so often that now I can confidently say that there is a glass wall. Another term I heard
-recently is called "unequal representation".
+Up to now the "d" word was not referenced in any form referring to discrimination. Again when reading about it before moving here or listening about it, I thought it had to do with people that did not perform well, were inherently lazy or believed they were entitled to preferential behaviour or treatment because they where members of a specific minority group. Then I saw some stuff and well...
+
+First of all dear UK, where are the foreign born founders and co-founders of businesses? Let's see this tweet:
 
 https://twitter.com/valaafshar/status/605079192653414400
 
 and image
 
 http://cis.org/miano/92-top-tech-companies-created-us-were-founded-native-born-americans
+
+What's going on? Is there some sort of omertà, why these topics are not discussed in the public?.
+
+That was for starters and not that much important because not all of us want to start IT businesses. What I have observed though is what is technically called "unequal representation".
+Checking the census data as of 2011: http://data.london.gov.uk/census/reports/ then "Country of Birth Snapshot" or https://londondatastore-upload.s3.amazonaws.com/hRg%3D2011-census-snapshot-country-of-birth.pdf, found the following image regarding country of birth of Londoners:
+
+CENSUS IMAGE
+
+Based on the above I would expect that in various companies there would be an equal distribution of the figures above on different levels. Although I do not know of any related statistics the empirical observation differs. I have seen many low level positions dominated by foreign born workers. This is usually followed to senior positions (such as senior developers). While we approach the C-positions we have the opposite trend. I have observed more than once the promotion of a local against more competent foreign born employees.
+
+When the above happens, which happens more often than many people would like to admit, all the above reasons come into effect: There is usually no rulebook on who gets promoted or specially rewarded and with which criteria, so the decision cannot be examined and the upper echelons of management can always produce another BS excuse (section B). Similarly if someone complains then she will also be on the spotlight for complaining, ending up to a far worse position than just not being promoted (section E). The companies do not want to improve or fix themselves, the machine cannot stop because a person got upset (section D), people are just asked to move on.
+
+
+## Why is that and why I am honestly very happy to be here
+
+The whole post is very opinionated in any case. From now on it is 100% opinionated and personal.
+
+I believe that the so called London zone has an entrenched culture of wealth appreciation/extraction not wealth generation. You come with a specific skill set and the whole system is geared towards utilising them as much as possible, but not allowing you to acquire new or invest.
+
+Second on the 
+
+I have seen it in many different companies in the London zone including the ones I have worked
+for. You enter for a junior or senior but not very high position and you see that the ratio
+of nationalities of the people follows more or less the UK average. For IT and developers it is
+usually people from the Indian subcontinent or Europe's South. While you observe the hierarchy
+you see that somehow thesepeople are progressively excluded. The higher echelons look somehow
+reserved for locals and possibly second generation immigrants or people with mixed origins. I have
+observed it so often that now I can confidently say that there is a glass wall. Another term I heard
+recently is called "unequal representation".
+
 
 
 I believe the existence of glass walls is where all the arguments come together and also the
