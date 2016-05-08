@@ -21,10 +21,7 @@ Generally it has to do with the following:
 * B. Master/Slave not Peer to Peer.
 * C. Excellence intolerance.
 * D. Over reliant on how City/financial sector operates even for inherently different industries.
-* E. Cultural baggage to a supposedly international environment - class mentality and other behaviours.
-* Absence of rules and transparency - only obedience.
-* Preserving the status quo trumps efficiency (or really everything else)
-* People not believing things can be different or even better
+* E. Cultural baggage to a supposedly international environment - class mentality and similar behaviours.
 * Imperial arrogance without the empire
 * Glass walls for foreigners and unequal representation (because of all of the above)
 
@@ -75,26 +72,19 @@ to anything else. If someone had been exposed to the money laundering/exploitati
 
 Some years before the CEO of the IT company that I had been recently employed gave a welcome speech to the newcomers. In his speech while addressing the company culture he brought up the memories of his days in the finance sector including the *"take a cab go home shower and come back"* at 7 o'clock in the morning experience. Afterwards he explained to us how he thought that the people in his company deserve to have a life and how proud he was to have created a company where work-life balance exists. While I really liked the person, I could not agree with his mentality, which was not entirely his: there was a board of directors that was checking and approving his decisions. He conveniently did not to mention the fact that his company was exploiting people ruining their careers by sticking them to antiquated technologies and approaches (as in the City), that the only way to achieve a better output was by working more, not by improving the way people worked or by any form of investment (as in the City), that a person high in the hierarchy could hire his son and another promote his girlfriend/receptionist to HR administrator bypassing any policies, meritocracy and other proper governance practices (as it happens often in the ...). He was a good CEO because he was not judged as an IT CEO but against the financial sector's expectations of the role.
 
-## D. Cultural baggage to a supposedly international environment - class mentality and other behaviours.
+## E. Cultural baggage to a supposedly international environment - class mentality and other behaviours.
 
-For this I have totally myself to blame: I originated from a country with a classless system, where everything is more or less flat. When I was listening to people complaining about Britain's or other countries class system I mostly thought that they were lazy or something like that blaming others for their circumstance. Then I got off that plane... I can assume that the vast majority of people reading this paragraph will start laughing.
+Specifically London as a city and ecosystem projects an international mentality where everyone can come to work and contribute with his experiences and approach. Yet after working here it becomes very early obvious that many companies operate with a strict traditional approach. Allow some observations:
 
-I have observed some social norms brought over to the workplace even in industries where bringing them over is counter productive or if the clientele or the workforce is inherently international and does not share them.
+People seem to bring the class mentality to the workplace, treating management as the "higher" class whose wishes have to be religiously fulfilled without question.
 
-Some examples:
+How a person should behave is mostly implied not taught. If someone does something considered wrong there will be no correction or a discussion about it. Just at some point in the near future he will see that the environment treats him differently.
 
-* (A) and (B) above
-* Having a curfew on discussing work related issues or challenging anyone
-* People should not complain, the act of complaining will be examined more than the complaint itself.
-* Politeness and appearances trumps efficiency.
-* Having the silent treatment as an accepted response to an argument.
-* Implied rules on how to behave versus putting them down in a corporate course/document.
-* The fact that management can at any time change the previous one.
+Complaining in the open even for the smallest thing is considered wrong. Colleagues and management will react with a silent treatment and then punish the act of complaining itself and then maybe consider it's intent.
 
-Note: This paragraph contains graphic sexual references, feel free to skip it.
-The most striking experience that I had happened in an internal corporate dinner. At some point 
+Preserving the status quo trumps everything else including efficiency. As an example people are never allows to discuss anything related to the company or any subject that might cause conflict such as personal views or beliefs. I find very interesting the fact that I used to know the sexual orientation of everyone in the office, but not what they vote.
 
-
+The belief that things can be different or even better.
 
 ## On glass walls
 
