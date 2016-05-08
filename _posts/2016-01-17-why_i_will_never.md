@@ -22,8 +22,7 @@ Generally it has to do with the following:
 * C. Excellence intolerance.
 * D. Over reliant on how City/financial sector operates even for inherently different industries.
 * E. Cultural baggage to a supposedly international environment - class mentality and similar behaviours.
-* Imperial arrogance without the empire
-* Glass walls for foreigners and unequal representation (because of all of the above)
+* F. Glass walls
 
 Decided to be brief following the famous "Why Talented Creatives Are Leaving Your Shitty Agency": http://www.mobileinc.co.uk/2013/09/why-talented-creatives-are-leaving-your-shitty-agency/, aiming to produce a short read. Might come back and expand later in the future.
 
@@ -86,7 +85,11 @@ Preserving the status quo trumps everything else including efficiency. As an exa
 
 The belief that things can be different or even better.
 
-## On glass walls
+On the contrary on both US based companies that I have been employed there was training on how to behave, how to raise a complaint, when to discuss work related issues and with whom, how to treat people independent of bias, and so forth. Adherence to these well written and understood rules should have you covered and safe. Small diversions are accepted within limits as well as adjustments to the local culture. Occasional misbehaviours are being corrected from management as soon as possible, there is no silent treatment giving that eerie feeling that things are not OK - but why? The feeling is that of safety and there is breathing space.
+
+Whenever I did something wrong - to err is human - in the US based companies, I got notified as soon as possible which allowed me to apologise and correct my behaviour. When a person acted rude against me, he was asked to write an apology email. On the contrary in some cases that I did something wrong in a UK based company, I had to go there next morning to see that people were behaving differently. When someone acted in a bad way against me, he was NOT asked to apologise, because he was a local or a crony of the boss. This bridges us to the last argument...
+
+## F. Glass walls
 
 I have seen it in many different companies in the London zone including the ones I have worked
 for. You enter for a junior or senior but not very high position and you see that the ratio
