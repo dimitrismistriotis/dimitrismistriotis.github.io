@@ -50,13 +50,17 @@ I have observed two implications of this in the work place. The first one is tha
 
 The second implication is that very often things decent into an extreme game of Chinese whispers / broken telephone, specially when the "Master/Slave" relationship has more than two parts (A asks B, B asks C). People reluctant/scared/unaware of challenging and asking for specifics rush into delivering something that they understood was required which can be far from what is actually needed. A friend of mine summarised this very well with the above anecdote: "In the previous company that I worked, I found out that my manager was asking me to do what he thought his manager needed, many times missing the mark, his manager on the other hand was telling him what he understood from discussions with the CEO, whose input he never validated. Essentially we were shooting in the dark with me doing whatever I could. My manager was more eager to go to his and show him something fast even if following that chain back and forth we'd have to do it again and again".
 
-
 ## C. Excellence intolerance.
 
-I was trying to get to a striking pictorial to explain this, until luckily I stumbled to a diagram
-similar to this:
+I was trying to get to a striking pictorial to explain this, until luckily I stumbled to a diagram similar to this:
 
 flawed/or not developed yet --> works without flaws / "bugs" --> Excellent
+
+It seems over and over that the modus operandi with products or services has to do with reaching a "minimum acceptable standard". Once this is reached efforts are made to maintain it. London companies then try to charge as much as possible as if their product or service was of highest quality. There is more emphasis on being polite and make the customer feel important than improving the deliverable.
+
+While what we learn from the Apples and the Googles and the Amazons of this world is that reaching a minimum acceptable standard is only the start of a journey towards excellence.
+
+Also there seems to be a preference for predictability and stability on delivering over improving the quality which might occasionally affect output's stability.
 
 ## D. Cultural baggage to a supposedly international environment - class mentality, other behaviours
 
