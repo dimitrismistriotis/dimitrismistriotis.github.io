@@ -75,7 +75,7 @@ Some years before the CEO of the IT company that I had been recently employed ga
 
 Specifically London as a city and ecosystem projects an international mentality where everyone can come to work and contribute with his experiences and approach. Yet after working here it becomes very early obvious that many companies operate with a strict traditional approach. Allow some observations:
 
-People seem to bring the class mentality to the workplace, treating management as the "higher" class whose wishes have to be religiously fulfilled without question.
+People seem to bring the class mentality to the workplace, treating management as the "higher" class whose wishes have to be religiously fulfilled without question. I have not seen in practice any attempts for transparency or justification of decisions according to corporate targets, just orders.
 
 How a person should behave is mostly implied not taught. If someone does something considered wrong there will be no correction or a discussion about it. Just at some point in the near future he will see that the environment treats him differently.
 
@@ -83,7 +83,7 @@ Complaining in the open even for the smallest thing is considered wrong. Colleag
 
 Preserving the status quo trumps everything else including efficiency. As an example people are never allows to discuss anything related to the company or any subject that might cause conflict such as personal views or beliefs. I find very interesting the fact that I used to know the sexual orientation of everyone in the office, but not what they vote.
 
-The belief that things can be different or even better.
+The fact that people do not believe that things could be better or different.
 
 On the contrary on both US based companies that I have been employed there was training on how to behave, how to raise a complaint, when to discuss work related issues and with whom, how to treat people independent of bias, and so forth. Adherence to these well written and understood rules should have you covered and safe. Small diversions are accepted within limits as well as adjustments to the local culture. Occasional misbehaviours are being corrected from management as soon as possible, there is no silent treatment giving that eerie feeling that things are not OK - but why? The feeling is that of safety and there is breathing space.
 
