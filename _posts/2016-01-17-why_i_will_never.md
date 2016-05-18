@@ -14,6 +14,7 @@ The story continues with my current manager staring at the emotional emptiness o
 
 So I do not imply that things in United Kingdom are inherently bad or wrong. Having though a different perspective which I decided to keep, I think the situation falls short with regards to the following points. The factors interweave and overlap with each other as it usually happens with cultural elements. One might influence or cause another, so there is not an easy to follow linearity, which would make things easier to read. I apologise in advance.
 
+Last although I am not a sociologist, I tend to believe that there are two main underlying factors that are responsible for the reasons below. First the class system because Britain and second a fixed mindset mentality because moving fast London.
 
 Generally it has to do with the following:
 
