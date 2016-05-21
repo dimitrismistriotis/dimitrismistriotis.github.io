@@ -10,9 +10,9 @@ Decided to write these posts after this experience: I sit in a small meeting roo
 
 The story continues with my current manager staring at the emotional emptiness of my face asking me if I am OK and why I don't look as happy as I really should be. I told him that I have been so surprised by the news that I am speechless, something not far from the truth. Two competing lines of reasoning occupied the back of my head like that little angel and devil in these vintage cartoons. One shouts: "Be happy, party, and forget everything else" the other screams: "Write about it, process it and let people know". Somehow they both won.
 
-**Disclaimer**: This is not an aphorism of the current culture nor a polemic, I would not treat it as a criticism either. What this essay tries to be is a reflection on mostly "the bad parts" that I encountered coming as an outsider trying to integrate and ultimately failing to do so in the country's business culture.
+**Disclaimer**: This is not a set of aphorisms of the contemporary culture nor a polemic, I would not treat it as a criticism either. It is mostly a reflection on "the bad parts" that I encountered coming as an outsider then trying to integrate and ultimately failing to do so in the country's business culture.
 
-So I do not imply that things in United Kingdom are inherently bad or wrong. Having though a different perspective which I decided to keep, I think the situation falls short with regards to the following points. The factors interweave and overlap with each other as it usually happens with cultural elements. One might influence or cause another, so there is not an easy to follow linearity, which would make things easier to read. I apologise in advance.
+I do not imply or suggest that things in United Kingdom are inherently bad or wrong. Having though a different perspective which I decided to keep, I think the situation falls short with regards to the following points. The factors interweave and overlap with each other as it usually happens with cultural elements. One might influence or cause another, so there is not an easy to follow linearity, which would make things easier to read. I apologise in advance.
 
 Last although I am not a sociologist, I tend to believe that there are two main underlying factors that are responsible for the reasons below. First the class system because Britain and second a fixed mindset mentality because moving fast London.
 
@@ -60,7 +60,7 @@ flawed/or not developed yet --> works without flaws / "bugs" --> Excellent
 
 It seems over and over that the modus operandi with products or services has to do with reaching a "minimum acceptable standard". Once this is reached efforts are made to maintain it. London companies then try to charge as much as possible as if their product or service was of highest quality. There is more emphasis on being polite and make the customer feel important than improving the deliverable.
 
-While what we learn from the Apples and the Googles and the Amazons of this world is that reaching a minimum acceptable standard is only the start of a journey towards excellence.
+It seems that upon reaching an acceptable standard for a product or a service is the point where further development stops and all effort goes on optimising it, streamlining it while trying to charge as much as possible. Though for companies that dominate their sectors (say Amazon and retail), the "OK" stage serves as the starting point of the journey.
 
 There also seems to be a preference for predictability and stability on delivering something mediocre against trying to improve the quality of the output. Improving quality needs experimentation which might occasionally affect output's stability, so no.
 
