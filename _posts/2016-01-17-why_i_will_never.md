@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Why I will never work again for a typical London company
+title: Why I will never work again for a "London" company
 permalink: /posts/why_i_will_never
 ---
 
-# Why I will never work again for a typical London company (1)
+# Why I will never work again for a "London" company (1)
 
-Decided to write these posts after this experience: I sit in a small meeting room of the US-based multinational for which I am currently employed doors locked, facing a video screen on which my current manager summarises the latest appraisal and the changes that it will bring to my financial situation. The summary ends with three reasons on why my performance has been good. Suddenly my mind plays a nasty deja-vu trick and transports me to a very similar situation three to four years before in a meeting room similar to the one I am sitting right now belonging to a UK-based employer with my then line manager reading from a printer paper why I am not doing good and need improvement. The deja-vu tinkers with my head because in both cases the rational was exactly the same but with the exact opposite outcome!
+I sit in a small meeting room of the US-based multinational for which I am currently employed with doors closed, facing a video screen on whichmy current manager summarises the latest appraisal and the changes that it will bring to my financial situation. The summary ends with three reasons on why my performance has been good. Suddenly my mind plays a nasty deja-vu trick projecting a very similar situation three to four years before in a meeting room similar to the one I am sitting right now belonging to a UK-based employer with my then line manager reading a printout on why I am not doing good and need improvement. The deja-vu tinkers with my head because in both cases the rational was exactly the same but with the exact opposite outcome!
 
-The story continues with my current manager staring at the emotional emptiness of my face asking me if I am OK and why I don't look as happy as I really should be. I told him that I have been so surprised by the news that I am speechless, something not far from the truth. Two competing lines of reasoning occupied the back of my head like that little angel and devil in these vintage cartoons. One shouts: "Be happy, party, and forget everything else" the other screams: "Write about it, process it and let people know". Somehow they both won.
+The story continues with my current manager staring at the emotional emptiness of my face asking me if I am OK and why I don't look as happy as I really should be. I told him that I have been so surprised by the news that I am speechless. This was half of the truth the other half had to do with me contemplating on if I should write my opinion down or not processing the mini shock in the process.
 
-**Disclaimer**: This is not a set of aphorisms of the contemporary culture nor a polemic, I would not treat it as a criticism either. It is mostly a reflection on "the bad parts" that I encountered coming as an outsider then trying to integrate and ultimately failing to do so in the country's business culture.
+My intention was not about producing a set of aphorisms or write a polemic against the current situation in the Greater London - perhaps UK - area. More than anything else it is a reflection on "the bad parts" that I encountered coming as an outsider then trying to integrate and ultimately failing to do so in the country's business culture.
 
 I do not imply or suggest that things in United Kingdom are inherently bad or wrong. Having though a different perspective which I decided to keep, I think the situation falls short with regards to the following points. The factors interweave and overlap with each other as it usually happens with cultural elements. One might influence or cause another, so there is not an easy to follow linearity, which would make things easier to read. I apologise in advance.
 
-Last although I am not a sociologist, I tend to believe that there are two main underlying factors that are responsible for the reasons below. First the class system because Britain and second a fixed mindset mentality because moving fast London.
+Last although I am not a sociologist, I tend to believe that there are two main underlying factors that are responsible for the reasons below. First the class system because Britain and second a fixed mindset mentality because moving fast London. (note: Fixed mentallity as defined in XXX's book). Also decided to be brief followi the famous "Why Talented Creatives Are Leaving Your Shitty Agency": http://www.mobileinc.co.uk/2013/09/why-talented-creatives-are-leaving-your-shitty-agency/, aiming to produce a short read. Might come back and expand later in the future.
 
 Generally it has to do with the following:
 
@@ -26,7 +26,7 @@ Generally it has to do with the following:
 * E. Cultural baggage to a supposedly international environment - class mentality and similar behaviours.
 * F. Glass walls
 
-Decided to be brief following the famous "Why Talented Creatives Are Leaving Your Shitty Agency": http://www.mobileinc.co.uk/2013/09/why-talented-creatives-are-leaving-your-shitty-agency/, aiming to produce a short read. Might come back and expand later in the future.
+Maybe add "appearances over substance"
 
 ## A. Communication on a need to know basis
 
