@@ -20,11 +20,11 @@ Generally it has to do with the following:
 
 * A. Communication on a need to know basis.
 * B. Master/Slave not Peer to Peer.
-* B1. You serve the corporate hierarchy not the customers
 * C. Excellence intolerance.
 * D. Over reliant on how City/financial sector operates even for inherently different industries.
 * E. Cultural baggage to a supposedly international environment - class mentality and similar behaviours.
 * F. Glass walls
+* G. Absence of career paths
 
 Maybe add "appearances over substance"
 
@@ -44,13 +44,9 @@ Very related to the previous one, borrowing a term from systems architecture, th
 
 In "master/slave" systems communication is conducted through requests and responses: Master side issues a request which Slave side needs to fulfil it and get back with an answer. Requests are unidirectional. On the contrast in Peer to Peer networks each peer wants to assist in achieving the system's purpose and the communication is bidirectional, each part of the system can issue requests and receive responses from other ones many times exchanging roles.
 
-There are at least two implications of this: The first one is that relationships are extremely binary (apologies for another computer science term). Either you are the "Master" so what you said must be done with the information you provided or you simply execute. If things are arranged this way, IT's functions almost always fall on the "Slave" side. When work ends and you go home with a feeling of having been used. It is very sad. What makes it even more sad is that even in heavy IT companies that operate in this way, IT people do not have good representation.
+There are at least two immediate implications of this: The first one is that relationships are too binary (apologies for another computer science term). Either you are the "Master" so what you said must be done with the information you provided or you simply execute. If things are arranged this way, IT's functions almost always fall on the "Slave" side. When work ends and you go home with a feeling of having been used. It is very sad. What makes it even more sad is that even in heavy IT companies that operate in this way, IT people do not have good representation.
 
 The second implication is that very often things degrade into a game of Chinese whispers / broken telephone, specially when the "Master/Slave" relationship has more than two connected parts (A asks B, B asks C). People reluctant/scared/unaware of challenging and asking for specifics rush into delivering something that they understood was required which can be far from what is actually needed. A friend of mine summarised this very well with the above anecdote: "In the previous company that I worked, I found out that my manager was asking me to do what he thought his manager needed, many times missing the mark. Now his manager was telling him what he understood from discussions with the CEO, whose input he never verified. Essentially I was shooting in the dark with the information I had. My manager was more eager to show something even if we'd have to do it again and again because of the limited amount of feedback".
-
-* B1. You serve the corporate hierarchy not the customers
-
-The absence of providing context also has another side-effect. People not in direct contact either with the management or with the clientele are totally in the dark on what the market wants, what the specific set of customers that a company serves might need. They can only fulfil the requests of their supervisors ending up serving not... (CONSIDER REMOVING)
 
 ## C. Excellence intolerance.
 
@@ -85,11 +81,11 @@ Specifically London as a city and ecosystem projects an international mentality 
 
 People seem to bring the class mentality to the workplace, treating management as the "higher" class whose wishes have to be religiously fulfilled without question. I have not seen in practice any attempts for transparency or justification of decisions according to corporate targets, just orders.
 
-How a person should behave is mostly implied not taught. If someone does something considered wrong there will be no correction or a discussion about it. Just at some point in the near future he will see that the environment treats him differently.
+How a person should behave is mostly implied not described. If someone does something considered wrong there will be no correction or a discussion about it. Just at some point in the near future he will see that the environment treats him differently.
 
-Complaining in the open even for the smallest thing is considered wrong. Colleagues and management will react with a silent treatment and then punish the act of complaining itself and then maybe consider it's intent.
+Complaining in the open even for the smallest thing is almost always considered the wrong thing to do. Colleagues and management will respond with a silent treatment. The inertia would be to punish the act of complaining then maybe consider it's intent or validity.
 
-Preserving the status quo trumps everything else including efficiency. As an example people are never allows to discuss anything related to the company or any subject that might cause conflict such as personal views or beliefs. I find very interesting the fact that I used to know the sexual orientation of everyone in the office, but not what they vote.
+Preserving the status quo and keeping an appearence of professionalism trumps everything else including efficiency or quality of the output. As an example people are never allows to discuss anything related to the company or any subject that might cause conflict such as personal views or beliefs. I find very interesting the fact that I used to know the sexual orientation of everyone in the office, but not what they vote.
 
 The fact that people do not believe that things could be better or different.
 
