@@ -121,6 +121,12 @@ Maybe the most important observation of all. A very entrenched culture of wealth
 
 I really do not understand, and maybe I am magnifying things here, why people should choose to be employed at most companies I have come across: If there is only the salary, no investment/training or other opportunities or bonuses (say health insurance), then why not be a contractor and get paid 50% or something like that more?
 
+Quote: *"Do not expect software corporations to offer any kind of career path. They might do this in the US, but I have never seen any of that in Europe. This means that you are solely responsible for the success of your career. Nobody will tell you 'oh, well, next year you can grow to be team leader, then manager, then CTO…'"*
+from: "Being A Developer After 40" - Adrian Kosmaczewski,
+https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.ib8wqde6k
+
+I do not know if it is a European trait, or local and honestly I do not care. I have only one question: In a market where the supply (developers/IT) is far less than the demand, you offer us just a salary and expect not to jump ship to the next one that offers us more? Jesus!
+
 ## Why is that and why I am honestly very happy to be here
 
 The whole post is very opinionated in any case. From now on it is 100% opinionated and personal. Maybe some of the arguments cannot be applied generally or could be based too much on personal experiences.
