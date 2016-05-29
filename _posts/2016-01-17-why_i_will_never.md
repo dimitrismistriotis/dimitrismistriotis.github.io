@@ -81,13 +81,15 @@ Specifically London as a city and ecosystem projects an international mentality 
 
 People seem to bring the class mentality to the workplace, treating management as the "higher" class whose wishes have to be religiously fulfilled without question. I have not seen in practice any attempts for transparency or justification of decisions according to corporate targets, just orders.
 
-How a person should behave is mostly implied not described. If someone does something considered wrong there will be no correction or a discussion about it. People will just nod encouragingly at you and from the next day they will treat you differently.
+How a person should behave is mostly implied not explained. If someone does something considered wrong there will be no correction or a discussion about it. People will just nod encouragingly at you and from the next day they will treat you differently.
 
 Complaining in the open even for the smallest thing is almost always considered the wrong thing to do. Colleagues and management will respond with a silent treatment. The inertia would be to punish the act of complaining then maybe consider it's intent or validity.
 
 Preserving the status quo and keeping an appearance of professionalism trumps everything else including efficiency or quality of the output. As an example people are never allowed to discuss anything related to the company or any subject that might cause conflict such as personal views or beliefs.
 
-The fact that people do not believe that things could be better or different.
+I used to believe that this was a country/city behaviour until I came across "[Bullish: Social Class In The Office](http://www.getbullish.com/2010/10/bullish-social-class-in-the-office/)" referencing a book that the author read, but giving credit to her for articulation:
+
+"*Lubrano writes: Social class counts at the office, even though nobody likes to admit it. Ultimately, corporate norms are based on middle- and upper-class values, business types say. From an early age, middle-class people learn how to get along, using diplomacy, nuance, and politics to grab what they need. It is as though they are following a set of rules laid out in a manual that blue-collar families never have the chance to read. ... American corporate culture is based on WASP values, whether or not WASPs are actually running the company. Everything is outwardly calm and quiet. Workers have to be reserved and unemotional, and must never show anger. It’s uptight, maybe even unhealthy, and all that pent-up aggression comes out in long-knife ambushes at the 2 P.M. meeting.*"
 
 On the contrary on both US based companies that I have been employed there was training on how to behave, how to raise a complaint and to whom, when to discuss work related issues and with which person, how to treat people independent of bias, and so forth. Adherence to these well written and understood rules should have you covered and safe. Small diversions are accepted within limits as well as adjustments to the local culture. Occasional misbehaviours are being corrected from management as soon as possible, there is no silent treatment giving that eerie feeling that things are not OK - but why? The feeling is that of safety and there is breathing space.
 
