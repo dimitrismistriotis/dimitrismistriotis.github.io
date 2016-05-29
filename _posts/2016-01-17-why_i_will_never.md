@@ -36,7 +36,7 @@ I have seen people talking but not interacting, organisational communication loo
 
 Attempts to do so have been fought back with the following rationale: "Dimitry wants to be in a meeting room and talk all day instead of working", "There is a problem with his English comprehension as he does not seem to get what I told him to do, that's why he is asking too many questions", with my favourite being: "You are questioning me on how to do my job, you are a developer not a Marketing executive", "We are paying you to do your job, not tell us how to do ours".
 
-On the complete opposite on the US-based for exactly the same behaviour a completely different response. With non-technical people they received it as at least an expression of flattery: he is not a zeros and ones guy, he wants to learn about us and what to do. Similar for more technical people as we would help each other better, with the discussion more formal: "how should as a developer structure my CSS so that it would be easier for you to maintain".
+On the complete opposite on the US-based for exactly the same behaviour a completely different response. With non-technical people they received it as at least an expression of flattery: he is not a zeros-and-ones guy, he wants to learn about us and what to do. Similar for more technical people as we would help each other better, with the discussion more formal: "how should as a developer structure my CSS so that it would be easier for you the designer to maintain".
 
 ## B. Master/Slave not Peer to Peer
 
@@ -44,7 +44,7 @@ Very related to the previous one, borrowing a term from systems architecture, th
 
 In "master/slave" systems communication is conducted through requests and responses: Master side issues a request which Slave side needs to fulfil it and get back with an answer. Requests are unidirectional. On the contrast in Peer to Peer networks each peer wants to assist in achieving the system's purpose and the communication is bidirectional, each part of the system can issue requests and receive responses from other ones many times exchanging roles.
 
-There are at least two immediate implications of this: The first one is that relationships are too binary (apologies for another computer science term). Either you are the "Master" so what you said must be done with the information you provided or you simply execute. If things are arranged this way, IT's functions almost always fall on the "Slave" side. When work ends and you go home with a feeling of having been used. It is very sad. What makes it even more sad is that even in heavy IT companies that operate in this way, IT people do not have good representation.
+There are a few immediate implications of this: The first one is that relationships are too binary (apologies for another computer science term). Either you are the "Master" so what you said must be done with the information you provided or you simply execute. If things are arranged this way, IT's functions almost always fall on the "Slave" side. When work ends and you go home with a feeling of having been used. It is very sad. What makes it even more sad is that even in heavy IT companies that operate in this way, IT people do not have good representation.
 
 The second implication is that very often things degrade into a game of Chinese whispers / broken telephone, specially when the "Master/Slave" relationship has more than two connected parts (A asks B, B asks C). People reluctant/scared/unaware of challenging and asking for specifics rush into delivering something that they understood was required which can be far from what is actually needed. A friend of mine summarised this very well with the above anecdote: "In the previous company that I worked, I found out that my manager was asking me to do what he thought his manager needed, many times missing the mark. Now his manager was telling him what he understood from discussions with the CEO, whose input he never verified. Essentially I was shooting in the dark with the information I had. My manager was more eager to show something even if we'd have to do it again and again because of the limited amount of feedback".
 
@@ -69,7 +69,7 @@ It feels sometimes that the "City" engulfs Britain the way the octopus in NSA's 
 [Nrol-39](/images/nrol-39_logo.jpg)
 
 If an approach of management/mentality/conviction works for the City, it has to magically apply
-to anything else. If someone had been exposed to the money laundering/exploitative/work all day/backstabbing/cut-throat/sexist/generally rotten part of the world that it is London's financial centre, he is perfectly capable to govern any other business or government sector.
+to anything else. If someone had been exposed to the money laundering/exploitative/work all day/backstabbing/cut-throat/sexist/some say rotten part of the world that it is London's financial centre, he is perfectly capable to govern any other business or government sector.
 
 Some years before the CEO of the IT company that I had been recently employed gave a welcome speech to the newcomers. In his speech while addressing the company culture he brought up the memories of his days in the finance sector including the *"take a cab go home shower and come back"* at 7 o'clock in the morning experience. Afterwards he explained to us how he thought that the people in his company deserve to have a life and how proud he was to have created a company where work-life balance exists. While I really liked the person, I could not agree with his mentality, which was not entirely his: there was a board of directors that was checking and approving his decisions. He conveniently did not to mention the fact that his company was exploiting people ruining their careers by sticking them to antiquated technologies and approaches (as in the City), that the only way to achieve a better output was by working more, not by improving the way people worked or by any form of investment (as in the City), that a person high in the hierarchy could hire his son and another promote his girlfriend/receptionist to HR administrator bypassing any policies, meritocracy and other proper governance practices (as it happens often in the ...). He was a good CEO because he was not judged as an IT CEO but against the financial sector's expectations of the role.
 
@@ -77,27 +77,27 @@ Another angle of this approach that could also fit on the previous section has t
 
 ## E. Cultural baggage to a supposedly international environment - class mentality and other behaviours.
 
-Specifically London as a city and ecosystem projects an international mentality where everyone can come to work and contribute with his experiences and approach. Yet after working here it becomes very early obvious that many companies operate with a strict traditional approach. Allow some observations:
+Specifically London as a city and ecosystem projects an international mentality where everyone can come to work and contribute with his experiences and approach. The reality is different, after working here it becomes very early obvious that many companies operate with a strict, traditional approach in a localised cultural context that does not necessary reason with international hires. Immigration and assimilation/integration is a big thing at the moment. Some observations without sliding into political arguments:
 
 People seem to bring the class mentality to the workplace, treating management as the "higher" class whose wishes have to be religiously fulfilled without question. I have not seen in practice any attempts for transparency or justification of decisions according to corporate targets, just orders.
 
-How a person should behave is mostly implied not described. If someone does something considered wrong there will be no correction or a discussion about it. Just at some point in the near future he will see that the environment treats him differently.
+How a person should behave is mostly implied not described. If someone does something considered wrong there will be no correction or a discussion about it. People will just nod encouragingly at you and from the next day they will treat you differently.
 
 Complaining in the open even for the smallest thing is almost always considered the wrong thing to do. Colleagues and management will respond with a silent treatment. The inertia would be to punish the act of complaining then maybe consider it's intent or validity.
 
-Preserving the status quo and keeping an appearence of professionalism trumps everything else including efficiency or quality of the output. As an example people are never allows to discuss anything related to the company or any subject that might cause conflict such as personal views or beliefs. I find very interesting the fact that I used to know the sexual orientation of everyone in the office, but not what they vote.
+Preserving the status quo and keeping an appearance of professionalism trumps everything else including efficiency or quality of the output. As an example people are never allowed to discuss anything related to the company or any subject that might cause conflict such as personal views or beliefs.
 
 The fact that people do not believe that things could be better or different.
 
-On the contrary on both US based companies that I have been employed there was training on how to behave, how to raise a complaint, when to discuss work related issues and with whom, how to treat people independent of bias, and so forth. Adherence to these well written and understood rules should have you covered and safe. Small diversions are accepted within limits as well as adjustments to the local culture. Occasional misbehaviours are being corrected from management as soon as possible, there is no silent treatment giving that eerie feeling that things are not OK - but why? The feeling is that of safety and there is breathing space.
+On the contrary on both US based companies that I have been employed there was training on how to behave, how to raise a complaint and to whom, when to discuss work related issues and with which person, how to treat people independent of bias, and so forth. Adherence to these well written and understood rules should have you covered and safe. Small diversions are accepted within limits as well as adjustments to the local culture. Occasional misbehaviours are being corrected from management as soon as possible, there is no silent treatment giving that eerie feeling that things are not OK - but why? The feeling is that of safety and there is breathing space.
 
-Whenever I did something wrong - to err is human - in the US based companies, I got notified as soon as possible which allowed me to apologise and correct my behaviour. When a person acted rude against me, he was asked to write an apology email. On the contrary in some cases that I did something wrong in a UK based company, I had to go there next morning to see that people were behaving differently. When someone acted in a bad way against me, he was NOT asked to apologise, because he was a local or a crony of the boss. This bridges us to the last argument...
+Whenever I did something wrong - to err is human - in the US based companies, I got notified as soon as possible which allowed me to apologise and correct my behaviour. When a person acted rude against me, he was asked to write an apology email. When someone acted in a similar way against me in a UK position, he was NOT asked to apologise, because he was a local or a crony of the boss. This can be used as a bridge for the last argument...
 
 ## F. Glass walls
 
-Up to now the "d" word was not referenced in any form referring to discrimination. Again when reading about it before moving here or listening about it, I thought it had to do with people that did not perform well, were inherently lazy or believed they were entitled to preferential behaviour or treatment because they where members of a specific minority group. Then I saw some stuff and well...
+This is sensitive subject trying to be toned down, it seems that there is an uneven representation at least concerning nationalities/countries of origin in among companies. While in the lower levels of organisational pyramids the workforce reflects more or less the existing demographics, when observing higher levels there are less and less people of non-local origin.
 
-First of all dear UK, where are the foreign born founders and co-founders of businesses? Let's see this tweet:
+A place where this is evident is the startup space where traditionally the ratio of first generation immigrants over everybody as founders is traditionally higher. If we take into account this:
 
 https://twitter.com/valaafshar/status/605079192653414400
 
@@ -105,21 +105,24 @@ and image
 
 http://cis.org/miano/92-top-tech-companies-created-us-were-founded-native-born-americans
 
-What's going on? Is there some sort of omertà, why these topics are not discussed in the public?.
+and then think about what we see here there is an ouch moment. What's going on? Why these topics are not discussed in the public, is there some sort of omertà?
 
-That was for starters and not that much important because not all of us want to start IT businesses. What I have observed though is what is technically called "unequal representation".
 Checking the census data as of 2011: http://data.london.gov.uk/census/reports/ then "Country of Birth Snapshot" or https://londondatastore-upload.s3.amazonaws.com/hRg%3D2011-census-snapshot-country-of-birth.pdf, found the following image regarding country of birth of Londoners:
 
 CENSUS IMAGE
 
-Based on the above I would expect that in various companies there would be an equal distribution of the figures above on different levels. Although I do not know of any related statistics the empirical observation differs. I have seen many low level positions dominated by foreign born workers. This is usually followed to senior positions (such as senior developers). While we approach the C-positions we have the opposite trend. I have observed more than once the promotion of a local against more competent foreign born employees.
+Based on these data one could assume that in various companies there would be an equal distribution of the figures above on different levels. Although I do not know of any related statistics the empirical observation differs. I have seen many low level positions dominated by foreign born workers. This is usually followed to senior positions (such as senior developers). While we approach the C-positions we have the opposite trend. I have observed more than once the promotion of a local against more competent foreign born employees.
 
 When the above happens, which happens more often than many people would like to admit, all the above reasons come into effect: There is usually no rulebook on who gets promoted or specially rewarded and with which criteria, so the decision cannot be examined and the upper echelons of management can always produce another BS excuse (section B). Similarly if someone complains then she will also be on the spotlight for complaining, ending up to a far worse position than just not being promoted (section E). The companies do not want to improve or fix themselves, the machine cannot stop because a person got upset (section D), people are just asked to move on.
 
 
 ## Why is that and why I am honestly very happy to be here
 
-The whole post is very opinionated in any case. From now on it is 100% opinionated and personal.
+The whole post is very opinionated in any case. From now on it is 100% opinionated and personal. Maybe some of the arguments cannot be applied generally or could be based too much on personal experiences.
+
+Three closing points: (1) I am very happy to live here because I know that expressing not-so popular opinions or criticising the status quo will not get me into trouble. If some people do not like what I write, they will move on or even offer some criticism. In other places I would end up having some sort of trouble. (2) In every point the situation gets better year after year, maybe not so fast as I would like nor benefit, but I am very optimistic for the future. I think that this what makes Great Britain ... great (3) I did not write for all the good things and aspects of living here, "this is another story" but the "good things" are far more than the "bad ones"... moreover if you are Greek :-).
+
+---
 
 I believe that the so called London zone has an entrenched culture of wealth appreciation/extraction not wealth generation. You come with a specific skill set and the whole system is geared towards utilising them as much as possible, but not allowing you to acquire new or invest.
 
