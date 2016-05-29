@@ -4,7 +4,7 @@ title: Why I will never work again for a "London" company
 permalink: /posts/why_i_will_never
 ---
 
-# Why I will never work again for a "London" company (1)
+# Why I will never work again for a "London" company (*)
 
 I sit in a small meeting room of the US-based multinational for which I am currently employed with doors closed, facing a video screen on whichmy current manager summarises the latest appraisal and the changes that it will bring to my financial situation. The summary ends with three reasons on why my performance has been good. Suddenly my mind plays a nasty deja-vu trick projecting a very similar situation three to four years before in a meeting room similar to the one I am sitting right now belonging to a UK-based employer with my then line manager reading a printout on why I am not doing good and need improvement. The deja-vu tinkers with my head because in both cases the rational was exactly the same but with the exact opposite outcome!
 
@@ -135,11 +135,6 @@ The whole post is very opinionated in any case. From now on it is 100% opinionat
 
 Three closing points: (1) I am very happy to live here because I know that expressing not-so popular opinions or criticising the status quo will not get me into trouble. If some people do not like what I write, they will move on or even offer some criticism. In other places I would end up having some sort of trouble. (2) In every point the situation gets better year after year, maybe not so fast as I would like nor benefit, but I am very optimistic for the future. I think that this what makes Great Britain ... great (3) I did not write for all the good things and aspects of living here, "this is another story" but the "good things" are far more than the "bad ones"... moreover if you are Greek :-).
 
-Notes:
+Footnote:
 
-1. Initial title was about "British" companies, but after some research it seems that some of the stuff mentioned are more specific to the London zone. Then I read some articles/posts mentioning that this is a European thing. Having never worked outside Greater London within UK, I settled on the current title. If you think this is applies to other places please get in touch.
-2. The diagrams are inspired from "LINK TO BUSINESS INSIDER ARTICLE AND TITLE", but not exactly the same.
-3. The stories are a mix of different ones hence fictional but with actual experiences as structural elements. They have also been trimmed to get faster to the point and also the names are random.
-4. Note that the term "client/server" is mostly used. This is an example of applying political correctness to language, on which we will return in a subsequent post.
-5. Wanted to add it to her CV as an achievement.
-
+Initial title was about "British" companies, but after some research it seems that some of the stuff mentioned are more specific to the London zone. Then I read some articles/posts mentioning that this is a European thing. Having never worked outside Greater London within UK, I settled on the current title. If you think this is applies to other places please get in touch.
