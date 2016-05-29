@@ -111,7 +111,7 @@ and then think about what we see here there is an ouch moment. What's going on? 
 
 Checking the census data as of 2011: http://data.london.gov.uk/census/reports/ then "Country of Birth Snapshot" or https://londondatastore-upload.s3.amazonaws.com/hRg%3D2011-census-snapshot-country-of-birth.pdf, found the following image regarding country of birth of Londoners:
 
-CENSUS IMAGE
+![Census 2011 - county of birth](images/census_2011-country_of_birth.png "Census 2011 - county of birth")
 
 Based on these data one could assume that in various companies there would be an equal distribution of the figures above on different levels. Although I do not know of any related statistics the empirical observation differs. I have seen many low level positions dominated by foreign born workers. This is usually followed to senior positions (such as senior developers). While we approach the C-positions we have the opposite trend. I have observed more than once the promotion of a local against more competent foreign born employees.
 
