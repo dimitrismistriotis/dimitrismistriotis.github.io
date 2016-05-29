@@ -117,6 +117,10 @@ When the above happens, which happens more often than many people would like to 
 
 ## G. Absence of career paths
 
+Maybe the most important observation of all. A very entrenched culture of wealth and talent appreciation/utilisation **not** creation or expansion. People are being hired for specific jobs without career progression, there are no investments on expanding those capabilities or adding value to the employees. I was surprised to see that one-on-ones are non-existent, performance valuations or other improvements.
+
+I really do not understand, and maybe I am magnifying things here, why people should choose to be employed at most companies I have come across: If there is only the salary, no investment/training or other opportunities or bonuses (say health insurance), then why not be a contractor and get paid 50% or something like that more?
+
 ## Why is that and why I am honestly very happy to be here
 
 The whole post is very opinionated in any case. From now on it is 100% opinionated and personal. Maybe some of the arguments cannot be applied generally or could be based too much on personal experiences.
