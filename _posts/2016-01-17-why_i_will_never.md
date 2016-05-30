@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Why I will never work again for a "London" company
-permalink: /posts/why_i_will_never
+permalink: /why_i_will_never
 ---
 
 # Why I will never work again for a "London" company (*)
