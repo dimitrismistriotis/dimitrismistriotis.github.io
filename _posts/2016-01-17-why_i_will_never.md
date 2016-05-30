@@ -66,7 +66,7 @@ It is conceptually more of a case of the previous section but it's extent makes 
 
 It feels sometimes that the "City" engulfs Britain the way the octopus in NSA's satellite engulfs the world:
 
-[Nrol-39](/images/nrol-39_logo.jpg)
+![Nrol-39](/images/nrol-39_logo-300x300.jpg "Nrol-39")
 
 If an approach of management/mentality/conviction works for the City, it has to magically apply
 to anything else. If someone had been exposed to the money laundering/exploitative/work all day/backstabbing/cut-throat/sexist/some say rotten part of the world that it is London's financial centre, he is perfectly capable to govern any other business or government sector.
