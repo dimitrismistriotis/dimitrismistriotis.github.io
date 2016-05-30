@@ -1,0 +1,13 @@
+body img.cover_photo {
+  width: 100%;
+}
+
+body div.container p i.contact_icon {
+  width: 10px;
+  margin-right: 5px;
+}
+
+img.book_post {
+  width: 120px;
+  height: 180px;
+}
