@@ -52,7 +52,7 @@ The second implication is that very often things degrade into a game of Chinese 
 
 I was trying to get to a striking pictorial to explain this, until luckily I stumbled to a diagram similar to this:
 
-flawed/or not developed yet --> works without flaws / "bugs" --> Excellent
+![Effort for excellence](/images/effort_for_excellence.png "Effort for exellence")
 
 It seems over and over that the modus operandi with products or services has to do with reaching a "minimum acceptable standard". Once this is reached efforts are made to maintain it. London companies then try to charge as much as possible as if their product or service was of highest quality. There is more emphasis on being polite and make the customer feel important than improving the deliverable.
 
@@ -99,13 +99,12 @@ Whenever I did something wrong - to err is human - in the US based companies, I 
 
 This is sensitive subject trying to be toned down, it seems that there is an uneven representation at least concerning nationalities/countries of origin in among companies. While in the lower levels of organisational pyramids the workforce reflects more or less the existing demographics, when observing higher levels there are less and less people of non-local origin.
 
-A place where this is evident is the startup space where traditionally the ratio of first generation immigrants over everybody as founders is traditionally higher. If we take into account this:
+A place where this is evident is the startup space where traditionally the ratio of first generation immigrants over everybody as founders is traditionally higher. If we take into account this (note: the data are skewed including *at least one of its often multiple founders who was born abroad or who had at least one parent born abroad* - not all founders/founder immigrant):
 
-https://twitter.com/valaafshar/status/605079192653414400
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Top U.S. companies founded by 1st/2nd gen immigrants:<br><br>1 Apple<br>2 Google<br>3 IBM<br>4 Oracle<br>5 Facebook<br>6 Amazon<br>7 Qualcomm<br>8 EMC<br>9 Uber<br>10 VMware</p>&mdash; Vala Afshar (@ValaAfshar) <a href="https://twitter.com/ValaAfshar/status/605079192653414400">May 31, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-and image
-
-http://cis.org/miano/92-top-tech-companies-created-us-were-founded-native-born-americans
+and details: [http://cis.org/miano/92-top-tech-companies-created-us-were-founded-native-born-americans](http://cis.org/miano/92-top-tech-companies-created-us-were-founded-native-born-americans)
 
 and then think about what we see here there is an ouch moment. What's going on? Why these topics are not discussed in the public, is there some sort of omertà?
 
