@@ -3,6 +3,8 @@ layout: default
 title: Problematic business relationships
 ---
 
+# Problematic business relationships
+
 This is the first part of a series about British IT. Posts will range from "generic" to "personal" ones. Please note that there is no attempt to be academical, just document what has been observed by someone who started as an outsider hence conventional wisdom was something new.
 
 This post is about what I'd call "**consultancy mentality**" and how I believe holds back UK’s IT industry and in many times kills it's businesses. Before publishing it a friend introduced me to the "elephants vs deers vs rabbits" hunting analogy, which is discussed later.
