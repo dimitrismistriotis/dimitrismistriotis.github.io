@@ -1,2 +1,35 @@
-encoding: UTF-8
-markdown: kramdown
+name: www.mistriotis.com
+markdown: redcarpet
+highlighter: true
+url: ""
+gems: [jekyll-paginate,  jekyll-gist]
+paginate: 8
+description: Dimitrios mistriotis personal web site.
+intro: Blog posts, contact, project, CV material
+logo: ''
+disqus_shortname:
+# url: http://gotchacode.com
+#Comment out url when working locally to resolve base urls correctly
+#url:
+
+# Owner/author information
+owner:
+  name: Dimitrios Mistriotis
+  avatar: ""
+  email: dimitrios@mistriotis.com
+  # Social networking links used in footer. Update and remove as you like.
+  # twitter: "@dimist"
+  github: https://github.com/dimitrismistriotis/
+  stackexchange: http://stackexchange.com/users/2bb7f437e24a4c13a3b4d6a8684303f0
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+
