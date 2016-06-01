@@ -1,5 +1,4 @@
 name: www.mistriotis.com
-markdown: redcarpet
 highlighter: true
 url: ""
 gems: [jekyll-paginate,  jekyll-gist]
