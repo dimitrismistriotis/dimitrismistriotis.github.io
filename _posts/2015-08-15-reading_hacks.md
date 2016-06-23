@@ -144,6 +144,14 @@ everyone. Alternating between fiction and non fiction titles helps to: enjoy
 reading more leading to generally reading more, introduce new concepts,
 cultivate my English.
 
+## (and/or) Read more than one book concurently
+
+Inspired from "[How to read a book](http://us5.campaign-archive1.com/?u=56217f3273816b2f6aa899689&id=ea0ae1292b&utm_content=buffer58eb1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)" by Tobias van Schneider, rule number 2: *"Start reading 3-4 books at the same time, I rotate either depending on the day or on the mood I’m in."*
+
+I had been exposed to this advice from different sources but after reading it there I decided to do a little experiment by reading two books in parallel ... and it worked! Possibly this has to do with shifting gears in the mind and participating in different universes, one for each book. Possible fatigue from concentrating on something specific can be mitigated by checking out somethingdifferent.
+
+The variation that I tried this time was to read a non-fiction book and a graphic novel in parallel. I've almost finished both on the time I would need for each one say plus 30/40%. Another approach that I tried in the past was to have one book for the commute, in the bag, and another one at home, for the sofa.
+
 ## Buy now to read later
 
 Alternatively bookmark when on-line, write down the title in a notepad,
