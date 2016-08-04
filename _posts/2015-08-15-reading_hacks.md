@@ -171,7 +171,40 @@ After the death of Umberto Eco, this comment from Nassim Nicholas Taleb after vi
 
 Let's listen to the masters!
 
-**Source: [https://twitter.com/tgeorgakopoulos/status/701004846313426948/](https://twitter.com/tgeorgakopoulos/status/701004846313426948/)**
+([Originally from Twitter](https://twitter.com/tgeorgakopoulos/status/701004846313426948/))
+
+## Utilise a different approach for non-fiction material
+
+I recently discovered from Hacker News the "How to Read a Book" paper from Paul N. Edwards, School of Information University of Michigan.
+
+For when you want to *""discover, understand, and remember"* or when *"The purpose of
+reading things like this is to gain, and retain, information. Here, finding out
+what happens — as quickly and easily as possible — is your main goal. So unless
+you’re stuck in prison with nothing else to do, **NEVER** read a non-fiction book or
+article from beginning to end."*
+
+I would suggest to read the whole paper in detail, which can be found [here](http://pne.people.si.umich.edu/PDF/howtoread.pdf) and the [comments](https://news.ycombinator.com/item?id=12209446) in Hacker News.
+
+The points of the paper summarised in a diagram are:
+
+| Strategies    and    techniques | Rationale |
+| ------------------------------- |:---------:|
+| Read    the    whole    thing   | Major arguments and evidence matter more than details. Grasping the structure of the whole is more important than reading every word. |
+| Decide how much time you will spend | Real world time is limited. If you know exactly how long you can actually spend on reading, you can plan how much time to devote to each item. |
+| Have a purpose and a strategy | You'll enjoy reading more, and remember it better, if you
+know exactly why you're reading. |
+| Read actively | Never rely on the author's structures alone. Move around in the text, following your own goals. |
+| Read it three times | First time for overview and discovery. Second time for
+detail and understanding. Third time for note taking in your own words. |
+| Focus on parts with high information content | Tables of contents, pictures, charts, headings, and other elements contain more information than body text. |
+| Use PTML (personal text markup language) | Mark up your reading with your own notes. This helps you learn and also helps you find important passages later. |
+| Know the author(s) and organizations | Authors are people with backgrounds and biases. They work in organizations that give them context and depth. |
+| Know the intellectual context | Most academic writing is part of an ongoing intellectual
+conversation, with debates, key figures, and paradigmatic concepts. |
+| Use your unconscious mind | Leave time between reading sessions for your mind to
+process the material. |
+| Rehearse, and use multiple modes | Talking, visualizing, or writing about what you've read helps you remember it |
+
 
 ## Admit it and accept it
 
