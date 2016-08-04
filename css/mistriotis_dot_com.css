@@ -11,3 +11,9 @@ img.book_post {
   width: 120px;
   height: 180px;
 }
+
+/* More specific selector for rule override */
+div.container table > thead > tr > th,
+div.container table > tbody > tr > td {
+  font-size: 17px;
+}
