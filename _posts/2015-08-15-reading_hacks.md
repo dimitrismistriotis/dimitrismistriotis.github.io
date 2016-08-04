@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reading hacks
-permalink: /reading_hacks
+permalink: /posts/reading_hacks
 ---
 
 # Reading Hacks
