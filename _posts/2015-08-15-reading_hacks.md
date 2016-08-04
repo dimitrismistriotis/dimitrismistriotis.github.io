@@ -171,7 +171,7 @@ After the death of Umberto Eco, this comment from Nassim Nicholas Taleb after vi
 
 Let's listen to the masters!
 
-**Source: [https://twitter.com/tgeorgakopoulos/status/701004846313426948/](https://twitter.com/tgeorgakopoulos/status/701004846313426948/)**
+([Originally from Twitter](https://twitter.com/tgeorgakopoulos/status/701004846313426948/))
 
 ## Admit it and accept it
 
