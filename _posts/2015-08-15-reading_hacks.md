@@ -188,7 +188,7 @@ I would suggest to read the whole paper in detail, which can be found [here](htt
 The points of the paper summarised in a diagram are:
 
 | Strategies    and    techniques | Rationale |
-| ------------------------------- |:---------:|
+|:------------------------------- |:----------|
 | Read    the    whole    thing | Major arguments and evidence matter more than details. Grasping the structure of the whole is more important than reading every word. |
 | Decide how much time you will spend | Real world time is limited. If you know exactly how long you can actually spend on reading, you can plan how much time to devote to each item. |
 | Have a purpose and a strategy | You'll enjoy reading more, and remember it better, if you know exactly why you're reading. |
