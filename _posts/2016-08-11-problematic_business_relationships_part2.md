@@ -1,7 +1,12 @@
 ---
 layout: default
+<<<<<<< HEAD:_posts/2016-09-11-problematic_business_relationships_part2.md
 title: Problematic business relationships part 2: the cult of the one big client
 permalink: /relationships_pt2
+=======
+title: Problematic business relationships part 2, the cult of the one big client
+permalink: /relationships-part2
+>>>>>>> 7948d9d... Adjusted date:_posts/2016-08-11-problematic_business_relationships_part2.md
 ---
 
 # Problematic business relationships part 2: the cult of the one big client
