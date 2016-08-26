@@ -129,6 +129,10 @@ fifty pages before you decide to commit yourself to reading it, or give it up.
 If you’re over fifty, which is when time gets even shorter, subtract your age
 from 100. The result is the number of pages you should read before deciding."*
 
+The spirit of the rule, at least for me, is to start, give some time and a
+second chance for each book tried, say for the first 50 pages. If until then
+there is no immersion, leave it for later or never and move on.
+
 ## Prefer paperbacks
 
 Paperbacks have some advantages: They are easier to carry around because of
