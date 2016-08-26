@@ -116,6 +116,19 @@ The above should not become a habit of starting something and never finishing.
 The tactic should exist as a tool, but one of the tools that are not used
 often.
 
+### Rule 50 to the rescue
+
+Rule 50 is stolen from author of "Steal like an artist", Austin Kleon (I'm
+doing what you taught me Austin), who in turn got was quoting [Nancy Pearl](https://www.amazon.com/dp/1570613818?tag=wwwaustinkleo-20&camp=213381&creative=390973&linkCode=as4&creativeASIN=1570613818&adid=01KSY62GYJMEMERS92YW&):
+
+*"Believe me, nobody is going to get any points in heaven by slogging their way
+through a book they aren’t enjoying but think they ought to read. I live by what
+I call ‘the rule of fifty,’ which acknowledges that time is short and the world
+of books is immense. If you’re fifty years old or younger, give every book about
+fifty pages before you decide to commit yourself to reading it, or give it up.
+If you’re over fifty, which is when time gets even shorter, subtract your age
+from 100. The result is the number of pages you should read before deciding."*
+
 ## Prefer paperbacks
 
 Paperbacks have some advantages: They are easier to carry around because of
