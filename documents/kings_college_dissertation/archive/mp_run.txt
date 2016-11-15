@@ -1,0 +1,17 @@
+/home/dimitris/jif/bin/jifc jif/principals/*.jif
+/home/dimitris/jif/bin/jifc -classpath "$JIF/tests:." Main.jif
+
+/home/dimitris/jif/bin/jif -classpath "$JIF/tests:." Main
+
+/home/dimitris/jif/bin/jifc -d jif-classes/ -sourcepath jif-classes/  -addsigcp jif-classes -classpath  "$JIF/tests:java-classes:$CLASSPATH" src/Main.jif
+
+$JIF/bin/jif -classpath "java-classes/:jif-classes/$CLASSPATH" Main
+
+
+---group9 poker ---
+
+dimitris@dimitris-laptop:~/workspace/group9poker$ /home/dimitris/jif/bin/jifc -d jif-classes/ -sourcepath jif-classes/  -addsigcp jif-classes -classpath  "$JIF/tests:java-classes:$CLASSPATH" PokerGame.jif -report debug=1 -explain
+
+$JIF/bin/jif -classpath "java-classes/:jif-classes/$CLASSPATH" PokerGame
+
+
