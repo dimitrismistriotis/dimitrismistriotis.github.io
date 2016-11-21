@@ -218,6 +218,12 @@ The points of the paper summarised in a diagram are:
 | Use your unconscious mind | Leave time between reading sessions for your mind to process the material. |
 | Rehearse, and use multiple modes | Talking, visualizing, or writing about what you've read helps you remember it |
 
+## Sometimes read it again
+
+*"It’s much better to read the best book on the topic 5 times, than to read 5 different books on the topic once."*
+
+From Jovica Ilic’s post referenced below.
+
 ## Admit it and accept it
 
 Placed it as the last one to demonstrate that the above hacks are of different
@@ -246,5 +252,5 @@ difference in doing either one. And you have **nothing to be ashamed of**.”*
 # Additional resources
 
 Have not yet utilised the advice here, next on the list:
-[Read to lead: how to digest books above your "level"](http://ryanholiday.net/read-to-lead-how-to-digest-books-above-your-level/), from Ryan Holiday and and [33 thoughts on reading](http://austinkleon.com/2014/10/17/33-thoughts-on-reading/) by Austin Kleon.
+[Read to lead: how to digest books above your "level"](http://ryanholiday.net/read-to-lead-how-to-digest-books-above-your-level/), from Ryan Holiday and and [33 thoughts on reading](http://austinkleon.com/2014/10/17/33-thoughts-on-reading/) by Austin Kleon, and "[Lessons learned after 300 books in 4 years](http://www.jovicailic.org/2016/11/lessons-learned-300-books-4-years/)" from Jovica Ilic.
 
