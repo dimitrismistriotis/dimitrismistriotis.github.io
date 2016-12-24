@@ -133,13 +133,25 @@ The spirit of the rule, at least for me, is to start, give some time and a
 second chance for each book tried, say for the first 50 pages. If until then
 there is no immersion, leave it for later or never and move on.
 
+### Rule of 300
+
+It has nothing to do with ancient Sparta. I have found incredibly difficult to read a fiction title which is larger than 300 pages. Maybe it has to do with how I visualise the content, or how the characters are conceptualised, or just how deep my mind allows me to get into a story. When checking out fiction, I always do a page count and after 300 I start to wonder if it's worth it, then do some research. 300 up to 350 is mostly OK, but afterwards I feel itchy. Recently the rule gets more and more broken, maybe "Rule of 400" would be more appropriate. In either case there is a limit.
+
+There are always some exceptions as I am thinking of reading Homer in parts, but this is another thing altogether.
+
+Very personal rule this one, put it here for the case that somebody else feels similar, would not recommend it that much.
+
 ## Prefer paperbacks
 
 Paperbacks have some advantages: They are easier to carry around because of
 weight and size. This means it is easier to utilise opportunities to read,
 hence one can read more. Because of the lower price, there is less guilt in
 “book abuse”: underlining, sticking post-its, having coffee spill over in a
-coffee shop etc.
+coffee shop, etc.
+
+Example: "Woken furies" after a coffee shower, it happens:
+
+![Woken Furies with coffee](images/books/woken_furies-300x415.jpg "Woken Furies with coffee")
 
 There is another factor that contributes to reading paperbacks: they can be
 purchased from alternative sources. Remember the 3rd book of the Dune series
@@ -186,7 +198,7 @@ After the death of Umberto Eco, this comment from Nassim Nicholas Taleb after vi
 
 ![eco-taleb](/images/eco-taleb.png "eco-taleb")
 
-Let's listen to the masters!
+Let's listen to the masters! I currently have some books in my library which I aim to start reading at a different time. Their presence there is a mental reminder to do so at some point in time. Some people do the same with their Kindles, although for me it seems I need something tangible.
 
 ([Originally from Twitter](https://twitter.com/tgeorgakopoulos/status/701004846313426948/))
 
