@@ -186,7 +186,7 @@ After the death of Umberto Eco, this comment from Nassim Nicholas Taleb after vi
 
 ![eco-taleb](/images/eco-taleb.png "eco-taleb")
 
-Let's listen to the masters!
+Let's listen to the masters! I currently have some books in my library which I aim to start reading at a different time. Their presence there is a mental reminder to do so at some point in time. Some people do the same with their Kindles, although for me it seems I need something tangible.
 
 ([Originally from Twitter](https://twitter.com/tgeorgakopoulos/status/701004846313426948/))
 
