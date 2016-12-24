@@ -151,7 +151,7 @@ coffee shop, etc.
 
 Example: "Woken furies" after a coffee shower, it happens:
 
-![Woken Furies with coffee](images/books/woken_furies-300x415.jpg "Woken Furies with coffee")
+![Woken Furies with coffee](/images/books/woken_furies-300x415.jpg "Woken Furies with coffee")
 
 There is another factor that contributes to reading paperbacks: they can be
 purchased from alternative sources. Remember the 3rd book of the Dune series
