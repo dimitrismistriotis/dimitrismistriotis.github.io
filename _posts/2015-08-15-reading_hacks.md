@@ -139,7 +139,11 @@ Paperbacks have some advantages: They are easier to carry around because of
 weight and size. This means it is easier to utilise opportunities to read,
 hence one can read more. Because of the lower price, there is less guilt in
 “book abuse”: underlining, sticking post-its, having coffee spill over in a
-coffee shop etc.
+coffee shop, etc.
+
+Example: "Woken furies" after a coffee shower, it happens:
+
+![Woken Furies with coffee](images/books/woken_furies-300x415.jpg "Woken Furies with coffee")
 
 There is another factor that contributes to reading paperbacks: they can be
 purchased from alternative sources. Remember the 3rd book of the Dune series
