@@ -45,8 +45,9 @@ your provider of choice going down *without* including errors on your behalf.
 
 Heroku has two issues: costs scale exponentially ("their" fault), and there is
 no viable industry alternative (not "their" fault). For small/hobby projects I
-would suggest to have a budget: after say 15$/month, I'd roll my own which in
-case of Amazon or Digital Ocean or Google CLoud or Azure, etc.
+would suggest to have a budget: Say to yourself that after an arbitrary
+15$/month threshold, you will roll your own, choosing one of the VMs from
+Amazon or Digital Ocean or Google CLoud or Azure, etc.
 
 For my project I wanted to run some custom services (not covered here), so
 sooner or later there would be the need to have a Linux box somewhere. I would
@@ -66,3 +67,9 @@ assuming that the application resides in a folder named `web`:
 `tar --exclude=".git" --exclude="tmp" -cvzf webapp.tgz  web/*`
 
 ## Deployment
+
+## Extras
+
+### Retrieve from a Git repository (Github/Gitlab)
+
+Placeholder
