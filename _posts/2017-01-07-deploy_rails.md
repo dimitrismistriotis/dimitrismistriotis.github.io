@@ -72,6 +72,12 @@ One of those tutorials is this from digital ocean: [https://www.digitalocean.com
 little bit confusing since it was difficult to understand which step was related
 to deployment and which to application development.
 
+## Assumptions
+
+**Shell**: I usually work with [fish](https://fishshell.com/) but the plain
+vanilla is bash, so will slide with bash on the production server for
+everything.
+
 ## Deployment
 
 ### Steps
@@ -134,6 +140,11 @@ While most posts suggest the same commands for generating the private/public
 pair for ssh login, after reading  Gert van Dijk's [Upgrade your SSH keys!](https://blog.g3rt.nl/upgrade-your-ssh-keys.html#generate-your-new-sexy-ed25519-key), I would suggest:
 
 `ssh-keygen -o -a 100 -t ed25519`
+
+or follow as much of the advice of
+<https://stribika.github.io/2015/01/04/secure-secure-shell.html> as possible
+moreover because having a new box without any need to support legacy produced
+keys.
 
 **Note**: As the deployment has not been run in a remote server as of writing
 this post, I will come back when it's done again with the missing steps. These
