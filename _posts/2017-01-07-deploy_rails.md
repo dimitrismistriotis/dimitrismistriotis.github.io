@@ -78,6 +78,8 @@ to deployment and which to application development.
 vanilla is bash, so will slide with bash on the production server for
 everything.
 
+**Application Server**: Why passenger.
+
 ## Deployment
 
 ### Steps
@@ -155,6 +157,66 @@ host, e. create config file on local host.
 Congratulations! By "unlocking challenge 2" you can connect to the production
 server. The next steps can be executed sequentially, in parallel or in a
 different order as described in the "Steps" section above.
+
+Before next step: `sudo apt-get update` and `sudo apt-get upgrade`.
+
+### 3. Install Ruby with rbenv
+
+There is a nice post here:
+<http://kgrz.io/Programmers-guide-to-choosing-ruby-version-manager.html> on
+choosing a version manager for Ruby. I decided on this combination based on
+popularity plus I saw an easier-to understand integration with Passenger on the
+tutorials that this post <del>has stolen from</del> is based on.
+
+Generally reflecting on writing this, the decision was to have a as boring
+server as humanly possible, hence easy to debug. So opting for the most
+popular choices is at least desired. For not choosing RVM, changing how cd works
+is something that this geek's heart cannot endure, provided with an alternative.
+
+From: <https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04>:
+
+```
+sudo apt-get install git-core curl zlib1g-dev build-essential \
+  libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 \
+  libxml2-dev libxslt1-dev libcurl4-openssl-dev \
+  python-software-properties libffi-dev
+```
+
+All these are unfortunately needed for rbenv. Unfortunately because more
+packages progressively bloat the system with probable security and maintenance
+implications.
+
+For rbenv:
+
+```
+cd ~
+git clone git://github.com/sstephenson/rbenv.git .rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
+echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+source ~/.bash_profile
+```
+
+(From Digital Ocean's tutorial and rbenv's installation instructions with some
+modifications)
+
+Then:
+
+```
+cd ~
+git clone git://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bash_profile
+source ~/.bash_profile
+```
+
+And time to get our preferred version of Ruby:
+
+```
+rbenv install -v 2.3.1
+rbenv global 2.3.1
+```
+
+A `ruby -v` should return something in the lines of:
+"ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-linux]"
 
 ## Extras
 
