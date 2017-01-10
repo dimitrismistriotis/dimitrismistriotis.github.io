@@ -88,15 +88,17 @@ The steps are the following:
 
 1. Create/Rent/Lease a server
 2. Connect to server with SSH (depends on **1**)
-3. Install Ruby with [rbenv](https://github.com/rbenv/rbenv) (depends on **2**)
-4. Install [NGINX](https://nginx.org/en/) (depends on **2**)
-5. Copy the Rails application to the server (depends on **2**)
-6. Install [Phusion Passenger](https://www.phusionpassenger.com/) and configure
-   it with the current Ruby (depends on **3, 4**)
-7. Install and configure [PostgreSQL](https://www.postgresql.org/) (depends on
+3. Install Ruby with [rbenv](https://github.com/rbenv/rbenv) and
+   [ruby-build](https://github.com/rbenv/ruby-build) (depends on **2**)
+4. Install gems and Rails (depends on **3**)
+5. Install [NGINX](https://nginx.org/en/) (depends on **2**)
+6. Copy the Rails application to the server (depends on **2**)
+7. Install [Phusion Passenger](https://www.phusionpassenger.com/) and configure
+   it with the current Ruby (depends on **4, 5**)
+8. Install and configure [PostgreSQL](https://www.postgresql.org/) (depends on
    **1**)
-8. Connect to application from browser (depends on **5, 6**)
-9. See login page (depends on **7, 8**)
+9. Connect to application from browser (depends on **6, 7**)
+10. See login page (depends on **8, 9**)
 
 ### 1. Create/Rent/Lease a server
 
