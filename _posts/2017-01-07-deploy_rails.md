@@ -11,7 +11,7 @@ permalink: /deploy_rails
 I wanted to deploy a small rails application in my own server and I found the
 material available a little bit puzzling. After spending lots of time with
 different tutorials and being an advocate of writing things that I would like
-to read, decided to roll my own tutorial.
+to read, decided to roll my own tutorial/post.
 
 The tutorial ends once we can see the rails application deployed on a plain
 vanilla Ubuntu server, assuming that the process is similar to Debian boxes.
@@ -28,6 +28,16 @@ why you do it. This makes sense as someone could fall into the rabbit hole of
 explaining how a webserver works for hours and hours - pages and pages in our
 case. I will try to provide a short paragraph or at least one link in each of
 these cases.
+
+### Most influential post on the subject
+
+[Michele Anica](https://www.digitalocean.com/community/users/manicas)'s
+[How To Install Ruby on Rails with rbenv on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04)
+
+![deploy](/images/deploy_rails/ruby_with_rbenv_tw.jpg)
+
+There are many posts lying around but following this one I managed to complete
+the installation.
 
 ## The stack
 
@@ -90,7 +100,7 @@ The steps are the following:
 2. Connect to server with SSH (depends on **1**)
 3. Install Ruby with [rbenv](https://github.com/rbenv/rbenv) and
    [ruby-build](https://github.com/rbenv/ruby-build) (depends on **2**)
-4. Install gems and Rails (depends on **3**)
+4. Install Rails (depends on **3**)
 5. Install [NGINX](https://nginx.org/en/) (depends on **2**)
 6. Copy the Rails application to the server (depends on **2**)
 7. Install [Phusion Passenger](https://www.phusionpassenger.com/) and configure
@@ -220,8 +230,13 @@ rbenv global 2.3.1
 A `ruby -v` should return something in the lines of:
 "ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-linux]"
 
+### 4. Install Rails
+
+<img src="/images/deploy_rails/rails-logo.svg" style="width: 30%"><br>
+
 ## Extras
 
 ### Retrieve from a Git repository (Github/Gitlab)
 
 Placeholder
+
