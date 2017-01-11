@@ -100,7 +100,7 @@ The steps are the following:
 2. Connect to server with SSH (depends on **1**)
 3. Install Ruby with [rbenv](https://github.com/rbenv/rbenv) and
    [ruby-build](https://github.com/rbenv/ruby-build) (depends on **2**)
-4. Install Rails (depends on **3**)
+4. Install Rails and NodeJS (depends on **3**)
 5. Install [NGINX](https://nginx.org/en/) (depends on **2**)
 6. Copy the Rails application to the server (depends on **2**)
 7. Install [Phusion Passenger](https://www.phusionpassenger.com/) and configure
@@ -230,9 +230,56 @@ rbenv global 2.3.1
 A `ruby -v` should return something in the lines of:
 "ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-linux]"
 
-### 4. Install Rails
+### 4. Install Rails and NodeJS
 
 <img src="/images/deploy_rails/rails-logo.svg" style="width: 30%"><br>
+
+A nice idea that usually gets forgotten is to run at this point:
+`echo "gem: --no-document" > ~/.gemrc`. Documentation is not that much needed
+in a production server and removing it out will speed up the gem
+installation/update process.
+
+For Rails installation:
+
+```
+gem install bundler && rbenv rehash
+gem install rails && rbenv rehash
+```
+
+
+The "rehash" command of brenv, "*Installs shims for all Ruby executables known
+to rbenv (i.e., ~/.rbenv/versions//bin/). Run this command after you install a
+new version of Ruby, or install a gem that provides commands ...*" according to
+tool's documentation. In order to be sure that this happens all the time, the
+command should be appended to a future deployment script.
+
+![Rehash... all the things](/images/deploy_rails/rehash_all_the_things.jpg)
+
+In any case once everything is over, check with `rails -v` to see that Rails has
+been properly installed.
+
+We can verify that everything is all right by creating a new Rails application
+and running it:
+
+```
+cd ~
+rails new testit
+cd testit
+rails s
+```
+
+Which brings up an error: "*There was an error while trying to load the gem
+'uglifier'. (Bundler::GemRequireError) Gem Load Error is: Could not find a
+JavaScript runtime. See https://github.com/rails/execjs for a list of available
+runtimes.*" This can be fixed by installing the missing piece of this step,
+NodeJS: `sudo apt-get install nodejs`. I am not 100% sure but even if Ubuntu or
+Debian have a more legacy version of Node, it should be OK for Rails. There are
+also different options for a JavaScript runtime but chose not to explore them.
+
+Do not know if it would be better to be able to do this processing in a
+different machine to the one we want to deploy, keeping the production machine
+with minimal packages installed. In any case this is the way things currently
+are...
 
 ## Extras
 
