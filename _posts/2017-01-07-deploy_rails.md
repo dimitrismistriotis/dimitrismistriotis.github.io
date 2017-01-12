@@ -29,15 +29,12 @@ explaining how a webserver works for hours and hours - pages and pages in our
 case. I will try to provide a short paragraph or at least one link in each of
 these cases.
 
-### Most influential post on the subject
+### Most influential post for writing this
 
-[Michele Anica](https://www.digitalocean.com/community/users/manicas)'s
-[How To Install Ruby on Rails with rbenv on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04)
-
-![deploy](/images/deploy_rails/ruby_with_rbenv_tw.jpg)
+Sophie De Benedetto's [Deploying Rails to DigitalOcean, the Hard Way](http://www.thegreatcodeadventure.com/deploying-rails-to-digitalocean-the-hard-way/)
 
 There are many posts lying around but following this one I managed to complete
-the installation.
+the installation. See References section for more.
 
 ## The stack
 
@@ -287,3 +284,9 @@ are...
 
 Placeholder
 
+## References
+
+[Michele Anica](https://www.digitalocean.com/community/users/manicas)'s
+[How To Install Ruby on Rails with rbenv on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04)
+
+![deploy](/images/deploy_rails/ruby_with_rbenv_tw.jpg)
