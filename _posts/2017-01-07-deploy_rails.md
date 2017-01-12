@@ -101,7 +101,7 @@ The steps are the following:
 5. Install [NGINX](https://nginx.org/en/) (depends on **2**)
 6. Copy the Rails application to the server (depends on **2**)
 7. Install [Phusion Passenger](https://www.phusionpassenger.com/) and configure
-   it with the current Ruby (depends on **4, 5**)
+   it with the current Ruby and your application (depends on **4, 5, 6**)
 8. Install and configure [PostgreSQL](https://www.postgresql.org/) (depends on
    **1**)
 9. Connect to application from browser (depends on **6, 7**)
@@ -277,6 +277,10 @@ Do not know if it would be better to be able to do this processing in a
 different machine to the one we want to deploy, keeping the production machine
 with minimal packages installed. In any case this is the way things currently
 are...
+
+### 5. Install NGINX
+
+![NGINX logo](/images/deploy_rails/nginx.png)
 
 ## Extras
 
