@@ -304,6 +304,30 @@ sudo service nginx start
 Available here: <https://gist.github.com/dimitrismistriotis/2aebe16bf713c40aaf98cee6fc8d4fa6#file-start_services>. Do not
 forget to make it executable (`chmod +x start_services`).
 
+### 6. Copy the Rails application to the server
+
+In the case of using Vagrant the tgz should be first copied to the shared
+directory of the host machine extracted from the the current user inside the
+container: `tar -xvzf /vagrant_data/webapp.tgz`. Target application is in the
+"web" directory, which from now on will be: "/home/vagrant/web".
+
+**Note**: When on an actual machine it will be copied there before extraction
+with a secure copy, while probably most will do a git clone which as discussed
+before is out of this post's main body.
+
+Then `bundle`. It will complain about the pg gem for Postgresql connectivity.
+This is fixed by: `sudo apt-get install libpq-dev` and then `bundle` again. As
+always followed by an `rvn rehash`
+
+We can see that there is some life by running a console (`rails c`), or even a
+production console(`RAILS_ENV=production rails c`). Just do not try to use the
+database, because nothing is there yet or it has not been configured. Trigger
+an error if curious by: `User.all`.
+
+I also had not configured Devise's secret key which raised an error as well.
+Remember to fix the application first if that is the case and then copy it
+again (This is where using git would be handy).
+
 ## Extras
 
 ### Retrieve from a Git repository (Github/Gitlab)
