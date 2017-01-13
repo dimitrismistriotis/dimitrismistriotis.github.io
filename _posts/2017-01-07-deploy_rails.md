@@ -282,6 +282,28 @@ are...
 
 ![NGINX logo](/images/deploy_rails/nginx.png)
 
+Installing Nginx with defaults should be easy
+
+```sudo apt-get install nginx```
+
+then
+
+```sudo service nginx start```
+
+For some reason (probably something to do with how docker comprehends the
+world), running daemons (in our case nginx and postgresql) did not persist
+between runs of the machine or reboots. That's why I used this little script
+named "`start_services`" after every `vagrant ssh`:
+
+```
+#!/bin/sh
+sudo service postgresql start
+sudo service nginx start
+```
+
+Available here: <https://gist.github.com/dimitrismistriotis/2aebe16bf713c40aaf98cee6fc8d4fa6#file-start_services>. Do not
+forget to make it executable (`chmod +x start_services`).
+
 ## Extras
 
 ### Retrieve from a Git repository (Github/Gitlab)
