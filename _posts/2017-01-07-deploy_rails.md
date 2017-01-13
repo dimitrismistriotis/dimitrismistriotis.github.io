@@ -87,6 +87,12 @@ everything.
 
 **Application Server**: Why passenger.
 
+**General approach**: Big bang deployment. In theory we could test each step in
+isolation and then integrate. I tried to do that to some extend, but I rather
+slided towards a Big Bang deployment which from my university years is a term
+for: throw in everything, if it doesn't work fix what's broken on the spot and
+try again".
+
 ## Deployment
 
 ### Steps
