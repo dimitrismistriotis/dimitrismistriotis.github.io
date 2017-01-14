@@ -334,6 +334,63 @@ I also had not configured Devise's secret key which raised an error as well.
 Remember to fix the application first if that is the case and then copy it
 again (This is where using git would be handy).
 
+### 7. Install and configure PostgreSQL
+
+<img src="/images/deploy_rails/postgresql-logo.png" style="width: 30%"><br>
+
+Traditionally there was a preference towards MySQL, as times goes by suggestions
+to use it are becoming more and more rare. Having never done Rails with MySQL, I
+always preferred PostgresSQL. Reasons have to do with better documentation,
+easier database management, more features and standard compliant SQL, with
+assurance that software from that company whose name starts with "O" and ends
+with "racle" is not anywhere in your system.
+
+With the "libpq-dev" installed in the 6<sup>th</sup> step, the database server
+needs to be installed with the user configured on application's production
+configuration file.
+
+Let's install the database and the corresponding contrib package with:
+`sudo apt-get -y install postgresql postgresql-contrib`
+
+Posgres ships with secure defaults, this makes the first time with it a little
+bit difficult but it gives you assurance that you have nothing exposed to the
+Internet or anything else that has happened historically to MySQL and recently
+MongoDB users.
+
+Three things are needed to continue: name of the production's user,
+the name of the database, and the password. The first two should be in the last
+lines of "config/database.yml", which looks like this:
+
+```
+production:
+  <<: *default
+  database: yourapplication_production
+  username: yourapplication
+  password: <%= ENV['YOURAPPLICATION_DATABASE_PASSWORD'] %>
+
+```
+
+Password will be installed in the environment, in case you follow the steps in
+sequentially, it is not there yet, so decide a password and write it down or
+somewhere to copy-paste it later. Should I suggest something in the lines of
+xkcd-password?: <https://gitlab.com/dimitrios/xkcd_passgen> (self promotion)
+
+For what we are going to do production section in database.yml should have a
+"host: localhost" entry. This is because the application will connect to the
+database through a Unix socket, not through TCP, so in case
+"config/database.yml" is as above, make sure that the last lines are like this:
+
+```
+production:
+  <<: *default
+  database: yourapplication_production
+  username: yourapplication
+  host: localhost
+  password: <%= ENV['YOURAPPLICATION_DATABASE_PASSWORD'] %>
+
+```
+
+
 ## Extras
 
 ### Retrieve from a Git repository (Github/Gitlab)
