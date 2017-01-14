@@ -480,6 +480,8 @@ version of his "Secrets of the JavaScript Ninja" book and read it).
 
 ### 8. Install and configure Phusion Passenger for your application/environment
 
+<img src="/images/deploy_rails/passenger-logo.png" style="width: 30%"><br>
+
 Passenger's homepage has a number of tutorials for different platforms since it
 can be used for different environments. Since we are in the Ruby on Xenial
 (Ubuntu 16.04) at the end the suggested link was this: <https://www.phusionpassenger.com/library/walkthroughs/deploy/ruby/ownserver/nginx/oss/xenial/install_passenger.html>, suggesting the
