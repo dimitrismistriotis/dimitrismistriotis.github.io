@@ -338,12 +338,12 @@ forget to make it executable (`chmod +x start_services`).
 In the case of using Vagrant the "webapp.tgz" file created should be first
 copied to the shared directory of the host machine extracted from the the
 current user inside the container: `tar -xvzf /vagrant_data/webapp.tgz`. Target
-application is in the "web" directory, which from now on will be: 
+application is in the "web" directory, which from now on will be:
 "/home/vagrant/web".
 
-**Note**: When on an actual machine it will be copied there before extraction
-with a secure copy, while probably most will do a git clone which as discussed
-before is out of this post's main body.
+**Note**: When deploying on an actual machine .tga should be copied there before
+extraction thought secure copy if this way is followed. Probably most will do a
+git clone, which as discussed before is out of this post's main body.
 
 Then `bundle`. It will complain about the pg gem for Postgresql connectivity.
 This is fixed by: `sudo apt-get install libpq-dev` and then `bundle` again. As
@@ -358,7 +358,12 @@ I also had not configured Devise's secret key which raised an error as well.
 Remember to fix the application first if that is the case and then copy it
 again (This is where using git would be handy).
 
-PRECOMPILE HERE
+Although this could be done later, lets precompile application's while in this
+step so that they will be ready later on:
+
+```
+RAILS_ENV=production rais assets:precompile
+```
 
 ### 7. Install and configure PostgreSQL
 
