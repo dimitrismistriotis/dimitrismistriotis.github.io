@@ -105,7 +105,7 @@ The steps are the following:
    [ruby-build](https://github.com/rbenv/ruby-build) (depends on **2**)
 4. Install Rails and NodeJS (depends on **3**)
 5. Install [NGINX](https://nginx.org/en/) (depends on **2**)
-6. Copy the Rails application to the server (depends on **2**)
+6. Copy Rails application to server and precompile assets (depends on **2**)
 7. Install and configure [PostgreSQL](https://www.postgresql.org/) (depends on
    **1**)
 8. Install and configure [Phusion Passenger](https://www.phusionpassenger.com/)
@@ -333,12 +333,13 @@ sudo service nginx start
 Available here: <https://gist.github.com/dimitrismistriotis/2aebe16bf713c40aaf98cee6fc8d4fa6#file-start_services>. Do not
 forget to make it executable (`chmod +x start_services`).
 
-### 6. Copy the Rails application to the server
+### 6. Copy Rails application to server and precompile assets
 
-In the case of using Vagrant the tgz should be first copied to the shared
-directory of the host machine extracted from the the current user inside the
-container: `tar -xvzf /vagrant_data/webapp.tgz`. Target application is in the
-"web" directory, which from now on will be: "/home/vagrant/web".
+In the case of using Vagrant the "webapp.tgz" file created should be first
+copied to the shared directory of the host machine extracted from the the
+current user inside the container: `tar -xvzf /vagrant_data/webapp.tgz`. Target
+application is in the "web" directory, which from now on will be: 
+"/home/vagrant/web".
 
 **Note**: When on an actual machine it will be copied there before extraction
 with a secure copy, while probably most will do a git clone which as discussed
@@ -351,11 +352,13 @@ always followed by an `rvn rehash`
 We can see that there is some life by running a console (`rails c`), or even a
 production console(`RAILS_ENV=production rails c`). Just do not try to use the
 database, because nothing is there yet or it has not been configured. Trigger
-an error if curious by: `User.all`.
+an error if curious by trying: `User.all`.
 
 I also had not configured Devise's secret key which raised an error as well.
 Remember to fix the application first if that is the case and then copy it
 again (This is where using git would be handy).
+
+PRECOMPILE HERE
 
 ### 7. Install and configure PostgreSQL
 
