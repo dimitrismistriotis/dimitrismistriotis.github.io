@@ -472,7 +472,46 @@ version of his "Secrets of the JavaScript Ninja" book and read it).
 
 ### 8. Install and configure Phusion Passenger for your application/environment
 
-Placeholder
+Passenger's homepage has a number of tutorials for different platforms since it
+can be used for different environments. Since we are in the Ruby on Xenial
+(Ubuntu 16.04) at the end the suggested link was this: <https://www.phusionpassenger.com/library/walkthroughs/deploy/ruby/ownserver/nginx/oss/xenial/install_passenger.html>, suggesting the
+following for installing Passenger:
+
+```
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 561F9B9CAC40B2F7
+sudo apt-get install -y apt-transport-https ca-certificates
+
+
+sudo sh -c 'echo deb https://oss-binaries.phusionpassenger.com/apt/passenger xenial main > /etc/apt/sources.list.d/passenger.list'
+sudo apt-get update
+
+
+sudo apt-get install -y nginx-extras passenger
+```
+
+Then wdit "/etc/nginx/nginx.conf" as root (with nano for example:
+`sudo nano /etc/nginx/nginx.conf`). There uncomment the line
+"   # include /etc/nginx/passenger.conf;"
+
+The line at the end should look like this:
+
+```
+include /etc/nginx/passenger.conf;
+```
+
+Then Nginx needs to restart: `sudo service nginx restart`. Check the
+installation with `sudo /usr/bin/passenger-config validate-install` and then
+`sudo /usr/sbin/passenger-memory-stats`.
+
+Up to this point the commands in this section are a copy-paste from Passenger's
+tutorial. The last two for checking the installation are usually not present in
+most posts that I have seen around. This is where the first part of the tutorial
+ends. We have assured that Nginx is configured with Passenger's open source
+version as well as that the installation is correct, what is missing is the
+configuration for the specific application that we have deployed and want to
+execute. Instructions for this are in the second page of Passenger's tutorial,
+[Deploying a Ruby app on a Linux/Unix production server](https://www.phusionpassenger.com/library/walkthroughs/deploy/ruby/ownserver/nginx/oss/xenial/deploy_app.html).
+
 
 ## Extras
 
@@ -488,4 +527,5 @@ Placeholder
 
 [Michele Anica](https://www.digitalocean.com/community/users/manicas)'s
 [How To Install Ruby on Rails with rbenv on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04)
+[How To Deploy a Rails App with Passenger and Nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-04)
 [Perl warning Setting locale failed in Debian](https://www.thomas-krenn.com/en/wiki/Perl_warning_Setting_locale_failed_in_Debian)
