@@ -110,8 +110,7 @@ The steps are the following:
    **1**)
 8. Install and configure [Phusion Passenger](https://www.phusionpassenger.com/)
    for your application/environment (depends on **4, 5, 6**)
-9. Connect to application from browser (depends on **7, 8**)
-10. See login page (depends on **8, 9**)
+9. Connect to application from browser, see login page (depends on **7, 8**)
 
 ### 1. Create/Rent/Lease a server
 
@@ -585,15 +584,38 @@ echo SECRET_KEY_BASE=`rails secret` >> ~/.rbenv-vars
 
 Just in case I restarted the server `sudo service nginx restart`.
 
-## Extras
+### 9. Connect to application from browser, see login page
 
-### Retrieve from a Git repository (Github/Gitlab)
+This is a "wrap-up", "checkpoint" step. Application should be available here:
+<http://localhost:4567> and the login page for Devise should be available here:
+<http://localhost:4567/users/sign_in>. If something is wrong then check the
+instructions again and start debugging in the usual locations such as
+"/var/log/nginx" for Nginx's logs, etc.
 
-Placeholder
+## Final thoughts
 
-### Capistrano
+Reflecting back on the time for writing this tutorial, I gave some time to
+contemplate on how much software is available for us in the open source world,
+how many companies have a version of their offering available to anyone, and
+generally how much material is available in the form of documentation,
+tutorials, or simple blog posts.
 
-Placeholder
+The main target of this post was to separate the steps into single units of work
+and have many checkpoints after each one of them. For most cases of the
+material I read before compiling this post is mixed between actions that would
+be part of development, source control management, purchasing as ever instance,
+etc.
+
+## Items for next version
+
+* Retrieve from a Git repository (Github/Gitlab)
+* Capistrano or another deployment solution
+* There will also be the commands for actual deployment on an instance available
+  on the Internet (purchased from Amazon/Digital Ocean/somewhere else). My
+  advice is still to do a local deployment first so that the reader will
+  understand what is going on without the stress of a live environment or by
+  paying for a server that does nothing. Then re-do the same stuff with more
+  confidence on the actual production server.
 
 ## Other References
 
