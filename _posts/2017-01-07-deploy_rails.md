@@ -154,7 +154,7 @@ these to connect disabling password login for that user and root login
 altogether.
 
 While most posts suggest the same commands for generating the private/public
-pair for ssh login, after reading  Gert van Dijk's [Upgrade your SSH keys!](https://blog.g3rt.nl/upgrade-your-ssh-keys.html#generate-your-new-sexy-ed25519-key), I would suggest:
+pair for ssh login, after reading  Gert van Dijk's [Upgrade your SSHkeys!](https://blog.g3rt.nl/upgrade-your-ssh-keys.html#generate-your-new-sexy-ed25519-key), I would suggest:
 
 `ssh-keygen -o -a 100 -t ed25519`
 
@@ -179,6 +179,8 @@ The default installation might not have a text editor included. Since this post
 does mostly small changes or copy-pastes, nano should be enough so
 `sudo apt-get install nano`. You might be a vim or emacs wizard instead. In
 either case you might want to install and configure an editor now.
+
+**TODO**: SET LOCALE for perl.
 
 ### 3. Install Ruby with rbenv
 
@@ -304,7 +306,7 @@ then
 For some reason (probably something to do with how docker comprehends the
 world), running daemons (in our case nginx and postgresql) did not persist
 between runs of the machine or reboots. That's why I used this little script
-named "`start_services`" after every `vagrant ssh`:
+named "start_services" after every `vagrant ssh`:
 
 ```
 #!/bin/sh
@@ -396,6 +398,62 @@ production:
 ```
 
 
+Since the database runs as a separate user, we'll sudo as this user and create
+the "*yourapplication*" user with ownership to "*yourapplication_production*"
+database who authenticates with "*YOURAPPLICATION_DATABASE_PASSWORD*".
+
+Get to the Postgres prompt by `sudo -u postgres psql`. In the docker instance
+the database service had not started, so either do a
+`sudo service postgresql start` or use the "start_services" script from step 5.
+ Once connected:
+
+```
+create user yourapplication with password 'YOURAPPLICATION_DATABASE_PASSWORD';
+-- Responds with: CREATE ROLE
+create database yourapplication_production owner yourapplication;
+-- Responds with: CREATE DATABASE
+-- Now exit with \q or with CTRL+d
+\q
+```
+
+Verify that you can connect:
+
+```
+psql --username=yourapplication --host=localhost yourapplication_production
+```
+Which will trigger a password prompt, then "\q" or CTRL+d out of it.
+
+An integration test could take place here by trying to connect from the Rails
+application, so from the directory where it is): `RAILS_ENV=production rails c`
+and then `User.all` (or a model that should be stored in the database). It
+should fail because the password is not supplied anywhere: "PG::ConnectionBad:
+fe_sendauth: no password supplied" is a possible error message.
+
+For this the [rbenv-vars](https://github.com/rbenv/rbenv-vars), "a plugin for
+rbenv that lets you set global and project-specific environment variables before
+spawning Ruby processes." will be used:
+
+```
+git clone https://github.com/rbenv/rbenv-vars.git \
+  $(rbenv root)/plugins/rbenv-vars
+```
+
+The place to store the password is the "~/.rbenv-vars" file, so edit it and
+add the following line:
+```
+YOURAPPLICATION_DATABASE_PASSWORD=WHAT_YOU_PROVIDED_AS_PASSWORD
+```
+
+Now you can run a `RAILS_ENV=production rails db:migrate` (I logged out and then
+back in, just in case there was an initialisation phase), which should run
+without errors or at least connecting to the database. This file should be the
+equivalent of Heroku environment variables and should be where all "secret"
+stuff should be stored. For the discussion of how to store and maintain this
+file, one possible way would be John Resig's "[Keeping Passwords in Source
+Control](http://ejohn.org/blog/keeping-passwords-in-source-control/)" (you
+might know him as the author of jQuery - reminder to self: buy 2<sup>nd</sup>
+version of his "Secrets of the JavaScript Ninja" book and read it).
+
 ## Extras
 
 ### Retrieve from a Git repository (Github/Gitlab)
@@ -406,7 +464,7 @@ Placeholder
 
 Placeholder
 
-## References
+## Other References
 
 [Michele Anica](https://www.digitalocean.com/community/users/manicas)'s
 [How To Install Ruby on Rails with rbenv on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04)
