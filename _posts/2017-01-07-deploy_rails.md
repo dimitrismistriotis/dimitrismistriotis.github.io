@@ -175,6 +175,11 @@ different order as described in the "Steps" section above.
 
 Before next step: `sudo apt-get update` and `sudo apt-get upgrade`.
 
+The default installation might not have a text editor included. Since this post
+does mostly small changes or copy-pastes, nano should be enough so
+`sudo apt-get install nano`. You might be a vim or emacs wizard instead. In
+either case you might want to install and configure an editor now.
+
 ### 3. Install Ruby with rbenv
 
 There is a nice post here:
