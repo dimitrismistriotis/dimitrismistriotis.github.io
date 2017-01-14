@@ -106,10 +106,10 @@ The steps are the following:
 4. Install Rails and NodeJS (depends on **3**)
 5. Install [NGINX](https://nginx.org/en/) (depends on **2**)
 6. Copy the Rails application to the server (depends on **2**)
-7. Install [Phusion Passenger](https://www.phusionpassenger.com/) and configure
-   it with the current Ruby and your application (depends on **4, 5, 6**)
-8. Install and configure [PostgreSQL](https://www.postgresql.org/) (depends on
+7. Install and configure [PostgreSQL](https://www.postgresql.org/) (depends on
    **1**)
+8. Install [Phusion Passenger](https://www.phusionpassenger.com/) and configure
+   it with the current Ruby and your application (depends on **4, 5, 6**)
 9. Connect to application from browser (depends on **6, 7**)
 10. See login page (depends on **8, 9**)
 
