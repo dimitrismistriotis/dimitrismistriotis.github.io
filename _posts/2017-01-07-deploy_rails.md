@@ -482,6 +482,8 @@ version of his "Secrets of the JavaScript Ninja" book and read it).
 
 <img src="/images/deploy_rails/passenger-logo.png" style="width: 30%"><br>
 
+#### Part 1
+
 Passenger's homepage has a number of tutorials for different platforms since it
 can be used for different environments. Since we are in the Ruby on Xenial
 (Ubuntu 16.04) at the end the suggested link was this: <https://www.phusionpassenger.com/library/walkthroughs/deploy/ruby/ownserver/nginx/oss/xenial/install_passenger.html>, suggesting the
@@ -522,6 +524,66 @@ configuration for the specific application that we have deployed and want to
 execute. Instructions for this are in the second page of Passenger's tutorial,
 [Deploying a Ruby app on a Linux/Unix production server](https://www.phusionpassenger.com/library/walkthroughs/deploy/ruby/ownserver/nginx/oss/xenial/deploy_app.html).
 
+#### Part 2
+
+Let's find out which ruby will be used: `passenger-config about ruby-command`
+and copy the result to use in a bit. Because of rbenv, it should be something
+like: "/home/vagrant/.rbenv/versions/2.3.1/bin/ruby" (on the vagrant-docker
+setup, if we want to write it in a more generic way, something like
+"/home/name_of_user/.rbenv/versions/2.X.Y/bin/ruby"). This setting has an issue
+with the environment variables in the "~/rbenv-vars" file as it cannot retrieve
+them. Solution to this is to provide the location of that Ruby's shim instead as
+discussed here: <https://github.com/rbenv/rbenv-vars/issues/32>.
+
+Next step would be to write site's configuration. Passenger's tutorial suggests
+to write directly to "/etc/nginx/sites-enabled", while a site should have its
+configuration to "/etc/nginx/sites-available" with a link to the "...enabled"
+directory. To accomplish this edit "/etc/nginx/sites-available/yourapplication"
+(as sudo, so for example:
+`sudo nano /etc/nginx/sites-available/yourapplication` with the following
+contents:
+
+```
+server {
+    listen 80;
+    server_name 127.0.0.1;
+
+    # Tell Nginx and Passenger where your app's 'public' directory is
+    root /home/vagrant/web/public;
+
+    # Turn on Passenger
+    passenger_enabled on;
+    # Use this if there are no environment variables:
+    # passenger_ruby /home/vagrant/.rbenv/versions/2.3.1/bin/ruby;
+    # Use this for environment variables:
+    passenger_ruby /home/vagrant/.rbenv/shims/ruby;
+}
+```
+
+I placed "127.0.0.1" as the server's name because of the port exposed in docker
+and the fact that requests will only come from container's host. In a public
+facing server here the name of the www server should be there.
+
+```
+sudo ln -s /etc/nginx/sites-available/yourapplication /etc/nginx/sites-enabled/
+sudo rm /etc/nginx/sites-enabled/default
+```
+
+An `ls  /etc/nginx/sites-enabled/` should show only one site, "yourapplication".
+Restart Nginx: `sudo service nginx restart`
+
+You can connect to the application from the container through the exposed port
+which would be: <http://localhost:4567/>. An error will be displayed since up
+to now the secret key has not been configured
+
+It can be populated with the following command (be careful to use ">>" so that
+the output or the echo command will be appended):
+
+```
+echo SECRET_KEY_BASE=`rails secret` >> ~/.rbenv-vars
+```
+
+Just in case I restarted the server `sudo service nginx restart`.
 
 ## Extras
 
