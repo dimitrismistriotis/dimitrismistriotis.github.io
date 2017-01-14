@@ -402,6 +402,10 @@ production:
 
 Placeholder
 
+### Capistrano
+
+Placeholder
+
 ## References
 
 [Michele Anica](https://www.digitalocean.com/community/users/manicas)'s
