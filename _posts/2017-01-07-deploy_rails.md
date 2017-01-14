@@ -108,9 +108,9 @@ The steps are the following:
 6. Copy the Rails application to the server (depends on **2**)
 7. Install and configure [PostgreSQL](https://www.postgresql.org/) (depends on
    **1**)
-8. Install [Phusion Passenger](https://www.phusionpassenger.com/) and configure
-   it with the current Ruby and your application (depends on **4, 5, 6**)
-9. Connect to application from browser (depends on **6, 7**)
+8. Install and configure [Phusion Passenger](https://www.phusionpassenger.com/)
+   for your application/environment (depends on **4, 5, 6**)
+9. Connect to application from browser (depends on **7, 8**)
 10. See login page (depends on **8, 9**)
 
 ### 1. Create/Rent/Lease a server
@@ -180,7 +180,23 @@ does mostly small changes or copy-pastes, nano should be enough so
 `sudo apt-get install nano`. You might be a vim or emacs wizard instead. In
 either case you might want to install and configure an editor now.
 
-**TODO**: SET LOCALE for perl.
+#### Locale
+
+<img src="/images/deploy_rails/union_jack.png" style="width: 30%"><br>
+
+Many commands run later on depend on Perl which will always complain about
+locale:
+
+> perl: warning: Setting locale failed.
+> perl: warning: Please check that your locale settings:
+>   LANGUAGE = (unset),
+>   LC_ALL = (unset),
+>   LANG = "en_GB.UTF-8"
+>     are supported and installed on your system.
+> perl: warning: Falling back to the standard locale ("C").
+
+This can be fixed by running `sudo dpkg-reconfigure locales` and setting up the
+system locale, which is something you might wanted to do anyway.
 
 ### 3. Install Ruby with rbenv
 
@@ -454,6 +470,10 @@ Control](http://ejohn.org/blog/keeping-passwords-in-source-control/)" (you
 might know him as the author of jQuery - reminder to self: buy 2<sup>nd</sup>
 version of his "Secrets of the JavaScript Ninja" book and read it).
 
+### 8. Install and configure Phusion Passenger for your application/environment
+
+Placeholder
+
 ## Extras
 
 ### Retrieve from a Git repository (Github/Gitlab)
@@ -468,4 +488,4 @@ Placeholder
 
 [Michele Anica](https://www.digitalocean.com/community/users/manicas)'s
 [How To Install Ruby on Rails with rbenv on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04)
-
+[Perl warning Setting locale failed in Debian](https://www.thomas-krenn.com/en/wiki/Perl_warning_Setting_locale_failed_in_Debian)
