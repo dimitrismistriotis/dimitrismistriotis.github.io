@@ -31,35 +31,39 @@ these cases.
 
 ### Most influential post for writing this
 
-Sophie De Benedetto's [Deploying Rails to DigitalOcean, the Hard Way](http://www.thegreatcodeadventure.com/deploying-rails-to-digitalocean-the-hard-way/)
+Sophie De Benedetto's [Deploying Rails to DigitalOcean, the Hard Way](
+http://www.thegreatcodeadventure.com/deploying-rails-to-digitalocean-the-hard-way/)
 
 There are many posts lying around but following this one I managed to complete
 the installation. See References section for more.
 
 ## The stack
 
-Rails version 5.0 with PostgreSQL.
+Rails version 5.0 with PostgreSQL running on Nginx with Phusion Passenger.
 
 ### Why deploy in the first place
 
-Or why deploy in a world where Heroku exists? Did some digging and self
-reflection before deciding to do a roll-your-own deployment. The answer is the
-usual in IT circles "it depends" mixed with "what you want". I think Heroku is
-a great option not only because you can deploy in minutes, but also because it
-eliminates the need for a systems administrator in many cases. There will be the
-case where Heroku is down and nobody can do anything which is as probable as
-your provider of choice going down *without* including errors on your behalf.
+Or why deploy in a world where [Heroku](https://www.heroku.com/) exists?
+Did some digging and self reflection before deciding to do a roll-your-own
+deployment. The answer is the usual in IT circles "it depends" mixed with "what
+you want". I think Heroku is a great option not only because you can deploy in
+minutes, but also because it eliminates the need for a hiring a systems
+administrator in some cases - there are companies that pay hundreds of dollars
+per month to Heroku instead of hiring a person to look after their systems.
+There will be the case where their platform is down and nobody can do anything,
+which is though as probable an another provider of choice going down *without*
+including possible human errors on client's behalf.
 
 Heroku has two issues: costs scale exponentially ("their" fault), and there is
 no viable industry alternative (not "their" fault). For small/hobby projects I
 would suggest to have a budget: Say to yourself that after an arbitrary
-15$/month threshold, you will roll your own, choosing one of the VMs from
-Amazon or Digital Ocean or Google CLoud or Azure, etc.
+15$/month threshold you will roll your own, choosing one of the VMs from
+Amazon, Digital Ocean, Google Cloud, Azure, or something more niche.
 
 For my project I wanted to run some custom services (not covered here), so
 sooner or later there would be the need to have a Linux box somewhere. I would
-also consolidate some other stuff in that machine. Also I would like that extra
-control.
+also consolidate some other stuff in that machine, also would like some extra
+control and the know-how.
 
 ## Prerequisites
 
@@ -145,7 +149,7 @@ I installed Vagrant from it's download page:
 
 ### 2. Connect to server with SSH
 
-For Vagrant it is easy, after going to the directory where vagrant was run, a
+For Vagrant this is easy: after going to the directory where vagrant was run, a
 `vagrant ssh` is enough.
 
 For remote servers, everybody agrees on creating a pair of SSH keys and then use
@@ -153,7 +157,9 @@ these to connect disabling password login for that user and root login
 altogether.
 
 While most posts suggest the same commands for generating the private/public
-pair for ssh login, after reading  Gert van Dijk's [Upgrade your SSHkeys!](https://blog.g3rt.nl/upgrade-your-ssh-keys.html#generate-your-new-sexy-ed25519-key), I would suggest:
+pair for ssh login, after reading  Gert van Dijk's [Upgrade your SSHkeys!](
+https://blog.g3rt.nl/upgrade-your-ssh-keys.html#generate-your-new-sexy-ed25519-key),
+I would suggest:
 
 `ssh-keygen -o -a 100 -t ed25519`
 
@@ -219,9 +225,9 @@ sudo apt-get install git-core curl zlib1g-dev build-essential \
   python-software-properties libffi-dev
 ```
 
-All these are unfortunately needed for rbenv. Unfortunately because more
-packages progressively bloat the system with probable security and maintenance
-implications.
+All these are unfortunately needed for rbenv, ruby installation and some gems.
+Unfortunately because more packages progressively bloat the system with probable
+security and maintenance implications.
 
 For rbenv:
 
@@ -233,10 +239,8 @@ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
 source ~/.bash_profile
 ```
 
-(From Digital Ocean's tutorial and rbenv's installation instructions with some
-modifications)
-
-Then:
+(Source: Digital Ocean's tutorial and rbenv's installation instructions with some
+modifications) Then:
 
 ```
 cd ~
@@ -408,16 +412,16 @@ xkcd-password?: <https://gitlab.com/dimitrios/xkcd_passgen> (self promotion)
 For what we are going to do production section in database.yml should have a
 "host: localhost" entry. This is because the application will connect to the
 database through a Unix socket, not through TCP, so in case
-"config/database.yml" is as above, make sure that the last lines are like this:
+"config/database.yml" is as above, make sure that the last lines are like this
+(Also on gist: <https://gist.github.com/dimitrismistriotis/2aebe16bf713c40aaf98cee6fc8d4fa6#file-install-passenger-sh>):
 
 ```
 production:
   <<: *default
   database: yourapplication_production
   username: yourapplication
-  host: localhost
+  host: localhost # <-- Check that this is there
   password: <%= ENV['YOURAPPLICATION_DATABASE_PASSWORD'] %>
-
 ```
 
 
@@ -481,12 +485,43 @@ version of his "Secrets of the JavaScript Ninja" book and read it).
 
 <img src="/images/deploy_rails/passenger-logo.png" style="width: 30%"><br>
 
+### Passenger for dummies
+
+Reference to post on Stack Overflow, "[Phusion Passenger (for Dummies!)](
+http://stackoverflow.com/questions/6155399/phusion-passenger-for-dummies)" where
+user user [Tadman](http://stackoverflow.com/users/87189/tadman) gives an answer
+to the question "I'm an experienced LAMP developer moving into Rails. I have a
+very stupid question to ask: what the hell does Phusion Passenger do?"
+
+> Passenger is a system for preparing and launching instances of Ruby for use
+> with Rack-based applications such as Ruby on Rails. Apache and nginx, the two
+> supported web server platforms, cannot run Ruby like they can PHP, Perl, or
+> Python because there's no built-in Ruby module that works as well as those do.
+> This means Ruby tends to run as an independent group of processes that the web
+> server will have to direct traffic through.
+>
+> Rails tends to run as a persistent process because the start-up time for the
+> whole stack is significant. Passenger launches new instances as they are
+> required, and will kill off those that are no longer required. ...
+>
+> One feature of Passenger is it will re-use a portion of the Rails stack so
+> that creating additional processes is faster, cloning one instance instead
+> of spinning up a new one from scratch. The loader is written in C++ and
+> handles properly configuring and kicking off each Ruby process as efficiently
+> as possible and also helps save memory by sharing it amongst different
+> processes. ...
+>
+>Passenger isn't exactly revolutionary, but it does incorporate a number of
+essential features in a very convenient package. What makes it such a great
+thing is that it works very well and doesn't demand a lot of attention. Out of
+>the box it's pretty much ready to go.
+
 #### Part 1
 
 Passenger's homepage has a number of tutorials for different platforms since it
 can be used for different environments. Since we are in the Ruby on Xenial
 (Ubuntu 16.04) at the end the suggested link was this: <https://www.phusionpassenger.com/library/walkthroughs/deploy/ruby/ownserver/nginx/oss/xenial/install_passenger.html>, suggesting the
-following for installing Passenger:
+following for installing Passenger (gist: <https://gist.github.com/dimitrismistriotis/2aebe16bf713c40aaf98cee6fc8d4fa6#file-install-passenger-sh>):
 
 ```
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 561F9B9CAC40B2F7
@@ -540,7 +575,7 @@ configuration to "/etc/nginx/sites-available" with a link to the "...enabled"
 directory. To accomplish this edit "/etc/nginx/sites-available/yourapplication"
 (as sudo, so for example:
 `sudo nano /etc/nginx/sites-available/yourapplication` with the following
-contents:
+contents (Gist: <https://gist.github.com/dimitrismistriotis/2aebe16bf713c40aaf98cee6fc8d4fa6#file-sites-available-yourapplication>):
 
 ```
 server {
@@ -561,7 +596,7 @@ server {
 
 I placed "127.0.0.1" as the server's name because of the port exposed in docker
 and the fact that requests will only come from container's host. In a public
-facing server here the name of the www server should be there.
+facing server here the name of the "www." web server should be there.
 
 ```
 sudo ln -s /etc/nginx/sites-available/yourapplication /etc/nginx/sites-enabled/
@@ -598,7 +633,8 @@ Reflecting back on the time for writing this tutorial, I gave some time to
 contemplate on how much software is available for us in the open source world,
 how many companies have a version of their offering available to anyone, and
 generally how much material is available in the form of documentation,
-tutorials, or simple blog posts.
+tutorials, or simple blog posts. We live in an era that we can stand on the
+shoulders of giants from where we can steal like artists...
 
 The main target of this post was to separate the steps into single units of work
 and have many checkpoints after each one of them. For most cases of the
@@ -608,18 +644,50 @@ etc.
 
 ## Items for next version
 
+Two main concepts which are up to now left out: Continuous Integration or remote
+deployments and deployment to an actual server instance.
+
+For deploying:
+
 * Retrieve from a Git repository (Github/Gitlab)
 * Capistrano or another deployment solution
-* There will also be the commands for actual deployment on an instance available
-  on the Internet (purchased from Amazon/Digital Ocean/somewhere else). My
-  advice is still to do a local deployment first so that the reader will
-  understand what is going on without the stress of a live environment or by
-  paying for a server that does nothing. Then re-do the same stuff with more
-  confidence on the actual production server.
+* Scripting what need to be done server-side.
+
+For the scripting part, I suppose that there needs to be: a `bundle` followed by
+an `rbenv rehash`, then `RAILS_ENV=production rais assets:precompile` followed
+by `RAILS_ENV=production rais db:migrate` and `touch a_file_whose_name_I_forgot`
+so that Passenger will restart. I am not exactly sure that there is not
+something missing, so better to have these in the **TODO** section for later.
+
+There will also be the commands for actual deployment on an instance available
+on the Internet (purchased from Amazon/Digital Ocean/somewhere else). My
+advice is still to do a local deployment first so that the reader will
+understand what is going on without the stress of a live environment or by
+paying for a server that does nothing. Then re-do the same stuff with more
+confidence on the actual production server.
+
+## Trivia
+
+[Digital Ocean](http://digitalocean.com/) did not allow me to purchase an
+instance with my Mastercard which is technically a gift-card. I use
+[Revolut](https://revolut.com/) for nearly all Internet related purchases, which
+always has enough money to cover the expenses. Only this might push me to
+another vendor which is sad since Digital Ocean has so much content available
+for the Rails community. It is like you have done so much for me and I cannot
+give you my £££ in return.
 
 ## Other References
 
-[Michele Anica](https://www.digitalocean.com/community/users/manicas)'s
+* [Michele Anica](https://www.digitalocean.com/community/users/manicas)'s
 [How To Install Ruby on Rails with rbenv on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04)
-[How To Deploy a Rails App with Passenger and Nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-04)
-[Perl warning Setting locale failed in Debian](https://www.thomas-krenn.com/en/wiki/Perl_warning_Setting_locale_failed_in_Debian)
+* [How To Deploy a Rails App with Passenger and Nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-nginx-on-ubuntu-14-04)
+* [Perl warning Setting locale failed in Debian](https://www.thomas-krenn.com/en/wiki/Perl_warning_Setting_locale_failed_in_Debian)
+
+## Please check my book
+
+<img src="/images/it_archetypes-cover.png" style="width: 30%"><br>
+
+I am writing a book named “IT Archetypes” — a know thyself guide for the IT
+people, a know thy-friends guide for the ones that interact with them. Check it
+here: <http://www.itarchetypes.com> and sign up to the newsletter for updates on
+new chapters.
