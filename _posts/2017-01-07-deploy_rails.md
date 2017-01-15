@@ -32,7 +32,7 @@ these cases.
 ### Most influential post for writing this
 
 Sophie De Benedetto's [Deploying Rails to DigitalOcean, the Hard Way](
-http://www.thegreatcodeadventure.com/deploying-rails-to-digitalocean-the-hard-way/)
+http://www.thegreatcodeadventure.com/deploying-rails-to-digitalocean-the-hard-way/).
 
 There are many posts lying around but following this one I managed to complete
 the installation. See References section for more.
