@@ -691,3 +691,7 @@ I am writing a book named “IT Archetypes” — a know thyself guide for t
 people, a know thy-friends guide for the ones that interact with them. Check it
 here: <http://www.itarchetypes.com> and sign up to the newsletter for updates on
 new chapters.
+
+## Discussion
+
+[Hacker News](https://news.ycombinator.com/item?id=13403136)
