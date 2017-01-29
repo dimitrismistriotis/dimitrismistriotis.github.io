@@ -25,7 +25,7 @@ it will be part of an "extra material" section.
 Most tutorials I have seen follow a linear path, while some of the steps can be
 executed in parallel. Also many say what to do but do not explain that much
 why you do it. This makes sense as someone could fall into the rabbit hole of
-explaining how a webserver works for hours and hours - pages and pages in our
+explaining how a web server works for hours and hours - pages and pages in our
 case. I will try to provide a short paragraph or at least one link in each of
 these cases.
 
@@ -41,7 +41,7 @@ the installation. See References section for more.
 
 Rails version 5.0 with PostgreSQL running on Nginx with Phusion Passenger.
 
-### Why deploy in the first place
+### Why get into deployment in the first place
 
 Or why deploy in a world where [Heroku](https://www.heroku.com/) exists?
 Did some digging and self reflection before deciding to do a roll-your-own
@@ -147,6 +147,55 @@ Vagrant creates identical development environments for everyone on your team.*
 I installed Vagrant from it's download page:
 <https://www.vagrantup.com/downloads.html>
 
+When decided to deploy on a cloud server, I chose purely on the basis on being
+interested to explore their stack, plus positive bias towards the company,
+Google's [Compute Engine](https://cloud.google.com/compute/). There is a free
+option, while at the time of writing having a hobby project is not exactly
+something that goes by the rules, as you need to be a business in order to
+register. Current word on the street is that this will change it soon at least
+for the United Kingdom. That's the current situation with the non-US part of the
+world.  There is also a "*Sign up and get $300 to spend over the next 60 days*"
+incentive.
+
+It starts here:<br>
+<img src="/images/deploy_rails/GCE-try_it_free.png" style="width: 30%"><br>
+
+Also good to know:<br>
+<img src="/images/deploy_rails/GCE-good_to_know.png" style="width: 30%"><br>
+
+There is a tutorial and the server instance needs to be associated with what is
+defined as a "project". Being hard to choose names, and currently reading
+[Jodorowsky's Metabarons](https://en.wikipedia.org/wiki/Metabarons), I just
+named the project "**castaka138**", since a number is also required to be
+present in the name.
+
+Then after navigating to "Compute Engine" and some initialisation period which
+may vary, there are four steps:
+
+1. Click the Create instance button
+2. Select a Boot disk image
+3. Allow HTTP traffic
+4. Click the Create button
+
+In theory some of the above can be conducted from the command line with a
+`gcloud` command. Me being a newbie, decided to go through web at least until I
+cut my teeth a little bit more.
+There I named the instance "castaka-instance-1" (or prefixed project's name with
+a dash to default "instance-1"). Then chose the cheapest combination,
+"Shared CPU" with "0.6 GB" of memory, and a proud "Ubuntu 16.04" disk image. On
+the "Firewall" section, both HTTP and HTTPS were chosen as there is the
+intention to experiment with these. For connection via SSH, I added one of my
+current SSH keys, with the intention to change it later (see next section,
+step 2). I added them as "Project wide SSH keys", so the project has now one
+SSH key. I assume for this tutorial adding them as a specific key to this
+machine would be OK.
+
+Note: The networking options puzzled me a bit, might need to troubleshoot and
+get back here to revise.
+
+Once this step is over, the external IP of that machine will be available. Now
+you can connect through SSH.
+
 ### 2. Connect to server with SSH
 
 For Vagrant this is easy: after going to the directory where vagrant was run, a
@@ -184,6 +233,31 @@ The default installation might not have a text editor included. Since this post
 does mostly small changes or copy-pastes, nano should be enough so
 `sudo apt-get install nano`. You might be a vim or emacs wizard instead. In
 either case you might want to install and configure an editor now.
+
+If you are following the Google Compute Engine deployment path, then in order
+to automate the whole process, the next should be appended to the
+"~/.ssh/config" file:
+
+```
+Host castaka138 # Or any name you want
+        Hostname XXX.XXX.XXX.XXX # External IP address of the instance
+        PreferredAuthentications publickey
+        IdentityFile ~/.ssh/id_ed25519
+        IdentitiesOnly yes
+```
+
+Also available here: <https://gist.github.com/dimitrismistriotis/2aebe16bf713c40aaf98cee6fc8d4fa6#file-dot-ssh-config>
+
+Then you can connect either from the command line with: `ssh castaka138` or
+what is after the "Host" directive in the configuration file. You can provide
+the username, IP, and identity file in a long command which is what the
+documentation explains how to do. In either case at the end a bash command
+prompt should be greet you.
+
+<img src="/images/deploy_rails/GCE-bash_prompt.png"><br>
+
+The machine seems to have some software installed, so there was vim, pico, and
+nano. The editor of choice remains nano for this post's purposes.
 
 #### Locale
 
