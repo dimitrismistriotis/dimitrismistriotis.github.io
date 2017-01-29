@@ -32,7 +32,7 @@ these cases.
 ### Most influential post for writing this
 
 Sophie De Benedetto's [Deploying Rails to DigitalOcean, the Hard Way](
-http://www.thegreatcodeadventure.com/deploying-rails-to-digitalocean-the-hard-way/)
+http://www.thegreatcodeadventure.com/deploying-rails-to-digitalocean-the-hard-way/).
 
 There are many posts lying around but following this one I managed to complete
 the installation. See References section for more.
@@ -608,7 +608,7 @@ Restart Nginx: `sudo service nginx restart`
 
 You can connect to the application from the container through the exposed port
 which would be: <http://localhost:4567/>. An error will be displayed since up
-to now the secret key has not been configured
+to now the secret key has not been configured.
 
 It can be populated with the following command (be careful to use ">>" so that
 the output or the echo command will be appended):
@@ -626,6 +626,11 @@ This is a "wrap-up", "checkpoint" step. Application should be available here:
 <http://localhost:4567/users/sign_in>. If something is wrong then check the
 instructions again and start debugging in the usual locations such as
 "/var/log/nginx" for Nginx's logs, etc.
+
+Screenshot of the login screen of the current application is as follows (styled
+with [SBadmin2](https://blackrockdigital.github.io/startbootstrap-sb-admin-2/)):
+
+<img src="/images/deploy_rails/login-screenshot.png" style="width: 30%"><br>
 
 ## Final thoughts
 
