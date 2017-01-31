@@ -286,6 +286,8 @@ system locale, which is something you might wanted to do anyway.
 
 ### 3. Install Ruby with rbenv
 
+<img src="/images/deploy_rails/rbenv-logo.png" style="width: 30%"><br>
+
 There is a nice post here:
 <http://kgrz.io/Programmers-guide-to-choosing-ruby-version-manager.html> on
 choosing a version manager for Ruby. I decided on this combination based on
