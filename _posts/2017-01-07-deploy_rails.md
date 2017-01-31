@@ -217,18 +217,6 @@ or follow as much of the advice of
 moreover because having a new box without any need to support legacy produced
 keys.
 
-**Note**: As the deployment has not been run in a remote server as of writing
-this post, I will come back when it's done again with the missing steps. These
-are from the top of my head: a. Disable root login on remote host, b. copy
-public key to remote host, c. test connection, d. block password login on remote
-host, e. create config file on local host.
-
-Congratulations! By "unlocking challenge 2" you can connect to the production
-server. The next steps can be executed sequentially, in parallel or in a
-different order as described in the "Steps" section above.
-
-Before next step: `sudo apt-get update` and `sudo apt-get upgrade`.
-
 The default installation might not have a text editor included. Since this post
 does mostly small changes or copy-pastes, nano should be enough so
 `sudo apt-get install nano`. You might be a vim or emacs wizard instead. In
@@ -258,6 +246,25 @@ prompt should be greet you.
 
 The machine seems to have some software installed, so there was vim, pico, and
 nano. The editor of choice remains nano for this post's purposes.
+
+**Notes**: (1) GCE setup was different than the ones usually encountered in the
+past which usually started from a user able to `sudo` from a web console or
+something similar. In case such a provider was chosen these should be the next
+steps from the top of my head: a. Disable root login on remote host, b. copy
+public key to remote host, c. test connection, d. block password login on remote
+host, e. create a "config" file on local host similar to the one above
+
+(2) It might be useful to know some of the SSH internals. For me it was
+the so called snail book, [SSH: The Secure Shell
+The Definitive Guide](http://www.snailbook.com/). Unfortunately there is not
+much printed material available as the book's latest edition was published in
+2005. I guess now people are only looking online to start.
+
+Congratulations! By "unlocking challenge 2" you can connect to the production
+server. The next steps can be executed sequentially, in parallel or in a
+different order as described above in the "Steps" section.
+
+Before next step execute `sudo apt-get update` and `sudo apt-get upgrade`.
 
 #### Locale
 
