@@ -16,9 +16,9 @@ to read, decided to roll my own tutorial/post.
 The tutorial ends once we can see the rails application deployed on a plain
 vanilla Ubuntu server, assuming that the process is similar to Debian boxes.
 Also this document does not include ongoing update of the application, so will
-not fiddle with how to retrieve and restart the application from github or any
-deployment framework such as Dokku or Capistrano. When this bridge is crossed,
-it will be part of an "extra material" section.
+not fiddle with how to retrieve the application from Github and restart it or
+any deployment framework such as Dokku or Capistrano. When this bridge is
+crossed, it will be part of an "extra material" section.
 
 ### A note on other tutorials
 
@@ -79,9 +79,9 @@ assuming that the application resides in a folder named `web`:
 
 Alternatively I have seen that some authors create a rails application on the
 spot which should be all right as long as there is some database connectivity.
-One of those tutorials is this from digital ocean: [https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-puma-and-nginx-on-ubuntu-14-04], which was a
-little bit confusing since it was difficult to understand which step was related
-to deployment and which to application development.
+One of those tutorials is this from digital ocean: [https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-puma-and-nginx-on-ubuntu-14-04],
+which was a little bit confusing, since it was difficult to understand which
+step was related to deployment and which to application development.
 
 ## Assumptions
 
@@ -196,6 +196,9 @@ get back here to revise.
 Once this step is over, the external IP of that machine will be available. Now
 you can connect through SSH.
 
+For the rest of the tutorial each step will be described as it was conducted on
+the local VM and then the differences if any for the GCE instance will follow.
+
 ### 2. Connect to server with SSH
 
 For Vagrant this is easy: after going to the directory where vagrant was run, a
@@ -284,7 +287,7 @@ locale:
 This can be fixed by running `sudo dpkg-reconfigure locales` and setting up the
 system locale, which is something you might wanted to do anyway.
 
-### 3. Install Ruby with rbenv
+### 3. Install Ruby with rbenv and ruby-build
 
 <img src="/images/deploy_rails/rbenv-logo.png" style="width: 30%"><br>
 
@@ -341,6 +344,15 @@ rbenv global 2.3.1
 
 A `ruby -v` should return something in the lines of:
 "ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-linux]"
+
+A question at that point would be what to do if the production instance comes
+with the desired Ruby version installed. My take would be to still go through
+the Rbenv/Ruby-build path since the production Ruby and the system Ruby are two
+different things, which might need to be updated/upgraded separately. For the
+GCE instance specifically, there was no Ruby at all. An interesting fact is that
+while downloading stuff from the Internet, such as cloning Git repositories, is
+ultra-fast specially compared to my local VM. Compiling, as I chose a shared
+CPU being cost concious, was considerably slower than in the local VM.
 
 ### 4. Install Rails and NodeJS
 
