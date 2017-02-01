@@ -222,7 +222,7 @@ keys.
 
 The default installation might not have a text editor included. Since this post
 does mostly small changes or copy-pastes, nano should be enough so
-`sudo apt-get install nano`. You might be a vim or emacs wizard instead. In
+`sudo apt-get install -y nano`. You might be a vim or emacs wizard instead. In
 either case you might want to install and configure an editor now.
 
 If you are following the Google Compute Engine deployment path, then in order
@@ -305,7 +305,7 @@ is something that this geek's heart cannot endure, provided with an alternative.
 From: <https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04>:
 
 ```
-sudo apt-get install git-core curl zlib1g-dev build-essential \
+sudo apt-get install -y git-core curl zlib1g-dev build-essential \
   libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 \
   libxml2-dev libxslt1-dev libcurl4-openssl-dev \
   python-software-properties libffi-dev
@@ -352,7 +352,10 @@ different things, which might need to be updated/upgraded separately. For the
 GCE instance specifically, there was no Ruby at all. An interesting fact is that
 while downloading stuff from the Internet, such as cloning Git repositories, is
 ultra-fast specially compared to my local VM. Compiling, as I chose a shared
-CPU being cost concious, was considerably slower than in the local VM.
+CPU being cost concious, was considerably slower than in the local VM. A good
+idea would be to increase the CPU speed while compiling and then lower it down
+once things have settled. My lazy self did not allow me to utilise this
+approach.
 
 ### 4. Install Rails and NodeJS
 
@@ -396,7 +399,7 @@ Which brings up an error: "*There was an error while trying to load the gem
 'uglifier'. (Bundler::GemRequireError) Gem Load Error is: Could not find a
 JavaScript runtime. See https://github.com/rails/execjs for a list of available
 runtimes.*" This can be fixed by installing the missing piece of this step,
-NodeJS: `sudo apt-get install nodejs`. I am not 100% sure but even if Ubuntu or
+NodeJS: `sudo apt-get install -y nodejs`. I am not 100% sure but even if Ubuntu or
 Debian have a more legacy version of Node, it should be OK for Rails. There are
 also different options for a JavaScript runtime but chose not to explore them.
 
@@ -411,7 +414,7 @@ are...
 
 Installing Nginx with defaults should be easy
 
-```sudo apt-get install nginx```
+```sudo apt-get install -y nginx```
 
 then
 
@@ -430,6 +433,11 @@ sudo service nginx start
 
 Available here: <https://gist.github.com/dimitrismistriotis/2aebe16bf713c40aaf98cee6fc8d4fa6#file-start_services>. Do not
 forget to make it executable (`chmod +x start_services`).
+
+For the GCE instance, check that everything is all right by rebooting ("Reset")
+the machine.
+
+<img src="/images/deploy_rails/GCE-reset.png" style="width: 70%"><br>
 
 ### 6. Copy Rails application to server and precompile assets
 
