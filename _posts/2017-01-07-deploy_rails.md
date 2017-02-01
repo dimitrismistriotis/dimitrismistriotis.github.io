@@ -736,6 +736,20 @@ generally how much material is available in the form of documentation,
 tutorials, or simple blog posts. We live in an era that we can stand on the
 shoulders of giants from where we can steal like artists...
 
+While installing bundler the following message was displayed post-installation:
+
+> Bundler and RubyGems.org are free for anyone to use, but maintaining them
+> costs more than $25,000 USD every month. Help us cover those costs so tha
+> we can keep the gem ecosystem free for everyone:
+> https://ruby.to/support-bundler
+> Successfully installed bundler-1.14.3
+> 1 gem installed
+
+Please consider supporting this ecosystem any way you can. It can be a raising
+a bug, writing, blogging. Donate time on those projects or just some of your
+money if the individual circumstance allows. Sometimes "just" starring
+something on Github can make a person happy.
+
 The main target of this post was to separate the steps into single units of work
 and have many checkpoints after each one of them. For most cases of the
 material I read before compiling this post is mixed between actions that would
