@@ -788,16 +788,6 @@ understand what is going on without the stress of a live environment or by
 paying for a server that does nothing. Then re-do the same stuff with more
 confidence on the actual production server.
 
-## Trivia
-
-[Digital Ocean](http://digitalocean.com/) did not allow me to purchase an
-instance with my Mastercard which is technically a gift-card. I use
-[Revolut](https://revolut.com/) for nearly all Internet related purchases, which
-always has enough money to cover the expenses. Only this might push me to
-another vendor which is sad since Digital Ocean has so much content available
-for the Rails community. It is like you have done so much for me and I cannot
-give you my £££ in return.
-
 ## Other References
 
 * [Michele Anica](https://www.digitalocean.com/community/users/manicas)'s
