@@ -764,14 +764,54 @@ material I read before compiling this post is mixed between actions that would
 be part of development, source control management, purchasing as ever instance,
 etc.
 
-## Items for next version
+## Appendix
+
+### Deploy from Git repository
+
+This could possibly have been embedded in to the 6<sup>th</sup> step above,
+since setting it up took about ten minutes. Decided to separate it from the main
+body as the steps should be mostly about the Rails application not where it is
+stored or how it is retrieved can be different among different source management
+providers that someone could use.
+
+In this project's case the project is hosted on [Gitlab](http://gitlab.com/)
+which utilises the concept of "deploy keys":
+
+> Deploy keys allow read-only access to multiple projects with a single SSH key.
+
+This ensures that if the keys which will reside in the virtual machine instance
+become compromised, they cannot be used to inject code. You can access this
+menu either from the project's drop-down:
+
+![Gitlab deploy keys](/images/deploy_rails/gitlab-deploy_keys.png)
+
+or from a link:
+<https://gitlab.com/<your_user_name>/<your_project_name>/deploy_keys>. Did not
+check if Gitlab's SSH allows more modern keys as these described in the
+2<sup>nd</sup> step above. Playing it "safe" (or unsafe for security purposes),
+did a ```ssh-keygen -t rsa -C "GitLab" -b 4096``` on the target machine, kept
+a copy of both public and private keys for later, then copied pasted the
+generated public key in the deploy area's public key box.
+
+Then deploy with the following, substituting "SSH-LOCATION-OF-PROJECT" with
+the actual location, answering yes to the fingerprint question:
+
+```
+$ git clone SSH-LOCATION-OF-PROJECT web
+Cloning into 'web'...
+The authenticity of host 'gitlab.com (104.210.2.228)' can't be established.
+ECDSA key fingerprint is SHA256:HbW3g8zUjNSksFbqTiUWPWg2Bq1x8xdGUrliXFzSnUw.
+Are you sure you want to continue connecting (yes/no)? yes
+```
+
+
+### Items for next version
 
 Two main concepts which are up to now left out: Continuous Integration or remote
 deployments and deployment to an actual server instance.
 
 For deploying:
 
-* Retrieve from a Git repository (Github/Gitlab)
 * Capistrano or another deployment solution
 * Scripting what need to be done server-side.
 
