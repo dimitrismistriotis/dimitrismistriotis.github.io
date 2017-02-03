@@ -109,7 +109,8 @@ The steps are the following:
    [ruby-build](https://github.com/rbenv/ruby-build) (depends on **2**)
 4. Install Rails and NodeJS (depends on **3**)
 5. Install [NGINX](https://nginx.org/en/) (depends on **2**)
-6. Copy Rails application to server and precompile assets (depends on **2**)
+6. Copy Rails application to server, bundle, and precompile assets
+   (depends on **2**)
 7. Install and configure [PostgreSQL](https://www.postgresql.org/) (depends on
    **1**)
 8. Install and configure [Phusion Passenger](https://www.phusionpassenger.com/)
@@ -439,7 +440,7 @@ the machine.
 
 <img src="/images/deploy_rails/GCE-reset.png" style="width: 70%"><br>
 
-### 6. Copy Rails application to server and precompile assets
+### 6. Copy Rails application to server, bundle, and precompile assets
 
 In the case of using Vagrant the "webapp.tgz" file created should be first
 copied to the shared directory of the host machine extracted from the the
@@ -447,12 +448,13 @@ current user inside the container: `tar -xvzf /vagrant_data/webapp.tgz`. Target
 application is in the "web" directory, which from now on will be:
 "/home/vagrant/web".
 
-**Note**: When deploying on an actual machine .tga should be copied there before
+**Note**: When deploying on an actual machine .tgz should be copied there before
 extraction thought secure copy if this way is followed. Probably most will do a
-git clone, which as discussed before is out of this post's main body.
+git clone, which as discussed before is out of this post's main body, in the
+appendixes section.
 
 Then `bundle`. It will complain about the pg gem for Postgresql connectivity.
-This is fixed by: `sudo apt-get install libpq-dev` and then `bundle` again. As
+This is fixed by: `sudo apt-get install -y libpq-dev` and then `bundle` again. As
 always followed by an `rvn rehash`
 
 We can see that there is some life by running a console (`rails c`), or even a
@@ -462,13 +464,21 @@ an error if curious by trying: `User.all`.
 
 I also had not configured Devise's secret key which raised an error as well.
 Remember to fix the application first if that is the case and then copy it
-again (This is where using git would be handy).
-
-Although this could be done later, lets precompile application's while in this
-step so that they will be ready later on:
+again (This is where using git would be handy). For the record the error
+message was the following:
 
 ```
-RAILS_ENV=production rais assets:precompile
+rails aborted!
+Devise.secret_key was not set. Please add the following to your Devise initializer:
+
+  config.secret_key = '▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓'
+```
+
+Although this could be done later, lets precompile application's assets while
+still in this step so that they will be ready later on:
+
+```
+RAILS_ENV=production rails assets:precompile
 ```
 
 ### 7. Install and configure PostgreSQL
