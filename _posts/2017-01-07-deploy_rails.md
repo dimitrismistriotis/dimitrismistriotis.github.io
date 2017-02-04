@@ -721,13 +721,15 @@ An `ls  /etc/nginx/sites-enabled/` should show only one site, "yourapplication".
 Restart Nginx: `sudo service nginx restart`
 
 You can connect to the application from the container through the exposed port
-which would be: <http://localhost:4567/>. An error will be displayed since up
-to now the secret key has not been configured.
+which would be: <http://localhost:4567/>. For the GCE instance the address
+should be the one from the panel (as in the 5<sup>th</sup> step). An error will
+be displayed since up to now the secret key has not been configured.
 
 It can be populated with the following command (be careful to use ">>" so that
 the output or the echo command will be appended):
 
 ```
+cd ~/web # Or the location of the application's folder
 echo SECRET_KEY_BASE=`rails secret` >> ~/.rbenv-vars
 ```
 
@@ -737,14 +739,18 @@ Just in case I restarted the server `sudo service nginx restart`.
 
 This is a "wrap-up", "checkpoint" step. Application should be available here:
 <http://localhost:4567> and the login page for Devise should be available here:
-<http://localhost:4567/users/sign_in>. If something is wrong then check the
-instructions again and start debugging in the usual locations such as
-"/var/log/nginx" for Nginx's logs, etc.
+<http://localhost:4567/users/sign_in>. Again for the GCE instance the
+"localhost:4567" part should be substituted with the external facing IP. If
+something is wrong then check the instructions again and start debugging in the
+usual locations such as "/var/log/nginx" for Nginx's logs, etc.
 
 Screenshot of the login screen of the current application is as follows (styled
 with [SBadmin2](https://blackrockdigital.github.io/startbootstrap-sb-admin-2/)):
 
 <img src="/images/deploy_rails/login-screenshot.png" style="width: 30%"><br>
+
+Once the IP based access has been verified the domain can be configured and
+this should be propagated to the Nginx's configuration.
 
 ## Final thoughts
 
