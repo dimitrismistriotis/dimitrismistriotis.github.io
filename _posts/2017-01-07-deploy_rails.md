@@ -578,7 +578,8 @@ git clone https://github.com/rbenv/rbenv-vars.git \
   $(rbenv root)/plugins/rbenv-vars
 ```
 
-The place to store the password is the "~/.rbenv-vars" file, so edit it and
+The place to store the password is the "~/.rbenv-vars" file, so edit it (
+```pico ~/.rbenv-vars```, ```nano ~/.rbenv-vars```, ```vim ~/.rbenv-vars```) and
 add the following line:
 ```
 YOURAPPLICATION_DATABASE_PASSWORD=WHAT_YOU_PROVIDED_AS_PASSWORD
