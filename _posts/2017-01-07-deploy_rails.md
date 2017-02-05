@@ -821,6 +821,18 @@ ECDSA key fingerprint is SHA256:HbW3g8zUjNSksFbqTiUWPWg2Bq1x8xdGUrliXFzSnUw.
 Are you sure you want to continue connecting (yes/no)? yes
 ```
 
+## Pros and Cons of Google Cloud
+
+Judging only from this exercise, it is too early to say. Google Cloud has a
+whole ecosystem of tools, billing mechanisms, container swarm solutions, cloud
+storage and CDN, as well as proprietary solutions such as the BigQuery among
+others. I would treat the Google Compute Engine as the gateway drug to the
+ecosystem as you bring your Linux application there and from this as a starting
+point integrations with the cloud can start to take place.
+
+So although the experience was good up to now, it is not sufficient for choosing
+this provider versus another one **if** the application remains as-is (a small
+Rails-app).
 
 ### Items for next version
 
