@@ -16,16 +16,16 @@ to read, decided to roll my own tutorial/post.
 The tutorial ends once we can see the rails application deployed on a plain
 vanilla Ubuntu server, assuming that the process is similar to Debian boxes.
 Also this document does not include ongoing update of the application, so will
-not fiddle with how to retrieve and restart the application from github or any
-deployment framework such as Dokku or Capistrano. When this bridge is crossed,
-it will be part of an "extra material" section.
+not fiddle with how to retrieve the application from Github and restart it or
+any deployment framework such as Dokku or Capistrano. When this bridge is
+crossed, it will be part of an "extra material" section.
 
 ### A note on other tutorials
 
 Most tutorials I have seen follow a linear path, while some of the steps can be
 executed in parallel. Also many say what to do but do not explain that much
 why you do it. This makes sense as someone could fall into the rabbit hole of
-explaining how a webserver works for hours and hours - pages and pages in our
+explaining how a web server works for hours and hours - pages and pages in our
 case. I will try to provide a short paragraph or at least one link in each of
 these cases.
 
@@ -41,7 +41,7 @@ the installation. See References section for more.
 
 Rails version 5.0 with PostgreSQL running on Nginx with Phusion Passenger.
 
-### Why deploy in the first place
+### Why get into deployment in the first place
 
 Or why deploy in a world where [Heroku](https://www.heroku.com/) exists?
 Did some digging and self reflection before deciding to do a roll-your-own
@@ -79,9 +79,9 @@ assuming that the application resides in a folder named `web`:
 
 Alternatively I have seen that some authors create a rails application on the
 spot which should be all right as long as there is some database connectivity.
-One of those tutorials is this from digital ocean: [https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-puma-and-nginx-on-ubuntu-14-04], which was a
-little bit confusing since it was difficult to understand which step was related
-to deployment and which to application development.
+One of those tutorials is this from digital ocean: [https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-puma-and-nginx-on-ubuntu-14-04],
+which was a little bit confusing, since it was difficult to understand which
+step was related to deployment and which to application development.
 
 ## Assumptions
 
@@ -109,7 +109,8 @@ The steps are the following:
    [ruby-build](https://github.com/rbenv/ruby-build) (depends on **2**)
 4. Install Rails and NodeJS (depends on **3**)
 5. Install [NGINX](https://nginx.org/en/) (depends on **2**)
-6. Copy Rails application to server and precompile assets (depends on **2**)
+6. Copy Rails application to server, bundle, and precompile assets
+   (depends on **2**)
 7. Install and configure [PostgreSQL](https://www.postgresql.org/) (depends on
    **1**)
 8. Install and configure [Phusion Passenger](https://www.phusionpassenger.com/)
@@ -147,6 +148,58 @@ Vagrant creates identical development environments for everyone on your team.*
 I installed Vagrant from it's download page:
 <https://www.vagrantup.com/downloads.html>
 
+When decided to deploy on a cloud server, I chose purely on the basis on being
+interested to explore their stack, plus positive bias towards the company,
+Google's [Compute Engine](https://cloud.google.com/compute/). There is a free
+option, while at the time of writing having a hobby project is not exactly
+something that goes by the rules, as you need to be a business in order to
+register. Current word on the street is that this will change it soon at least
+for the United Kingdom. That's the current situation with the non-US part of the
+world.  There is also a "*Sign up and get $300 to spend over the next 60 days*"
+incentive.
+
+It starts here:<br>
+<img src="/images/deploy_rails/GCE-try_it_free.png" style="width: 30%"><br>
+
+Also good to know:<br>
+<img src="/images/deploy_rails/GCE-good_to_know.png" style="width: 30%"><br>
+
+There is a tutorial and the server instance needs to be associated with what is
+defined as a "project". Being hard to choose names, and currently reading
+[Jodorowsky's Metabarons](https://en.wikipedia.org/wiki/Metabarons), I just
+named the project "**castaka138**", since a number is also required to be
+present in the name.
+
+Then after navigating to "Compute Engine" and some initialisation period which
+may vary, there are four steps:
+
+1. Click the Create instance button
+2. Select a Boot disk image
+3. Allow HTTP traffic
+4. Click the Create button
+
+In theory some of the above can be conducted from the command line with a
+`gcloud` command. Me being a newbie, decided to go through web at least until I
+cut my teeth a little bit more.
+There I named the instance "castaka-instance-1" (or prefixed project's name with
+a dash to default "instance-1"). Then chose the cheapest combination,
+"Shared CPU" with "0.6 GB" of memory, and a proud "Ubuntu 16.04" disk image. On
+the "Firewall" section, both HTTP and HTTPS were chosen as there is the
+intention to experiment with these. For connection via SSH, I added one of my
+current SSH keys, with the intention to change it later (see next section,
+step 2). I added them as "Project wide SSH keys", so the project has now one
+SSH key. I assume for this tutorial adding them as a specific key to this
+machine would be OK.
+
+Note: The networking options puzzled me a bit, might need to troubleshoot and
+get back here to revise.
+
+Once this step is over, the external IP of that machine will be available. Now
+you can connect through SSH.
+
+For the rest of the tutorial each step will be described as it was conducted on
+the local VM and then the differences if any for the GCE instance will follow.
+
 ### 2. Connect to server with SSH
 
 For Vagrant this is easy: after going to the directory where vagrant was run, a
@@ -168,22 +221,54 @@ or follow as much of the advice of
 moreover because having a new box without any need to support legacy produced
 keys.
 
-**Note**: As the deployment has not been run in a remote server as of writing
-this post, I will come back when it's done again with the missing steps. These
-are from the top of my head: a. Disable root login on remote host, b. copy
+The default installation might not have a text editor included. Since this post
+does mostly small changes or copy-pastes, nano should be enough so
+`sudo apt-get install -y nano`. You might be a vim or emacs wizard instead. In
+either case you might want to install and configure an editor now.
+
+If you are following the Google Compute Engine deployment path, then in order
+to automate the whole process, the next should be appended to the
+"~/.ssh/config" file:
+
+```
+Host castaka138 # Or any name you want
+        Hostname XXX.XXX.XXX.XXX # External IP address of the instance
+        PreferredAuthentications publickey
+        IdentityFile ~/.ssh/id_ed25519
+        IdentitiesOnly yes
+```
+
+Also available here: <https://gist.github.com/dimitrismistriotis/2aebe16bf713c40aaf98cee6fc8d4fa6#file-dot-ssh-config>
+
+Then you can connect either from the command line with: `ssh castaka138` or
+what is after the "Host" directive in the configuration file. You can provide
+the username, IP, and identity file in a long command which is what the
+documentation explains how to do. In either case at the end a bash command
+prompt should be greet you.
+
+<img src="/images/deploy_rails/GCE-bash_prompt.png"><br>
+
+The machine seems to have some software installed, so there was vim, pico, and
+nano. The editor of choice remains nano for this post's purposes.
+
+**Notes**: (1) GCE setup was different than the ones usually encountered in the
+past which usually started from a user able to `sudo` from a web console or
+something similar. In case such a provider was chosen these should be the next
+steps from the top of my head: a. Disable root login on remote host, b. copy
 public key to remote host, c. test connection, d. block password login on remote
-host, e. create config file on local host.
+host, e. create a "config" file on local host similar to the one above
+
+(2) It might be useful to know some of the SSH internals. For me it was
+the so called snail book, [SSH: The Secure Shell
+The Definitive Guide](http://www.snailbook.com/). Unfortunately there is not
+much printed material available as the book's latest edition was published in
+2005. I guess now people are only looking online to start.
 
 Congratulations! By "unlocking challenge 2" you can connect to the production
 server. The next steps can be executed sequentially, in parallel or in a
-different order as described in the "Steps" section above.
+different order as described above in the "Steps" section.
 
-Before next step: `sudo apt-get update` and `sudo apt-get upgrade`.
-
-The default installation might not have a text editor included. Since this post
-does mostly small changes or copy-pastes, nano should be enough so
-`sudo apt-get install nano`. You might be a vim or emacs wizard instead. In
-either case you might want to install and configure an editor now.
+Before next step execute `sudo apt-get update` and `sudo apt-get upgrade`.
 
 #### Locale
 
@@ -203,7 +288,9 @@ locale:
 This can be fixed by running `sudo dpkg-reconfigure locales` and setting up the
 system locale, which is something you might wanted to do anyway.
 
-### 3. Install Ruby with rbenv
+### 3. Install Ruby with rbenv and ruby-build
+
+<img src="/images/deploy_rails/rbenv-logo.png" style="width: 30%"><br>
 
 There is a nice post here:
 <http://kgrz.io/Programmers-guide-to-choosing-ruby-version-manager.html> on
@@ -219,7 +306,7 @@ is something that this geek's heart cannot endure, provided with an alternative.
 From: <https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04>:
 
 ```
-sudo apt-get install git-core curl zlib1g-dev build-essential \
+sudo apt-get install -y git-core curl zlib1g-dev build-essential \
   libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 \
   libxml2-dev libxslt1-dev libcurl4-openssl-dev \
   python-software-properties libffi-dev
@@ -258,6 +345,18 @@ rbenv global 2.3.1
 
 A `ruby -v` should return something in the lines of:
 "ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-linux]"
+
+A question at that point would be what to do if the production instance comes
+with the desired Ruby version installed. My take would be to still go through
+the Rbenv/Ruby-build path since the production Ruby and the system Ruby are two
+different things, which might need to be updated/upgraded separately. For the
+GCE instance specifically, there was no Ruby at all. An interesting fact is that
+while downloading stuff from the Internet, such as cloning Git repositories, is
+ultra-fast specially compared to my local VM. Compiling, as I chose a shared
+CPU being cost concious, was considerably slower than in the local VM. A good
+idea would be to increase the CPU speed while compiling and then lower it down
+once things have settled. My lazy self did not allow me to utilise this
+approach.
 
 ### 4. Install Rails and NodeJS
 
@@ -301,7 +400,7 @@ Which brings up an error: "*There was an error while trying to load the gem
 'uglifier'. (Bundler::GemRequireError) Gem Load Error is: Could not find a
 JavaScript runtime. See https://github.com/rails/execjs for a list of available
 runtimes.*" This can be fixed by installing the missing piece of this step,
-NodeJS: `sudo apt-get install nodejs`. I am not 100% sure but even if Ubuntu or
+NodeJS: `sudo apt-get install -y nodejs`. I am not 100% sure but even if Ubuntu or
 Debian have a more legacy version of Node, it should be OK for Rails. There are
 also different options for a JavaScript runtime but chose not to explore them.
 
@@ -316,7 +415,7 @@ are...
 
 Installing Nginx with defaults should be easy
 
-```sudo apt-get install nginx```
+```sudo apt-get install -y nginx```
 
 then
 
@@ -336,7 +435,12 @@ sudo service nginx start
 Available here: <https://gist.github.com/dimitrismistriotis/2aebe16bf713c40aaf98cee6fc8d4fa6#file-start_services>. Do not
 forget to make it executable (`chmod +x start_services`).
 
-### 6. Copy Rails application to server and precompile assets
+For the GCE instance, check that everything is all right by rebooting ("Reset")
+the machine.
+
+<img src="/images/deploy_rails/GCE-reset.png" style="width: 70%"><br>
+
+### 6. Copy Rails application to server, bundle, and precompile assets
 
 In the case of using Vagrant the "webapp.tgz" file created should be first
 copied to the shared directory of the host machine extracted from the the
@@ -344,12 +448,13 @@ current user inside the container: `tar -xvzf /vagrant_data/webapp.tgz`. Target
 application is in the "web" directory, which from now on will be:
 "/home/vagrant/web".
 
-**Note**: When deploying on an actual machine .tga should be copied there before
+**Note**: When deploying on an actual machine .tgz should be copied there before
 extraction thought secure copy if this way is followed. Probably most will do a
-git clone, which as discussed before is out of this post's main body.
+git clone, which as discussed before is out of this post's main body, in the
+appendixes section.
 
 Then `bundle`. It will complain about the pg gem for Postgresql connectivity.
-This is fixed by: `sudo apt-get install libpq-dev` and then `bundle` again. As
+This is fixed by: `sudo apt-get install -y libpq-dev` and then `bundle` again. As
 always followed by an `rvn rehash`
 
 We can see that there is some life by running a console (`rails c`), or even a
@@ -359,13 +464,21 @@ an error if curious by trying: `User.all`.
 
 I also had not configured Devise's secret key which raised an error as well.
 Remember to fix the application first if that is the case and then copy it
-again (This is where using git would be handy).
-
-Although this could be done later, lets precompile application's while in this
-step so that they will be ready later on:
+again (This is where using git would be handy). For the record the error
+message was the following:
 
 ```
-RAILS_ENV=production rais assets:precompile
+rails aborted!
+Devise.secret_key was not set. Please add the following to your Devise initializer:
+
+  config.secret_key = '▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓'
+```
+
+Although this could be done later, lets precompile application's assets while
+still in this step so that they will be ready later on:
+
+```
+RAILS_ENV=production rails assets:precompile
 ```
 
 ### 7. Install and configure PostgreSQL
@@ -465,7 +578,8 @@ git clone https://github.com/rbenv/rbenv-vars.git \
   $(rbenv root)/plugins/rbenv-vars
 ```
 
-The place to store the password is the "~/.rbenv-vars" file, so edit it and
+The place to store the password is the "~/.rbenv-vars" file, so edit it (
+```pico ~/.rbenv-vars```, ```nano ~/.rbenv-vars```, ```vim ~/.rbenv-vars```) and
 add the following line:
 ```
 YOURAPPLICATION_DATABASE_PASSWORD=WHAT_YOU_PROVIDED_AS_PASSWORD
@@ -607,13 +721,15 @@ An `ls  /etc/nginx/sites-enabled/` should show only one site, "yourapplication".
 Restart Nginx: `sudo service nginx restart`
 
 You can connect to the application from the container through the exposed port
-which would be: <http://localhost:4567/>. An error will be displayed since up
-to now the secret key has not been configured.
+which would be: <http://localhost:4567/>. For the GCE instance the address
+should be the one from the panel (as in the 5<sup>th</sup> step). An error will
+be displayed since up to now the secret key has not been configured.
 
 It can be populated with the following command (be careful to use ">>" so that
 the output or the echo command will be appended):
 
 ```
+cd ~/web # Or the location of the application's folder
 echo SECRET_KEY_BASE=`rails secret` >> ~/.rbenv-vars
 ```
 
@@ -623,14 +739,18 @@ Just in case I restarted the server `sudo service nginx restart`.
 
 This is a "wrap-up", "checkpoint" step. Application should be available here:
 <http://localhost:4567> and the login page for Devise should be available here:
-<http://localhost:4567/users/sign_in>. If something is wrong then check the
-instructions again and start debugging in the usual locations such as
-"/var/log/nginx" for Nginx's logs, etc.
+<http://localhost:4567/users/sign_in>. Again for the GCE instance the
+"localhost:4567" part should be substituted with the external facing IP. If
+something is wrong then check the instructions again and start debugging in the
+usual locations such as "/var/log/nginx" for Nginx's logs, etc.
 
 Screenshot of the login screen of the current application is as follows (styled
 with [SBadmin2](https://blackrockdigital.github.io/startbootstrap-sb-admin-2/)):
 
 <img src="/images/deploy_rails/login-screenshot.png" style="width: 30%"><br>
+
+Once the IP based access has been verified the domain can be configured and
+this should be propagated to the Nginx's configuration.
 
 ## Final thoughts
 
@@ -641,20 +761,90 @@ generally how much material is available in the form of documentation,
 tutorials, or simple blog posts. We live in an era that we can stand on the
 shoulders of giants from where we can steal like artists...
 
+While installing bundler the following message was displayed post-installation:
+
+> Bundler and RubyGems.org are free for anyone to use, but maintaining them
+> costs more than $25,000 USD every month. Help us cover those costs so tha
+> we can keep the gem ecosystem free for everyone:
+> https://ruby.to/support-bundler
+> Successfully installed bundler-1.14.3
+> 1 gem installed
+
+Please consider supporting this ecosystem any way you can. It can be a raising
+a bug, writing, blogging. Donate time on those projects or just some of your
+money if the individual circumstance allows. Sometimes "just" starring
+something on Github can make a person happy.
+
 The main target of this post was to separate the steps into single units of work
 and have many checkpoints after each one of them. For most cases of the
 material I read before compiling this post is mixed between actions that would
 be part of development, source control management, purchasing as ever instance,
 etc.
 
-## Items for next version
+## Appendix
+
+### Deploy from Git repository
+
+This could possibly have been embedded in to the 6<sup>th</sup> step above,
+since setting it up took about ten minutes. Decided to separate it from the main
+body as the steps should be mostly about the Rails application not where it is
+stored or how it is retrieved can be different among different source management
+providers that someone could use.
+
+In this project's case the project is hosted on [Gitlab](http://gitlab.com/)
+which utilises the concept of "deploy keys":
+
+> Deploy keys allow read-only access to multiple projects with a single SSH key.
+
+This ensures that if the keys which will reside in the virtual machine instance
+become compromised, they cannot be used to inject code. You can access this
+menu either from the project's drop-down:
+
+![Gitlab deploy keys](/images/deploy_rails/gitlab-deploy_keys.png)
+
+or from a link:
+<https://gitlab.com/<your_user_name>/<your_project_name>/deploy_keys>. Did not
+check if Gitlab's SSH allows more modern keys as these described in the
+2<sup>nd</sup> step above. Playing it "safe" (or unsafe for security purposes),
+did a ```ssh-keygen -t rsa -C "GitLab" -b 4096``` on the target machine, kept
+a copy of both public and private keys for later, then copied pasted the
+generated public key in the deploy area's public key box.
+
+Then deploy with the following, substituting "SSH-LOCATION-OF-PROJECT" with
+the actual location, answering yes to the fingerprint question:
+
+```
+$ git clone SSH-LOCATION-OF-PROJECT web
+Cloning into 'web'...
+The authenticity of host 'gitlab.com (104.210.2.228)' can't be established.
+ECDSA key fingerprint is SHA256:HbW3g8zUjNSksFbqTiUWPWg2Bq1x8xdGUrliXFzSnUw.
+Are you sure you want to continue connecting (yes/no)? yes
+```
+
+## Enable SSL
+
+Placeholder, to be implemented with Let's Encrypt and [Certbot](https://certbot.eff.org/#ubuntuxenial-nginx).
+
+## Pros and Cons of Google Cloud
+
+Judging only from this exercise, it is too early to say. Google Cloud has a
+whole ecosystem of tools, billing mechanisms, container swarm solutions, cloud
+storage and CDN, as well as proprietary solutions such as the BigQuery among
+others. I would treat the Google Compute Engine as the gateway drug to the
+ecosystem as you bring your Linux application there and from this as a starting
+point integrations with the cloud can start to take place.
+
+So although the experience was good up to now, it is not sufficient for choosing
+this provider versus another one **if** the application remains as-is (a small
+Rails application).
+
+### Items for next version
 
 Two main concepts which are up to now left out: Continuous Integration or remote
 deployments and deployment to an actual server instance.
 
 For deploying:
 
-* Retrieve from a Git repository (Github/Gitlab)
 * Capistrano or another deployment solution
 * Scripting what need to be done server-side.
 
@@ -670,16 +860,6 @@ advice is still to do a local deployment first so that the reader will
 understand what is going on without the stress of a live environment or by
 paying for a server that does nothing. Then re-do the same stuff with more
 confidence on the actual production server.
-
-## Trivia
-
-[Digital Ocean](http://digitalocean.com/) did not allow me to purchase an
-instance with my Mastercard which is technically a gift-card. I use
-[Revolut](https://revolut.com/) for nearly all Internet related purchases, which
-always has enough money to cover the expenses. Only this might push me to
-another vendor which is sad since Digital Ocean has so much content available
-for the Rails community. It is like you have done so much for me and I cannot
-give you my £££ in return.
 
 ## Other References
 
