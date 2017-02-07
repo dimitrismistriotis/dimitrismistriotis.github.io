@@ -821,6 +821,10 @@ ECDSA key fingerprint is SHA256:HbW3g8zUjNSksFbqTiUWPWg2Bq1x8xdGUrliXFzSnUw.
 Are you sure you want to continue connecting (yes/no)? yes
 ```
 
+## Enable SSL
+
+Placeholder, to be implemented with Let's Encrypt and [Certbot](https://certbot.eff.org/#ubuntuxenial-nginx).
+
 ## Pros and Cons of Google Cloud
 
 Judging only from this exercise, it is too early to say. Google Cloud has a
@@ -832,7 +836,7 @@ point integrations with the cloud can start to take place.
 
 So although the experience was good up to now, it is not sufficient for choosing
 this provider versus another one **if** the application remains as-is (a small
-Rails-app).
+Rails application).
 
 ### Items for next version
 
