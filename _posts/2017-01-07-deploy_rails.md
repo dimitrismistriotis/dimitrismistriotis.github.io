@@ -705,12 +705,23 @@ server {
     # passenger_ruby /home/vagrant/.rbenv/versions/2.3.1/bin/ruby;
     # Use this for environment variables:
     passenger_ruby /home/vagrant/.rbenv/shims/ruby;
+
+    # From http://serverfault.com/questions/649971/nginx-deny-all-php-requests-except-index-php-for-security-reasons
+    # Once site was live it received a big number of scans
+    # for specific PHP locations.
+    location ~ \.php$ {
+        #access_log /path/to/log/nginx_deny.log name_log;
+        deny all;
+    }
 }
 ```
 
 I placed "127.0.0.1" as the server's name because of the port exposed in docker
 and the fact that requests will only come from container's host. In a public
-facing server here the name of the "www." web server should be there.
+facing server here the name of the "www." web server should be there. After
+deploying live there was a big number of scans towards the web server for
+specific PHP vulnerabilities or backdoor scripts. Hence the PHP blocking at
+Nginx level.
 
 ```
 sudo ln -s /etc/nginx/sites-available/yourapplication /etc/nginx/sites-enabled/
