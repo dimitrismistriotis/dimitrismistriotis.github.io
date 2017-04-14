@@ -230,6 +230,8 @@ The points of the paper summarised in a diagram are:
 | Use your unconscious mind | Leave time between reading sessions for your mind to process the material. |
 | Rehearse, and use multiple modes | Talking, visualizing, or writing about what you've read helps you remember it |
 
+A **very** interesting read on how to approach academic material is the "[How to Study: A Brief Guide](http://www.cse.buffalo.edu/%7Erapaport/howtostudy.html)" from William J. Papaport, State University of New York at Buffalo. Long, parts of it might not be so relevant if not in academia, but definitely worth the read.
+
 ## Choose proper learning material
 
 By proper I mean:
