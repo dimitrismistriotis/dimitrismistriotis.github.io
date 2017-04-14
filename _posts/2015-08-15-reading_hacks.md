@@ -237,13 +237,13 @@ By proper I mean:
 1. Of high quality,
 2. Something you can read and understand.
 
-Point (2) comes from [Allen B. Downey’s Textbook manifesto](http://greenteapress.com/wp/textbook-manifesto/). Having bought one of his books (which you can sample from his site), quoting the first paragraph of his argument:
+Point (2) comes from Allen B. Downey’s [Textbook manifesto](http://greenteapress.com/wp/textbook-manifesto/). Having bought one of his books (which you can sample from his site), quoting the first paragraph of his argument:
 
-*"My textbook manifesto is so simple it sounds stupid. Here it is:
-
-Students should read and understand textbooks.
-
-That’s it. It’s hard to imagine that anyone would disagree, but here’s the part I find infuriating: the vast majority of textbook authors, publishers, professors, and students behave as if they do not expect students to read or understand textbooks.*"
+> "My textbook manifesto is so simple it sounds stupid. Here it is:
+>
+> Students should read and understand textbooks.
+>
+> That’s it. It’s hard to imagine that anyone would disagree, but here’s the part I find infuriating: the vast majority of textbook authors, publishers, professors, and students behave as if they do not expect students to read or understand textbooks."
 
 ## Sometimes read it again
 
