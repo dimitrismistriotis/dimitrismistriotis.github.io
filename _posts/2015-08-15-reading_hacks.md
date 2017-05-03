@@ -290,4 +290,59 @@ Have not yet utilised the advice here, next on the list:
 
 ## Notes on e-readers
 
-TODO
+A reader asked about chosing or not e-readers over traditional (dead tree) formats
+
+A reader asked about chosing or not e-readers over traditional (dead tree)
+formats. Although I have not made up my mind 100% I lean towards trating
+e-readers as a complimentary medium/format to printed books. Generally my
+thoughts are the following:
+
+There was a peak e-books on about 2013, since then they regressed. It seems that
+the market has decided that they will not replace books in the near future if
+ever.
+
+Arguments in favour of e-readers
+
+**Space**: since minimalism is popular having an e-reader does not consume space,
+a scarce commodity if you are living in mega-cities such as London.
+**Niche content**: There is some niche stuff released only in electronic format
+or is very expensive on print. Example self-publish material that if you wanted
+printed, author has to ship it themselves. My book when finished might have the
+same fate <http://www.itarchetypes.com>.
+**"Embarassing" content**: A friend of mine told me that he did not want to see
+people in the tube to see that he was reading the book of an English comedian
+with a ginger beard whose name I forgot. Probably the same with the Milo fans
+out there or the "50 shades of pooey" if they had some shame (or brain).
+**Better for material that would be outdated if it followed the printed route**:
+Specially for technical stuff such as how to upgrade from RubyOnRails vs X to
+(X + 1). Generally things that are relevant for a year or two.
+**Blog posts, articles, magazine stuff**: as well as personalised magazines, no
+need to print. Nobody printed this post to read it alone.
+**Now-time availability**: since material can be released for e-consumtion
+instantly.
+
+Arguments against e-readers
+
+**Connection to your memmory/brain**: Books once read and sitting on a shelve
+serve as a mental bookmark to their conent. You see them, remember stuff, touch
+them read them again, etc. Electronic material once consumed dissapears into
+eventual oblivion. Perhaps the same with music, comics, photos?
+**Easier to take notes**: It is possible to highlight and scrible with e-readers
+but it does not feel the same. So printed material is better for active reading.
+**Easier to share**: I share and exchange books and comics with friends, until
+very recently this was impossible to do with electronic material.
+**You are licensing not owning the content**: Companies want to take away stuff
+from consumers on occasion. That whole thing of licensing stuff instead of
+selling it is very dodgy, nasty, ethically wrong. Same with operating systems
+(Apple).
+**You are being tracked**: at least on Kindle. How much tracking is too much?
+**Prone to distractions**: Specially if not using a single purpose tablet.
+**Amount of electronics being carried around**: I tend to read everywhere. It
+feels better not to have an electronic gadget for everything. Also for public
+transport it feels better to have less things to guard or keep safe from say
+accidentally drop to the floor. While I was reading on a Nexus7 it was a £100 or
+so thing. A book is at most £30 and it does not break, nobody wants to steal it,
+or if you lose it it's not big deal. Kind of more relaxing.
+**Sale value**: Once read, books can be given as a gift or given away to charity
+or to a local library. Social good / relationships aspect.
+
