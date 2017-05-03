@@ -39,10 +39,10 @@ adopt is different.
 
 ## Read it when you need it
 
-The “drink water when thirsty” approach. This piece of advice originates from
-start-up literature: It is better to engage with content close to when it is
-needed in order to achieve a task. This will keep the brain active and will
-allow higher absorbency rates.
+The “drink water when thirsty” approach or “prefer just in time over just in
+case”. This piece of advice originates from start-up literature: It is better
+to engage with content close to when it is needed in order to achieve a task.
+This will keep the brain active and will facilitate higher absorbency rates.
 
 An example from my experience would be reading Noam Wassermann’s “The founder’s
 dilemmas”, which has lots of statistical analysis on various start-up companies
@@ -65,10 +65,11 @@ interests.
 
 Example: I have a semi-professional interest in advertising and generally in
 the arts of mass-persuasion . I was lucky enough to win a copy of Byron Sharp’s
-"[how brands grow”](http://marketinglawsofgrowth.com/)". It immediately became
+"[How Brands Grow”](http://marketinglawsofgrowth.com/)". It immediately became
 the next item of my list. If I realise that I ended up not so interested in the
 subject, it would have probably been passed to someone that might like or need
-it more.
+it more. *(Update: after 2 years it still sits in my TOREAD stack, I will skip
+through it on a rainy day)*
 
 ## Read actively
 
@@ -83,10 +84,11 @@ Following lines with the finger tracing provided a great speed multiplier and
 focus assistance even when some distractions were around. Then adjusting the
 eyes as advised provided an additional incremental improvement.
 
-In order to be active and engaged some prefer a pen or marker to underline
-passages. An compartmental approach is to use post-its on pages. I have seen
-the latter also as a substitution for underlining for whoever does not want to
-"damage" the book.
+In order to be active and engaged some prefer to use a pencil, a pen or marker to underline
+passages, or even to write marginalia. I tend to use pencil for the first run and the other
+two for subsequent ones if they occur. An compartmental approach is to use post-its on pages.
+I have seen the latter also as a substitution for underlining for whoever does not want to
+"damage" the book, which I think it is too much - but again whatever works for you.
 
 ## Make time
 
@@ -161,12 +163,13 @@ that there is both the contribution to the charity as well as that stop reading
 it was associated with a £2.50 “loss”, which would be easier than doing the
 same to a £30 hard-copy.
 
-### But I hate paperbacks and I love my kindle
+### But I hate paperbacks and I love my kindle/nook
 
 ... and that's OK. What this section wants to convey is more something in the
-lines of *"Choose your preferred medium"*. Whichever works best.
+lines of *"Choose your preferred medium"*. Whichever works best. Some specific
+notes for e-readers at the end of the post.
 
-## Alternate between "fact" and "fiction" titles
+## Alternate between “fact” and “fiction” titles
 
 Maybe the most “personal” one, in the area that it might not be applicable to
 everyone. Alternating between fiction and non fiction titles helps to: enjoy
@@ -283,3 +286,8 @@ difference in doing either one. And you have **nothing to be ashamed of**.”*
 Have not yet utilised the advice here, next on the list:
 [Read to lead: how to digest books above your "level"](http://ryanholiday.net/read-to-lead-how-to-digest-books-above-your-level/), from Ryan Holiday and and [33 thoughts on reading](http://austinkleon.com/2014/10/17/33-thoughts-on-reading/) by Austin Kleon, and "[Lessons learned after 300 books in 4 years](http://www.jovicailic.org/2016/11/lessons-learned-300-books-4-years/)" from Jovica Ilic.
 
+# Appendix
+
+## Notes on e-readers
+
+TODO
