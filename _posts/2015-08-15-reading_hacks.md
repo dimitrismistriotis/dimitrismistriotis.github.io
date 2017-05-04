@@ -293,8 +293,9 @@ Have not yet utilised the advice here, next on the list:
 A reader asked about chosing or not e-readers over traditional (dead tree) formats
 
 A reader asked about chosing or not e-readers over traditional (dead tree)
-formats. Although I have not made up my mind 100% I lean towards trating
-e-readers as a complimentary medium/format to printed books. Generally my
+formats. Without having fully made up my mind, I lean towards trating
+e-readers as a complimentary medium/format to printed books having a rougly 5% of
+my book reading (or with blogs, articles excluded) on a tablet - maybe less. My
 thoughts are the following:
 
 There was a peak e-books on about 2013, since then they regressed. It seems that
