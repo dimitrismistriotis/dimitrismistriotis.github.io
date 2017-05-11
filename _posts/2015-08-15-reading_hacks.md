@@ -39,10 +39,10 @@ adopt is different.
 
 ## Read it when you need it
 
-The “drink water when thirsty” approach. This piece of advice originates from
-start-up literature: It is better to engage with content close to when it is
-needed in order to achieve a task. This will keep the brain active and will
-allow higher absorbency rates.
+The “drink water when thirsty” approach or “prefer just in time over just in
+case”. This piece of advice originates from start-up literature: It is better
+to engage with content close to when it is needed in order to achieve a task.
+This will keep the brain active and will facilitate higher absorbency rates.
 
 An example from my experience would be reading Noam Wassermann’s “The founder’s
 dilemmas”, which has lots of statistical analysis on various start-up companies
@@ -65,10 +65,11 @@ interests.
 
 Example: I have a semi-professional interest in advertising and generally in
 the arts of mass-persuasion . I was lucky enough to win a copy of Byron Sharp’s
-"[how brands grow”](http://marketinglawsofgrowth.com/)". It immediately became
+"[How Brands Grow”](http://marketinglawsofgrowth.com/)". It immediately became
 the next item of my list. If I realise that I ended up not so interested in the
 subject, it would have probably been passed to someone that might like or need
-it more.
+it more. *(Update: after 2 years it still sits in my TOREAD stack, I will skip
+through it on a rainy day)*
 
 ## Read actively
 
@@ -83,10 +84,11 @@ Following lines with the finger tracing provided a great speed multiplier and
 focus assistance even when some distractions were around. Then adjusting the
 eyes as advised provided an additional incremental improvement.
 
-In order to be active and engaged some prefer a pen or marker to underline
-passages. An compartmental approach is to use post-its on pages. I have seen
-the latter also as a substitution for underlining for whoever does not want to
-"damage" the book.
+In order to be active and engaged some prefer to use a pencil, a pen or marker to underline
+passages, or even to write marginalia. I tend to use pencil for the first run and the other
+two for subsequent ones if they occur. An compartmental approach is to use post-its on pages.
+I have seen the latter also as a substitution for underlining for whoever does not want to
+"damage" the book, which I think it is too much - but again whatever works for you.
 
 ## Make time
 
@@ -161,12 +163,13 @@ that there is both the contribution to the charity as well as that stop reading
 it was associated with a £2.50 “loss”, which would be easier than doing the
 same to a £30 hard-copy.
 
-### But I hate paperbacks and I love my kindle
+### But I hate paperbacks and I love my kindle/nook
 
 ... and that's OK. What this section wants to convey is more something in the
-lines of *"Choose your preferred medium"*. Whichever works best.
+lines of *"Choose your preferred medium"*. Whichever works best. Some specific
+notes for e-readers at the end of the post.
 
-## Alternate between "fact" and "fiction" titles
+## Alternate between “fact” and “fiction” titles
 
 Maybe the most “personal” one, in the area that it might not be applicable to
 everyone. Alternating between fiction and non fiction titles helps to: enjoy
@@ -283,3 +286,37 @@ difference in doing either one. And you have **nothing to be ashamed of**.”*
 Have not yet utilised the advice here, next on the list:
 [Read to lead: how to digest books above your "level"](http://ryanholiday.net/read-to-lead-how-to-digest-books-above-your-level/), from Ryan Holiday and and [33 thoughts on reading](http://austinkleon.com/2014/10/17/33-thoughts-on-reading/) by Austin Kleon, and "[Lessons learned after 300 books in 4 years](http://www.jovicailic.org/2016/11/lessons-learned-300-books-4-years/)" from Jovica Ilic.
 
+# Appendix
+
+## Notes on e-readers
+
+A reader asked about choosing or not e-readers over traditional (dead tree) formats
+
+A reader asked about choosing or not e-readers over traditional (dead tree) formats.
+Without having fully made up my mind, I lean towards treating e-readers as a
+complimentary medium/format to printed books having a roundly 5% of my book reading 
+(or with blogs, articles excluded) on a tablet — maybe less. My thoughts are the
+following:
+
+There was a peak e-books on about 2013, since then they regressed. It seems that the
+market has decided that they will not replace books in the near future if ever.
+
+### Arguments in favour of e-readers
+
+**Space**: since minimalism is popular having an e-reader does not consume space, a scarce commodity if you are living in mega-cities such as London.
+**Niche content**: There is some niche stuff released only in electronic format or is very expensive on print. Example self-publish material that if you wanted printed, author has to ship it themselves. My book when finished might have the same fate <http://www.itarchetypes.com>.
+**“Embarrassing” content**: A friend of mine told me that he did not want to see people in the tube to see that he was reading the book of an English comedian with a ginger beard whose name I forgot. Probably the same with the Milo fans out there or the “50 shades of pooey” if they had some shame (or brain).
+**Better for material that would be outdated if it followed the printed route**: Specially for technical stuff such as how to upgrade from RubyOnRails vs X to (X + 1). Generally things that are relevant for a year or two.
+Blog posts, articles, magazine stuff: as well as personalized magazines, no need to print. Nobody printed this post to read it alone.
+**Now-time availability**: since material can be released for e-consumption instantly.
+
+### Arguments against e-readers
+
+**Connection to your memory/brain**: Books once read and sitting on a shelve serve as a mental bookmark to their content. You see them, remember stuff, touch them read them again, etc. Electronic material once consumed disappears into eventual oblivion. Perhaps the same with music, comics, photos?
+**Easier to take notes**: It is possible to highlight and scribe with e-readers but it does not feel the same. So printed material is better for active reading.
+**Easier to share**: I share and exchange books and comics with friends, until very recently this was impossible to do with electronic material.
+**You are licensing not owning the content**: Companies want to take away stuff from consumers on occasion. That whole thing of licensing stuff instead of selling it is very dodgy, nasty, ethically wrong. Same with operating systems (Apple).
+**You are being tracked**: at least on Kindle. How much tracking is too much?
+**Prone to distractions**: Specially if not using a single purpose tablet.
+**Amount of electronics being carried around**: I tend to read everywhere. It feels better not to have an electronic gadget for everything. Also for public transport it feels better to have less things to guard or keep safe from say accidentally drop to the floor. While I was reading on a Nexus7 it was a £100 or so thing. A book is at most £30 and it does not break, nobody wants to steal it, or if you lose it it’s not big deal. Kind of more relaxing.
+**Sale value**: Once read, books can be given as a gift or given away to charity or to a local library. Social good / relationships aspect.
