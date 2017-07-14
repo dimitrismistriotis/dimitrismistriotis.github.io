@@ -220,3 +220,7 @@ Google, το Facebook και άλλα αντίστοιχα μέσα στο δι�
 Σας ευχαριστώ αν φτάσατε μέχρι εδώ. Με γενικότερο θέμα να είναι οι ψευδείς
 ειδήσεις,  Θα υπάρξει συνέχεια αλλά όχι σύντομα.
 
+## Σύνδεσμοι προς αυτό το κείμενο
+
+* [Medium](https://medium.com/@dimist/lets-talk-fake-news-pt1-gr-b011e5110ab3)
+* [Reddit](https://www.reddit.com/r/greece/comments/6ko9xr/%CE%B1%CF%82_%CE%BC%CE%B9%CE%BB%CE%AE%CF%83%CE%BF%CF%85%CE%BC%CE%B5_%CE%B3%CE%B9%CE%B1_%CF%88%CE%B5%CF%85%CE%B4%CE%B5%CE%AF%CF%82_%CE%B5%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/)
