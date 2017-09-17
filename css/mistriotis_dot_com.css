@@ -17,3 +17,8 @@ div.container table > thead > tr > th,
 div.container table > tbody > tr > td {
   font-size: 17px;
 }
+
+ul.embedded_list {
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+}
