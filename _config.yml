@@ -2,7 +2,7 @@ name: www.mistriotis.com
 url: ""
 gems: [jekyll-paginate,  jekyll-gist]
 paginate: 8
-description: Dimitrios mistriotis personal web site.
+description: Dimitrios Mistriotis - Personal Site.
 intro: Blog posts, contact, project, CV material
 logo: ''
 disqus_shortname:
