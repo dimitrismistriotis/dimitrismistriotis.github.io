@@ -202,6 +202,11 @@ you can connect through SSH.
 For the rest of the tutorial each step will be described as it was conducted on
 the local VM and then the differences if any for the GCE instance will follow.
 
+#### Hetzner (hetzner.cloud)
+
+Decided to use Hetzner once I found out that my application could be hosted in
+a signle machine with them offering a good price for a very powerful box.
+
 ### 2. Connect to server with SSH
 
 For Vagrant this is easy: after going to the directory where vagrant was run, a
@@ -259,6 +264,36 @@ something similar. In case such a provider was chosen these should be the next
 steps from the top of my head: a. Disable root login on remote host, b. copy
 public key to remote host, c. test connection, d. block password login on remote
 host, e. create a "config" file on local host similar to the one above
+
+#### Create user, add to sudoers and disable root login
+
+This for the Hetzner box (or any other plain one) as Google Cloud had taken
+care of it.
+
+Create "username", authorized_keys file with public key
+
+```bash
+chown <username>: authorized_keys
+chown -R <username>: /home/<username>
+
+sudo chmod 0700 /home/<username>/.ssh/
+sudo chmod 0600 /home/<username>/.ssh/authorized_keys
+
+sudo adduser <username> sudo
+sudo sh -c "echo '<username> ALL=NOPASSWD: ALL' >> /etc/sudoers"
+```
+
+Once all done, disallow root ssh. To "/etc/ssh/sshd_config":
+
+```
+    PermitRootLogin no
+```
+
+then as root:
+
+```bash
+service ssh reload
+```
 
 (2) It might be useful to know some of the SSH internals. For me it was
 the so called snail book, [SSH: The Secure Shell
