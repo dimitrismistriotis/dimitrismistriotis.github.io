@@ -86,10 +86,10 @@ step was related to deployment and which to application development.
 ## Assumptions
 
 **Shell**: I usually work with [fish](https://fishshell.com/) but the plain
-vanilla is bash, so will slide with bash on the production server for
-everything.
+vanilla is [bash](https://www.gnu.org/software/bash/), so bash will be used for
+everything on production machines.
 
-**Application Server**: Why passenger.
+**Application Server**: Mostly for being a good default and quite standard.
 
 **General approach**: Big bang deployment. In theory we could test each step in
 isolation and then integrate. I tried to do that to some extend, but I rather
@@ -147,6 +147,8 @@ development environment. Say goodbye to the "works on my machine" excuse as
 Vagrant creates identical development environments for everyone on your team.*
 I installed Vagrant from it's download page:
 <https://www.vagrantup.com/downloads.html>
+
+#### Google Cloud Engine (1st choice)
 
 When decided to deploy on a cloud server, I chose purely on the basis on being
 interested to explore their stack, plus positive bias towards the company,
@@ -336,7 +338,8 @@ echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bash_profil
 source ~/.bash_profile
 ```
 
-And time to get our preferred version of Ruby:
+And time to get our preferred version of Ruby (this was the one that the
+project to be deployed was using at the time):
 
 ```
 rbenv install -v 2.3.1
@@ -574,6 +577,7 @@ rbenv that lets you set global and project-specific environment variables before
 spawning Ruby processes." will be used:
 
 ```
+cd ~
 git clone https://github.com/rbenv/rbenv-vars.git \
   $(rbenv root)/plugins/rbenv-vars
 ```
@@ -649,7 +653,7 @@ sudo apt-get update
 sudo apt-get install -y nginx-extras passenger
 ```
 
-Then wdit "/etc/nginx/nginx.conf" as root (with nano for example:
+Then edit "/etc/nginx/nginx.conf" as root (with nano for example:
 `sudo nano /etc/nginx/nginx.conf`). There uncomment the line
 "   # include /etc/nginx/passenger.conf;"
 
