@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Comic Strip Inspiration for IT
-permalink: /comic_inspiration
+permalink: /comic_strip_inspiration_for_it
 ---
 
 # Comic Strip Inspiration for IT
@@ -43,7 +43,7 @@ that do not have a mechanism which will try the new "drones" (as in the strip)
 and silently invigorate their products and other offerings. Places that at some
 point are being overrun from competition and their only chance of survival is
 to hire expensive consultants, places that still use IBM's DB2 in a world
-with lots NoSQL with the RDBMS space ruled by PostGres and MyMariaSQL,
+with lots NoSQL with the RDBMS space ruled by PostGreSQL and MyMariaSQL,
 wondering why people do not want to join their company and their only hope is
 to recruit graduates with a huge debt or poor immigrants.
 
