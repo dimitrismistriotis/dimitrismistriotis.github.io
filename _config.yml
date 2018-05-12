@@ -13,7 +13,6 @@ disqus_shortname:
 # Owner/author information
 owner:
   name: Dimitrios Mistriotis
-  avatar: ""
   email: dimitrios@mistriotis.com
   # Social networking links used in footer. Update and remove as you like.
   # twitter: "@dimist"
@@ -22,12 +21,5 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
 # Links to include in top navigation
 # For external links add external: true
-
