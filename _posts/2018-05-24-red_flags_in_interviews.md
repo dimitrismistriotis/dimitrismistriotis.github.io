@@ -174,3 +174,66 @@ Jason: I had head that "we are entering your space now..."
 Socrates: ... and we will build a department around you.
 Dimitry: I have heard that as well. We will make a department around you
 (note: I also once believed it).
+Jason: Stay away 180 degree turn.
+Dimitry: I have encountered it when interviewing while being senior. You cannot
+lure a senior person by saying to them that they will have to do everything, so
+you bait them by saying that they would be "head of development"
+Socrates: ... and within a year we will hire more people ...
+Dimitry: ... which you the head of development will be responsible to manage.
+or as they say it in English: "build a team around you"
+Jason: If in the interview they mention that department X will be build around
+you is like a giant red flag. Why do I say this: when I got to where I am now
+I was the most experienced from the whole team.
+Dimitry: The Leader
+Socrates: Cheering
+Jason: After the party. There was nothing in the interview about me leading
+a team. They gave one to me later on, when on interview they promise you
+something like that, you leave.
+Socrates: Even if there is a managerial position?
+Jason: This is another thing, if the position says manager, then you wait to
+see which team you will manage.
+Socrates: We are talking about the promise of leading a team whose members have
+not yet been hired.
+Dimitry: And they are not tied up to their word for two reasons: Say that I
+get into a company do the full developer thing and say that they do not like me
+for any reason, we do not match. There is no law stopping them for hiring
+another person and placing them to lead me, promising me that when they
+actually hire the person after this one I will be leading them.
+Secondly if I end up being a good developer, designer, whatever, management
+might think: "hey wait a minute we found a guy performing well, which is
+rare in our industry" followed by "why ruin this?". They are not willing to
+"kill" a good developer and turn him to a manager for which there is no record
+of previous performance at least within the company.
+Jason: This is not a wrong approach.
+Dimitry: Not at all, leave that person where they are and let us hire an
+already experienced manager with a proven record.
+Jason: From a managerial perspective this makes lots of sense.
+Dimitry: It makes perfect sense but does not mean that it is beneficial to
+you who got there waiting to become a manager.
+Jason: Definitely not.
+Dimitry: What I said to one, to finish chasing our tails, was to ask them if
+they are willing to put that on my employment contract, put a clause that
+within X months I will be managing a team.
+Socrates: Alas! The moment you ask them to sign on what they bubble, there is
+no way they will hire you. It signals that you want them to be held responsible
+for what they say to you.
+Dimitry: I wanted to say in a polite way: please hang up the phone like now.
+Jason: I think he did well, he didn't say something bad.
+Socrates: It has to do with timing. It would make sense to ask this to be
+placed within the contract when the deal is closing. When you do that so early
+on you are challenging what they just told you. When they say "within a year"
+we will do a design department and you will be the lead, and your response is
+well, lets put that into contract then something breaks. They want you to be
+dying to get there doing everything, crying, thanking God to be there. You say
+that you go there for this promise not for the company being a liability in
+between.
+Jason: But if you suggest it and they do it, it would be great.
+
+## Puzzle Mania
+
+Dimitry: Next, this looks like a permutation of the "tasks" one and has
+happened to me mostly in big companies, is when in the interview you are asked
+to solve puzzle after puzzle. You look at me as if I am an alien.
+Jason: I have seen character puzzles...
+Socrates: Like a personality trait test?
+Dimitry: Algorithmic stuff. 
