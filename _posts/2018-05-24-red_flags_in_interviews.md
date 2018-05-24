@@ -105,4 +105,36 @@ a day to see if you fit on their environment.
 Dimitry: Exactly a degraded/decadent version of this is having to do a two day
 task.
 Socrates: You wish it was for two days.
-Jason: I think this is unacceptable they take over your personal life.
+Jason: I think this is unacceptable they take over your personal life. It is
+like "us the big company are doing a favor to consider your application and
+you need to prove that you are worthy" ...
+Socrates: ... and also you have applied only to them and you have nothing else
+going on with your life no other applications and not a job or anything.
+
+Dimitry + Socrates + Jason: Let's go to the next one.
+
+## Fast Paced Environment
+
+Socrates: Something else that we recently encountered was the so called
+"fast paced environment". We have very tight deadlines, we move very fast...
+Jason: Work hard play hard.
+Socrates: Exactly and also the thing that came up lots recently: "our people
+stay longer hours, but it is why they want to, nobody forces them to do so".
+Jason: I have also heard this it is very irritating.
+Socrates: Which is by itself a big warning sign. Who wants to sit forever in
+the office.
+Dimitry: Some times I do not.
+Jason: This is not something you normally say in the interview, Sometimes I
+want to stay a bit longer, it is hot outside, I want to finish some small
+things, for any reason.
+Socrates: Yes, it is, or you want to do it. It is not forever nor everybody
+wants to do it every single day.
+Dimitry: There are many interpretations, what this means to me: I might stay
+in the office a bit longer if there is say a technology I want to learn and it
+is important to me and my career and I want to grab that knowledge. Second and
+most important if this is being recognized financially in the bottom line and
+generally. That last detail is something that is conveniently not mentioned
+from those interviewers.
+Socrates: The difference here is that Dimitry wants to do so for his agenda
+and reasons, when it is "everybody" or "the majority", it does not ring a bell,
+It is like the whole of Notre Damme.
