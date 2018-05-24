@@ -138,3 +138,39 @@ from those interviewers.
 Socrates: The difference here is that Dimitry wants to do so for his agenda
 and reasons, when it is "everybody" or "the majority", it does not ring a bell,
 It is like the whole of Notre Damme.
+Jason: This is what was happening in the previous place that I was which can
+be described as "hell". They said to me that they work hard and play hard,
+sometimes stay a little bit longer. We had many customers from the States so
+many times you had to stay longer to talk to them over the phone because of
+the time difference. Makes sense and seemed totally OK, this was the pitch in
+the interview. They said precisely "every once in a while".
+The endgame was that I ended up going there 08:00 in the morning, one hour
+earlier than what was in the contract in order to conduct "meetings" to
+"organize" the department with every day leaving the office after 19:00/20:00.
+This was not because of talks with clients or anything, there was nothing well
+organized, not a good work-life balance which was constantly causing issues.
+Dimitry: I think here there is a subliminal issue here: I do not have proper
+management or project management, there is nobody to properly coordinate things
+or anything like that, something that we used to have all over in Greece. The
+only way in this environment to get a result is leave the workhorses/plebs
+work all day long.
+Jason: When there is no organization which is also a red flag for later. There
+is also the absence of communication. You might have to wait for a designer to
+finalize his work for say 5 hours, with you in these five hours doing nothing
+or fooling around (scratching yourself).
+
+
+## Leader of Team of One - Responsible for Everything
+
+Socrates: What is your opinion for roles where you are supposed to be a lead
+and then while reading the description you find out that you will be doing
+everything in a nice little compact package?
+Jason: It is a trap, a trap for people that are somehow new in the field...
+Dimitry: not necessarily.
+Socrates: I have talked with people that want an UX designer but the also do
+digital marketing so they want someone to do their banners for their ad
+campaigns.
+Jason: I had head that "we are entering your space now..."
+Socrates: ... and we will build a department around you.
+Dimitry: I have heard that as well. We will make a department around you
+(note: I also once believed it).
