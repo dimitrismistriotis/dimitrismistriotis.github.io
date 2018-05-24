@@ -9,6 +9,7 @@ Notes:
 Links:
 
 https://blainepardoe.wordpress.com/2017/09/27/snarky-interpretations-of-real-life-job-descriptions/
+https://resources.workable.com/tutorial/best-recruiting-assessment-tools
 
 
 # Red Flags in Interviews
@@ -92,4 +93,16 @@ Dimitry: Without wanting to justify this behavior is say that we know or assume
 that this person can perform say from the portfolio. Next question is: can this
 person function on our team as it currently is? You give them a task and the
 team that they want to interact with, leave some loose ends or some stuff
-totally undefined.
+totally undefined. Say for example that what color to use somewhere as a
+trivial example is not defined. Will Socrates make a decision on his own and
+put something that fits, leave it colorless aiming to discuss later, or reach
+out to someone else within the company. All of the above are valid approaches
+but which one works best for the specific corporate or team culture?
+Jason: Only huge companies are able to do this like get you there for a day
+and experiment.
+Socrates: Yes there are some companies that invite you for some hours or for
+a day to see if you fit on their environment.
+Dimitry: Exactly a degraded/decadent version of this is having to do a two day
+task.
+Socrates: You wish it was for two days.
+Jason: I think this is unacceptable they take over your personal life.
