@@ -16,3 +16,73 @@ immigrants have to adjust to their new country which for the three of us is UK.
 If you think that such content would be of interest to you even if spoken with
 funny accents, please reach out to us or leave a comment here so that we will
 be able to react to your feedback and start releasing stuff in English.
+
+## Introduction
+
+Recently two members of the crew, Socrates and Dimitry had gone out to look for
+positions, while the other member Jason had been in the same situation some
+months before. Reading  the job descriptions and taking the corresponding phone
+calls (initial or later stage) we saw some patterns emerging which at some
+point started documenting for the podcast.
+
+Before we start it is important to note that there is no perfect job, that a
+red flag for one person might be a green flag for another and that also what
+we want from a job depends on our personality, lifestyle, stages in life (e.g.:
+single, married, family) or in one word, our "situation". With that in mind a
+"we work all day long" signal might be a red flag for a family man but a
+"wow I will learn a lot" for a young single person who wants to acquire
+experience.
+
+With the above in mind lets start.
+
+
+## People
+
+Socrates: Works in design, UI/UX.
+Jason: Digital Marketing.
+Dimitry (me): IT, Software Engineer.
+
+## Lots of work up front
+
+Socrates: The first read flag I have encountered were those cases where the
+potential employer was asking for so much work **before** getting into the
+late stages of the interview. Stuff like: "yeah, you look so great, we
+definitely want to interview you, but we would like you to build an app if
+possible from scratch", this is followed by: "it should not take more than
+10 hours" as if I can magically create 10 hours out of thin air.
+Jason: In the marketing section I have encountered this by people asking me to
+perform small tasks which never take more than two or three hours. For both
+of you people ask you a lot.
+Socrates: By talking to someone who is very experienced in the field, they
+identified it as a plague of the industry. For this person the aim is not so
+much to see if you are capable of working in that capacity, they usually want
+to see if you are willing to give ten hours in order to work there.
+Dimitry: From an IT angle, because I am a bit middle aged. Many years before
+there was a study on the graduates of a specific Indian university where
+a big amount of people could not even write a small program. I had tried with
+a student of mine to see if they could write a program implementing the so
+called FIZZ-BUZZ algorithm (LINKS HERE). So these tests were put in place
+initially to filter out those people that could not function at all.
+Jason: What you suggest though is a 20-30 minute task, Socrates talked about
+10s of hours per company.
+Dimitry: This is where the whole thing went south like a lot. Initially it
+was a good way to filter out people that were not there yet. There are many
+companies that offer this as a service. You give 3-4 tasks like this for the
+person to take them up front which covers for the case that they have
+memorized a couple. When this thing started about 40% of people were instantly
+rejected.
+Jason: Again you are talking about an hour or so. Many companies give briefs
+which would be potentially take a team months asking you to squeeze something
+within 10 hours which easily become 40.
+Socrates: I understand that you need to "work on" the job that you want to
+end up to. On the other hand asking for creative work which might also be used
+for something they need later on, even if you are not hired, goes way over the
+top.
+Jason: I can understand asking something small...
+Socrates: This is why we have portfolios. Looking at a portfolio should be
+enough to get the idea.
+Dimitry: Without wanting to justify this behavior is say that we know or assume
+that this person can perform say from the portfolio. Next question is: can this
+person function on our team as it currently is? You give them a task and the
+team that they want to interact with, leave some loose ends or some stuff
+totally undefined.
