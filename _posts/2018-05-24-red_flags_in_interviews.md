@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comic Strip Inspiration for IT
+title: Red Flags in Interviews
 permalink: /red_flags_in_interviews
 ---
 
