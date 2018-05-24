@@ -4,6 +4,13 @@ title: Red Flags in Interviews
 permalink: /red_flags_in_interviews
 ---
 
+Notes:
+
+Links:
+
+https://blainepardoe.wordpress.com/2017/09/27/snarky-interpretations-of-real-life-job-descriptions/
+
+
 # Red Flags in Interviews
 
 This is a transcribe with some modifications of the discussion we had for the
