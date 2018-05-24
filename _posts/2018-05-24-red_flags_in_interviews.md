@@ -236,4 +236,75 @@ happened to me mostly in big companies, is when in the interview you are asked
 to solve puzzle after puzzle. You look at me as if I am an alien.
 Jason: I have seen character puzzles...
 Socrates: Like a personality trait test?
-Dimitry: Algorithmic stuff. 
+Dimitry: Algorithmic stuff. Shortest Paths, Double Linked Lists, etc. Stuff
+that we do in Uni to understand how operating systems work and programming
+language internals. One classic one is which is the fastest way to move packets
+in a network.
+Jason: This happened to a friend of mine, fresh out of Uni as well. It seems
+something specific to your domain.
+Dimitry: The problem here is that these questions are biased towards people
+who have just graduated. In this way you are biased in favor of younger people.
+This was the response of a company which was accused of age discrimination:
+"everyone can join, we have an impartial interview process". Yes the interview
+does not do age checks, only it asks questions that are easier to be answered
+by recent graduates hence young people.
+Socrates: And you have not been there since forever so go remember the
+algorithms from back in the day.
+Dimitry: Exactly
+Socrates: Do you treat it as a way to bypass anti-discrimination checks?
+Dimitry: Yes but not necessarily consciously.
+Socrates: No?
+Dimitry: Yes.
+Jason: Give me an example.
+Socrates: UK law does not allow you to prefer based on gender, race, age, etc.
+This is a reason we do not put in this country our picture in the CV or mention
+our sex.
+Dimitry: We have a CV guide which we will link. LINK
+Socrates: Big Taboo.
+Dimitry: So they make an "impartial" process which involves asking for stuff
+that only recent graduates know. I had seen this in myself as I was acing these
+tests when I graduated as I did a late masters when 28/29. It is something
+that you get good with practice. Most contemporary programming is not related
+to algorithms and data structure manipulation so this knowledge wears off. By
+throwing these questions to people you just favor the "youngsters"
+Socrates: Say you have your own company and you need to hire someone, what
+would you do?
+Dimitry: I might need to hire someone this very moment, I am leaning towards
+the daughter of a friend of mine a-la Greece, Brazil: family members first.
+I happen to have my own framework.
+Socrates + Jason chorus: Something very difficult to grasp.
+Dimitry: I am referring to the Commando/Infantry/Police separation.
+Jason: Which is from the upcoming book: www.itarchetypes.com
+Dimitry: If you want someone who knows stuff, has passion, is "in the game", I
+want to see interest beyond work: like go to Github/Gitlab and see a project.
+If you go now to my profiles you will see projects that I did just because I
+wanted to. Does a person on their own time learn about crypto-currencies?
+When I was a kid people were experimenting with installing Linux distributions,
+a little bit later by development for mobile devices. Do you use Linux as your
+main operating system? Have you tried to build something like a mobile app?
+So when I want to hire for passion I look for these. What I am trying to
+check is if this person has this thing as a hobby.
+Socrates: I like this approach.
+Dimitry: On the second one being a professional...
+Jason: which is that?
+Dimitry: Infantry. How good professional is this person. They know how to do
+a job and they do it well. This is for positions with check-boxes, places where
+people will have to tick items in a list. You work with a matrix here: look at
+the CV, how close are the skills to what you need...
+Socrates: Up to now I do not see a puzzle or a test anywhere...
+Dimitry: That's because there are none. I might ask for something to see
+if we match.
+Socrates: So a little bit of work for free?
+Dimitry: Not like that. I recently had to train a friend so I went to Euler
+site and picked up some easy problems from there. I asked him to implement them
+and discuss the answer. Now if he wanted to continue practicing after that, he
+would have the points with him, his profile, etc. He would take-away what
+he did. If you remember we had discussed a submission.
+Socrates: Nod.
+Jason: Maybe you are able to do it because you are on a very technical field.
+I do not think that one can do something like that in marketing.
+Dimitry: And the last category are people for which the whole thing is just a
+job. Passive, want to follow instructions all the time, suitable for large
+companies that want bodies, do not want to have anything to do with them in a
+small shop. I cannot communicate with them so want to stay away.
+Jason: Usually these people are in the wrong industry.
