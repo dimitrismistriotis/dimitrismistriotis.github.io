@@ -564,3 +564,79 @@ Jason: Yes but you need to cover some basics? If you say I will hire only based
 on character you get into what we do in Greece: hire your best friend, your
 second cousin.
 Dimitry: This is not character.
+Socrates: So start with skills and see if the character can fill them?
+Dimitry: Or the other way around. We live in an industry that changes a lot,
+it has to do with an industry that changes a lot.
+
+## Cliques
+
+Jason: Based on what Socrates mentioned, I want to talk about cliques. You as
+a new guy will never be part of this. You go there never enter that clique. At
+the end after some time you will leave because you never got involved in the
+good projects since they never came your way.
+Socrates: Or there are different cliques operating at different levels. There
+was that department that for some reason was always above everybody else...
+A cabal running the whole thing.
+...
+Dimitry: I did not have that exact experience but I happened to talk to someone
+who told me that a place was "a little bit too cliquey" which I did not like
+because it was served as something that people should somehow swallow and get
+along. No it is not something you should swallow, it is a red flag.
+Jason: Yes and because it is difficult to solve, you need to recognize that
+from the interview hence why we discuss it here.
+Socrates: Or it might be something benign like people hanging out together
+after work to play football. That's OK as long as it does not interfere with
+the rest.
+
+## Do That Now - One Hour
+
+Dimitry: Related to the "write me code for 10 days" are those site that ask
+you to solve problems within an hour. DO THAT NOW ONE HOUR.
+Jason: I hate them so much...
+Dimitry: I have a personal issue with that: when someone gives me a deadline
+out of the blue, my brain rebels and freezes. I am in "no I want to think" or
+"negotiate the deadline" mode.
+Jason: These things have nothing to do with actual working conditions, how many
+tasks need to finish within an hour?
+Dimitry: Or if I finish in half, what do I do with the remaining time?
+Jason: Or if you need three? Will you be fired? Don't get it.
+Dimitry: I have seen some that can be done in far less time, some others take
+one hour non-stop. I think that some times people are told to use them or
+follow trends.
+Jason: There are some people that cannot function under tight constraints.
+Shows sometimes a luck of respect.
+
+## No Career Progression
+
+Dimitry: Another one that happened while I was looking were two or three
+companies who were in a very good position of having won a big contract,
+expanding, and wanted 10-15 developers to build their platform, take it off
+from A to B to C. While talking with them there was no answer on what would
+happen after that year, like OK we take it off, how will I continue to evolve
+while being employed? There was the assumption that we had to work a lot for
+that company, and once it reached a specific stage, then what would happen
+next? They might need to downsize for example more maintaining stuff.
+Jason: Like what will you do?
+Dimitry: To one I asked it in this way: I see the whip but not a single carrot.
+You want me to drop there like a paratrooper, organize stuff, solve difficult
+problems which I am very willing to do so but then what? There was no answer.
+Because themselves didn't know. I would do that when starting my career, at a
+point when screwing up would be OK.
+Socrates: A good experience.
+Dimitry: Exactly, but now I have this experience, go there use it, there needs
+to be something for me as well. Like extra money?
+Socrates: Wrapping up, we need to check when there is extra effort asked, to
+see that the returns are proportional. Or weight these things up, consider our
+personal stage in life, family situation. If there is overtime, will they pay
+us more? Teach us things? Send us to seminars? You want me go above my
+contract, for what?
+Jason: A good give and take.
+Socrates: When you listen to many promises, be aware because promising is
+different than delivering that promise. Or they want to awe you with a gym,
+snack bar, ping-pong table, but not the time to enjoy them.
+Dimitry: ... and we want to deduce as much information as possible from the
+interviews and spotting red flags.
+
+Socrates: As per usual sent us your red flags to add them in a subsequent
+podcast.
+All: Bye...
