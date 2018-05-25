@@ -443,4 +443,124 @@ code from the first day, Facebook was doing this at some point, but
 Socrates: Something very small.
 Dimitry: So that you will start interacting with the system from the first day.
 This is OK
-Jason: Let me bring another example.
+Jason: Let me bring another example. This was my first UK job, which had some
+issues but their on-boarding was at least fantastic: On the first month you
+were shadowing Seniors, or working under their supervision without having
+immediate responsibilities.
+Socrates: Generally my on-boarding experiences were amazing with the exception
+of a single start-up. Do you believe that these things happen more in startups
+and less in established companies which have some capital and resources, so in
+the first months that you are learning things, there is no negative impact?
+Jason: I think that in very big companies there would be an HR department which
+would have implemented procedures, in SMEs...
+Socrates: I am talking below mid.
+Jason: I do not think it has to do with size, in many companies people have
+become managers with no previous experience or training in management only
+because they have been employed for the last say 10 years.
+Dimitry: Or two years, but they happened to be there when the company started.
+
+## Projects Build around Rick
+
+Dimitry: Another one which I did not know how to name, is when "projects
+have been build around Rick".
+Jason: We read some related articles in Medium and we will provide some links.
+The article speaks about places that have hired someone senior or someone with
+lots of experience and then force everybody else or even the whole company to
+gravitate around these people. Projects and the whole company become so
+dependent on them that once they leave.
+
+* https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde
+* https://startupsventurecapital.com/you-fired-your-top-talent-i-hope-youre-happy-cf57c41183dd
+
+Socrates: And when they leave...
+Jason: Chaos comes in.
+Jason: I have seen people crippling the whole company.
+Dimitry: So the magic Jonathan Ive comes in and has build something that
+somehow works, and then it is cast in stone. If they prefer a specific
+methodology than everybody else has to follow suite even if they are not happy
+with this particular methodology. Even if everybody else disagrees we have to
+listen to the prima-donna.
+This shows up in interviews where the questions are tailored to see if you
+answer what that person would like to hear.
+Jason: In the previous place I was, our lead developer was involved in ALL
+our projects - with ownership and setting up processes. He was a little
+difficult as person to interact with. His ways were too complicated and hard
+to understand. There was a project that dragged for 8 months while it could
+have been done in three because "Rick" - that person - was saying that he
+had to rewrite this, or that we needed to build this thing from scratch and so
+on, moving back and forth.
+Dimitry: The question is how this is can be discovered on the interview.
+Sometimes Rick will be involved in the interview process and ask questions that
+do not have a right or wrong answer, when you answer something that contradicts
+his ways, he will say something like: "yes but if we did this" and immediately
+the whole room will "wow" on what they just heard, although again it was an
+open question.
+Socrates: Sometimes they say it to you: we use an in-house platform that our
+lead developer has built. Independent on if that person has dome things right
+or wrong or anything, this is how thing should work and he should have the
+full control of everything. They found that poor or many times not so poor
+soul and all the projects are on his shoulders.
+Dimitry: This where we have a potentially "sick"/"problematic"/"dysfunctional"
+relationship between Rick and that company. Company has allowed Rick to do
+whatever he wants, Rick is doing so, at the expense of existing or new
+employees.
+Jason: Not when the company already has that "Rick" and there is that situation
+which you might want to avoid. There is also the company that wants to hire
+you so that you will become their Rick, with you ending up to work 48 hours
+per day.
+Dimitry: For me it is not about time or amount of work, but also the quality
+of the relationship. You see going into places where there is a person who is
+there for say 15 years, or 10 and everybody else is there for 2 years. The
+mind goes instantly to the question: what happened and there are not any people
+for 4 years, or 6? The answer is that people could not bear it any longer.
+Socrates: Like working with legacy code?
+Dimitry: Like spending their working hours as the satellite of that "Rick".
+
+## Skills do not Matter
+
+Jason: Another red flag which I have encountered and want your opinion is when
+you go to interviews and they say to you that they do not hire based on skills
+but based on what type of person you are, your character.
+Socrates: Is this bad?
+Jason: Invalidating everything you can do? Or the contrary: we only care about
+your skill-set not about your personality.
+Dimitry: It has happened to me from a company that I will not name. There was
+a place where they had an intermediary CTO who liked to hire people based on
+character. My final interview happened to be when his contract had finished, he
+had handled over to the next CTO who was only interested in skills. These two
+people have different approaches. I went to the last interview with an agenda
+that HR had sent me with questions all about character. When I got there the
+new CTO started asking me about previous experience and skills. At some point
+I stopped him and said something in the lines of "hey buddy, your HR gave me
+this agenda and you are not touching it, what is going on?". At that point I
+realized there would not be a match.
+Socrates: Sometimes character checks are to identify if you will be part of
+our clique. I am not talking about gentrification or Uber style recruitment,
+mentioning it after things in the news about them hiring only people that
+there were just like them.
+Dimitry: I will tell a story that I got from a friend named George, I do not
+have his permission, so will use only first name. George happened to meet a
+multi-billionaire, at that time in his life, George had a problem hiring people
+in the company that he was working for. That company had a skills matrix
+approach. He had a matrix of skills, these were rare in that region so most
+candidates scored really low.
+Socrates: What is that matrix?
+Dimitry: You create a matrix of what you want. Say I want a person to be a good
+designer, average communicator, this good-to-have, this at OK levels, etc.
+This goes in the "columns" of that matrix. The candidates go to the rows where
+you see who "ticks" and who "X-es". It is like the feature comparison we see
+in product offerings. So you get that Socrates has 20% match, Jason 25%, and
+Dimitry 10%. The person higher is the most preferred candidate. But because
+this is the way you see the world, mapping people to skills, everybody can
+potentially have a gap, like these people fit 80%. This is very useful for
+companies that want to project people to a number so that they then will be
+able to compare them in a way.
+The multi-billionaire told him that this was wrong and that my friend should
+hire based on character: if a person has a good attitude, they will "grow" to
+fill the gaps in the skill-set, if the character of a person has flaws, even if
+all the gaps are covered or all the boxes ticked when the position or the life
+change then that person will not grow to fill that gap.
+Jason: Yes but you need to cover some basics? If you say I will hire only based
+on character you get into what we do in Greece: hire your best friend, your
+second cousin.
+Dimitry: This is not character.
