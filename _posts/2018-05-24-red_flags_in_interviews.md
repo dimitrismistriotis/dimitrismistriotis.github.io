@@ -393,4 +393,38 @@ Jason: Not necessarily, even the basics: where is the coffee and where is the
 sugar.
 Socrates: Yes, I assume that you need to be introduced to to culture of the
 company.
-Jason: Where are the bathrooms.
+Jason: Where are the bathrooms. :).
+Socrates: Stuff like how they manage tickets at Jira (too technical).
+Jason: When to call out a client. When do you call out, does someone else need
+to talk first? Is it OK to interrupt people when they talk to ask questions?
+Socrates: Is it out of experience?
+Jason: Yes.
+Socrates: Give us an example.
+Jason: In the previous place there was no on-boarding at all and on top of this
+they were complaining if/when you were doing something wrong. Once a client
+asked me something in an email and I answered immediately. I was told from my
+manager that I should have asked him before reaching out. I would have to be
+involved in guesswork on whom to ask, when to ask, when not to ask, what is OK,
+what is not OK?
+Socrates: Got it.
+Jason: I think Dimitry had something like that recently.
+Dimitry: I did, I am still not completely detached, my heart now is beating
+faster and I am ready to say something bad about the mother of the person I was
+working with.
+Jason: PTSD?
+Dimitry: I am trying to relax so I cal talk, also had some coffee.
+Jason: He has turned red, breathing heavily.
+Socrates: See the vain ready to pop out.
+Dimitry: I am ready to take a tube, go there, lease, since we had a discussion
+about leasing, a Kalashnikov.
+Socrates: It is Saturday, nobody is there.
+Dimitry: I will wait until Monday behind the bell of the nearby Church.
+Socrates: Share us your experience calmly then.
+Dimitry: I cannot do so, so no. How do spot this though. You listen to catch
+phrases like: "commit code on the first day", "you will have impact on the
+first days"...
+Socrates: You will hit the ground running!
+Jason + Dimitry: Yeah
+Dimitry: "Commit production code in the first days". When I first encountered
+this thought that all these things would happen with the assistance of a person
+who was already there for some time guiding my steps
