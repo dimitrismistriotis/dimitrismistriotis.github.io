@@ -427,4 +427,20 @@ Socrates: You will hit the ground running!
 Jason + Dimitry: Yeah
 Dimitry: "Commit production code in the first days". When I first encountered
 this thought that all these things would happen with the assistance of a person
-who was already there for some time guiding my steps
+who was already there for some time guiding my steps. From point those
+"training wheels" would be utilized less and less.
+Jason: Not talking about how to do your job, but how to function within that
+organization.
+Dimitry: Where this thing happened to me, I lost an afternoon because some
+tests were not working. I fixed them. Once I fixed them I found out that they
+were not used at all anywhere. Went to my manager and told him that one
+afternoon got wasted, you might want to know about the deadline. Should not you
+be on top of me before I did so? "No" (his answer). We will inform you dear
+audience about the end of that story in a later transmission/podcast.
+The other thing that happens on our field is that you will write production
+code from the first day, Facebook was doing this at some point, but
+"production" can be something so trivial as changing the color of a button.
+Socrates: Something very small.
+Dimitry: So that you will start interacting with the system from the first day.
+This is OK
+Jason: Let me bring another example.
