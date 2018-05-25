@@ -307,4 +307,90 @@ Dimitry: And the last category are people for which the whole thing is just a
 job. Passive, want to follow instructions all the time, suitable for large
 companies that want bodies, do not want to have anything to do with them in a
 small shop. I cannot communicate with them so want to stay away.
-Jason: Usually these people are in the wrong industry.
+Jason: Usually these people are in the wrong industry. People with "low will"
+Socrates: Or in a stage in life where you want to do the minimum and get home
+to wife or husband and kids.
+Dimitry: This is what you also expect from a professional.
+Socrates: I have seen with many people: at 16:59 PC starts the shutdown
+sequence. Do the absolute minimum from the assigned tasks, and that's it.
+Jason: What Dimitry tries to communicate is that this person will leave the
+office, go home and that should be it. Dimitry describes someone who likes
+what they do even away from the office.
+Dimitry: There are many ways to treat something in this way. Some times it is
+because of circumstance, where we have all been in our lives: there are other
+things going on. We want to do our tasks and go home, or just for some people
+it is their life-stance. I had a good and close friend who is not with us any
+more (Rest In Peace George), who did not care about his career at all,
+something he had communicated to me: "I am into sailing - period." At that
+point he found a position in a certain organization where he would be doing
+exactly the same tasks for 20 years at least.
+...
+Dimitry: So I would try to deduce these things from a candidate.
+Jason: If the other person wants to do sailing, he wanted one job to fund his
+hobby.
+Dimitry: The difference though from Infantry and Police is that this person
+would do the job as good as possible.
+Jason: The people in the third (Police) category are not people that do not
+perform well, it is just that they do not care.
+Socrates: The absolute minimum.
+Jason: Whatever they are told to do they will do and they just do not care.
+Go to the office do what told, get the money and leave. While the other
+categories find some joy in it.
+Dimitry: Either joy or see it as a professional trajectory. Better stop here.
+But things like if I learn this, I will be able to do that so I will change
+my compensation to something else or the environment, so when they go to a
+position they want to digest things and learn from them, etc. Let's go to the
+next.
+
+## You Will Learn the Domain
+
+Dimitry: "You will learn the domain", have you come across that?
+Socrates: Sometimes yes: we will teach you the domain but usually in a domain
+that I have no interest about.
+Jason: What do you mean as "learn the domain"? What do you learn?
+Socrates: Something like a new technology such as banner making or generally
+the industry on which the company operates. Say you will get in a bank and you
+will learn how the finance system works.
+Jason: ... and why is this bad?
+Dimitry: I consider it a red flag, apart from being in a place that this was
+messy, because it is just an excuse that our tech infrastructure and things
+that have to do with your profession are poo-y. For example: no good
+infrastructure not good procedures, things left up in the air, so what do I
+have to give to you? Domain knowledge.
+Jason: Have you heard this often?
+Socrates: Not a lot.
+Dimitry: Let me give an example, say the company is in the health sector so
+they say to you that you will interact a lot with doctors and you will learn
+how the medical space works, or a space that is supposed to have lots of money
+moving around, and with that you will be able to evolve. OK up to here?
+Jason: Yes. Got it.
+Dimitry: In this example there is no project management, QA, other roles, so
+the programmer/developer interacts with the Doctor out of the blue. Means that
+the developer is also doing the specifications, or that any given time the
+client can talk to them so they have no quiet time to concentrate or work
+uninterrupted. That because doctor X can call any time and interrupt you.
+Socrates: Not I got it, you will learn you will talk with people, they will
+teach you things about the industry. Usually they push you one step out of
+what you are supposed to be doing as a professional. Not do more or better like
+outside your comfort zone, do things unrelated with your profession.
+Jason: That does not happen a lot in marketing because it is client facing per
+se, so you need to interact with them.
+
+## Sink or Swim
+
+Jason: Something else is when you finish with the interview get hired and they
+just throw you in the middle of the place with you having to figure out
+everything.
+Socrates: Love it.
+Jason: Not even how the infrastructure works, go figure it out, no on-boarding.
+Socrates: Specially if you are not hired as Senior, or principal, or the
+adjective that is now in fashion.
+Jason: Ninja
+PICTURE OF A NINJA HERE
+Socrates: Unicorn! Unicorn designer. The absolute perfection. If you are lead
+of the planet, say OK. But even as a junior.
+Jason: Not necessarily, even the basics: where is the coffee and where is the
+sugar.
+Socrates: Yes, I assume that you need to be introduced to to culture of the
+company.
+Jason: Where are the bathrooms.
