@@ -216,6 +216,8 @@ overtime was spent waiting for someone to give something, busy waiting in IT
 terms, something that could have easily been avoided if there was better
 communication and coordination.
 
+---
+
 Socrates: Something else that we recently encountered was the so called
 "fast paced environment". We have very tight deadlines, we move very fast...
 
@@ -275,6 +277,58 @@ or fooling around (scratching yourself).
 
 ## Leader of Team of One - Responsible for Everything
 
+There are some roles that advertise for lead positions and early on on the
+first steps of the discussion even in the initial call it is made clear that
+it is about "leading" a team of one. Lead in this context means that you
+will be responsible for all the functions of a team in a small compact package.
+
+In one case a company was advertising for a UX designer but they also wanted
+someone to do their advertisement campaign banners and somehow blend these two
+functions as one position. When asked the rationale was that the company was
+entering the space now, and what the UX person was supposed to do was not
+fully comprehended by them.
+
+Another pattern was to say something in the lines of a company expanding so the
+candidate will be there first and later on they would *"build a team around
+them".* This can be treated as a bait for someone senior, you cannot say to
+them *"we want a person to be responsible for everything"*, so you say come
+here, do everything and we will build later on a team around you, in the
+meantime you will be "head of development" and that *"within a year we will
+hire more people"*.
+
+Team discussed their personal experiences: One got hired and found that he was
+the most senior on his team, later on he became a manager and a team was
+structured around him. This was not discussed in the interview, it happened
+organically as the team and company started growing. The position was not
+advertised for a manager hence it was a nice career move, if the same person
+was being interviewed for a managerial position, he would like to meet the
+team.
+
+Another member had a different experience: got hired somewhere where a team
+was supposed to be built around him. Tried his best as developer but when the
+time came to expand, one project got outsourced or other people started
+reporting to the CTO, not him, there was no team being build around him.
+It seemed that management had found a great developer in their minds,
+something rare for the industry and they did not want to lose him for a
+manager without a track record, at least within the company. There was
+discussion on if this would be a good decision for the company or not since
+yes they had a good developer who knew their systems how to "do things", etc.
+The counter argument was that it might be something good or making sense for
+the company, but definitely not for the person: the person had not taken other
+positions in other organizations that were more straightforward to him
+(*"we want a developer cannot promise anything"*), worked hard and not
+compensated because at the end of the day there would be a promotion, and also
+had his career trajectory disrupted.
+
+Having lived this experience the same person when in an interview call some
+years later was told that a team would be build around him, asked if the
+company would put this as a clause to his contract agreement. There he got
+criticized from the other members that this approach displayed that he was not
+interested in working there but rather on himself and what would happen to him.
+A better approach was argued would be to ask for assurance later on closer to
+the offer.
+
+---
 
 Socrates: What is your opinion for roles where you are supposed to be a lead
 and then while reading the description you find out that you will be doing
