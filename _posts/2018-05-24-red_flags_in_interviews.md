@@ -27,11 +27,12 @@ be able to react to your feedback and start releasing stuff in English.
 
 ## Introduction
 
-Recently two members of the crew, Socrates and Dimitry had gone out to look for
-positions, while the other member Jason had been in the same situation some
-months before. Reading  the job descriptions and taking the corresponding phone
-calls (initial or later stage) we saw some patterns emerging which at some
-point started documenting for the podcast.
+Recently two members of the crew had gone out to look for positions, while the
+other member had been in the same situation very recently. Reading  the job
+descriptions and taking the corresponding phone calls (initial or later stage)
+we saw some patterns emerging which at some point started documenting for
+broadcasting them in a podcast episode, which got released at the end of May
+2018.
 
 Before we start it is important to note that there is no perfect job, that a
 red flag for one person might be a green flag for another and that also what
@@ -43,15 +44,12 @@ experience.
 
 With the above in mind lets start.
 
-
 ## People
 
+One of us is a Software Engineer, one does Digital Marketing, last but not
+least works in design, UI/UX.
 
-- Socrates: Works in design, UI/UX.
-- Jason: Digital Marketing.
-- Dimitry (me): IT, Software Engineer.
-
-## Lots of work up front
+## Lots of Work Up Front
 
 
 Socrates: The first read flag I have encountered were those cases where the
@@ -134,6 +132,32 @@ Jason: Let's go to the next one.
 
 ## Fast Paced Environment
 
+Next we discussed the "fast paced environment" terms within the job description
+sometimes stated with alternatives such as "we move very fast" or we "work
+hard, play hard" but never "pay hard".
+
+Recently some of us have encountered a permutation of this which is something
+in the lines of "... our people stay longer hours every day not because someone
+forces them but because they really want to...". Sometimes all of us want to
+stay longer in the office: have somewhere to go a bit later, want to finish up
+something that would take more time to do so in the following day, not want to
+disrupt the flow, or there is an interesting technology or concept that we want
+to explore which will later on enhance our careers or capabilities. The red
+flag here exists in the fact that this for a reason unknown happens to
+"everybody" within the company **and** everyday - perpetually.
+
+Sometimes this is an attempt to mask problematic project management or the
+absence of it. One of us was told that some days he had to stay longer because
+some clients were located in the US so had to make late evening phone calls
+with them. It ended up having to start working from 08:00 instead of 09:00 and
+leaving later, which happened because there was no coordination between teams
+and nobody wanted to jump in and restructure things. When the management was
+asked on the whys and hows and when this is going to end, that person was
+referenced to the interview mention that "sometimes blah blah", although the
+"sometimes" clause was abused. As an extra point in that company lots of that
+overtime was spent waiting for someone to give something, busy waiting in IT
+terms, something that could have easily been avoided if there was better
+communication and coordination.
 
 Socrates: Something else that we recently encountered was the so called
 "fast paced environment". We have very tight deadlines, we move very fast...
