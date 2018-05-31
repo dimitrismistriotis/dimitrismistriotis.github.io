@@ -42,6 +42,13 @@ single, married, family) or in one word, our "situation". With that in mind a
 "wow I will learn a lot" for a young single person who wants to acquire
 experience.
 
+Hope this article will help and make you feel a little bit more prepared
+for your job hunt.
+
+Feta Report <www.fetareport.gr> is a Greek podcast. If you like the subject
+matter and the flow of the article let us know and we will do some episodes in
+English.
+
 With the above in mind lets start.
 
 ## People
@@ -691,6 +698,13 @@ outside your comfort zone, do things unrelated with your profession.
 
 Jason: That does not happen a lot in marketing because it is client facing per
 se, so you need to interact with them.
+
+
+End of first part, second one coming soon.
+
+Hope this article helped a bit and made you feel a little bit more prepared for your job hunt.
+
+Although Feta Report <www.fetareport.gr> is a Greek podcast. If you like the subject matter and the flow of the article let us know and we will do some episodes in English.
 
 ## Sink or Swim
 
