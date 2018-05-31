@@ -428,6 +428,40 @@ Jason: But if you suggest it and they do it, it would be great.
 
 ## Puzzle Mania
 
+This is more for technological field more than any other and has to do with
+interviews where the interviewee is asked to solve one puzzle after another.
+
+There are algorithmic puzzles such as shortest paths, double linked lists,
+stuff taught in University as part of how operating systems work and
+programming languages compilation and execution.
+
+The problem here is that these questions are biased towards people
+who have just graduated. A way most of the time subconsciously to tilt towards
+candidates that have just graduated.
+This was the response of a company which was accused of age discrimination:
+"everyone can join, we have an impartial interview process". Yes the interview
+does not do age checks, only it asks questions that are easier to be answered
+by recent graduates hence young people.
+
+UK law does not allow you to prefer based on gender, race, age, etc. This is
+one of the reason we do not put in this country our picture in the CV or
+mention our sex or similar information in any way.
+
+So in this case if you want to hire only graduates for any reason, you ask
+only about this stuff. One of us did an MSc at the age of 29 and he was able
+to ace all these tests. But on the other hand the same person after some years
+away from academia, had problem answering those questions simply because the
+internals of those algorithms had wean off in memory.
+
+Update (this came from a listener, loosely translating): This behavior can be
+attributed to other ways apart from filtering out candidates, even if this
+happens at the end. It can be attributes to a bad choice of an interviewer.
+It can be that a developer has been assigned to do hiring and knowing nothing
+about it googles "clever questions for programming interviews". Another reason
+has to do with big companies such as Google adopting it mixed with fashion
+and herd mentality, "if they do it so should I".
+
+---
 
 Dimitry: Next, this looks like a permutation of the "tasks" one and has
 happened to me mostly in big companies, is when in the interview you are asked
@@ -985,3 +1019,122 @@ interviews and spotting red flags.
 Socrates: As per usual sent us your red flags to add them in a subsequent
 podcast.
 All: Bye...
+
+
+## What Would You do?
+
+
+Socrates: Say you have your own company and you need to hire someone, what
+would you do?
+
+Dimitry: I might need to hire someone this very moment, I am leaning towards
+the daughter of a friend of mine a-la Greece, Brazil: family members first.
+I happen to have my own framework.
+Socrates + Jason chorus: Something very difficult to grasp.
+
+Dimitry: I am referring to the Commando/Infantry/Police separation.
+
+Jason: Which is from the upcoming book: www.itarchetypes.com
+
+Dimitry: If you want someone who knows stuff, has passion, is "in the game", I
+want to see interest beyond work: like go to Github/Gitlab and see a project.
+If you go now to my profiles you will see projects that I did just because I
+wanted to. Does a person on their own time learn about crypto-currencies?
+When I was a kid people were experimenting with installing Linux distributions,
+a little bit later by development for mobile devices. Do you use Linux as your
+main operating system? Have you tried to build something like a mobile app?
+So when I want to hire for passion I look for these. What I am trying to
+check is if this person has this thing as a hobby.
+
+Socrates: I like this approach.
+
+Dimitry: On the second one being a professional...
+
+Jason: which is that?
+
+Dimitry: Infantry. How good professional is this person. They know how to do
+a job and they do it well. This is for positions with check-boxes, places where
+people will have to tick items in a list. You work with a matrix here: look at
+the CV, how close are the skills to what you need...
+
+Socrates: Up to now I do not see a puzzle or a test anywhere...
+
+Dimitry: That's because there are none. I might ask for something to see
+if we match.
+
+Socrates: So a little bit of work for free?
+
+Dimitry: Not like that. I recently had to train a friend so I went to Euler
+site and picked up some easy problems from there. I asked him to implement them
+and discuss the answer. Now if he wanted to continue practicing after that, he
+would have the points with him, his profile, etc. He would take-away what
+he did. If you remember we had discussed a submission.
+
+Socrates: Nod.
+
+Jason: Maybe you are able to do it because you are on a very technical field.
+I do not think that one can do something like that in marketing.
+
+Dimitry: And the last category are people for which the whole thing is just a
+job. Passive, want to follow instructions all the time, suitable for large
+companies that want bodies, do not want to have anything to do with them in a
+small shop. I cannot communicate with them so want to stay away.
+
+Jason: Usually these people are in the wrong industry. People with "low will"
+
+Socrates: Or in a stage in life where you want to do the minimum and get home
+to wife or husband and kids.
+
+Dimitry: This is what you also expect from a professional.
+
+Socrates: I have seen with many people: at 16:59 PC starts the shutdown
+sequence. Do the absolute minimum from the assigned tasks, and that's it.
+
+Jason: What Dimitry tries to communicate is that this person will leave the
+office, go home and that should be it. Dimitry describes someone who likes
+what they do even away from the office.
+
+Dimitry: There are many ways to treat something in this way. Some times it is
+because of circumstance, where we have all been in our lives: there are other
+things going on. We want to do our tasks and go home, or just for some people
+it is their life-stance. I had a good and close friend who is not with us any
+more (Rest In Peace George), who did not care about his career at all,
+something he had communicated to me: "I am into sailing - period." At that
+point he found a position in a certain organization where he would be doing
+exactly the same tasks for 20 years at least.
+...
+
+Dimitry: So I would try to deduce these things from a candidate.
+
+Jason: If the other person wants to do sailing, he wanted one job to fund his
+hobby.
+
+Dimitry: The difference though from Infantry and Police is that this person
+would do the job as good as possible.
+
+Jason: The people in the third (Police) category are not people that do not
+perform well, it is just that they do not care.
+
+Socrates: The absolute minimum.
+
+Jason: Whatever they are told to do they will do and they just do not care.
+Go to the office do what told, get the money and leave. While the other
+categories find some joy in it.
+
+Dimitry: Either joy or see it as a professional trajectory. Better stop here.
+But things like if I learn this, I will be able to do that so I will change
+my compensation to something else or the environment, so when they go to a
+position they want to digest things and learn from them, etc. Let's go to the
+next.
+
+
+Update (from listener): One way that I prefer is to give them a small problem,
+not a puzzle, and ask them to provide a solution. There might be an algorithm
+behind it, there might not. Based on experience and capability the candidate
+will reach an answer with or without having the specific knowledge taught
+recently or fresh.
+
+## Notes
+
+Listener updates from:
+<https://www.reddit.com/r/greece/comments/8n7lht/κόκκινες_σημαίες_σε_συνεντεύξεις_τι_να_προσέχετε/dztto53>
