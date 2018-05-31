@@ -621,6 +621,32 @@ next.
 
 ## You Will Learn the Domain
 
+It is common to suggest that by working in a company you will *"learn the
+domain"*. Like if you work in a bank you will get to know how the financial
+markets operate, or how the betting industry works, etc.
+
+This is generally good and something if anything expected to happen. It becomes
+problematic when it is used as a cover for the absence of procedures or
+infrastructure from the company's end. They do not have anything to offer to
+you so the only thing they can come up with is domain knowledge. As an example
+say that the company is in the health sector so you are supposed to interact
+a lot with doctors. In this case you will learn how the medical space works by
+interacting with practitioners on a daily basis. It can mean, and we have
+many cases of this, that there is no project management, people responsible for
+QA, other roles, so the developer does a mix of requirements gathering,
+customer support, customer service, and project management... on top of the
+development duties. It is also difficult to concentrate as the clients say
+doctors or nurses might even have your phone number and contact you whenever
+they need you. That is not related with marketing or client facing roles, where
+you need to interact with them.
+
+As a team member summarized it: you do not get out of your comfort zone and
+expand your skills, you rather do things that are not related to your
+profession at all. Companies do not push you one step "up" of where you are
+as a professional, rather one step "out". All this is served as *"get to know
+the domain"*.
+
+---
 
 Dimitry: "You will learn the domain", have you come across that?
 
