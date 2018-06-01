@@ -250,6 +250,63 @@ the flow of the article let us know and we will do some episodes in English.
 
 ## Sink or Swim
 
+This refers to when you finish the interview and then they drop you in the
+middle of the place with you having to figure out everything by yourself. Not
+having on-boarding or telling you how the infrastructure works. We are not
+talking about hand-holding the new employee in a way that you would expect a
+junior to function but start from simple stuff such as - joking - "this is the
+bathroom", "here we have coffee, milk, and sugar". More seriously items that
+a person cannot deduce on their own like: we use tickets which we manage with
+Jira if a technical example is allowed. When to call out a client. When do you
+call out, does someone else need to talk first? Is it OK to interrupt people
+when they talk to ask questions in a meeting?
+
+As an example the marketing person of the team worked for a place where there
+was no on-boarding at all and on top of this management was complaining
+if/when you were doing something wrong. Once a client asked something in an
+email to which the there was an immediate response. Then the marketing person
+was was told from their manager that they should have asked him before
+reaching out. There was lots of guesswork on whom to ask, when to ask,
+when not to ask, what is OK, what is not OK? Not how to do your job, but
+how to function within the specific organization.
+
+The developer of the team had seen signs which he ignored or added some
+wishful thinking, catch phrases like: *"commit production code on the first
+days"*, *"you will have impact on the first days"*, UK companies say that some
+times as *"hit the ground running"*. Facebook does that but the new employee
+is on their first days being guided by a person who is already there guiding
+their steps. Then gradually that person acting as "training wheels" moves more
+and more to the background as you get integrated in the organization. In other
+places that the same thing happens they assign something really silly like
+"change the background color of that button" so that you will get your head
+around their systems, set up a development environment, and so forth.
+
+A counter example was a company whose on-boarding was next to fantastic: On the
+first month you were shadowing Seniors, or working under their supervision
+without having immediate responsibilities.
+
+When usually a question is raised about this, like "I a new here where is my
+on-boarding" there is usually the answer that the company is still small, does
+not have the resources of a big company which can allow people to do this. Have
+also heard English words that imply a lot such as on-boarding being a "luxury",
+or more straightforward in the lines of "we are a startup and do not have
+time for this".
+
+The consensus of the discussion was that there is a problem with management
+when this happens: we have people that became managers either because they had
+stuck with the company for ten years and the other managers left, retired, or
+died or alternatively they were the only developer (the one that they would
+build a team around) who got promoted as the company grows - which is a good
+thing - but without any training or learning for the new position, so they
+do not know what to do wearing their new shoes. Asking one of them there was
+a semi-autistic response "I did not have any on-boarding so neither should
+you", with the person saying this ignoring that different people have different
+needs or that he was there when the organization had a few people so
+on-boarding happened but in an ad-hoc informal fashion. Similarly when that
+person joined the company had a smaller scope of operations and established
+procedures or ways to do things.
+
+---
 
 Jason: Something else is when you finish with the interview get hired and they
 just throw you in the middle of the place with you having to figure out
