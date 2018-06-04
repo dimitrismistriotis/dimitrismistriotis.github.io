@@ -430,6 +430,53 @@ Dimitry: Or two years, but they happened to be there when the company started.
 
 ## Projects Build around Rick
 
+Another red flag for which we devised a name is "projects build around Rick".
+Rick is an imaginary person we made up to describe the situation where projects
+or sometimes whole departments are based or structured around a single person,
+for the sake of argument named Rick.
+
+One problem with these setups is that when Rick leaves for any reason, even
+when ill for a couple of days, everything kind of collapses at worst or becomes
+crippled and cannot function. On a day to day bases we have Rick who at a
+specific point in time built something that somehow works or was there when
+it was built by other members and is the only one left in the company,
+everything he says is cast in stone. If Rick prefers a specific methodology
+then everybody else has to use that methodology, the same applies to design
+approach, programming language, everything. Other employees have to listen to
+the prima-donna.
+
+This shows up in interviews where questions that are usually open ended are
+tailored to see if you answer what that person would like to hear. Usually that
+person, Rick, is involved at some stage in the interview process and when
+answering to one of the questions by HR or another person, asks something like:
+"yes but if we did this" with the rest of the room immediately
+"wow"-ing on what they just heard, although again it was an open question.
+
+Some other times it is discussed openly: "we use an in-house platform that our
+lead developer has built". Independent on if that person has dome things right
+or wrong or anything, this is how thing should work and he should have the
+full control of everything. They found that poor or many times not so poor
+soul and all the projects are on his shoulders.
+
+Another way to spot this is places that have people, who we assume one meets
+in different interview stages, who have stayed in "Rick's" department for 1 or
+2 years and then they pop to 7, 8, etc. It seems that for a magic reason people
+in that place disappear after a bit. The reason though is easy to guess: they
+either wanted to try something new out or they did not want to spent their
+professional life as satellites of that Rick.
+
+Another variation of this is when a company wants to hire you so that you will
+become that Rick: just get all their current and future projects, work 48 hours
+per day and that's it for you.
+
+
+Some articles popped up recently on the Internet taking two sides of the
+argument, since we consider them both a good read, they are here:
+
+* https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde
+* https://startupsventurecapital.com/you-fired-your-top-talent-i-hope-youre-happy-cf57c41183dd
+
+---
 
 Dimitry: Another one which I did not know how to name, is when "projects
 have been build around Rick".
