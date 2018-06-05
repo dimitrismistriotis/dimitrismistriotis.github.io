@@ -443,7 +443,7 @@ it was built by other members and is the only one left in the company,
 everything he says is cast in stone. If Rick prefers a specific methodology
 then everybody else has to use that methodology, the same applies to design
 approach, programming language, everything. Other employees have to listen to
-the prima-donna.
+the Prima donna.
 
 This shows up in interviews where questions that are usually open ended are
 tailored to see if you answer what that person would like to hear. Usually that
@@ -469,9 +469,8 @@ Another variation of this is when a company wants to hire you so that you will
 become that Rick: just get all their current and future projects, work 48 hours
 per day and that's it for you.
 
-
-Some articles popped up recently on the Internet taking two sides of the
-argument, since we consider them both a good read, they are here:
+Some articles popped up recently on the Internet taking two sides of this
+argument. Both are a good and recommended read:
 
 * https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde
 * https://startupsventurecapital.com/you-fired-your-top-talent-i-hope-youre-happy-cf57c41183dd
