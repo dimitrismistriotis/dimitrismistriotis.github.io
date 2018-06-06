@@ -706,6 +706,23 @@ Shows sometimes a luck of respect.
 
 ## No Career Progression
 
+We came across this while talking with companies from a hiring platform: There
+are companies that had a very good event like won a big contract or got to
+their next funding round which is generally great news. On that stage they
+want a number of people to help their offering take off, say get it to the
+next stage from A to B. While talking to them there seemed that there was no
+clue on what would happen after that, how would a person by joining their ranks
+evolve after a "blood sweat and tears" period. For all one knows after their
+offering becomes mature they might even downsize so the person who gave all
+that hard work would go away.
+
+These positions are good for someone who starts their career and there will
+get exposed to many different experiences or for someone who wants this
+know-how in order to do their own company. But generally the offering is
+asymmetric since the the employer wants the employee to do the "extra" but
+there is nothing at the end of it.
+
+---
 
 Dimitry: Another one that happened while I was looking were two or three
 companies who were in a very good position of having won a big contract,
