@@ -767,8 +767,28 @@ podcast.
 All: Bye...
 
 
-## What Would You do?
+## What Would You Do?
 
+With the post being about what we did not like, some notes on what we feel more
+at home with. It happens that one of us has an upcoming book,
+www.itarchetypes.com which suggests a framework. In short the candidates should
+be profiled on how they see themselves in the industry and what the company
+believes it needs at the specific time. For some of us our work is our passion,
+for some our career, and for some just a job. Based on the position and the
+phase of the company (starting, expanding, maintaining) or the specific
+department different people fit or not fit. We need to acknowledge that this
+approach is more applicable to technical fields than say sales.
+
+A listener came with his approach which we loosely translated:
+
+> One way that I prefer is to give them a small problem,
+> not a puzzle, and ask them to provide a solution. There might be an algorithm
+> behind it, there might not. Based on experience and capability the candidate
+> will reach an answer with or without having the specific knowledge taught
+> recently or fresh.
+
+
+---
 
 Socrates: Say you have your own company and you need to hire someone, what
 would you do?
