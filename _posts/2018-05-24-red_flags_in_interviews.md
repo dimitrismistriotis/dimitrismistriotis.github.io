@@ -97,32 +97,32 @@ we understand the necessity of small, edible competence checks.
 
 ## Fast Paced Environment
 
-Next we discussed the "fast paced environment" terms within the job description
-sometimes stated with alternatives such as *"we move very fast"* or we "work
-hard, **play** hard" but never "**pay** hard".
+Usually mentioned as "fast paced environment" within the job description. Some
+alternatives are that *"we move very fast"*, or we "work hard, **play** hard"
+- though rarely or never accompanied from "we **pay** hard".
 
-Recently some of us have encountered a permutation of this which is something
-in the lines of "... our people stay longer hours every day not because someone
-forces them but because they really want to...". Sometimes all of us want to
-stay longer in the office: have somewhere to go a bit later, want to finish up
-something that would take more time to do so in the following day, not want to
-disrupt the flow, or there is an interesting technology or concept that we want
-to explore which will later on enhance our careers or capabilities. The red
-flag here exists in the fact that this for a reason unknown happens to
-"everybody" within the company and everyday — perpetually.
+Recently some of us have encountered a statement read from the person on the
+other side of the phone  in the lines of "... our people stay longer hours
+**every** day not because someone forces them but because they (really)
+want to...". We all stay longer hours in the office from time to time, to
+finish tasks or for personal reasons, even personal development. The red flag
+here exists when the company mentions that (1) everyone (2) all the time, stays
+late. (3) Perpetually.
 
-Sometimes this is an attempt to mask problematic project management or the
-absence of it. One of us was told that some days he had to stay longer because
-some clients were located in the US so had to make late evening phone calls
-with them. It ended up having to start working from 08:00 instead of 09:00 and
-leaving later, which happened because there was no coordination between teams
-and nobody wanted to jump in and restructure things. When the management was
-asked on the whys and hows and when this is going to end, that person was
-referenced to the interview mention that "sometimes blah blah", although the
-"sometimes" clause was abused. As an extra point in that company lots of that
-overtime was spent waiting for someone to give something, busy waiting in IT
-terms, something that could have easily been avoided if there was better
-communication and coordination.
+This can be an attempt to mask problematic project management or the
+absence of management altogether. One of us was told that some days he had to
+stay longer because some clients were located overseas in the US so had to make
+late evening phone calls with them. He ended up having his working hours
+changed starting working from 08:00 in the morning instead of the contracted
+09:00 on top of leaving later. That time was mostly spend waiting for other
+teams to deliver workloads because of bad or no coordination between teams.
+Nobody wanted to jump in and reform or restructure things.
+
+When this was brought up, management claimed that "we informed you in the
+interview that sometimes you might have to stay late". So by using this
+"arbitrary clause", the system was abused and the need to "stay late" was
+used as a crutch to cover for other more obvious communication and management
+problems.
 
 ## Leader of Team of One — Responsible for Everything
 
