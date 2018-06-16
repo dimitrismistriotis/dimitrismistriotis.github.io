@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Ορισμός και παρερμηνείες
+permalink: /startup101-definitions
 ---
 
-# Startups 101: Ορισμός και παρερμηνείες 
+# Startups 101: Ορισμός και παρερμηνείες
 
 ## Εισαγωγή
 
