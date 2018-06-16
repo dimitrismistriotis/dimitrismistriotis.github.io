@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 5 βιβλία για την βιβλιοθήκη μιας startup, Μια σύντομη λίστα για να ξεκινήσεις.
+permalink: /startup202-startup_bookshelf
 ---
 
 <img src="/images/startup_articles-gr/startup_books.jpg" class="cover_photo" alt="Cover" title="Cover" />
