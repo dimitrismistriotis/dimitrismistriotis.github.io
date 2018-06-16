@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Investors, startup και φιλότιμο
+permalink: /startup103-raising_capital
 ---
 
 # Investors, startup και φιλότιμο
