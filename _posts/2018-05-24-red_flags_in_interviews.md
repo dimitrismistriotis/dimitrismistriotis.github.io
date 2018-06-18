@@ -41,6 +41,63 @@ member is in design, UI/UX.
 
 ## Lots of Work Up Front
 
+First red flag: when a company asks you in the early stages of the interview
+process to do lots of work **just** to consider proceeding with the
+application.
+
+In Digital Marketing there are companies that ask the interviewer to  implement
+small tasks that might take about half an hour or maximum about an hour.
+While on the UI/UX we encountered briefs so vague that could easily take whole
+teams to implement them or on the IT field to make whole applications from
+scratch. Usually recruiters tend to be passive aggressive about it saying that
+"you look great and a good fit" for our company followed by the infamous "but",
+"... make this thing first, it will not take more than 10 hours" as if someone
+can manifest 10 hours out of thin air.
+
+Discussing it with people on the Design field, it has been brought up as a
+"scourge" of the industry. An insider has anonymously disclosed that with the
+main aim of companies doing this is not so much to check how a good fit
+the candidate is, but rather to check if this person is willing to give
+them 10 hours or a weekend of his life just to be interviewed here? Another
+aim could be not so much to test the candidate but rather to block then from
+applying to other companies in parallel.
+
+On the IT field there is some history. Many years before there was research
+conducted among a number of many university graduates, most probably in India,
+where out a huge percentage of thos graduates, about 40%, could not implement
+a small FizzBuzz algorithm in any programming language.
+
+Reference, see this for a FizBuzz video:
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">we wrote fizzbuzz on a PDP-11 at Seattle&#39;s living computer museum!! <a href="https://t.co/RI1QluFNef">pic.twitter.com/RI1QluFNef</a></p>&mdash; 🔎Julia Evans🔍 (@b0rk) <a href="https://twitter.com/b0rk/status/998972366410735617?ref_src=twsrc%5Etfw">22 May 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+As an antidote to this, these tests were invented and many companies that offer
+"testing as a service", whose purpose was to filter out that 40% of the
+candidates (see also: [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/)). An
+extension of this was for small tasks to see if people culturally fit
+within their future team. For example say that there is something
+vague in the specification, will the candidate ask for clarification? Do what
+they think is best and move on? Both? Or will they do nothing since they are
+not certain? All of the above are proper responses and would be unacceptable or
+not in different teams and cultures. Some companies also invite you to work on
+their premises for a day to validate you and see your approach. A degraded
+version of this is that 10 hour "test".
+
+There are companies which do not have a generic test that is the same for
+everybody and changes say every year, but ask for creative work on the problems
+that they are facing in "now time". With that they get an additional
+perspective from each attempt and some insights that they might utilize
+even if they not hire the candidate without compensating them or giving credit
+as well. Typical win-lose scenario.
+
+Also people especially after some years on the field have a portfolio, open
+source projects, blog posts, or some corpus of work. Why is this past work not
+utilized or taken into account instead of being asked to do a only 10 hour
+task?
+
+---
+
 First red flag happens when a company asks you to do lots of work up front just
 to start checking you out and considering your application, in the early stages
 of the interview process. In Digital Marketing there are companies that ask
