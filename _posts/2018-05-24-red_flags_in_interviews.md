@@ -181,6 +181,41 @@ promotion.
 
 ## Puzzle Mania
 
+This is more for the IT field more than others which has to do with
+interviews where the interviewee is asked to solve one puzzle after another.
+
+There are algorithmic puzzles such as shortest paths, double linked lists,
+generally topics taught in Academia some times as part of how operating
+systems work or on programming languages compilation and execution.
+
+These questions are favoring people who have just graduated, most of the times
+though subconsciously. There was though a public response of a company which
+was accused of age discrimination in the lines of: "everyone can join, we have
+an impartial interview process". And yes this was correct, the interview
+process did not involve age checks it only asked questions that are easier
+to answer for someone who has recently graduated hence more probably of young
+age.
+
+UK law does not allow you to prefer based on gender, race, age, etc. This is
+one of the reason we do not put in this country our picture in the CV or
+mention our sex or similar information in any way.
+
+With that in mind if you want to hire only graduates for any reason, you can
+do so by asking mainly about puzzles. After an MSc at the ripe age of 29 one
+of us was able to ace all these tests. But on the other hand the same person
+after some years away from academia, had problem answering those questions
+simply because the internals of those algorithms had wean off in memory.
+
+Update (post publishing): This behavior can be attributed to other ways apart
+from filtering out candidates, even if this is the end result. It can be
+attributed to a bad choice of interviewer. It can be that a developer has been
+assigned to do hiring then knowing nothing about it googles around and sees
+that the first results for  "clever questions for programming interviews" are a
+safe bet. Another reason has to do with big companies adopting
+it mixed with fashion and herd mentality, "if Google does it so should I".
+
+---
+
 This is more for technological field more than any other and has to do with
 interviews where the interviewee is asked to solve one puzzle after another.
 
