@@ -131,6 +131,56 @@ problems.
 
 ## Leader of Team of One — Responsible for Everything
 
+Some roles advertise for lead positions then early on on the first steps of
+the discussion, even in the initial call, it is made clear that
+the person will be "*leading*" a team of one consisting only of themselves.
+"Leader" in this context means that one will be responsible for all the
+functions of a team.
+
+In one case a company was advertising for a UX designer but also wanted
+the same person to do their advertisement campaign banners blending two
+functions as one position because... creative. The rationale was that the
+company was entering the space now, with what the UX person was supposed to do
+was not fully comprehended by them nor they had incorporated this function to
+their structure and workflows. Hence the UI/UX person would be responsible for
+doing the "old" thing while the company would be maturing.
+
+Another way was to say that the company is currently expanding so that because
+candidate will be there early on, first, later on they will "*build a team
+around them*". This can be treated as way to bait for someone senior:
+"we want a person to be responsible for everything" is a hard pill to swallow,
+while be responsible for everything while in the background we are building a
+team around you sounds like a fair deal. In the meantime you will hold the
+title of "head of development" as titles come off cheap.
+
+From past experiences, one of us got hired and found that he was
+the most senior on his team. Later on when the company grew, he got promoted to
+a manager and a team was structured around him. This was not discussed and
+of course not promised in the interview, it happened organically as the team
+and company expanded. The position was not advertised as managerial hence it
+was a nice career move, if the same person was being interviewed for a
+managerial position, he would like to meet the team or influence team's hiring
+decisions.
+
+Another member had a different experience: he got hired somewhere with the
+promise of having a team  to be built around him. Tried his best as
+developer/architect but when the time came to expand he saw that a project got
+outsourced instead of having someone to report under him. When later on people
+came on board they reported directly to the CTO not him as they were supposedly
+serving a different function. At some point he was told that management had
+found a great developer, something rare in their minds, one they did not want
+to lose trading him for a manager with an unproven track record, at least
+within the specific company.
+
+While the above argument might make sense for the company, id definitely did
+not for the person in question: the person had not taken other positions
+in other organizations that were more straightforward with him like advertising
+a position with strictly technical responsibilities. Then he worked hard not
+being compensated because at the end of the day there would be a managerial
+promotion.
+
+---
+
 There are some roles that advertise for lead positions and early on on the
 first steps of the discussion even in the initial call it is made clear that it
 is about "leading" a team of one. Lead in this context means that you will be
