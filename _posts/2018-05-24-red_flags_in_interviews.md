@@ -54,7 +54,7 @@ to make whole applications from scratch.
 
 Usually recruiters tend to be passive aggressive about it saying that
 "you look great and a good fit" for our company followed by the infamous "but",
-"... make this thing first, it will not take more than 10 hours" as if someone
+"... make this thing first, it will not take more than 10 hours," as if someone
 can manifest 10 hours out of thin air.
 
 Discussing this with people in the design field, it has been brought up as a
@@ -103,8 +103,8 @@ to perform time intensive tasks and tests for companies.
 ## Fast Paced Environment
 
 Usually mentioned as "fast paced environment" within the job description. Some
-alternatives are that *"we move very fast"*, or we "work hard, **play** hard"
-- though rarely or never accompanied from "we **pay** hard".
+alternatives are that *"we move very fast"*, or we "work hard, **play** hard" -
+though rarely or never accompanied from "we **pay** hard".
 
 Recently some of us have encountered a statement read from the person on the
 other side of the phone  in the lines of "... our people stay longer hours
