@@ -206,13 +206,13 @@ of us was able to ace all these tests. But on the other hand the same person
 after some years away from academia, had problem answering those questions
 simply because the internals of those algorithms had wean off in memory.
 
-Update (post publishing): This behavior can be attributed to other ways apart
+Update (post publish): This behavior can be attributed to other ways apart
 from filtering out candidates, even if this is the end result. It can be
 attributed to a bad choice of interviewer. It can be that a developer has been
 assigned to do hiring then knowing nothing about it googles around and sees
 that the first results for  "clever questions for programming interviews" are a
 safe bet. Another reason has to do with big companies adopting
-it mixed with fashion and herd mentality, "if Google does it so should I".
+it mixed with fashion and herd mentality: "if Google does it so should I".
 
 ---
 
