@@ -37,7 +37,7 @@ job hunt.
 ## People
 
 One of us is a Software Engineer, one does Digital Marketing and the third
-member is in design, UI/UX.
+member is in the design industry.
 
 ## Lots of Work Up Front
 
