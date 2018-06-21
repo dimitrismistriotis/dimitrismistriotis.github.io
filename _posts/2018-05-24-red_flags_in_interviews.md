@@ -216,41 +216,6 @@ searches online and uses the first results that come up for “clever programmin
 interviews questions”. Another reason could be that big companies adopt these
 puzzles with a "trend" and herd mentality; “if Google does it so should we".
 
----
-
-This is more for technological field more than any other and has to do with
-interviews where the interviewee is asked to solve one puzzle after another.
-
-There are algorithmic puzzles such as shortest paths, double linked lists,
-stuff taught in University as part of how operating systems work and
-programming languages compilation and execution.
-
-The problem here is that these questions are biased towards people who have
-just graduated. A way most of the time subconsciously to tilt towards
-candidates that have just graduated. This was the response of a company
-which was accused of age discrimination: "everyone can join, we have an
-impartial interview process". Yes the interview does not do age checks, only it
-asks questions that are easier to be answered by recent graduates hence young
-people.
-
-UK law does not allow you to prefer based on gender, race, age, etc. This is
-one of the reason we do not put in this country our picture in the CV or
-mention our sex or similar information in any way.
-
-So in this case if you want to hire only graduates for any reason, you ask only
-about this stuff. One of us did an MSc at the age of 29 and he was able to ace
-all these tests. But on the other hand the same person after some years away
-from academia, had problem answering those questions simply because the
-internals of those algorithms had wean off in memory.
-
-Update (this came from a listener, loosely translating): This behavior can be
-attributed to other ways apart from filtering out candidates, even if this
-happens at the end. It can be attributes to a bad choice of an interviewer. It
-can be that a developer has been assigned to do hiring and knowing nothing
-about it googles "clever questions for programming interviews". Another reason
-has to do with big companies such as Google adopting it mixed with fashion and
-herd mentality, "if they do it so should I".
-
 ## You Will Learn the Domain
 
 It is suggest on and off that by working in a company one will
