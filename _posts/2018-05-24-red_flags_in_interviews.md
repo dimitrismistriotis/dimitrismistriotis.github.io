@@ -181,38 +181,40 @@ promotion.
 
 ## Puzzle Mania
 
-This is more for the IT field more than others which has to do with
-interviews where the interviewee is asked to solve one puzzle after another.
+Puzzles relate to the IT field more than anything. In several interview
+scenarios where candidates are asked to solve one puzzle after another.
 
-There are algorithmic puzzles such as shortest paths, double linked lists,
-generally topics taught in Academia some times as part of how operating
-systems work or on programming languages compilation and execution.
+There are algorithmic puzzles such as shortest paths, double linked lists.
+Generally topics taught in Academia some times as part of how operating systems
+work or on programming language compilation and execution. The problem with
+these sort of puzzles is that they act greatly in favor to recent graduates.
+Sometimes subconsciously, sometimes with intent.
 
-These questions are favoring people who have just graduated, most of the times
-though subconsciously. There was though a public response of a company which
-was accused of age discrimination in the lines of: "everyone can join, we have
-an impartial interview process". And yes this was correct, the interview
-process did not involve age checks it only asked questions that are easier
-to answer for someone who has recently graduated hence more probably of young
-age.
+This intent was evident when a company was accused of age discrimination.
+Their response was "everyone can join, we have an impartial interview process".
+Although that was correct in theory and the job description was not limited to
+a specific age range. The questions asked involved exercises and puzzles that
+were more relatable (i.e "fresh") to a graduate's mind. A clever, and subtle,
+way to separate candidates by age, since recent graduates will be more capable
+in solving these puzzles.
 
-UK law does not allow you to prefer based on gender, race, age, etc. This is
-one of the reason we do not put in this country our picture in the CV or
-mention our sex or similar information in any way.
+UK law does not allow you to select candidates based on gender, race, age, etc.
+This is one of the main reasons why sharing personal information such as sex,
+race or even a photo through our CV is frowned upon. With that in mind if you
+want to hire only young graduates for a specific reason, you can do so by
+asking mainly about puzzles. Of course that also applies to "older" graduates;
+after an MSc at the ripe age of 29 one of us was able to ace all these tests.
+But when that same person had some years away from academia, they struggled in
+answering those questions simply because the specifics of those algorithms had
+wean off their memory.
 
-With that in mind if you want to hire only graduates for any reason, you can
-do so by asking mainly about puzzles. After an MSc at the ripe age of 29 one
-of us was able to ace all these tests. But on the other hand the same person
-after some years away from academia, had problem answering those questions
-simply because the internals of those algorithms had wean off in memory.
-
-Update (post publish): This behavior can be attributed to other ways apart
-from filtering out candidates, even if this is the end result. It can be
-attributed to a bad choice of interviewer. It can be that a developer has been
-assigned to do hiring then knowing nothing about it googles around and sees
-that the first results for  "clever questions for programming interviews" are a
-safe bet. Another reason has to do with big companies adopting
-it mixed with fashion and herd mentality: "if Google does it so should I".
+Update (post publish): This behavior can be attributed to other ways apart from
+filtering out candidates, even if this is the end result. It can be attributed
+to a bad choice of interviewer. It can be that a developer has been asked to
+aid with hiring, then knowing not much about the interview process just
+searches online and uses the first results that come up for “clever programming
+interviews questions”. Another reason could be that big companies adopt these
+puzzles with a "trend" and herd mentality; “if Google does it so should we".
 
 ---
 
