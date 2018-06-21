@@ -251,6 +251,42 @@ herd mentality, "if they do it so should I".
 
 ## You Will Learn the Domain
 
+It is suggest on and off that by working in a company one will
+*"learn the domain"*. For example while working for a bank one will learn the
+ins and outs of how financial markets operate, similarly how the betting
+industry works when building betting software, etc.
+
+This is generally a good idea and something if anything expected to happen. It
+becomes problematic when it is used as a cover for the absence of procedures,
+proper project management, or infrastructure from the company’s end. Or company
+does not have anything substantial to offer with the only thing they can offer
+is domain knowledge. As an example say that a company operates in the health
+sector so an employee is supposed to interact a lot with doctors. In this case
+they will learn how the medical space works by interacting with practitioners
+on a daily basis. It can mean, and we have lots of prior experience of this,
+that there is no project management, people responsible for Quality Assurance,
+other roles, so the developer does a mix of requirements gathering, customer
+support, customer service, and project management... on top of typical developer
+duties. End users might even have the phone numbers of different employees
+calling them when they have some free time on their own schedule or on the
+peaks when they need help.
+
+A good way to summarize it is that in these places you do not get out of your
+comfort zone and expand your skills, you rather do things that are not related
+to your profession at all. Companies do not level you up from your current
+level as a professional, more like one step "out". All this has been
+historically served as "get to know the domain".
+
+End of first part, second one coming soon.
+
+Hope this article helped a bit and made you feel a little bit more prepared
+for your job hunt.
+
+Although Feta Report is a Greek podcast. If you like the subject matter and
+the flow of the article let us know and we will do some episodes in English.
+
+---
+
 It is common to suggest that by working in a company you will
 *"learn the domain"*. Like if you work in a bank you will get to know how the
 financial markets operate, or how the betting industry works, etc.
@@ -284,7 +320,6 @@ for your job hunt.
 Although Feta Report is a Greek podcast. If you like the subject matter and
 the flow of the article let us know and we will do some episodes in English.
 
----
 
 ## Sink or Swim
 
