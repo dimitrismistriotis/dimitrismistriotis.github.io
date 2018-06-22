@@ -212,80 +212,37 @@ Update (post publish): This behavior can be attributed to other ways apart from
 filtering out candidates, even if this is the end result. It can be attributed
 to a bad choice of interviewer. It can be that a developer has been asked to
 aid with hiring, then knowing not much about the interview process just
-searches online and uses the first results that come up for “clever programming
-interviews questions”. Another reason could be that big companies adopt these
-puzzles with a "trend" and herd mentality; “if Google does it so should we".
+searches online and uses the first results that come up for "clever programming
+interviews questions". Another reason could be that big companies adopt these
+puzzles with a "trend" and herd mentality; "if Google does it so should we".
 
 ## You Will Learn the Domain
 
-It is suggest on and off that by working in a company one will
-*"learn the domain"*. For example while working for a bank one will learn the
-ins and outs of how financial markets operate, similarly how the betting
-industry works when building betting software, etc.
+It is suggested on and off that by working in a company, one will "*learn the
+domain*". For example while working for a bank one will learn the ins and outs
+of how financial markets operate, similarly how the betting industry works when
+building betting software, etc.
 
-This is generally a good idea and something if anything expected to happen. It
-becomes problematic when it is used as a cover for the absence of procedures,
-proper project management, or infrastructure from the company’s end. Or company
-does not have anything substantial to offer with the only thing they can offer
-is domain knowledge. As an example say that a company operates in the health
+This is generally a good idea and something, if anything, expected to happen.
+It becomes problematic when it is used as a cover for the absence of
+procedures, proper project management, or infrastructure from the company’s
+end.
+
+One possible reason is if the company does not have anything substantial to
+offer in this area. As an example say that a company operates in the health
 sector so an employee is supposed to interact a lot with doctors. In this case
 they will learn how the medical space works by interacting with practitioners
 on a daily basis. It can mean, and we have lots of prior experience of this,
 that there is no project management, people responsible for Quality Assurance,
-other roles, so the developer does a mix of requirements gathering, customer
-support, customer service, and project management... on top of typical developer
-duties. End users might even have the phone numbers of different employees
-calling them when they have some free time on their own schedule or on the
-peaks when they need help.
+other roles, so the individual does a mix of requirements gathering, customer
+support, customer service, and project management... on top of their typical
+duties.
 
 A good way to summarize it is that in these places you do not get out of your
 comfort zone and expand your skills, you rather do things that are not related
 to your profession at all. Companies do not level you up from your current
 level as a professional, more like one step "out". All this has been
 historically served as "get to know the domain".
-
-End of first part, second one coming soon.
-
-Hope this article helped a bit and made you feel a little bit more prepared
-for your job hunt.
-
-Although Feta Report is a Greek podcast. If you like the subject matter and
-the flow of the article let us know and we will do some episodes in English.
-
----
-
-It is common to suggest that by working in a company you will
-*"learn the domain"*. Like if you work in a bank you will get to know how the
-financial markets operate, or how the betting industry works, etc.
-
-This is generally good and something if anything expected to happen. It becomes
-problematic when it is used as a cover for the absence of procedures or
-infrastructure from the company’s end. They do not have anything to offer to
-you so the only thing they can come up with is domain knowledge. As an example
-say that the company is in the health sector so you are supposed to interact a
-lot with doctors. In this case you will learn how the medical space works by
-interacting with practitioners on a daily basis. It can mean, and we have many
-cases of this, that there is no project management, people responsible for QA,
-other roles, so the developer does a mix of requirements gathering, customer
-support, customer service, and project management... on top of the development
-duties. It is also difficult to concentrate as the clients say doctors or
-nurses might even have your phone number and contact you whenever they need
-you. That is not related with marketing or client facing roles, where you need
-to interact with them.
-
-As a team member summarized it: you do not get out of your comfort zone and
-expand your skills, you rather do things that are not related to your
-profession at all. Companies do not push you one step "up" of where you are as
-a professional, rather one step "out". All this is served as "get to know the
-domain".
-
-End of first part, second one coming soon.
-
-Hope this article helped a bit and made you feel a little bit more prepared
-for your job hunt.
-
-Although Feta Report is a Greek podcast. If you like the subject matter and
-the flow of the article let us know and we will do some episodes in English.
 
 ## Skills do not Matter
 
