@@ -246,14 +246,21 @@ historically served as "get to know the domain".
 
 ## Skills do not Matter
 
-This one has to do not with evaluating the skills of the candidate or their
-current and future professional trajectory rather more on if their personality
-norms, attributes, and hobbies are aligned with  the ones of the team on which
-they are about to join. In other words checking if the interviewee is a good
-"mate" not a potentially good employee.
+In this scenario evaluation of the candidate's skills, their current and future
+trajectory takes a back seat. The "Skills do not matter" approach has more to
+do with the candidate's personality, norms, attributes, hobbies and how they
+align with the ones of the team they are about to join.
 
-One of us got interviewed for a firm that was building products for dog owners.
-A big part of the interview was around his relationship with man's best friend.
+In other words, checking if the interviewee is a good "lad/lassie",
+not a potentially good employee.
+
+One of us got interviewed for a firm that was building an application for dog
+owners. The offices were crowded with doggos, pupper posters and other floof
+related paraphernalia. The interview was going well until the point where the
+director asked "do you like dogs?". The candidate, not really ever owning a
+dog, replied with "they are OK I guess". He could immediately see the scorn in
+he directors eyes, the interview was cut short with a promise of a
+"*future followup*" that never happened.
 
 ## Sink or Swim
 
@@ -551,78 +558,6 @@ for 4 years, or 6? The answer is that people could not bear it any longer.
 Socrates: Like working with legacy code?
 
 Dimitry: Like spending their working hours as the satellite of that "Rick".
-
-## Skills do not Matter
-
-This one is based on experiences of some members and has to do not with
-evaluating the skills of the candidate or their trajectory, but more on if
-their personality norms are fitting the ones of the team on which they are
-about to join. One of us got interviewed for a firm that was building products
-for dog owners with a big part of the interview being his relationship with
-man's best friend.
-
----
-
-Jason: Another red flag which I have encountered and want your opinion is when
-you go to interviews and they say to you that they do not hire based on skills
-but based on what type of person you are, your character.
-
-Socrates: Is this bad?
-
-Jason: Invalidating everything you can do? Or the contrary: we only care about
-your skill-set not about your personality.
-
-Dimitry: It has happened to me from a company that I will not name. There was
-a place where they had an intermediary CTO who liked to hire people based on
-character. My final interview happened to be when his contract had finished, he
-had handled over to the next CTO who was only interested in skills. These two
-people have different approaches. I went to the last interview with an agenda
-that HR had sent me with questions all about character. When I got there the
-new CTO started asking me about previous experience and skills. At some point
-I stopped him and said something in the lines of "hey buddy, your HR gave me
-this agenda and you are not touching it, what is going on?". At that point I
-realized there would not be a match.
-
-Socrates: Sometimes character checks are to identify if you will be part of
-our clique. I am not talking about gentrification or Uber style recruitment,
-mentioning it after things in the news about them hiring only people that
-there were just like them.
-
-Dimitry: I will tell a story that I got from a friend named George, I do not
-have his permission, so will use only first name. George happened to meet a
-multi-billionaire, at that time in his life, George had a problem hiring people
-in the company that he was working for. That company had a skills matrix
-approach. He had a matrix of skills, these were rare in that region so most
-candidates scored really low.
-
-Socrates: What is that matrix?
-
-Dimitry: You create a matrix of what you want. Say I want a person to be a good
-designer, average communicator, this good-to-have, this at OK levels, etc.
-This goes in the "columns" of that matrix. The candidates go to the rows where
-you see who "ticks" and who "X-es". It is like the feature comparison we see
-in product offerings. So you get that Socrates has 20% match, Jason 25%, and
-Dimitry 10%. The person higher is the most preferred candidate. But because
-this is the way you see the world, mapping people to skills, everybody can
-potentially have a gap, like these people fit 80%. This is very useful for
-companies that want to project people to a number so that they then will be
-able to compare them in a way.
-The multi-billionaire told him that this was wrong and that my friend should
-hire based on character: if a person has a good attitude, they will "grow" to
-fill the gaps in the skill-set, if the character of a person has flaws, even if
-all the gaps are covered or all the boxes ticked when the position or the life
-change then that person will not grow to fill that gap.
-
-Jason: Yes but you need to cover some basics? If you say I will hire only based
-on character you get into what we do in Greece: hire your best friend, your
-second cousin.
-
-Dimitry: This is not character.
-
-Socrates: So start with skills and see if the character can fill them?
-
-Dimitry: Or the other way around. We live in an industry that changes a lot,
-it has to do with an industry that changes a lot.
 
 ## Cliques
 
