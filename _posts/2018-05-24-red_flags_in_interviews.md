@@ -287,6 +287,16 @@ for your job hunt.
 Although Feta Report is a Greek podcast. If you like the subject matter and
 the flow of the article let us know and we will do some episodes in English.
 
+## Skills do not Matter
+
+This one has to do not with evaluating the skills of the candidate or their
+current and future professional trajectory rather more on if their personality
+norms, attributes, and hobbies are aligned with  the ones of the team on which
+they are about to join. In other words checking if the interviewee is a good
+"mate" not a potentially good employee.
+
+One of us got interviewed for a firm that was building products for dog owners.
+A big part of the interview was around his relationship with man's best friend.
 
 ## Sink or Swim
 
