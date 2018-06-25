@@ -239,6 +239,14 @@ tight constraints. There is always as before the possibility of following the
 herd: if everybody else does these tests we should also integrate them in our
 interviewing process.
 
+That is not to say that these tests are absolute however. Good companies gauze
+the quality of work you did within that hour. Your rationale, approach and
+problem solving is interesting to them even if you do not manage to solve
+the problem. There are however companies that either have a very rigid or very
+unpolished hiring approach: for those companies, solving the problem is
+top priority, no matter the approach. If you miss the mark, even by a few
+minutes, you fail.
+
 ## You Will Learn the Domain
 
 It is suggested on and off that by working in a company, one will "*learn the
