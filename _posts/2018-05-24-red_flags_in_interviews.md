@@ -634,49 +634,6 @@ Socrates: Or it might be something benign like people hanging out together
 after work to play football. That's OK as long as it does not interfere with
 the rest.
 
-## Do That Now - One Hour
-
-This is the offspring of "Puzzle Mania" with the "Lots of work up front",
-where you end up doing some online tests that you have to finish in ONE HOUR
-NO MATTER WHAT!
-
-Problems with this approach have to do with how people react to deadlines,
-one of us due to previous past experiences has knee-jerk reaction like
-"why in one hour?", "Can we negotiate this?", and so forth. Also in real life
-(IRL) how many day to day tasks need to finish within exactly an hour?
-What happens if one finishes in half?
-
-In some configurations the tasks can be easily finished in say 20 to 30 minutes
-and the rest can be used for assurance or buffer. In some other cases it is
-exactly one hour non-stop. Some companies treat it as a stress test since
-some people can while others cannot function under tight constraints. There is
-also the case of following the herd: if everybody does it so should I.
-
----
-
-Dimitry: Related to the "write me code for 10 days" are those site that ask
-you to solve problems within an hour. DO THAT NOW ONE HOUR.
-
-Jason: I hate them so much...
-
-Dimitry: I have a personal issue with that: when someone gives me a deadline
-out of the blue, my brain rebels and freezes. I am in "no I want to think" or
-"negotiate the deadline" mode.
-
-Jason: These things have nothing to do with actual working conditions, how many
-tasks need to finish within an hour?
-
-Dimitry: Or if I finish in half, what do I do with the remaining time?
-
-Jason: Or if you need three? Will you be fired? Don't get it.
-
-Dimitry: I have seen some that can be done in far less time, some others take
-one hour non-stop. I think that some times people are told to use them or
-follow trends.
-
-Jason: There are some people that cannot function under tight constraints.
-Shows sometimes a luck of respect.
-
 ## No Career Progression
 
 We came across this while talking with companies from a hiring platform: There
