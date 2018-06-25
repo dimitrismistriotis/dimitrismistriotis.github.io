@@ -293,6 +293,29 @@ dog, replied with "they are OK I guess". He could immediately see the scorn in
 he directors eyes, the interview was cut short with a promise of a
 "*future followup*" that never happened.
 
+## No Career Progression
+
+Came across this while talking with companies from a hiring platform: There
+are companies that had a very good event like won a big contract or got to
+a next funding round. This is generally great news and congratulations on
+their teams for achieving this.
+
+On this stage of their journey they want a number of people to help their
+offering take off or participate in getting them to their next stage such as
+contribute to help them scale up.
+
+While talking to them there seemed that there was no clue on what would happen
+to a potential employee after this stage. How would a person once joining their
+ranks evolve after the "blood sweat and tears" period. For all one knows after
+their offering becomes mature they might even downsize so the person who gave
+all that hard work would go away.
+
+These positions are good for someone who starts their career and there will
+get exposed to many different experiences or for someone who wants this
+know-how in order to do their own company. But generally the offering is
+asymmetric since the the employer wants the employee to do the "extra" but
+there is no compensation for it at the end.
+
 ## Sink or Swim
 
 This refers to when you finish the interview and then they drop you in the
