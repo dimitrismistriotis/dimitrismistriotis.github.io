@@ -216,6 +216,29 @@ searches online and uses the first results that come up for "clever programming
 interviews questions". Another reason could be that big companies adopt these
 puzzles with a "trend" and herd mentality; "if Google does it so should we".
 
+## Do That Now - One Hour
+
+This is the mental offspring of "Puzzle Mania" with the "Work up Front",
+where you end up doing some online tests that you have to finish in one hour
+no matter what.
+
+Problems with this approach have to do with how different people react to
+strict deadlines. One of us due to previous past experiences has knee-jerk
+reactions like asking the rationale of assigning an hour before starting the
+task. Also how many day to day tasks in real life need to finish within exactly
+an hour? What happens if one gets finished in half?
+
+In some of these on-line configurations tasks can be easily finished in about
+20 to 30 minutes and the rest can be used for assurance, fixing an occasional
+issue or for buffer. In some other cases it is configured closer to one hour of
+coding non-stop favoring those who have solved a very similar exercise or
+puzzle in the past.
+
+Some companies treat it as a stress test to validate how people function under
+tight constraints. There is always as before the possibility of following the
+herd: if everybody else does these tests we should also integrate them in our
+interviewing process.
+
 ## You Will Learn the Domain
 
 It is suggested on and off that by working in a company, one will "*learn the
