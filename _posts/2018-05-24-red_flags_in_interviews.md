@@ -316,6 +316,58 @@ know-how in order to do their own company. But generally the offering is
 asymmetric since the the employer wants the employee to do the "extra" but
 there is no compensation for it at the end.
 
+## Projects / Departments Build Around Rick
+
+Another red flag for which we made up a name is "projects build around Rick".
+Rick is an imaginary person we made up to describe the situation where whole
+projects or sometimes departments are based or structured around a single
+person, named Rick for the sake of argument.
+
+One problem with these setups is that when Rick leaves for any reason, even
+when ill for a couple of days, everything kind of collapses at worst or becomes
+crippled and cannot function. When Rick is on holiday, or out of the office for
+any reason, he still answers to emails or participates in chat rooms.
+
+If Rick prefers a specific methodology then everybody has to use that
+methodology, the same applies to design approach, programming language,
+everything. Other employees have to listen to the Prima donna.
+
+One reason for this to happen is that at some point back in time Rick built
+something that somehow worked, or was the only one remaining in the same
+company from the members that did so. From that moment in time everything
+everything has been cast in stone, Rick is the guardian of that tradition.
+
+This shows up in interviews where questions that are usually open ended are
+tailored to see if you answer exactly what that person would like to hear.
+It can be that person is involved at some stage in the interview process and
+when answering to one of the questions by HR or another person, asks something
+like: "*yes but if we did this way*" with the rest of the room immediately
+"wow"-ing on what they just heard - although it was an open question in the
+first place.
+
+Some other times it is brought up exactly as it is: "we use an in-house
+platform that our lead developer has built". Independent on if that person has
+done things right, wrong or anything, this is how thing should work and he
+should be in full control. They found that poor or many times not so poor
+soul and all the projects are on his shoulders.
+
+Another way to spot this is places that people one might meet in different
+interview stages, have stayed in "Rick's" department for 1 or 2 years and
+then nothing or something like 7, 8. It seems that for a magic reason people
+after a bit in that place somehow disappear. The reason though is easy to
+guess: they either wanted to evolve  or they did not want to spent their
+professional life as Rick's satellites.
+
+Another variation of this is when a company wants to hire you so that you will
+become their Rick: just get all their current and future projects, work 48
+hours per day and let everyone depend on you.
+
+Some articles popped up recently on the Internet taking two sides of this
+argument. Both are a good and recommended read:
+
+* https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde
+* https://startupsventurecapital.com/you-fired-your-top-talent-i-hope-youre-happy-cf57c41183dd
+
 ## Sink or Swim
 
 This refers to when you finish the interview and then they drop you in the
