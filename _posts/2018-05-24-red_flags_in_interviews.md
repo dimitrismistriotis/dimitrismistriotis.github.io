@@ -330,7 +330,7 @@ any reason, he still answers to emails or participates in chat rooms.
 
 If Rick prefers a specific methodology then everybody has to use that
 methodology, the same applies to design approach, programming language,
-everything. Other employees have to listen to the Prima donna.
+everything. Other employees have to listen to the Prima Donna.
 
 One reason for this to happen is that at some point back in time Rick built
 something that somehow worked, or was the only one remaining in the same
@@ -351,16 +351,17 @@ done things right, wrong or anything, this is how thing should work and he
 should be in full control. They found that poor or many times not so poor
 soul and all the projects are on his shoulders.
 
-Another way to spot this is places that people one might meet in different
-interview stages, have stayed in "Rick's" department for 1 or 2 years and
-then nothing or something like 7, 8. It seems that for a magic reason people
-after a bit in that place somehow disappear. The reason though is easy to
-guess: they either wanted to evolve  or they did not want to spent their
-professional life as Rick's satellites.
+Another way to spot this is places by meeting people in different
+interview stages all of which have stayed in "Rick's" department for 1 or 2
+years maximum. For a "magic" reason after that they tend to disappear. Reason
+is easy to guess: they either wanted to evolve  or they did not work as Rick's
+satellites.
 
-Another variation of this is when a company wants to hire you so that you will
-become their Rick: just get all their current and future projects, work 48
-hours per day and let everyone depend on you.
+## Be a Company's Rick
+
+A variation of the Rick situation above is when a company wants to hire you
+so that you will become their Rick: just get all their current and future
+projects, work 48 hours per day and let everyone depend on you.
 
 Some articles popped up recently on the Internet taking two sides of this
 argument. Both are a good and recommended read:
