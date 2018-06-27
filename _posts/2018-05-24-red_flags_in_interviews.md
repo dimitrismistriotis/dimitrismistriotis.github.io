@@ -359,9 +359,6 @@ A variation of the Rick situation above is when a company wants to hire you
 so that you will become their Rick: just get all their current and future
 projects, work 48 hours per day and let everyone depend on you.
 
-Some articles popped up recently on the Internet taking two sides of this
-argument. Both are a good and recommended read:
-
 ## Sink or Swim
 
 This refers to when you finish the interview and then they drop you in the
