@@ -586,51 +586,6 @@ because they have been employed for the last say 10 years.
 
 Dimitry: Or two years, but they happened to be there when the company started.
 
-## Cliques
-
-Similar to the argument before, there are also places where there is a Clique
-mentality. It is obvious that the place is run from a specific number of people
-that do not allow anybody to get into their inner circle. They can decide for
-example who gets involved in what for example their "mate" will get the
-interesting projects or the ones that have high impact, when the time comes
-for valuation or promotions these "mates" will shine since they did this for
-the company or that which had very high impact.
-
-
-In a similar fashion there can be a department which for some reason can impose
-itself on others, as an example a sales team selling whatever they want and
-then dropping it into the rest of the company and asking them to implement it
-while they cash in their bonuses.
-
-We are not discussing the case where people get more close together, socialize,
-and become friends like play football after work. We are discussing the case
-where there is huge interference with the rest of the company.
-
----
-
-Jason: Based on what Socrates mentioned, I want to talk about cliques. You as
-a new guy will never be part of this. You go there never enter that clique. At
-the end after some time you will leave because you never got involved in the
-good projects since they never came your way.
-
-Socrates: Or there are different cliques operating at different levels. There
-was that department that for some reason was always above everybody else...
-A cabal running the whole thing.
-...
-
-Dimitry: I did not have that exact experience but I happened to talk to someone
-who told me that a place was "a little bit too cliquey" which I did not like
-because it was served as something that people should somehow swallow and get
-along. No it is not something you should swallow, it is a red flag.
-
-Jason: Yes and because it is difficult to solve, you need to recognize that
-from the interview hence why we discuss it here.
-
-Socrates: Or it might be something benign like people hanging out together
-after work to play football. That's OK as long as it does not interfere with
-the rest.
-
-
 ## What Would You Do?
 
 With the post being about what we did not like, some notes on what we feel more
