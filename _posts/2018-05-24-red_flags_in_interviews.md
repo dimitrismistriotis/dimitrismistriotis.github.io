@@ -630,68 +630,6 @@ Socrates: Or it might be something benign like people hanging out together
 after work to play football. That's OK as long as it does not interfere with
 the rest.
 
-## No Career Progression
-
-We came across this while talking with companies from a hiring platform: There
-are companies that had a very good event like won a big contract or got to
-their next funding round which is generally great news. On that stage they
-want a number of people to help their offering take off, say get it to the
-next stage from A to B. While talking to them there seemed that there was no
-clue on what would happen after that, how would a person by joining their ranks
-evolve after a "blood sweat and tears" period. For all one knows after their
-offering becomes mature they might even downsize so the person who gave all
-that hard work would go away.
-
-These positions are good for someone who starts their career and there will
-get exposed to many different experiences or for someone who wants this
-know-how in order to do their own company. But generally the offering is
-asymmetric since the the employer wants the employee to do the "extra" but
-there is nothing at the end of it.
-
----
-
-Dimitry: Another one that happened while I was looking were two or three
-companies who were in a very good position of having won a big contract,
-expanding, and wanted 10-15 developers to build their platform, take it off
-from A to B to C. While talking with them there was no answer on what would
-happen after that year, like OK we take it off, how will I continue to evolve
-while being employed? There was the assumption that we had to work a lot for
-that company, and once it reached a specific stage, then what would happen
-next? They might need to downsize for example more maintaining stuff.
-
-Jason: Like what will you do?
-
-Dimitry: To one I asked it in this way: I see the whip but not a single carrot.
-You want me to drop there like a paratrooper, organize stuff, solve difficult
-problems which I am very willing to do so but then what? There was no answer.
-Because themselves didn't know. I would do that when starting my career, at a
-point when screwing up would be OK.
-
-Socrates: A good experience.
-
-Dimitry: Exactly, but now I have this experience, go there use it, there needs
-to be something for me as well. Like extra money?
-
-Socrates: Wrapping up, we need to check when there is extra effort asked, to
-see that the returns are proportional. Or weight these things up, consider our
-personal stage in life, family situation. If there is overtime, will they pay
-us more? Teach us things? Send us to seminars? You want me go above my
-contract, for what?
-
-Jason: A good give and take.
-
-Socrates: When you listen to many promises, be aware because promising is
-different than delivering that promise. Or they want to awe you with a gym,
-snack bar, ping-pong table, but not the time to enjoy them.
-
-Dimitry: ... and we want to deduce as much information as possible from the
-interviews and spotting red flags.
-
-
-Socrates: As per usual sent us your red flags to add them in a subsequent
-podcast.
-All: Bye...
-
 
 ## What Would You Do?
 
