@@ -9,6 +9,26 @@ permalink: /red_flags_in_interviews
 ## Introduction
 
 This is a transcribe with some modifications of the discussion we had for the
+podcast [FetaReport](www.fetareport.gr). With the original content
+in Greek, we thought that it might be good to release our content for an
+international audience. If you think that such content would be of interest to
+you even if spoken with funny accents, please reach out to us or leave a
+comment here so that we will be able to react to your feedback and start
+recording in English.
+
+It is important to note that there is no perfect job, that a red flag for one
+green for another and that also what one wants from a job depends on
+personality, lifestyle, stages in life (e.g.: single, married, family) or in
+one word: circumstance. With that in mind a "we work all day long"
+signal might be a red flag for a family man but a "wow I will learn a lot"
+for a young single person who wants to acquire experience.
+
+Hope this article will help make you feel a little bit more prepared for your
+job hunt or at least entertain you.
+
+---
+
+This is a transcribe with some modifications of the discussion we had for the
 podcast [FetaReport](www.fetareport.gr). Unfortunately the original content is
 in Greek. We thought that it might be good to release our content for an
 international audience. If you think that such content would be of interest to
