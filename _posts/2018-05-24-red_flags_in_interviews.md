@@ -24,7 +24,7 @@ signal might be a red flag for a family man but a "wow I will learn a lot"
 for a young single person who wants to acquire experience.
 
 Hope this article will help make you feel a little bit more prepared for your
-job hunt or at least entertain you.
+next job hunt or at least entertain you.
 
 ---
 
@@ -57,7 +57,7 @@ job hunt.
 ## People
 
 One of us is a Software Engineer, one does Digital Marketing and the third
-member is in the design industry.
+member is in the Design industry.
 
 ## Lots of Work Up Front
 
@@ -383,23 +383,23 @@ projects, work 48 hours per day and let everyone depend on you.
 
 It refers to when you start working having to figure out everything by
 Usually there are catch phrases like: *"commit production code on the first
-days"*, *"impact on the first days"*, *"hit the ground running"* o the
-interview or on the job description. Discussing for when there is no
-on-boarding or explaining on how the infrastructure works.
+days"*, *"impact on the first days"*, *"hit the ground running"* on interview
+or on the job description. Discussing for when there is no on-boarding or
+explaining how infrastructure works.
 
 We are not advocating hand-holding the new employee but rather start from
 simple stuff and move on to more serious stuff that a person cannot deduce on
-their own like: "we use tickets which we manage with Jira" as a technical
-example, when to call out a client, when do you call out, does a specific
-person need to reach out first? Is it OK to interrupt people when they talk to
-ask questions in a meeting?
+their own. Something technical like: "we use Jira to manage tickets", or when
+to call out a client, when do you call out, does a specific person need to
+reach out first? Is it OK to interrupt people when they talk to ask questions
+in a meeting?
 
-As an example there was a place without any on-boarding at all with management
-was complaining if things were going wrong on top - more a "when" than an "if".
-Once a client asked something in an email to which the there was an immediate
-response. Then the marketing person was was told from their manager that they
+There was a place without any on-boarding at all with management was
+complaining when things were going wrong on top. Once a client asked something
+in an email to which the there was an immediate response from the marketing
+person. Then that marketing person was was told from their manager that they
 should have asked them before reaching out. There was lots of guesswork on
-whom to ask, when to ask, when not to ask, what is OK, what is not OK?
+whom to ask, when to ask, when not to ask, what is OK, what is not OK;
 Questions not related with the specifics of the job or the profession but how
 to function within the specific organization.
 
@@ -413,18 +413,18 @@ times janitorial tasks or even cleaning up the back log, one gets their head
 around the systems, learns how to set up a development environment, and so
 forth.
 
-When asked different places on why this happens the "official" answer was that
-there were not enough resources or in a more fake-polite English way that
-proper on-boarding would be a "luxury". In reality it is more a "smell" of bad
-management: people that became managers just by waiting their turn as other
-more proper managers were leaving or cases where the only developer (the one
-who actually got to "build a team around them") got promoted as the company
-expanded, which is a good thing, but without any training or learning on the
-new position. One of those functional idiots gave the semi-autistic response:
-"I did not have any on-boarding so neither should you", ignoring that
-different people have different needs or that he was there when there were
-very few people and minuscule infrastructure so things were very easy to guess
-while on-boarding for him happened but not formally.
+When asking in different places about why this happens the "official" answer
+was usually that there were not enough resources or in a more fake-polite
+English way that proper on-boarding is a "luxury". In reality it is more a
+"smell" of bad management: people that became managers just by waiting their
+turn as other more proper managers were leaving or cases where the only
+developer (the one who actually got to "build a team around them") got promoted
+as the company expanded, which is a good thing, but without any training or
+learning on the new position. One of those functional idiots gave the
+semi-autistic response: "*I did not have any on-boarding so neither should
+you*", ignoring that different people have different needs or that he was there
+when there were very few people and minuscule infrastructure so things were
+very easy to guess while on-boarding for him happened but not formally.
 
 ---
 
