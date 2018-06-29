@@ -381,11 +381,12 @@ projects, work 48 hours per day and let everyone depend on you.
 
 ## Sink or Swim
 
-It refers to when you start working having to figure out everything by
-Usually there are catch phrases like: *"commit production code on the first
-days"*, *"impact on the first days"*, *"hit the ground running"* on interview
-or on the job description. Discussing for when there is no on-boarding or
-explaining how infrastructure works.
+It refers to when you start working and you have to figure out everything by
+yourself. Some common red flag phrases you might see related to that are
+*"commit production code on the first days"*, *"impact on the first days"*,
+*"hit the ground running"*. Those phrases act as an excuse for not having any
+proper onboarding process or for not explaining how the company infrastructure
+works.
 
 We are not advocating hand-holding the new employee but rather start from
 simple stuff and move on to more serious stuff that a person cannot deduce on
@@ -394,217 +395,39 @@ to call out a client, when do you call out, does a specific person need to
 reach out first? Is it OK to interrupt people when they talk to ask questions
 in a meeting?
 
-There was a place without any on-boarding at all with management was
-complaining when things were going wrong on top. Once a client asked something
-in an email to which the there was an immediate response from the marketing
-person. Then that marketing person was was told from their manager that they
-should have asked them before reaching out. There was lots of guesswork on
-whom to ask, when to ask, when not to ask, what is OK, what is not OK;
-Questions not related with the specifics of the job or the profession but how
-to function within the specific organization.
+An example of this was a place without any onboarding at all with management
+was complaining when things were going wrong on top. Once a client asked
+something in an email to which the there was an immediate response from the
+marketing person. Then that marketing person was was told from their manager
+that they should have asked them before reaching out. There was lots of
+guesswork on whom to ask, when to ask, when not to ask, what is OK, what is
+not OK; Questions not related with the specifics of the job or the profession
+but how to function within the specific organization.
 
-Facebook does that but the new employee is on their first days being guided by
-a person who is already there guiding their steps. Then gradually that person
-acting as "training wheels" moves progressively more and more to the background
-as the new employee integrates with the organization. In other places that the
-same thing happens they assign something really trivial like "change the
-background color of that button". By doing a series of trivial tasks or some
-times janitorial tasks or even cleaning up the back log, one gets their head
-around the systems, learns how to set up a development environment, and so
-forth.
+
+Facebook has a very good onboarding process, where when a new employee starts,
+they are being guided by a person that has been in the company for a while
+so that everything company related can be explained appropriately. Then
+gradually that person acting as "training wheels" moves progressively more and
+more to the background as the new employee integrates with the organization. In
+other places that the same thing happens when they assign something really
+trivial like "change the background color of that button". By doing a series of
+trivial tasks or some times janitorial tasks or even cleaning up the back log,
+one gets their head around the systems, learns how to set up a development
+environment, and so forth.
 
 When asking in different places about why this happens the "official" answer
 was usually that there were not enough resources or in a more fake-polite
-English way that proper on-boarding is a "luxury". In reality it is more a
+English way that proper onboarding is a "luxury". In reality it is more a
 "smell" of bad management: people that became managers just by waiting their
 turn as other more proper managers were leaving or cases where the only
 developer (the one who actually got to "build a team around them") got promoted
 as the company expanded, which is a good thing, but without any training or
 learning on the new position. One of those functional idiots gave the
-semi-autistic response: "*I did not have any on-boarding so neither should
+semi-autistic response: "*I did not have any onboarding so neither should
 you*", ignoring that different people have different needs or that he was there
 when there were very few people and minuscule infrastructure so things were
 very easy to guess while on-boarding for him happened but not formally.
-
----
-
-This refers to when you finish the interview and then they drop you in the
-middle of the place with you having to figure out everything by yourself. Not
-having on-boarding or telling you how the infrastructure works. We are not
-talking about hand-holding the new employee in a way that you would expect a
-junior to function but start from simple stuff such as - joking - "this is the
-bathroom", "here we have coffee, milk, and sugar". More seriously items that
-a person cannot deduce on their own like: we use tickets which we manage with
-Jira if a technical example is allowed. When to call out a client. When do you
-call out, does someone else need to talk first? Is it OK to interrupt people
-when they talk to ask questions in a meeting?
-
-As an example the marketing person of the team worked for a place where there
-was no on-boarding at all and on top of this management was complaining
-if/when you were doing something wrong. Once a client asked something in an
-email to which the there was an immediate response. Then the marketing person
-was was told from their manager that they should have asked him before
-reaching out. There was lots of guesswork on whom to ask, when to ask,
-when not to ask, what is OK, what is not OK? Not how to do your job, but
-how to function within the specific organization.
-
-The developer of the team had seen signs which he ignored or added some
-wishful thinking, catch phrases like: *"commit production code on the first
-days"*, *"you will have impact on the first days"*, UK companies say that some
-times as *"hit the ground running"*. Facebook does that but the new employee
-is on their first days being guided by a person who is already there guiding
-their steps. Then gradually that person acting as "training wheels" moves more
-and more to the background as you get integrated in the organization. In other
-places that the same thing happens they assign something really silly like
-"change the background color of that button" so that you will get your head
-around their systems, set up a development environment, and so forth.
-
-A counter example was a company whose on-boarding was next to fantastic: On the
-first month you were shadowing Seniors, or working under their supervision
-without having immediate responsibilities.
-
-When usually a question is raised about this, like "I a new here where is my
-on-boarding" there is usually the answer that the company is still small, does
-not have the resources of a big company which can allow people to do this. Have
-also heard English words that imply a lot such as on-boarding being a "luxury",
-or more straightforward in the lines of "we are a startup and do not have
-time for this".
-
-The consensus of the discussion was that there is a problem with management
-when this happens: we have people that became managers either because they had
-stuck with the company for ten years and the other managers left, retired, or
-died or alternatively they were the only developer (the one that they would
-build a team around) who got promoted as the company grows - which is a good
-thing - but without any training or learning for the new position, so they
-do not know what to do wearing their new shoes. Asking one of them there was
-a semi-autistic response "I did not have any on-boarding so neither should
-you", with the person saying this ignoring that different people have different
-needs or that he was there when the organization had a few people so
-on-boarding happened but in an ad-hoc informal fashion. Similarly when that
-person joined the company had a smaller scope of operations and established
-procedures or ways to do things.
-
----
-
-Jason: Something else is when you finish with the interview get hired and they
-just throw you in the middle of the place with you having to figure out
-everything.
-
-Socrates: Love it.
-
-Jason: Not even how the infrastructure works, go figure it out, no on-boarding.
-
-Socrates: Specially if you are not hired as Senior, or principal, or the
-adjective that is now in fashion.
-
-Jason: Ninja
-PICTURE OF A NINJA HERE
-
-Socrates: Unicorn! Unicorn designer. The absolute perfection. If you are lead
-of the planet, say OK. But even as a junior.
-
-Jason: Not necessarily, even the basics: where is the coffee and where is the
-sugar.
-
-Socrates: Yes, I assume that you need to be introduced to to culture of the
-company.
-
-Jason: Where are the bathrooms. :).
-
-Socrates: Stuff like how they manage tickets at Jira (too technical).
-
-Jason: When to call out a client. When do you call out, does someone else need
-to talk first? Is it OK to interrupt people when they talk to ask questions?
-
-Socrates: Is it out of experience?
-
-Jason: Yes.
-
-Socrates: Give us an example.
-
-Jason: In the previous place there was no on-boarding at all and on top of this
-they were complaining if/when you were doing something wrong. Once a client
-asked me something in an email and I answered immediately. I was told from my
-manager that I should have asked him before reaching out. I would have to be
-involved in guesswork on whom to ask, when to ask, when not to ask, what is OK,
-what is not OK?
-
-Socrates: Got it.
-
-Jason: I think Dimitry had something like that recently.
-
-Dimitry: I did, I am still not completely detached, my heart now is beating
-faster and I am ready to say something bad about the mother of the person I was
-working with.
-
-Jason: PTSD?
-
-Dimitry: I am trying to relax so I cal talk, also had some coffee.
-
-Jason: He has turned red, breathing heavily.
-
-Socrates: See the vain ready to pop out.
-
-Dimitry: I am ready to take a tube, go there, lease, since we had a discussion
-about leasing, a Kalashnikov.
-
-Socrates: It is Saturday, nobody is there.
-
-Dimitry: I will wait until Monday behind the bell of the nearby Church.
-
-Socrates: Share us your experience calmly then.
-
-Dimitry: I cannot do so, so no. How do spot this though. You listen to catch
-phrases like: "commit code on the first day", "you will have impact on the
-first days"...
-
-Socrates: You will hit the ground running!
-Jason +
-Dimitry: Yeah
-
-Dimitry: "Commit production code in the first days". When I first encountered
-this thought that all these things would happen with the assistance of a person
-who was already there for some time guiding my steps. From point those
-"training wheels" would be utilized less and less.
-
-Jason: Not talking about how to do your job, but how to function within that
-organization.
-
-Dimitry: Where this thing happened to me, I lost an afternoon because some
-tests were not working. I fixed them. Once I fixed them I found out that they
-were not used at all anywhere. Went to my manager and told him that one
-afternoon got wasted, you might want to know about the deadline. Should not you
-be on top of me before I did so? "No" (his answer). We will inform you dear
-audience about the end of that story in a later transmission/podcast.
-The other thing that happens on our field is that you will write production
-code from the first day, Facebook was doing this at some point, but
-"production" can be something so trivial as changing the color of a button.
-
-Socrates: Something very small.
-
-Dimitry: So that you will start interacting with the system from the first day.
-This is OK
-
-Jason: Let me bring another example. This was my first UK job, which had some
-issues but their on-boarding was at least fantastic: On the first month you
-were shadowing Seniors, or working under their supervision without having
-immediate responsibilities.
-
-Socrates: Generally my on-boarding experiences were amazing with the exception
-of a single start-up. Do you believe that these things happen more in startups
-and less in established companies which have some capital and resources, so in
-the first months that you are learning things, there is no negative impact?
-
-Jason: I think that in very big companies there would be an HR department which
-would have implemented procedures, in SMEs...
-
-Socrates: I am talking below mid.
-
-Jason: I do not think it has to do with size, in many companies people have
-become managers with no previous experience or training in management only
-because they have been employed for the last say 10 years.
-
-Dimitry: Or two years, but they happened to be there when the company started.
 
 ## What Would You Do?
 
