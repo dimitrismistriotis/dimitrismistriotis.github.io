@@ -28,34 +28,6 @@ experience.
 Hope this article will help make you feel a little bit more prepared for your
 next job hunt or at least entertain you.
 
----
-
-This is a transcribe with some modifications of the discussion we had for the
-podcast [FetaReport](www.fetareport.gr). Unfortunately the original content is
-in Greek. We thought that it might be good to release our content for an
-international audience. If you think that such content would be of interest to
-you even if spoken with funny accents, please reach out to us or leave a
-comment here so that we will be able to react to your feedback and start
-releasing stuff in English.
-
-Recently two members of the crew had gone out to look for positions, while the
-other member had been in the same situation very recently. Reading the job
-descriptions and taking the corresponding phone calls (initial or later stage)
-we saw some patterns emerging which at some point started documenting for
-broadcasting them in a podcast episode, which got released at the end of
-May 2018.
-
-Before we start it is important to note that there is no perfect job, that a
-red flag for one person might be a green flag for another and that also what we
-want from a job depends on our personality, lifestyle, stages in life
-(e.g.: single, married, family) or in one word, our circumstances. With that in
-mind a "we work all day long" signal might be a red flag for a family man but
-a "wow I will learn a lot" for a young single person who wants to acquire
-experience.
-
-Hope this article will help make you feel a little bit more prepared for your
-job hunt.
-
 ## People
 
 One of us is a Software Engineer, one does Digital Marketing and the third
