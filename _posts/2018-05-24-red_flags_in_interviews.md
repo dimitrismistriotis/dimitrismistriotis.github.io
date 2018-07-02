@@ -8,13 +8,13 @@ permalink: /red_flags_in_interviews
 
 ## Introduction
 
-This is a transcribe with some modifications of the discussion we had on an
-episode of  [FetaReport](www.fetareport.gr). Although the original content is
-in Greek, we thought that it might be good to release our content for an
-international audience. If you think that such content would be of interest to
-you even if spoken with funny accents, please reach out to us or leave a
-comment here so that we will react to your feedback and start recording in
-English or blog more.
+This is a transcription of the discussion we had on an episode of
+[FetaReport](www.fetareport.gr) with many modifications. Although the original
+content is in Greek, we thought that it might be good to release our content
+for an international audience. If you think that such content would be of
+interest to you even if spoken with funny accents, please reach out to us or
+leave a comment here so that we will react to your feedback and start recording
+in English or blog more.
 
 It is important to note that there is no perfect job. What constitutes a red
 flag for one, might be a green flag for another. Also, what one wants from a
