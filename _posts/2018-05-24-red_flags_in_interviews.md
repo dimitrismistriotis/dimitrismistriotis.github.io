@@ -416,3 +416,7 @@ A [listener](https://www.reddit.com/r/greece/comments/8n7lht/κόκκινες_σ
 > behind it or not. Based on experience and capability the candidate
 > will reach an answer with or without having the specific knowledge taught
 > recently nor fresh.
+
+## Links
+
+-  <https://dev.to/dimist/comment/4386>
