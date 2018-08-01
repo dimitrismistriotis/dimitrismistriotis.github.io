@@ -94,6 +94,9 @@ to have a portfolio or a repository of sorts that shows their work. However
 this level of past work is constantly ignored and candidates are still asked
 to perform time intensive tasks and tests for companies.
 
+**Update**: Discovered that an alternative way to name this is called
+"auditioning": <https://hbr.org/2018/07/what-to-do-if-an-employer-asks-you-to-do-a-job-audition>
+
 ## Fast Paced Environment
 
 Usually mentioned as "fast paced environment" within the job description. Some
