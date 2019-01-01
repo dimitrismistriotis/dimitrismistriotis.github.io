@@ -10,7 +10,7 @@ Guest post, ευχαριστώ το blog που με κάλεσε. Είμαι ο
 > A literary critic is someone who can't write, but who loves to show he would have been a wonderful writer if only he could! 
 - Brian Lumley 
  
-Δεν με πιάνει ακριβώς γιατί έχω γράψει ένα βιβλίο, αλλά κάλο να το έχουμε υπόψη στην εισαγωγή. 
+Δεν με πιάνει ακριβώς γιατί έχω γράψει ένα βιβλίο, αλλά κάλο είναι να το έχουμε υπόψη στην εισαγωγή.
  
 Η λίστα επίσης στο [GoodReads](https://www.goodreads.com/review/list/46258483-dimitrios-mistriotis?shelf=avoid) 
  
