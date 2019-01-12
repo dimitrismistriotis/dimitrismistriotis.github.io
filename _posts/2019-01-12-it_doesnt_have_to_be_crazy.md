@@ -1,10 +1,10 @@
 ---
 layout: default
-title: It doesn't have to be crazy at work - notes and review
+title: It Doesn't Have to Be Crazy at Work - Notes and Review
 permalink: /it_doesnt_have_to_be_crazy
 ---
 
-# It doesn't have to be crazy at work - notes and review
+# It Doesn't Have to Be Crazy at Work - Notes and Review
 
 ## Your Company is Your Product
 
