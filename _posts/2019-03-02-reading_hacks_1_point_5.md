@@ -101,3 +101,32 @@ back for people that want to have some more points of reference. Essentially
 the supply side is inflated with material that would normally **never** be
 published only because its sales figures can be a very good proxy for a
 multi-million dollar movie's box office numbers.
+
+## How to Counter Act
+
+The main concept here is to utilise the "via negativa" (explained by Taleb)
+approach. Less is more, sometimes inaction (do not read) can be fer better than
+the wrong action (read something useless at worst, not that useful at best).
+
+My tool of choice used to be post-its but I ended up using GoorReads. Whenever
+I encounter a book that I might consider purchasing, I add it on the "want to
+read" list there. Similarly when the same thing happens in a bookstore and not
+being 100% sure that a title needs to be purchased on the spot, I use GoorReads
+"scan" from within the application.
+
+Then I wait for 6 months up to a year when I do a review of the "want to read"
+titles. If one title is ready to be read, then proceed immediately to a
+purchase. If not I either let those stored bytes mature for longer or hit
+unapologetically the "Delete" button.
+
+Another approach is to next to never buy very contemporary books. Let them
+pass their test of time and then we see. Decided on this strategy for many
+reasons: Because of the reasons above I have become more risk averse for the
+time invested in reading a book, for that tend to pick up something that has
+been out for a bit. We do not know if the author talks about stuff that make
+sense on when the book is released but might not in the very near future, say
+thoughts on how the Internet will change our lives circa 1993. Very soon books
+like that will be essentially useless; no need to pollute one's brain with
+their content.
+
+Thank you for reading this.
