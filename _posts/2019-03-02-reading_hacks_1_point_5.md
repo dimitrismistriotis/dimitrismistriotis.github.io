@@ -31,3 +31,48 @@ score, some others might want to have read everything that is out there for
 a specific subject. Last but not least many people have been convinced that
 the more they read, the better they become at a field or generally as people.
 Generally there is a tilt towards the quantity over quality.
+
+The above describe a cluster of "over-demand". I have to say that I am not
+innocent here. I got caught in similar behaviour in 2017-2018 when I became
+active on GoodReads. It started with me importing books that I had read in the
+past plus some comics (graphic novels) so that I would get better
+recommendations. Later on I got hooked. Realised this when I bought the 2
+volumes of XXXX from YYYY:
+
+PHOTO HERE
+
+Initially I did not like the fact that I had to carry 2 books on my suitcase,
+then while taking the photo to send to a friend, something like
+"at least it will count as 2 items towards my reading challenge" crossed
+briefly my mind. Then decided to write this post.
+
+Leaving the over-demand part aside for the time being, it is also alarmingly
+paired with over-supply, specifically:
+
+1.  There are many "fake" authors: if we go back in time many people were
+writing in magazines or newspapers. Some articles that were becoming too big
+might become published in different monthly or quarterly instalments, or the
+specific issue might be dedicated to them. In the fantasy genre I can think of
+Robert E. Howard and "Weird Tales" or that Michael Moorcock was publishing a
+fanzine. Today these people will be pushed to publish a book. Ideas that could
+be expressed in 100 pages (80 if condensed), are artificially inflated to
+become a 300 page book.
+2.  Similarly authors that might have two ideas and would write in the past one
+book with two parts, one for each idea, now would be pushed to inflate each
+part and publish two books instead.
+3.  There is also a "scene" of events and talks from experts which could be
+named as the "Ted-X plague". Many people, mostly  but not necessarily business
+consultants want to go there, present themselves and hike up their consulting
+fees. Because this would somehow be too blunt, they have to hide this under
+presenting their distilled wisdom or their findings while working in their
+industry. Ergo they publish a book.
+  I remember these patterns from the music industry as I was interviewing
+musicians 20 years before. Back then on the CD heyday bands wanted to be in
+festivals where "the money was". In order to do that, companies were pushing
+them to release an album roughly every 2 years (one year to compose and record,
+one year to tour in the winter and do festivals in the summer, repeat). There
+were many bands that died because they were to small to push back and ask for
+a third year in between so that they could refine their ideas, there were many
+mediocre albums released because some good ideas were put aside so that they
+would be explored on the next album: why have one when you can have 2? Put
+three "filler" tracks and release.
