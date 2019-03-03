@@ -11,9 +11,12 @@ when as life makes it happen, I decided to do a detour and discuss when a book's
 first page should never get to be opened in the first place aka when you
 should "*never buy that book*" at all.
 
-As luck dictated, inspiration for this came again from fight mediocracy's
-related video - LINK, writings and essays of Nickolas Naseem Taleb TWITTER LINK
-which brought up personal experiences and findings.
+As luck dictated, inspiration for this came again from Fight Mediocrity
+related video
+(Why I Stopped Reading Self-Help and Self-Improvement Books
+  )[https://www.youtube.com/watch?v=ey8rt5rCqV0], writings and essays of
+(Nassim Nicholas Taleb)[https://twitter.com/nntaleb/] which brought up personal
+experiences and findings.
 
 Decided not to provide exhaustive bibliography or references. Decide for
 yourself, or stop here if you are a reference junkie. If you are still here
@@ -37,7 +40,8 @@ innocent here. I got caught in similar behaviour in 2017-2018 when I became
 active on GoodReads. It started with me importing books that I had read in the
 past plus some comics (graphic novels) so that I would get better
 recommendations. Later on I got hooked. Realised this when I bought the 2
-volumes of XXXX from YYYY:
+volumes of "Byzantium: The Surprising Life of a Medieval Empire" from
+Judith Herrin (Greek version of the book consists of two volumes):
 
 PHOTO HERE
 
@@ -108,10 +112,10 @@ The main concept here is to utilise the "via negativa" (explained by Taleb)
 approach. Less is more, sometimes inaction (do not read) can be fer better than
 the wrong action (read something useless at worst, not that useful at best).
 
-My tool of choice used to be post-its but I ended up using GoorReads. Whenever
+My tool of choice used to be post-its but I ended up using GoodReads. Whenever
 I encounter a book that I might consider purchasing, I add it on the "want to
 read" list there. Similarly when the same thing happens in a bookstore and not
-being 100% sure that a title needs to be purchased on the spot, I use GoorReads
+being 100% sure that a title needs to be purchased on the spot, I use GoodReads
 "scan" from within the application.
 
 Then I wait for 6 months up to a year when I do a review of the "want to read"
