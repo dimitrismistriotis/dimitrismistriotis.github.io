@@ -45,6 +45,18 @@ Initially I did not like the fact that I had to carry 2 books on my suitcase,
 then while taking the photo to send to a friend, something like
 "at least it will count as 2 items towards my reading challenge" crossed
 briefly my mind. Then decided to write this post.
+4.  Recommendation engines: Mainly from Amazon but also others. After you
+enter some "data point", which could be items purchased on the platform or
+just browsing history, each platform can suggest you things that you will most
+possibly fancy. After one suggestion becomes a purchase, then more and
+recommendations will be generated on the same, when not on similar, topic. By
+definition one might want to expand their knowledge there or keep up to date
+hence continuing purchasing there. Also these options are also a "safe choice".
+This creates the same problem that we have from news sources and social media.
+Soon one will have news only from sources they like living in their ideological
+vacuum. In the same way people get locked in reading books on the same subject.
+This becomes borderline funny in literature genres such as fantasy with people
+reading things like medieval sword and sorcery with werewolves but not vampires.
 
 Leaving the over-demand part aside for the time being, it is also alarmingly
 paired with over-supply, specifically:
@@ -76,3 +88,16 @@ a third year in between so that they could refine their ideas, there were many
 mediocre albums released because some good ideas were put aside so that they
 would be explored on the next album: why have one when you can have 2? Put
 three "filler" tracks and release.
+4.  Social media effect: Author releases book, author does a promo campaign,
+book is everywhere: Interview in every other podcast, Youtube video channels,
+pops up as trending on Amazon, recommended here and there. It must be worthy
+of your time, not?
+5.  The Mark Millar effect: named after the author of "Kick Ass". We have lots
+of content produced only to experiment with its readers as guinea pigs for
+movies or other more profitable media. Major offender is Mark Millar whose
+comics after "Kick Ass" became a movie all look like storyboards from a
+production movie. There was the "Handbook For Mortals"" scandal a few years
+back for people that want to have some more points of reference. Essentially
+the supply side is inflated with material that would normally **never** be
+published only because its sales figures can be a very good proxy for a
+multi-million dollar movie's box office numbers.
