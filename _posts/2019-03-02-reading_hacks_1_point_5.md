@@ -43,7 +43,7 @@ recommendations. Later on I got hooked. Realised this when I bought the 2
 volumes of "Byzantium: The Surprising Life of a Medieval Empire" from
 Judith Herrin (Greek version of the book consists of two volumes):
 
-PHOTO HERE
+![Two volumes](images/books/judith_herrin_in_greek_with_mustard.jpg)
 
 Initially I did not like the fact that I had to carry 2 books on my suitcase,
 then while taking the photo to send to a friend, something like
