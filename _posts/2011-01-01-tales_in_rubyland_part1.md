@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: How to learn Ruby - Tales in Rubyland part 1.
 permalink: /posts/tales_in_rubyland_part1
 ---
@@ -26,8 +26,9 @@ Say hi to <a href="railsforzombies.org" target="_blank">Rails for Zombies</a>. R
 
 In the mean time the book arrived: <a href="http://headfirstlabs.com/books/hfrails/" target="_blank">Head First Rails</a> by being a long-term fan of the series. Armed though with the knowledge of having finished the game, the exercises got finished fast. What was tough was to do them o Rails3 which is not there by default nor in ubuntu or in os-x.
 In order to do so:
-* Ubuntu: <a href="http://ascarter.net/2010/05/10/rails-development-on-ubuntu-10.04.html" target="_blank">Rails Development on Ubuntu 10.04</a>
-* <a href="http://ascarter.net/2010/05/10/rails-development-on-ubuntu-10.04.html" target="_blank"></a>and OS-X: <a href="http://www.bawdo.com/posts/42" target="_blank">ruby 1.9 and rails 3 on mac osx 10.5</a>
+
+- Ubuntu: <a href="http://ascarter.net/2010/05/10/rails-development-on-ubuntu-10.04.html" target="_blank">Rails Development on Ubuntu 10.04</a>
+- <a href="http://ascarter.net/2010/05/10/rails-development-on-ubuntu-10.04.html" target="_blank"></a>and OS-X: <a href="http://www.bawdo.com/posts/42" target="_blank">ruby 1.9 and rails 3 on mac osx 10.5</a>
 
 Having to fix something broken apart from the initial frustration is an experience that exposes the internals of the system under repair. This time it got used as an introduction to gems, the Rails command line and other details and idiosyncrasies of the community and the languages approach.
 
@@ -40,6 +41,7 @@ After the first experiences the opportunity to dwell more into programming in th
 > The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries. We also teach you culture. Testing is not just something we pay lip service to, but something we live. It is essential in your quest to learn and do great things in the language.
 
 Koans are essentially a list of tests that are designed to fail. The practitioner has to fill the gaps or write small chunks of code so that the tests will "pass". Evaluation is being achieved by a simple:
+
 <pre lang="ruby"> rake</pre>
 
 while at the same time the 263 tests are a tour de force of all language's features, conventions etc. At the end of the "challenge" you are being rewarded by a text adventure like screen (spoiler alert):
