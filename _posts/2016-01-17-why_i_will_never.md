@@ -14,7 +14,7 @@ My intention was not about producing a set of aphorisms or write a polemic again
 
 I do not imply or suggest that things in United Kingdom are inherently bad or wrong. Having though a different perspective which I decided to keep, I think the situation falls short with regards to the following points. The factors interweave and overlap with each other as it usually happens with cultural elements. One might influence or cause another, so there is not an easy to follow linearity, which would make things easier to read. I apologise in advance.
 
-Last although I am not a sociologist, I tend to believe that there are two main underlying factors that are responsible for the reasons below. First the class system because Britain and second a fixed mindset mentality because moving fast London. (note: Fixed mentallity as defined in XXX's book). Also decided to be brief followi the famous "Why Talented Creatives Are Leaving Your Shitty Agency": http://www.mobileinc.co.uk/2013/09/why-talented-creatives-are-leaving-your-shitty-agency/, aiming to produce a short read. Might come back and expand later in the future.
+Last although I am not a sociologist, I tend to believe that there are two main underlying factors that are responsible for the reasons below. First the class system because Britain and second a fixed mindset mentality because moving fast London. Also decided to be brief followi the famous "Why Talented Creatives Are Leaving Your Shitty Agency": <http://www.mobileinc.co.uk/2013/09/why-talented-creatives-are-leaving-your-shitty-agency/>, aiming to produce a short read. Might come back and expand later in the future.
 
 Generally it has to do with the following:
 
@@ -108,7 +108,7 @@ and details: [http://cis.org/miano/92-top-tech-companies-created-us-were-founded
 
 and then think about what we see here there is an ouch moment. What's going on? Why these topics are not discussed in the public, is there some sort of omertà?
 
-Checking the census data as of 2011: http://data.london.gov.uk/census/reports/ then "Country of Birth Snapshot" or https://londondatastore-upload.s3.amazonaws.com/hRg%3D2011-census-snapshot-country-of-birth.pdf, found the following image regarding country of birth of Londoners:
+Checking the census data as of 2011: http://data.london.gov.uk/census/reports/ then "Country of Birth Snapshot" or <https://londondatastore-upload.s3.amazonaws.com/hRg%3D2011-census-snapshot-country-of-birth.pdf>, found the following image regarding country of birth of Londoners:
 
 ![Census 2011 - county of birth](images/census_2011-country_of_birth.png "Census 2011 - county of birth")
 
@@ -124,7 +124,7 @@ I really do not understand, and maybe I am magnifying things here, why people sh
 
 Quote: *"Do not expect software corporations to offer any kind of career path. They might do this in the US, but I have never seen any of that in Europe. This means that you are solely responsible for the success of your career. Nobody will tell you 'oh, well, next year you can grow to be team leader, then manager, then CTO…'"*
 from: "Being A Developer After 40" - Adrian Kosmaczewski,
-https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.ib8wqde6k
+<https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.ib8wqde6k> (link broken)
 
 I do not know if it is a European trait, or local and honestly I do not care. I have only one question: In a market where the supply (developers/IT) is far less than the demand, you offer us just a salary and expect not to jump ship to the next one that offers us more? Jesus!
 
