@@ -42,6 +42,14 @@ Tough. This because it has content both relevant to me and also engaging/addicti
 
 Solution: Downloaded an application named "[one sec](https://one-sec.app/)", not affiliated, and set it up to shield X. It takes 2 minutes now to allow you to open the application it covers/shields, which kills the random habit of checking things. It also has a pron blocker in the free version. Enabled it in phone just in case.
 
+[<img src="../images/decluttering/one_sec-homepage_screenshot.png" alt="one_sec-homepage_screenshot" style="zoom:33%; margin-left:auto; margin-right: auto;" />](https://one-sec.app/)
+
+One Sec:
+
+> Cut your screen time in half: Rewire your brain to hate scrolling.
+>
+> one sec interrupts the toxic loop of social media dopamine hits – scroll, like, repeat.
+
 ### TikTok + Newer Ones
 
 Do not have an account. Conveniently TikTok does not allow you to do much stuff without an account which shielded me from engaging with the platform.
