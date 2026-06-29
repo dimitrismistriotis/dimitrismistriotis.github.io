@@ -4,11 +4,23 @@ I got recently into more conscious decluttering although I was practicing it a b
 
 ## Why Do It in the First Place
 
+Most of the cluttering in my life exists as promises given, deals made, needs, activities of my **former self** or with **people not anymore in my life or have changed considerably**. Keeping these things either in the physical, home or my parents' home, or in the digital space creates a sense emotional loss or time-travels to a person who is no longer me or to people no longer there or who have moved on to something completely different.
+
+Allow a few examples: a cousin of mine moved out of London a couple of years ago and left us her TV set which had an embedded DVD player. This because we had some kid's DVDs. Now 7/8 years later, nobody was watched a DVD for the last 5 years, and if she ever visits - improbable - I doubt that a part of her will say to us *where is that TV set?* or even that she remembers the fact to be honest. With that in mind 5 years late, that TV set is on the area where we put stuff for the local recycling facility. This would have happened years ago (!) but there was another item I had not thrown away up front covering it. If you ever had experiences like this, keep reading.
+
+Another example: Yesterday I wanted to find an email on which I had to act on. I had to scroll down to pass on some updates on Job postings with companies hiring. Now I really do not see myself looking for a position soonish, unless my manager finds out I am typing these lines while I wait for the test suite to pass, which means that that update should not be there, either for me to read it or to re-read it while scrolling. Why was it there? Because last time I was looking for positions, I let it be "just in case something goes wrong", which almost never happens. To summarize, I am spending time reading and deleting emails because my former self became unemployed. On top, some recruiters are paying, pennies though but it adds up, to reach me while I will not respond to them.
+
 ## Digital Space
 
-### Email
+### Email and Online Accounts
+
+Let's begin with Newsletters and Updates.
 
 Newsletters, Sign Ups, Updates
+
+## Articles to Read Later/Keep
+
+Knowledge base + OpenClaw
 
 ### Facebook and other social media
 
@@ -64,6 +76,8 @@ Do not have an account. Conveniently TikTok does not allow you to do much stuff 
 
 I find it too "pushy". In the sense that after seeing some the Netflix episodes, at the end people are asked to decide what to keep and what to drop in about 1 or 2 hours. In my case this short time frame would cause errors of judgment and drop too many or too few items in a way that people might regret it later on.
 
-----
+## Physical to Digital/Smaller Physical
 
 Memory Book
+
+Screenshots
