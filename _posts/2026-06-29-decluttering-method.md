@@ -14,7 +14,9 @@ Another example: Yesterday I wanted to find an email on which I had to act on. I
 
 ### Email and Online Accounts
 
-Let's begin with Newsletters and Updates.
+Decluttering almost always starts with me upon receiving an **update which is no longer relevant to me**, recently job offers. If I have about 10 minutes I decide on the following: Do I want to keep the account or to cease the communication? If I want to keep the account then I click on "Unsubscribe", if the company has more than one step to remove me, then I deliberate on marking as spam or logging in. If time allows I log in and untick everything. Then I get back to my email and remove **all** emails from that company.
+
+More often than thought the account is no longer relevant. Something used once or a couple of times in the past, like that sticker promotion pack which I used for my podcast and now wants US tax authorization, that flower seller that I used once and will never use again as I buy local, etc. In these cases I give the extra time to remove my account. Some companies ask for a support ticket in order to convince you to stay. That's OK, can create that ticket. Again then I wait for the confirmation and then remove all the emails from that company.
 
 Newsletters, Sign Ups, Updates
 
@@ -75,6 +77,22 @@ Do not have an account. Conveniently TikTok does not allow you to do much stuff 
 <img src="../images/decluttering/marie_kondo.jpg" alt="Marie Kondo, Ghibli Drawing from Grok" style="zoom:33%;" />
 
 I find it too "pushy". In the sense that after seeing some the Netflix episodes, at the end people are asked to decide what to keep and what to drop in about 1 or 2 hours. In my case this short time frame would cause errors of judgment and drop too many or too few items in a way that people might regret it later on.
+
+### Nobody Cares About Your Stuff - the Real Life / Vinted Experience
+
+I quite recently discovered Vinted.com, again not affiliated. I had sold some items on eBay in the past but this platform was very hands-on on liquidity. I tried to sell a t-shirt of a band I no longer support and instead of promoting it to "gym t-shirt" kept clean in my wardrobe. Someone bought it on the spot asking for a discount. As he told me, he had that same t-shirt and lost it. After that I felt a strange feeling. A part of my head was being freed as the "what will I do with this thing" question got answered: nothing as it is now gone! Then I had that tarot deck that I had purchased in a festival in Athens and kind of kept it to remind me of the period. But have other connections to that period, drop it for sale, a person with an avatar pointing to new-age stuff bought it and again, out of my brain until I decided to write this experience. From that moment on whenever I opened that drawer, I had **5 more seconds of life** as I was not thinking of what should be done with it. For the curious, with the money got, I purchased a video game in that platform which I was chasing. Then something strange happened.
+
+I started putting some books or graphic novels, and... nobody cared or even worse was getting offers for a tiny amount of money like £1 with which I'd rather leave them outside of my door for a stranger to pick up. This is where I came across the first rule of decluttering:
+
+> Nobody cares about your stuff
+
+or that if I could phrase it in another way - before elaborating more:
+
+> The price of a used item without utility value is closer to zero than you think if it is yours, specially for books
+
+One reason for this is that we all kind of "compete" with Amazon or other similar retailers. Say I got a paperback for £9.99, round it to £10. If I want to sell it to someone then the transport costs are at least £2.80, let's say £3 again for ease of comprehension. This means that I need to sell it for **at most** £7 to have the same price as Amazon. But why would one trust a random person on the Internet and a company such as InPost without as amazing logistics which will give them the same thing that Amazon can give with the same amount of money the next day guaranteed, assuming  a Prime subscription? Even if people do not have prime, math is quite similar. Which means that in order to make sense for a person who does not know me, the same book should be either sold for £3 to £4 to have the risk make sense, unless it is a special edition. If it is a bit torn even less, etc.
+
+Checking out YouTube videos it seems that this book story above applies next to everything in the physical world for a huge around of stuff. The only items where I see some difference is collectibles, electronics, tools or items with high utility value.
 
 ## Physical to Digital/Smaller Physical
 
