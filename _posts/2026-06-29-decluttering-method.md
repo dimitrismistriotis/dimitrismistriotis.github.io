@@ -24,7 +24,13 @@ Sign Ups
 
 ### Articles to Read Later/Keep
 
-Knowledge base + OpenClaw
+I was using many and different applications, again causing questions like: "where should I store this?".
+
+Having [OpenClaw](https://openclaw.ai/), I created a group chat and added the following:
+
+> Whenever I send a link to this topic, add the link and the meta data to the Postgres database defined in memory.md
+
+There are infinite plug-ins available for something similar with some of those using [Obsidian](https://obsidian.md/). Idea can be as simple as: get a synchronized location, drop links there. Then keep ones that matter, drop all others. Then one day when you are no longer interested on the subject, select, delete, gone!
 
 ### Facebook and other social media
 
