@@ -18,9 +18,11 @@ Decluttering almost always starts with me upon receiving an **update which is no
 
 More often than thought the account is no longer relevant. Something used once or a couple of times in the past, like that sticker promotion pack which I used for my podcast and now wants US tax authorization, that flower seller that I used once and will never use again as I buy local, etc. In these cases I give the extra time to remove my account. Some companies ask for a support ticket in order to convince you to stay. That's OK, can create that ticket. Again then I wait for the confirmation and then remove all the emails from that company.
 
-Newsletters, Sign Ups, Updates
+### Every Now and Then Account Check
 
-## Articles to Read Later/Keep
+Sign Ups
+
+### Articles to Read Later/Keep
 
 Knowledge base + OpenClaw
 
