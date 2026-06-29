@@ -36,7 +36,7 @@ Idea is not to stress it, create space for new Facebook-friendships, groups, wit
 
 Was never using the platform too much. Had caught myself in following some accounts and seeing their daily updates prompting for doom-scrolling. Here the solution was easier: I removed Instagram from my phone applications. Felt an itch for a couple of days, but that was it. Now I log in every 4/6 months for 10 minutes to see if I have missed something. I never had. I keep it because I have some people that I can reach out only from there.
 
-### X
+#### X
 
 Tough. This because it has content both relevant to me and also engaging/addictive. I like getting ideas from random people, seeing latest trends in vibe coding, trolling people with opposing political beliefs when bored, doing random jokes. This way I made a friend, but only one.
 
