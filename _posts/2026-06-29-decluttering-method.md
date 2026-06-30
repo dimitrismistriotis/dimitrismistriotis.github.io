@@ -78,6 +78,10 @@ Do not have an account. Conveniently, TikTok does not allow you to do much witho
 
 ### Bookmarks and Other Links
 
+### Your Music and Book or Other Collection
+
+These days we generate and accumulate lots of data. Also the storage prices are low.
+
 ## Physical Space
 
 ### A Comment on the Marie Kondo Method
@@ -90,11 +94,9 @@ I find it too "pushy". In the sense that after seeing some the Netflix episodes,
 
 The perceived value we have assigned to physical items in reality is very lower than what we initially believe, in cases closer to zero. Once we discover this, it makes it emotionally easier to let go of items, but not easy. It is a skill to be learned and as I have seen takes time which later on pays off.
 
-There are many people who have shared their stories, after listening to them on YouTube I discovered that their stories were kind of similar to mine. Because of this instead of providing some links, I will share my own experiences.
+There are many people who have shared their stories, after listening to them on YouTube I discovered that their stories were kind of similar to mine. Because of this instead of providing some links, I will share my own experiences. The pattern though is roughly that us or our parents/grandparents accumulated stuff either as a hobby or because they believed it was a future investment. What happened at the end was with even the people gone, these items occupy physical and mental space either on the people left behind or to our current self if it was us. Letting them go is hard as every time we touch them, memories come in, or the mind plays a trick on their actual value. Once we conquer this, we can start acting on it.
 
-
-
-#### Personal Experience
+#### Personal Experiences
 
 I quite recently discovered Vinted.com, again not affiliated. I had sold some items on eBay in the past but this platform was very hands-on on liquidity. I tried to sell a t-shirt of a band I no longer support and instead of promoting it to "gym t-shirt" kept clean in my wardrobe. Someone bought it on the spot asking for a discount. As he told me, he had that same t-shirt and lost it. After that I felt a strange feeling. A part of my head was being freed as the "what will I do with this thing" question got answered: nothing as it is now gone! Then I had that tarot deck that I had purchased in a festival in Athens and kind of kept it to remind me of the period. But have other connections to that period, drop it for sale, a person with an avatar pointing to new-age stuff bought it and again, out of my brain until I decided to write this experience. From that moment on whenever I opened that drawer, I had **5 more seconds of life** as I was not thinking of what should be done with it. For the curious, with the money got, I purchased a video game in that platform which I was chasing. Then something strange happened.
 
@@ -126,10 +128,38 @@ I had been collecting metal records in the 90s. The clever sellers were telling 
 
 This is completely different than art items which is a different investing instrument if you want to see it this way.
 
-Electronics: Have intrinsic and utility value, and some of them can be recycled, which allows then not to completely zero. 
+Electronics: Have intrinsic and utility value, and some of them can be recycled, which allows then not to completely zero.
+
+## My Method for Physical Items
+
+This is what I came up with after some years of tinkering. I do not believe that the cut-off approach that I see in places works for everybody. Usually it is something in the lines of "prepare yourself, dedicate a morning or an afternoon, see the things, decide on the spot, donate/burn/thrash what you will not use again". I find it stressful, asking for too many things to happen at once and possibly traumatic.
+
+I would like to suggest a more step-by-step, easier to implement method inspired from the ageless book "Getting Things Done".
+
+### Space Division and Management
+
+Define a space on which you will place the items that you are considering to keep or dispose. As we tend to stack items on top of one another, this space is divided into visible and not visible items. There can be places that are not in that space like storage boxes, actual storage, lofts, garages, etc.
+
+When you have time or take a break from something else visit that space. You need to be prepared to assess **at least one item** from there.
+
+Pick up an item. If you want it in your life, take it away and place it where it will from now on "live".
+
+If that is to go, choose if you want to give it to someone else. If so call them or text them. If they do not want it OK. If they do send it to them. This is the magic spot. Unless you schedule to see each other soon, do not leave it for later. It is best to pay a little bit for postage and finish with this whole item space earlier over anything else. If nobody wants it then decide on charity/recycling/thrashing. Execute.
+
+You need to process at least one item per visit. Once you decide then as space clears more items not visible become visible to be processed on the same visit or in the future. The moment a tiny bit of space opens up, cover it with items that are not there yet: open a box, empty a storage locker, etc. This way you claim more space for your now-life or you pay less for storage.
+
+If there are many similar items, batch. For my case: all comic books of a specific genre given to one person.
+
+The idea is to have everything that needs decluttering in one place and establish a process where as time goes by, at least one thing gets processed. It is easier to give that time in installments over one and go. I have it in the same mind as paying a mortgage over buying a house full price. Yes I will pay interest, yes it will take long, but I do not need to come up with the capital, here emotional capital, up front.
+
+In my case, I had an area with stacked boxes. On every visit, I was emptying one. Once that got empty, I found other items around the house, filled the box and placed it on the bottom. Then opened the next one.
 
 ## Physical to Digital/Smaller Physical
 
 Memory Book
 
 Screenshots
+
+## How Not to Accumulate Things in the First Place
+
+Lists
