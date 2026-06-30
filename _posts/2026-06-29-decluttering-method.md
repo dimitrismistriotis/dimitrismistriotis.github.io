@@ -74,7 +74,7 @@ One Sec:
 
 ### TikTok + Newer Ones
 
-Do not have an account. Conveniently TikTok does not allow you to do much stuff without an account which shielded me from engaging with the platform.
+Do not have an account. Conveniently, TikTok does not allow you to do much without an account which shielded me from engaging with the platform.
 
 ### Bookmarks and Other Links
 
@@ -86,7 +86,15 @@ Do not have an account. Conveniently TikTok does not allow you to do much stuff 
 
 I find it too "pushy". In the sense that after seeing some the Netflix episodes, at the end people are asked to decide what to keep and what to drop in about 1 or 2 hours. In my case this short time frame would cause errors of judgment and drop too many or too few items in a way that people might regret it later on.
 
-### Nobody Cares About Your Stuff - the Real Life / Vinted Experience
+### Nobody Cares About Your Stuff
+
+The perceived value we have assigned to physical items in reality is very lower than what we initially believe, in cases closer to zero. Once we discover this, it makes it emotionally easier to let go of items, but not easy. It is a skill to be learned and as I have seen takes time which later on pays off.
+
+There are many people who have shared their stories, after listening to them on YouTube I discovered that their stories were kind of similar to mine. Because of this instead of providing some links, I will share my own experiences.
+
+
+
+#### Personal Experience
 
 I quite recently discovered Vinted.com, again not affiliated. I had sold some items on eBay in the past but this platform was very hands-on on liquidity. I tried to sell a t-shirt of a band I no longer support and instead of promoting it to "gym t-shirt" kept clean in my wardrobe. Someone bought it on the spot asking for a discount. As he told me, he had that same t-shirt and lost it. After that I felt a strange feeling. A part of my head was being freed as the "what will I do with this thing" question got answered: nothing as it is now gone! Then I had that tarot deck that I had purchased in a festival in Athens and kind of kept it to remind me of the period. But have other connections to that period, drop it for sale, a person with an avatar pointing to new-age stuff bought it and again, out of my brain until I decided to write this experience. From that moment on whenever I opened that drawer, I had **5 more seconds of life** as I was not thinking of what should be done with it. For the curious, with the money got, I purchased a video game in that platform which I was chasing. Then something strange happened.
 
@@ -94,13 +102,31 @@ I started putting some books or graphic novels, and... nobody cared or even wors
 
 > Nobody cares about your stuff
 
-or that if I could phrase it in another way - before elaborating more:
+or that if I could phrase it in another way - before elaborating more: The price of a used item without utility value is closer to zero than you think if it is yours, specially for books.
 
-> The price of a used item without utility value is closer to zero than you think if it is yours, specially for books
+More details about it in the next section.
+
+Another one which runs deep in emotion follows. My father died a couple of years ago, we gave away medical equipment he was using, clothing, other stuff. This left lots of space in the house. Because there was the discussion of relocating my mother living there, we took things out of lofts and other locations and placed them in libraries, etc to see what we should keep or not. When I saw items from my childhood, early adulthood, and other times in front of me, I felt something like a nostalgic sinking sand sucking wrap engulfing me. I remember exactly thinking "this is amazing, I can come here and spend all my time being among these things, reading the books, touching the toys, looking at the items". It felt like that. Like I could go back to Athens and instead of seeing friends, playing with my child, doing things, would go to a museum of the past. This was the tipping point, where my decluttering became more aggressive. 
+
+There were for example some young adult books that I had read around 10. Well, Waterstones has millions of these, and no modern kid would be interested in those stories. As they fulfilled their purpose, they can go to the document shredder I had bought and live again as a new book or notepad down the line. That book that that teacher in primary school who also did not like me at all had said that "every child should read", and my parents bought it for me because I had to read it. OK, amazing literature, but associated with a trauma... gone. I took out about 10% of these items that day that I had that thought. I did not want to over-do it as I might destroy something I should not. At that point since there were no other items hidden, I had everything in front of me. From that point I give away or donate or recycle a small amount of items on each trip. Less emotional burden - few things at a time, not much time - one hour on every trip, and their number goes down steadily freeing me in the process.
+
+#### Some Numbers
 
 One reason for this is that we all kind of "compete" with Amazon or other similar retailers. Say I got a paperback for £9.99, round it to £10. If I want to sell it to someone then the transport costs are at least £2.80, let's say £3 again for ease of comprehension. This means that I need to sell it for **at most** £7 to have the same price as Amazon. But why would one trust a random person on the Internet and a company such as InPost without as amazing logistics which will give them the same thing that Amazon can give with the same amount of money the next day guaranteed, assuming  a Prime subscription? Even if people do not have prime, math is quite similar. Which means that in order to make sense for a person who does not know me, the same book should be either sold for £3 to £4 to have the risk make sense, unless it is a special edition. If it is a bit torn even less, etc.
 
-Checking out YouTube videos it seems that this book story above applies next to everything in the physical world for a huge around of stuff. The only items where I see some difference is collectibles, electronics, tools or items with high utility value.
+The only items where I see differences are collectibles, electronics, tools or items with high utility value. My findings:
+
+Collectibles: Baseball cards, Pokemon cards, etc. Varies based on general economy. Also, can drop in value hugely it the culture currents change... and raise sharply if the opposite happens. Can think of items rising in value like vinyl records, but would you rather wait forever? Plus not for all bands/genres.
+
+To get an idea, first article in https://search.brave.com when I looked is <https://www.businessinsider.com/collectibles-collectors-items-worthless-not-valuable-today#recent-comic-books-arent-as-valuable-as-older-ones-7>
+
+All 20 items: "Norman Rockwell collector plates", "Model train sets", "New baseball cards", "Ceramic or porcelain dolls", "Pogs from the '90s", "Recent comic books", "Royal family memorabilia", ""Star Wars" toys (later action figures)", "Most vinyl records", "Barbie dolls", "Antique "silver" serving plates", "Pez dispensers", "Stamps", "Vintage band T-shirts", "Funko Pop! figurines", "Most vintage Playboy magazines", "Most Beanie Babies", "Pandora charms", "Precious Moments figurines", "Vintage college swag".
+
+I had been collecting metal records in the 90s. The clever sellers were telling us that you could sell them for a higher price, and it was right for about 5 to 10 years. Then nobody would be interested into purchasing a "mayhemic riot" vinyl. What ended up happening was to put like 80% of them in a bag and give them to a friend who collects all music from 70s to today.
+
+This is completely different than art items which is a different investing instrument if you want to see it this way.
+
+Electronics: Have intrinsic and utility value, and some of them can be recycled, which allows then not to completely zero. 
 
 ## Physical to Digital/Smaller Physical
 
