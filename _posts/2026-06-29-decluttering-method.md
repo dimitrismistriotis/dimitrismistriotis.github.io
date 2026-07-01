@@ -156,11 +156,21 @@ In my case, I had an area with stacked boxes. On every visit, I was emptying one
 
 ## Physical to Digital/Smaller Physical
 
-Memory Book
+One way to reduce the physical output of items is to take them from physical to digital space: atoms to bits.
+
+#### Memory Book
+
+<img src="../images/decluttering/memory_book.jpg" alt="memory_book" style="zoom:33%;" />
+
+At one point in time purchased an A4 notepad for drawing. Every time I want to keep a brochure, something that I like, a sticker, or as I say a memory, I glue/cello-tape it there. This specific one is being used for about **5 years**.
+
+The benefit of this is that it consumes very  little space, The fact that I need to get glue or cello-tape helps me to ask if I really want to keep that paper item forever.
 
 #### Scanning and Screenshots
 
 Since there are many scanner applications which use the cameras of our mobile phones, papers that we do not know if will not be used in the future can be scanned and stored digitally - or Screenshoted. I purchased a document shredder and honestly shredded it's volume in old papers in the first couple of weeks.
+
+I also have  a printer/scanner which can produce scans with very high resolutions.
 
 ## How Not to Accumulate Things in the First Place
 
