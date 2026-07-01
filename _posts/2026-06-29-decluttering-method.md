@@ -158,7 +158,9 @@ In my case, I had an area with stacked boxes. On every visit, I was emptying one
 
 Memory Book
 
-Screenshots
+#### Scanning and Screenshots
+
+Since there are many scanner applications which use the cameras of our mobile phones, papers that we do not know if will not be used in the future can be scanned and stored digitally - or Screenshoted. I purchased a document shredder and honestly shredded it's volume in old papers in the first couple of weeks.
 
 ## How Not to Accumulate Things in the First Place
 
