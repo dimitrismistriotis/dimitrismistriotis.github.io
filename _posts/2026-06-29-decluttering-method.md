@@ -174,4 +174,5 @@ I also have  a printer/scanner which can produce scans with very high resolution
 
 ## How Not to Accumulate Things in the First Place
 
+For you towards yourself, the best way not to need to declutter is not to buy an item in the first place. The second best is to have a schedule to use it and then give it away. This because it is always difficult to let go something that we have been emotionally invested in. There are also the so called "hype" purchases: a author you like releases a new book, should you buy it as hardcover, wait for paperback or not at all? Would you rather read it from the library? Is he one of the people who write these shallow 300 pages books that you know what they are talking about after you listen to 4/5 interviews of them?
 Lists
