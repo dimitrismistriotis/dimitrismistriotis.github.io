@@ -94,6 +94,10 @@ I find it too "pushy". In the sense that after seeing some the Netflix episodes,
 
 The perceived value we have assigned to physical items in reality is very lower than what we initially believe, in cases closer to zero. Once we discover this, it makes it emotionally easier to let go of items, but not easy. It is a skill to be learned and as I have seen takes time which later on pays off.
 
+As one image, thousand words, this CD collection is from a bin of a charity shop AKA it did not stand the test of someone taking it for 10p per piece:
+
+<img src="../images/decluttering/bin_of_charity_shop.jpg" alt="bin_of_charity_shop" style="zoom:33%;" />
+
 There are many people who have shared their stories, after listening to them on YouTube I discovered that their stories were kind of similar to mine. Because of this instead of providing some links, I will share my own experiences. The pattern though is roughly that us or our parents/grandparents accumulated stuff either as a hobby or because they believed it was a future investment. What happened at the end was with even the people gone, these items occupy physical and mental space either on the people left behind or to our current self if it was us. Letting them go is hard as every time we touch them, memories come in, or the mind plays a trick on their actual value. Once we conquer this, we can start acting on it.
 
 #### Personal Experiences
@@ -175,4 +179,10 @@ I also have  a printer/scanner which can produce scans with very high resolution
 ## How Not to Accumulate Things in the First Place
 
 For you towards yourself, the best way not to need to declutter is not to buy an item in the first place. The second best is to have a schedule to use it and then give it away. This because it is always difficult to let go something that we have been emotionally invested in. There are also the so called "hype" purchases: a author you like releases a new book, should you buy it as hardcover, wait for paperback or not at all? Would you rather read it from the library? Is he one of the people who write these shallow 300 pages books that you know what they are talking about after you listen to 4/5 interviews of them?
-Lists
+
+OR ??
+
+For items not inherited to you, but purchased from you, the best option is not to purchase them in the first place, with a small footnote on books to discuss later. If purchased a good idea is to have a schedule or better a "promise" to dispose them in the future, say if not used for X months or years. 
+
+### The Lists Approach
+
