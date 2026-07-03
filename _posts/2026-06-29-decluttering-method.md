@@ -186,3 +186,4 @@ For items not inherited to you, but purchased from you, the best option is not t
 
 ### The Lists Approach
 
+Method is based in delaying the purchase even a little bit not only to see if it makes sense but to validate it once the first impulse or Internet hype has gone away. The central idea is to have a location which can be a note taking application, an album in the mobile phone, or as in my case a notepad, where each time a new item pops by instead of purchasing it, you go and place it there for a while. There should be a cool-off period for about a week or more to see if needed. Best for me is to implement a "first in first out" approach - yes from algorithms - to see that stuff does not stay there forever.
