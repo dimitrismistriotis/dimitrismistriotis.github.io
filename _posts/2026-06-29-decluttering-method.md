@@ -187,3 +187,16 @@ For items not inherited to you, but purchased from you, the best option is not t
 ### The Lists Approach
 
 Method is based in delaying the purchase even a little bit not only to see if it makes sense but to validate it once the first impulse or Internet hype has gone away. The central idea is to have a location which can be a note taking application, an album in the mobile phone, or as in my case a notepad, where each time a new item pops by instead of purchasing it, you go and place it there for a while. There should be a cool-off period for about a week or more to see if needed. Best for me is to implement a "first in first out" approach - yes from algorithms - to see that stuff does not stay there forever.
+
+What was the benefit for me:
+
+1. Because my guilty pleasure is books and graphic novels, if not obvious up to now, I was able to save space even by purchasing items in paperback where they were released when I had time to read them. I also want to learn more about specific historic periods, at this time Saxon era in England. I gather titles aiming in introductory material. Up to now, I have up to 4. At some point... I will purchase only one.
+2. Similarly I was able to abandon series or titles I was no longer interested after having an emotional distance... and also pass the items to someone more interested
+3. The ability to do research and end up with a non-purchase. For a book, read samples, for an item, see if I could borrow something to achieve my goal or find an alternative solution. I have seen people accumulating things or even purchasing books on the spot to end up gathering dust or e-dust with Amazon pocketing the money
+
+But also some negative side effects, which have to be noted:
+
+1. In many cases I lost items in limited editions or rare items, which were gone until I was ready to purchase or to do my research
+2. Lost early bird discounts and similar to Kickstarter awards as they expired because of the delay
+
+### The Jar Approach
