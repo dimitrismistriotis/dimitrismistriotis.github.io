@@ -1,4 +1,6 @@
-# My Decluttering Method
+# My Decluttering Journey and Approach
+
+**Summary / TLDR**: ...
 
 I got recently into more conscious decluttering although I was practicing it a bit in the past. This is my journey and some of my tactics.
 
@@ -8,7 +10,7 @@ Most of the cluttering in my life exists as promises given, deals made, needs, a
 
 Allow a few examples: a cousin of mine moved out of London a couple of years ago and left us her TV set which had an embedded DVD player. This because we had some kid's DVDs. Now 7/8 years later, nobody was watched a DVD for the last 5 years, and if she ever visits - improbable - I doubt that a part of her will say to us *where is that TV set?* or even that she remembers the fact to be honest. With that in mind 5 years late, that TV set is on the area where we put stuff for the local recycling facility. This would have happened years ago (!) but there was another item I had not thrown away up front covering it. If you ever had experiences like this, keep reading.
 
-Another example: Yesterday I wanted to find an email on which I had to act on. I had to scroll down to pass on some updates on Job postings with companies hiring. Now I really do not see myself looking for a position soonish, unless my manager finds out I am typing these lines while I wait for the test suite to pass, which means that that update should not be there, either for me to read it or to re-read it while scrolling. Why was it there? Because last time I was looking for positions, I let it be "just in case something goes wrong", which almost never happens. To summarize, I am spending time reading and deleting emails because my former self became unemployed. On top, some recruiters are paying, pennies though but it adds up, to reach me while I will not respond to them.
+Another example: Yesterday I wanted to find an email on which I had to act on. I had to scroll down to pass on some updates on Job postings with companies hiring. Now I really do not see myself looking for a position soonish, unless my manager finds out I am typing these lines while I wait for the test suite to pass, which means that that update should not be there, either for me to read it or to re-read it while scrolling. Why was it there? Because last time I was looking for positions, I let it be "just in case something goes wrong", which almost never happens. To summarize, I am spending time reading and deleting emails because my former self became briefly unemployed. On top, some recruiters are paying, pennies though but it adds up, to reach me while I will not respond to them.
 
 ## Digital Space
 
@@ -104,11 +106,7 @@ There are many people who have shared their stories, after listening to them on 
 
 I quite recently discovered Vinted.com, again not affiliated. I had sold some items on eBay in the past but this platform was very hands-on on liquidity. I tried to sell a t-shirt of a band I no longer support and instead of promoting it to "gym t-shirt" kept clean in my wardrobe. Someone bought it on the spot asking for a discount. As he told me, he had that same t-shirt and lost it. After that I felt a strange feeling. A part of my head was being freed as the "what will I do with this thing" question got answered: nothing as it is now gone! Then I had that tarot deck that I had purchased in a festival in Athens and kind of kept it to remind me of the period. But have other connections to that period, drop it for sale, a person with an avatar pointing to new-age stuff bought it and again, out of my brain until I decided to write this experience. From that moment on whenever I opened that drawer, I had **5 more seconds of life** as I was not thinking of what should be done with it. For the curious, with the money got, I purchased a video game in that platform which I was chasing. Then something strange happened.
 
-I started putting some books or graphic novels, and... nobody cared or even worse was getting offers for a tiny amount of money like £1 with which I'd rather leave them outside of my door for a stranger to pick up. This is where I came across the first rule of decluttering:
-
-> Nobody cares about your stuff
-
-or that if I could phrase it in another way - before elaborating more: The price of a used item without utility value is closer to zero than you think if it is yours, specially for books.
+I started putting some books or graphic novels, and... nobody cared or even worse was getting offers for a tiny amount of money like £1 with which I'd rather leave them outside of my door for a stranger to pick up. This is where I validated the  "Nobody cares about your stuff" rule of decluttering, or that if I could phrase it in another way - before elaborating more: The price of a used item without utility value is closer to zero than you think if it is yours, specially for books.
 
 More details about it in the next section.
 
@@ -205,4 +203,4 @@ This is a tool for slightly more expensive purchases, for example I am currently
 
 > Jars is a feature to set aside money, and keep it separate from your main account, for future use. The rates are no different to holding a regular currency in your main account.
 
-Every month lately I add between £1 and £2, which will take years, honestly because I do not want it so much. In the past for a similar item, when I thought wanted it more, I had added amounts around £10.
+Every month lately I add between £1 and £2, which will take years, honestly because I do not want it so much. In the past for a similar item, when I thought wanted it more, I had added amounts around £10. When enough money are accumulated to purchase the item needs to be evaluated if it will get purchased for real or not. If not, I usually invest the amount - gift to future self - or clean up some other purchases. Either way it goes off the list.
