@@ -1,28 +1,28 @@
-# My Decluttering Journey and Approach
+# Sculpture your Future Self: My Decluttering Journey and Approach
 
-**Summary / TLDR**: ...
+**Summary / TLDR**: Reinterpret decluttering as a way to have a dynamic view with your past, recalibrate your present/build your future self. All without the disrupt and the emotional overhead of other available approaches.
 
 I got recently into more conscious decluttering although I was practicing it a bit in the past. This is my journey and some of my tactics.
 
 ## Why Do It in the First Place
 
-Most of the cluttering in my life exists as promises given, deals made, needs, activities of my **former self** or with **people not anymore in my life or have changed considerably**. Keeping these things either in the physical, home or my parents' home, or in the digital space creates a sense emotional loss or time-travels to a person who is no longer me or to people no longer there or who have moved on to something completely different.
+Most of the cluttering in my life exists as promises given, deals made, needs, activities of my **former self** or with **people not anymore in my life or have changed considerably**. Even worse, that self might be antithetical to whom **we want to become**. Keeping these things either in the physical, home or my parents' home, or in the digital space creates a sense emotional loss or time-travels to a person who is no longer me or to people no longer there or who have moved on to something completely different.
 
-Allow a few examples: a cousin of mine moved out of London a couple of years ago and left us her TV set which had an embedded DVD player. This because we had some kid's DVDs. Now 7/8 years later, nobody was watched a DVD for the last 5 years, and if she ever visits - improbable - I doubt that a part of her will say to us *where is that TV set?* or even that she remembers the fact to be honest. With that in mind 5 years late, that TV set is on the area where we put stuff for the local recycling facility. This would have happened years ago (!) but there was another item I had not thrown away up front covering it. If you ever had experiences like this, keep reading.
+One story: a relative of mine moved out of London a couple of years ago and left us an integrated TV set with a DVD player, because we had some kid's DVDs. Now 7/8 years later, with nobody watching any DVD for at last 5 years, if they ever visits - improbable - I doubt that one of the things we will discuss will be if that TV set is used well, or even that it is remembered at all. With that in mind and 5 years late, that TV set is on the area where we put stuff for the local recycling facility. This would have happened years ago (!) but there was another item not thrown away in front of it, covering it. If you ever had experiences like this, keep reading.
 
-Another example: Yesterday I wanted to find an email on which I had to act on. I had to scroll down to pass on some updates on Job postings with companies hiring. Now I really do not see myself looking for a position soonish, unless my manager finds out I am typing these lines while I wait for the test suite to pass, which means that that update should not be there, either for me to read it or to re-read it while scrolling. Why was it there? Because last time I was looking for positions, I let it be "just in case something goes wrong", which almost never happens. To summarize, I am spending time reading and deleting emails because my former self became briefly unemployed. On top, some recruiters are paying, pennies though but it adds up, to reach me while I will not respond to them.
+Another story: Yesterday I wanted to find an email on which I had to act on. I had to scroll down to pass on some updates on Job postings with companies hiring. Now I really do not see myself looking for a position soonish, unless my manager finds out I am typing these lines while I wait for the test suite to pass, which means that these update should not be there, either for me to read them or to re-read them while scrolling. Why was it there? Because last time I was looking for positions, I let it be "just in case something goes wrong", which did not happen. I was spending time reading and deleting emails because at some point in the past I was briefly unemployed. On top, some recruiters are paying small amount to reach people like me, while I am not going to respond.
 
 ## Digital Space
 
-### Email and Online Accounts
+### Email and Accounts
 
-Decluttering almost always starts with me upon receiving an **update which is no longer relevant to me**, recently job offers. If I have about 10 minutes I decide on the following: Do I want to keep the account or to cease the communication? If I want to keep the account then I click on "Unsubscribe", if the company has more than one step to remove me, then I deliberate on marking as spam or logging in. If time allows I log in and untick everything. Then I get back to my email and remove **all** emails from that company.
+Decluttering almost always starts with me upon receiving an **update which is no longer relevant to me**, recently job offers. If I have about 10 minutes available I decide on the following: Do I want to keep the account or to cease the communication? If I want to keep the account then I click on "Unsubscribe", if the company has more than one step to remove me, then I deliberate on marking as spam or logging in. If time allows I log in and untick everything. Then I get back to my email and remove **all** emails from that company.
 
 More often than thought the account is no longer relevant. Something used once or a couple of times in the past, like that sticker promotion pack which I used for my podcast and now wants US tax authorization, that flower seller that I used once and will never use again as I buy local, etc. In these cases I give the extra time to remove my account. Some companies ask for a support ticket in order to convince you to stay. That's OK, can create that ticket. Again then I wait for the confirmation and then remove all the emails from that company.
 
 ### Every Now and Then Account Check
 
-Sign Ups
+Some times when I need to wait between 10 and 15 minutes for something, I check my password manager. Are there any accounts that I no longer use? Then this triggers the steps described above, intentionally. A couple of times, I discovered that there were from companies now closed.
 
 ### Articles to Read Later/Keep
 
