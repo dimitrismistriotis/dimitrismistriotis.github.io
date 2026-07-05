@@ -34,7 +34,7 @@ Having [OpenClaw](https://openclaw.ai/), I created a group chat and added the fo
 
 There are infinite plug-ins available for something similar with some of those using [Obsidian](https://obsidian.md/). Idea can be as simple as: get a synchronized location, drop links there. Then keep ones that matter, drop all others. Then one day when you are no longer interested on the subject, select, delete, gone!
 
-### Facebook and other social media
+### Facebook and Other Social Media
 
 #### Facebook
 
@@ -168,7 +168,7 @@ In my case, I had an area with stacked boxes. On every visit, I was emptying one
 
 One way to reduce the physical output of items is to take them from physical to digital space: atoms to bits.
 
-#### Memory Book
+### Memory Book
 
 <img src="../images/decluttering/memory_book.jpg" alt="memory_book" style="zoom:33%;" />
 
@@ -176,7 +176,7 @@ At one point in time purchased an A4 notepad for drawing. Every time I want to k
 
 The benefit of this is that it consumes very  little space, The fact that I need to get glue or cello-tape helps me to ask if I really want to keep that paper item forever.
 
-#### Scanning and Screenshots
+### Scanning and Screenshots
 
 Since there are many scanner applications which use the cameras of our mobile phones, papers that we do not know if will not be used in the future can be scanned and stored digitally - or Screenshoted. I purchased a document shredder and honestly shredded it's volume in old papers in the first couple of weeks.
 
