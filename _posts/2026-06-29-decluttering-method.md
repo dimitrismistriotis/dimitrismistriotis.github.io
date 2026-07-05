@@ -108,7 +108,7 @@ As one image, thousand words, this CD collection is from a bin of a charity shop
 
 There are many people who have shared their stories, after listening to them on YouTube I discovered that their stories were kind of similar to mine. Because of this instead of providing some links, I will share my own experiences. The pattern though is roughly that us or our parents/grandparents accumulated stuff either as a hobby or because they believed it was a future investment. What happened at the end was with even the people gone, these items occupy physical and mental space either on the people left behind or to our current self if it was us. Letting them go is hard as every time we touch them, memories come in, or the mind plays a trick on their actual value. Once we conquer this, and understand it in emotional level, we can start acting on it.
 
-#### Personal Experiences
+#### Personal Experiences - My Stories
 
 I quite recently discovered Vinted.com, again not affiliated. I had sold some items on eBay in the past but this platform was very hands-on on liquidity. I tried to sell a t-shirt of a band I no longer support and instead of promoting it to "gym t-shirt" kept clean in my wardrobe. Someone bought it on the spot asking for a discount. As he told me, he had that same t-shirt and lost it. After that I felt a strange feeling. A part of my head was being freed as the "what will I do with this thing" question got answered: nothing as it is now gone! Then I had that tarot deck that I had purchased in a festival in Athens and kind of kept it to remind me of the period. But have other connections to that period, drop it for sale, a person with an avatar pointing to new-age stuff bought it and again, out of my brain until I decided to write this experience. From that moment on whenever I opened that drawer, I had **5 more seconds of life** as I was not thinking of what should be done with it. For the curious, with the money got, I purchased a video game in that platform which I was chasing. Then something strange happened.
 
@@ -132,13 +132,13 @@ Collectibles: Baseball cards, Pokemon cards, etc. Varies based on general econom
 
 To get an idea, first article in https://search.brave.com when I looked is <https://www.businessinsider.com/collectibles-collectors-items-worthless-not-valuable-today#recent-comic-books-arent-as-valuable-as-older-ones-7>
 
-All 20 items: "Norman Rockwell collector plates", "Model train sets", "New baseball cards", "Ceramic or porcelain dolls", "Pogs from the '90s", "Recent comic books", "Royal family memorabilia", ""Star Wars" toys (later action figures)", "Most vinyl records", "Barbie dolls", "Antique "silver" serving plates", "Pez dispensers", "Stamps", "Vintage band T-shirts", "Funko Pop! figurines", "Most vintage Playboy magazines", "Most Beanie Babies", "Pandora charms", "Precious Moments figurines", "Vintage college swag".
+All 20 items: "*Norman Rockwell collector plates*", "*Model train sets*", "*New baseball cards*", "*Ceramic or porcelain dolls*", "*Pogs from the '90s*", "*Recent comic books*", "*Royal family memorabilia*", "*'Star Wars' toys (later action figures)*", "*Most vinyl records*", "*Barbie dolls*", "*Antique 'silver' serving plates*", "*Pez dispensers*", "*Stamps*", "*Vintage band T-shirts*", "*Funko Pop! figurines*", "*Most vintage Playboy magazines*", "*Most Beanie Babies*", "*Pandora charms*", "*Precious Moments figurines*", "*Vintage college swag*".
 
-I had been collecting metal records in the 90s. The clever sellers were telling us that you could sell them for a higher price, and it was right for about 5 to 10 years. Then nobody would be interested into purchasing a "mayhemic riot" vinyl. What ended up happening was to put like 80% of them in a bag and give them to a friend who collects all music from 70s to today.
+I had been collecting metal records in the 90s. The clever sellers were telling us that you could sell them for a higher price, and it was right for about 5 to 10 years. Then nobody would be interested into purchasing a "Positive Riot" vinyl. What ended up happening instead, was to put about 80% of them in a bag and give them to a friend who collects music.
 
-This is completely different than art items which is a different investing instrument if you want to see it this way.
+This is completely different than purchasing art as investing instrument if believed it was to be seen it this way. Looking back, this was an excuse or selling tactic used to purchase art products on the spot. Ah, vinyl records will go up: which ones and when? Yes if say jazz becomes hip again, jazz vinyl is going to sell for way more, this also means that - I don't know - your funk records will worth way less. Are you a records salesman who will keep thinks in storage for decades, a musician to be inspired or rip/re-purpose stuff, or a person who enjoys music?
 
-Electronics: Have intrinsic and utility value, and some of them can be recycled, which allows then not to completely zero.
+Electronics: Situation is different as electronics have both intrinsic and utility value. Some of them can be recycled or re-purposed. This shields them from going to completely zero but also deprecates their monetary value a lot as new ones gets released.
 
 ## My Method for Physical Items
 
@@ -162,9 +162,9 @@ If there are many similar items, batch. For my case: all comic books of a specif
 
 The idea is to have everything that needs decluttering in one place and establish a process where as time goes by, at least one thing gets processed. It is easier to give that time in installments over one and go. I have it in the same mind as paying a mortgage over buying a house full price. Yes I will pay interest, yes it will take long, but I do not need to come up with the capital, here emotional capital, up front.
 
-In my case, I had an area with stacked boxes. On every visit, I was emptying one. Once that got empty, I found other items around the house, filled the box and placed it on the bottom. Then opened the next one.
+In my case, I had an area with stacked boxes. On every visit, I was emptying one. Once that got empty, I found other items around the house, filled the box and placed it on the bottom. Then opened the next one. This way the dedicated space of items to be examined stays the same. The emotional payments happen there while the rest of the house becomes progressively more and more available and emotionally free as things are moving away from their previous positions.
 
-## Physical to Digital/Smaller Physical
+## Physical to Digital or Smaller Physical
 
 One way to reduce the physical output of items is to take them from physical to digital space: atoms to bits.
 
@@ -184,11 +184,7 @@ I also have  a printer/scanner which can produce scans with very high resolution
 
 ## How Not to Accumulate Things in the First Place
 
-For you towards yourself, the best way not to need to declutter is not to buy an item in the first place. The second best is to have a schedule to use it and then give it away. This because it is always difficult to let go something that we have been emotionally invested in. There are also the so called "hype" purchases: a author you like releases a new book, should you buy it as hardcover, wait for paperback or not at all? Would you rather read it from the library? Is he one of the people who write these shallow 300 pages books that you know what they are talking about after you listen to 4/5 interviews of them?
-
-OR ??
-
-For items not inherited to you, but purchased from you, the best option is not to purchase them in the first place, with a small footnote on books to discuss later. If purchased a good idea is to have a schedule or better a "promise" to dispose them in the future, say if not used for X months or years. 
+For items not inherited to you, the best way not to need to declutter is not to buy an item in the first place. The second best is to have a time-frame of using it and then giving it away. This because it is always difficult to let go something that we have been emotionally invested in. There are also the so called "hype" purchases: a author you like releases a new book, should you buy it as hardcover, wait for paperback or not at all? Would you rather read it from the library? Is he one of the people who write these shallow 300 pages books that you know what they are talking about after you listen to 4/5 interviews of them?
 
 ### The Lists Approach
 
@@ -196,7 +192,7 @@ Method is based in delaying the purchase even a little bit not only to see if it
 
 What was the benefit for me:
 
-1. Because my guilty pleasure is books and graphic novels, if not obvious up to now, I was able to save space even by purchasing items in paperback where they were released when I had time to read them. I also want to learn more about specific historic periods, at this time Saxon era in England. I gather titles aiming in introductory material. Up to now, I have up to 4. At some point... I will purchase only one.
+1. Because, if not obvious up to now, my guilty pleasure is books and graphic novels I was able to save space even by purchasing items in paperback where they were released when I had time to read them. I also want to learn more about specific historic periods, at this time Saxon era in England. I gather titles aiming in introductory material. Up to now, I have up to 4. At some point... I will purchase only one of them.
 2. Similarly I was able to abandon series or titles I was no longer interested after having an emotional distance... and also pass the items to someone more interested
 3. The ability to do research and end up with a non-purchase. For a book, read samples, for an item, see if I could borrow something to achieve my goal or find an alternative solution. I have seen people accumulating things or even purchasing books on the spot to end up gathering dust or e-dust with Amazon pocketing the money
 
@@ -207,8 +203,12 @@ But also some negative side effects, which have to be noted:
 
 ### The Jar Approach
 
-This is a tool for slightly more expensive purchases, for example I am currently eyeing the "Akira 35th Anniversary Box Set", which is usually between £100 and £150. Applications such as Wise or the dreaded Revolut have the following feature, [one definition](https://wise.com/help/articles/2978074/what-are-jars-and-how-can-i-keep-money-in-them):
+This is a tool for slightly more expensive purchases, for example I am currently eyeing the "*Akira 35th Anniversary Box Set*", which is sold usually between £100 and £150. Applications such as Wise or the dreaded Revolut have the following feature, [one definition](https://wise.com/help/articles/2978074/what-are-jars-and-how-can-i-keep-money-in-them):
 
 > Jars is a feature to set aside money, and keep it separate from your main account, for future use. The rates are no different to holding a regular currency in your main account.
 
 Every month lately I add between £1 and £2, which will take years, honestly because I do not want it so much. In the past for a similar item, when I thought wanted it more, I had added amounts around £10. When enough money are accumulated to purchase the item needs to be evaluated if it will get purchased for real or not. If not, I usually invest the amount - gift to future self - or clean up some other purchases. Either way it goes off the list.
+
+## ... and That's It
+
+I might update the article in the future with new findings. All of it has been typed and corrected manually to keep emotional value high.
