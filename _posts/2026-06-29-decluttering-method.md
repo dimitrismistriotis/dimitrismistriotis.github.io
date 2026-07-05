@@ -16,15 +16,15 @@ Another story: Yesterday I wanted to find an email on which I had to act on. I h
 
 ### Email and Accounts
 
-Decluttering almost always starts with me upon receiving an **update which is no longer relevant to me**, recently job offers. If I have about 10 minutes available I decide on the following: Do I want to keep the account or to cease the communication? If I want to keep the account then I click on "Unsubscribe", if the company has more than one step to remove me, then I deliberate on marking as spam or logging in. If time allows I log in and untick everything. Then I get back to my email and remove **all** emails from that company.
+Decluttering almost always starts with me upon receiving an **update which is no longer relevant to me**, recently job offers. If I have about 10 minutes available I decide on the following: Do I want to keep the account or to cease the communication? If I want to keep the account then I click on "Unsubscribe", if the company has more than one step to remove me, then I deliberate on marking as spam or logging in. If time allows I log in and untick everything. Then I get back to my email and **remove all emails** from that company.
 
 More often than thought the account is no longer relevant. Something used once or a couple of times in the past, like that sticker promotion pack which I used for my podcast and now wants US tax authorization, that flower seller that I used once and will never use again as I buy local, etc. In these cases I give the extra time to remove my account. Some companies ask for a support ticket in order to convince you to stay. That's OK, can create that ticket. Again then I wait for the confirmation and then remove all the emails from that company.
 
 ### Every Now and Then Account Check
 
-Some times when I need to wait between 10 and 15 minutes for something, I check my password manager. Are there any accounts that I no longer use? Then this triggers the steps described above, intentionally. A couple of times, I discovered that there were from companies now closed.
+Some times when I need to wait between 10 and 15 minutes for something, I check my password manager. Are there any accounts that I no longer use? Then this triggers the steps described above, intentionally. On few occasions I discovered that account credentials were from companies now closed.
 
-### Articles to Read Later/Keep
+### Articles to Keep or Read Later
 
 I was using many and different applications, again causing questions like: "where should I store this?".
 
@@ -38,7 +38,7 @@ There are infinite plug-ins available for something similar with some of those u
 
 #### Facebook
 
-I was kind of early in the Social Media space, long story with my Facebook account dating back to 2007. It kind of exploded in the 2010s and now I use it mostly to communicate with some people and participate in some groups.
+I was kind of early in the Social Media space, long story with my Facebook account dating back in 2007. It kind of exploded in the 2010s and now I use it mostly to communicate with some people only in that platform and participate in some groups.
 
 Problem statement:
 
@@ -46,7 +46,7 @@ Problem statement:
 - Too many groups that I signed because a friend had started them and no longer relevant
 - Added friends from University or high school with no interaction for 10+ years. These are all great people, just not in my life really. One had post many years ago a proximity test: "*how will you feel if they, or you for them, die?*". If not devastated, maybe you have drifted apart
 
-Solution(s):
+Solution:
 
 - Created a synchronized folder, in a private git repository, can be Dropdox, Proton Drive, something
 - Facebook recommends memories to revisit, I download the photo or the text then either untag me or delete the photo
@@ -54,7 +54,7 @@ Solution(s):
 - Same for Groups. Idea is that if it does not post, then no harm done, if it posts it has to be relevant
 - Periodically I see applications, groups, friends, photos and remove or download+remove on the spot. Usually when I have a meeting in 10 minutes or something and giving this 20/30 seconds
 
-Idea is not to stress it, create space for new Facebook-friendships, groups, with the amount of information in this medium to be declining over time. Content should be less and less while also more relevant.
+Idea is not to stress it, create space for new Facebook-friendships, groups, with the amount of information in this medium to be declining over time. Content should be less and less while also more relevant. Time logged in should diminish over time. Always log out when not using the platform as it triggers less tracking and it also adds an extra time penalty on logging in to do things there. My take is to always remove it from phones also at it is **notorious spyware**.
 
 #### Instagram
 
@@ -102,7 +102,7 @@ This can cause trauma and make one gather stuff again and never clean up again.
 
 The perceived value we have assigned to physical items in reality is very lower than what we initially believe, in cases closer to zero. Once we discover this, it makes it emotionally easier to let go of items, but not easy. It is a skill to be learned and as I have seen takes time which later on pays off.
 
-As one image, thousand words, this CD collection is from a bin of a charity shop AKA it did not stand the test of someone taking it for 10p per piece:
+As one image, thousand words, this CD collection is from a bin of a charity shop AKA it did not stand the test of someone taking it for 10 pence per piece:
 
 <img src="../images/decluttering/bin_of_charity_shop.jpg" alt="bin_of_charity_shop" style="zoom:33%;" />
 
@@ -207,7 +207,7 @@ This is a tool for slightly more expensive purchases, for example I am currently
 
 > Jars is a feature to set aside money, and keep it separate from your main account, for future use. The rates are no different to holding a regular currency in your main account.
 
-Every month lately I add between £1 and £2, which will take years, honestly because I do not want it so much. In the past for a similar item, when I thought wanted it more, I had added amounts around £10. When enough money are accumulated to purchase the item needs to be evaluated if it will get purchased for real or not. If not, I usually invest the amount - gift to future self - or clean up some other purchases. Either way it goes off the list.
+Every month lately I add between £1 and £2, which will take years, honestly because I do not want it so much. In the past for a similar item, when I thought wanted it more, I had added amounts around £10. When enough money are accumulated to purchase the item needs to be evaluated if it will get purchased for real or not. If not, I usually invest the amount - gift to future self - or move forward some other purchases possibly in another jar. Either way it goes off the list.
 
 ## ... and That's It
 
