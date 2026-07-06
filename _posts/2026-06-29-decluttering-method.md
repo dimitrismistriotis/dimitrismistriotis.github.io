@@ -58,7 +58,7 @@ Solution:
 - Same for Groups. Idea is that if it does not post, then no harm done, if it posts it has to be relevant
 - Periodically I see applications, groups, friends, photos and remove or download+remove on the spot. Usually when I have a meeting in 10 minutes or something and giving this 20/30 seconds
 
-Idea is not to stress it, create space for new Facebook-friendships, groups, with the amount of information in this medium to be declining over time. Content should be less and less while also more relevant. Time logged in should diminish over time. Always log out when not using the platform as it triggers less tracking and it also adds an extra time penalty on logging in to do things there. My take is to always remove it from phones also at it is **notorious spyware**.
+Idea is not to stress it, create space for new Facebook-friendships, groups, with the amount of information in this medium to be declining over time. Content should be less and less while also more relevant. Time logged in should diminish over time. Always log out when not using the platform as it triggers less tracking and it also adds an extra time penalty on logging in to do things there. My take is to always remove it from phones also at it is a **notorious spyware**.
 
 #### Instagram
 
@@ -101,6 +101,12 @@ These days we generate and accumulate lots of data. Also the storage prices are 
 I find it too "pushy". In the sense that after seeing some the Netflix episodes, at the end people are asked to decide what to keep and what to drop in about 1 or 2 hours. In my case this short time frame would cause errors of judgment and drop too many or too few items in a way that people might regret it later on.
 
 This can cause trauma and make one gather stuff again and never clean up again.
+
+### Decluttering Versus Minimalism
+
+Minimalism was in fashion a couple of years ago, possibly has now been completely phased out. The comparison is useful though as it allows to position the concept better. As it ended up defined for most people, minimalism is mostly associated with having as few possessions as possible. For at least the purpose of this text, decluttering is aiming at not having items that do not serve us as we are today.
+
+I would say that in minimalism we start from a state of having nothing, then add only what is necessary and then throw away everything else. With decluttering we have as a starting point where we are now, from there we gradually remove things not needed.
 
 ### Nobody Cares About Your Stuff
 
