@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sculpture your Future Self: My Decluttering Journey and Approach
+permalink: /decluttering
+---
+
 # Sculpture your Future Self: My Decluttering Journey and Approach
 
 **Summary / TLDR**: Reinterpret decluttering as a way to have a dynamic view with your past, recalibrate your present/build your future self. All without the disrupt and the emotional overhead of other available approaches.
