@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sculpture your Future Self: My Decluttering Journey and Approach
+title: Sculpture your Future Self - My Decluttering Journey and Approach
 permalink: /decluttering
 ---
 
