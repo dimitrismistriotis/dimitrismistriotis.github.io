@@ -219,6 +219,10 @@ But also some negative side effects, which have to be noted:
 
 ### The Jar Approach
 
+<img src="../images/decluttering/towfiqu-barbhuiya-joqWSI9u_XM-unsplash.jpg" alt="towfiqu-barbhuiya-joqWSI9u_XM-unsplash" style="zoom:50%;" />
+
+Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-glass-jar-filled-with-coins-and-a-plant-joqWSI9u_XM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 This is a tool for slightly more expensive purchases, for example I am currently eyeing the "*Akira 35th Anniversary Box Set*", which is sold usually between £100 and £150. Applications such as Wise or the dreaded Revolut have the following feature, [one definition](https://wise.com/help/articles/2978074/what-are-jars-and-how-can-i-keep-money-in-them):
 
 > Jars is a feature to set aside money, and keep it separate from your main account, for future use. The rates are no different to holding a regular currency in your main account.
